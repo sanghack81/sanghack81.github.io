@@ -1,6 +1,10 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 ---
+Ph.D. candidate in College of Information Sciences and Technology (with computer science background), Pennsylvania State University, University Park. 
+Study focuses on causal discovery in relational domain. 
+
+Please contact me if you have an open position for: postdoc, research scientist, or (AI- or ML-related) software engineer!
+
+
+
