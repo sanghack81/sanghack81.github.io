@@ -15,7 +15,7 @@ In Proceedings of the Thirty-third Conference on Uncertainty in Artificial Intel
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **A Characterization of Markov Equivalence Classes for Relational Causal Model with Path Semantics.**
 In Proceedings of the Thirty-second Conference on Uncertainty in Artificial Intelligence (UAI 2016). (Acceptance rate 31% (85/275)) [\[code\]](https://github.com/sanghack81/pyRCDs), [\[paper\]](/assets/UAI-2016-RpCD.pdf), [\[appendix\]](/assets/UAI-2016-RpCD-supp_fix_june_4.pdf) 
 - Kyungsik Han, <span style="background-color: #00FF00">Sanghack Lee</span>, Jin Yea Jang, Yong Jung, and Dongwon Lee, **"Teens are from Mars, Adults are from Venus": Analyzing and Predicting Age Groups with Behavioral Characteristics in Instagram**
-ACM Web Science 2016 Conference (WebSci'16) [\[paper\]](http://dl.acm.org/citation.cfm?id=2908160)
+ACM Web Science 2016 Conference (WebSci'16) [\[paper\]](http://dl.acm.org/citation.cfm?id=2908160) (Acceptance rate 24% (17/70))
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **On Learning Causal Models from Relational Data.** 
 In Proceedings of Thirtieth Conference on Artificial Intelligence (AAAI 2016) (Acceptance rate 26% (549/2132)) [\[code\]](https://github.com/sanghack81/rcd-light) [\[paper\]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11972/12089)
 
