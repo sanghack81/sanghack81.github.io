@@ -5,11 +5,15 @@ permalink: /publications/
 ---
 \* equally contributed
 
+### 2018
+- <span style="background-color: #00FF00">Sanghack Lee</span> and Elias Bareinboim, **Structural Causal Bandits: Where to Intervene?**
+In Advances in Neural Information Processing Systems 32nd. To appear (Acceptance rate 20.8% (1011/4856))
+
 ### 2017
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **A Kernel Conditional Independence Test for Relational Data.**
- In Proceedings of the Thirty-third Conference on Uncertainty in Artificial Intelligence (UAI 2017). To appear (Acceptance rate 31% (87/282)) [\[code\]](https://github.com/sanghack81/KRCIT), [\[paper\]](/assets/krcit.pdf)
+ In Proceedings of the Thirty-third Conference on Uncertainty in Artificial Intelligence (UAI 2017). (Acceptance rate 31% (87/282)) [\[code\]](https://github.com/sanghack81/KRCIT), [\[paper\]](/assets/krcit.pdf)
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **Self-Discrepancy Conditional Independence Test.**
-In Proceedings of the Thirty-third Conference on Uncertainty in Artificial Intelligence (UAI 2017). To appear (Acceptance rate 31% (87/282)) [\[code\]](https://github.com/sanghack81/SDCIT), [\[paper\]](/assets/SDCIT-edited.pdf)
+In Proceedings of the Thirty-third Conference on Uncertainty in Artificial Intelligence (UAI 2017). (Acceptance rate 31% (87/282)) [\[code\]](https://github.com/sanghack81/SDCIT), [\[paper\]](/assets/SDCIT-edited.pdf)
 
 ### 2016
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **A Characterization of Markov Equivalence Classes for Relational Causal Model with Path Semantics.**

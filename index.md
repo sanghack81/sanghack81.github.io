@@ -1,6 +1,7 @@
 ---
 layout: home
 ---
+- (Sep 2018) My paper (with Prof. Bareinboim) is accepted at NIPS'18. 
 - (Apr 2018) I am now a postdoc at Purdue with Prof. Bareinboim.
 - (Jan 2018) I successfully defended my PhD dissertation.
 - (Aug 2017) I presented our papers in UAI 2017 and Causality Workshop@UAI, Sydney.
