@@ -3,11 +3,13 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+I have published papers in top AI and ML conferences (UAI, NIPS, AAAI) as first author.
+
 \* equally contributed
 
 ### 2018
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Elias Bareinboim, **Structural Causal Bandits: Where to Intervene?**
-In Advances in Neural Information Processing Systems 32nd. To appear (Acceptance rate 20.8% (1011/4856))
+In Advances in Neural Information Processing Systems 32nd. To appear (Acceptance rate 20.8% (1011/4856)) [\[code\]](https://github.com/sanghack81/SCMMAB-NIPS2018) 
 
 ### 2017
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **A Kernel Conditional Independence Test for Relational Data.**
