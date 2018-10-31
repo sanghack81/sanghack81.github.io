@@ -7,6 +7,10 @@ I have published papers in top AI and ML conferences (UAI, NIPS, AAAI) as first 
 
 \* equally contributed
 
+### 2019
+- <span style="background-color: #00FF00">Sanghack Lee</span> and Elias Bareinboim, **On Structural Causal Bandit with Non-manipulable Variables** 
+In Proceedings of Thirty-third Conference on Artificial Intelligence (AAAI 2019) (Acceptance rate 16.2% (1150/7095))
+
 ### 2018
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Elias Bareinboim, **Structural Causal Bandits: Where to Intervene?**
 In Advances in Neural Information Processing Systems 32nd. To appear (Acceptance rate 20.8% (1011/4856)) [\[code\]](https://github.com/sanghack81/SCMMAB-NIPS2018) 
