@@ -9,11 +9,11 @@ I have published papers in top AI and ML conferences (UAI, NIPS, AAAI) as first 
 
 ### 2019
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Elias Bareinboim, **On Structural Causal Bandit with Non-manipulable Variables** 
-In Proceedings of Thirty-third Conference on Artificial Intelligence (AAAI 2019) (Acceptance rate 16.2% (1150/7095)) [\[paper\]](https://causalai.net/r40.pdf)
+In Proceedings of Thirty-third Conference on Artificial Intelligence (AAAI 2019) (Acceptance rate 16.2% (1150/7095)) [\[paper\]](https://causalai.net/r40.pdf), [\[poster\]](/assets/AAAI2019_poster.pdf), [\[slides\]](/assets/AAAI2019_presentation.pdf)
 
 ### 2018
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Elias Bareinboim, **Structural Causal Bandits: Where to Intervene?**
-In Advances in Neural Information Processing Systems 32nd. To appear (Acceptance rate 20.8% (1011/4856)) [\[paper\]](https://causalai.net/r36.pdf), [\[code\]](https://github.com/sanghack81/SCMMAB-NIPS2018) 
+In Advances in Neural Information Processing Systems 32nd. To appear (Acceptance rate 20.8% (1011/4856)) [\[paper\]](https://causalai.net/r36.pdf), [\[code\]](https://github.com/sanghack81/SCMMAB-NIPS2018), [\[poster\]](/assets/nips2018-poster.pdf) 
 
 ### 2017
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **A Kernel Conditional Independence Test for Relational Data.**
