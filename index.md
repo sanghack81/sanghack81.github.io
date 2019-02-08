@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-Postdoctoral Research Associate, Computer Science, Purdue. [CV](/assets/cv.pdf)
+Postdoctoral Research Associate, Computer Science, Purdue. [Curriculum Vitae](/assets/cv.pdf)
 
 I got my Ph.D. in College of Information Sciences and Technology (with computer science background), Pennsylvania State University, University Park, under the supervision of Prof. Vasant Honavar. 
 My Ph.D. study is focused on causal discovery in relational domain. Currently, I am working on developing methods for applying causality in sequential decision-making (e.g., bandit or reinforcement learning).
