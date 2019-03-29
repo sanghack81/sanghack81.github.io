@@ -7,6 +7,7 @@ I got my Ph.D. in College of Information Sciences and Technology (with computer 
 My Ph.D. study is focused on causal discovery in relational domain. Currently, I am working on developing methods for applying causality in sequential decision-making (e.g., bandit or reinforcement learning).
 
 
+- (Apr 2019) Invited talk at ISysE, KAIST. 
 - (Oct 2018) A paper is accepted at AAAI'19 ([aloha!](https://aaai.org/Conferences/AAAI-19/aaai19call/)).
 - (Sep 2018) My [paper](https://causalai.net/r36.pdf) (with Prof. Bareinboim) is accepted at [NIPS'18](https://nips.cc/Conferences/2018/Schedule?showEvent=11265). 
 - (Apr 2018) I am now a postdoc at Purdue with Prof. Bareinboim.
