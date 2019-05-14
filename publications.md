@@ -8,11 +8,18 @@ I have published papers in top AI and ML conferences (UAI, NIPS, AAAI) as first 
 \* equally contributed
 
 ### 2019
-- <span style="background-color: #00FF00">Sanghack Lee</span> and Elias Bareinboim, **On Structural Causal Bandit with Non-manipulable Variables** 
-In Proceedings of Thirty-third Conference on Artificial Intelligence (AAAI 2019) (Acceptance rate 16.2% (1150/7095)) [\[paper\]](https://causalai.net/r40.pdf), [\[poster\]](/assets/AAAI2019_poster.pdf), [\[slides\]](/assets/AAAI2019_presentation.pdf)
+- <span style="background-color: #00FF00">Sanghack Lee</span> and Elias Bareinboim, **General Identifiability with Arbitrary Surrogate Experiments** 
+In Proceedings of the Thirty-fifth Conference on Uncertainty in Artificial Intelligence (UAI 2019) (Acceptance rate 26% (118/450))
+
+- <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **Towards Robust Relational Causal Discovery** 
+In Proceedings of the Thirty-fifth Conference on Uncertainty in Artificial Intelligence (UAI 2019) (Acceptance rate 26% (118/450))
 
 - Aria Khademi, <span style="background-color: #00FF00">Sanghack Lee</span>, David Foley, and Vasant Honavar, **Fairness in Algorithmic Decision Making: An Excursion Through the Lens of Causality**
 In Proceedings of The Web Conference 2019 (WWW 2019) (forthcoming)
+
+- <span style="background-color: #00FF00">Sanghack Lee</span> and Elias Bareinboim, **On Structural Causal Bandit with Non-manipulable Variables** 
+In Proceedings of Thirty-third Conference on Artificial Intelligence (AAAI 2019) (Acceptance rate 16.2% (1150/7095)) [\[paper\]](https://causalai.net/r40.pdf), [\[poster\]](/assets/AAAI2019_poster.pdf), [\[slides\]](/assets/AAAI2019_presentation.pdf)
+
 
 ### 2018
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Elias Bareinboim, **Structural Causal Bandits: Where to Intervene?**
