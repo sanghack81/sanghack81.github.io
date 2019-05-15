@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 I have published papers in top AI and ML conferences (UAI, NIPS, AAAI) as first author.
 
-\* equally contributed
+\* equally contributed, <span style="background-color: #00FF00">first author</span>, <span style="background-color: #FFFF00">co-first</span>, , <span style="background-color: #00FFFF">second</span>
 
 ### 2019
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Elias Bareinboim, **General Identifiability with Arbitrary Surrogate Experiments** 
@@ -14,7 +14,7 @@ In Proceedings of the Thirty-fifth Conference on Uncertainty in Artificial Intel
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **Towards Robust Relational Causal Discovery** 
 In Proceedings of the Thirty-fifth Conference on Uncertainty in Artificial Intelligence (UAI 2019) (Acceptance rate 26% (118/450))
 
-- Aria Khademi, <span style="background-color: #00FF00">Sanghack Lee</span>, David Foley, and Vasant Honavar, **Fairness in Algorithmic Decision Making: An Excursion Through the Lens of Causality**
+- Aria Khademi, <span style="background-color: #00FFFF">Sanghack Lee</span>, David Foley, and Vasant Honavar, **Fairness in Algorithmic Decision Making: An Excursion Through the Lens of Causality**
 In Proceedings of The Web Conference 2019 (WWW 2019) (forthcoming)
 
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Elias Bareinboim, **On Structural Causal Bandit with Non-manipulable Variables** 
@@ -34,7 +34,7 @@ In Proceedings of the Thirty-third Conference on Uncertainty in Artificial Intel
 ### 2016
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **A Characterization of Markov Equivalence Classes for Relational Causal Model with Path Semantics.**
 In Proceedings of the Thirty-second Conference on Uncertainty in Artificial Intelligence (UAI 2016). (Acceptance rate 31% (85/275)) [\[code\]](https://github.com/sanghack81/pyRCDs), [\[paper\]](/assets/UAI-2016-RpCD.pdf), [\[appendix\]](/assets/UAI-2016-RpCD-supp_fix_june_4.pdf) 
-- Kyungsik Han, <span style="background-color: #00FF00">Sanghack Lee</span>, Jin Yea Jang, Yong Jung, and Dongwon Lee, **"Teens are from Mars, Adults are from Venus": Analyzing and Predicting Age Groups with Behavioral Characteristics in Instagram**
+- Kyungsik Han, <span style="background-color: #00FFFF">Sanghack Lee</span>, Jin Yea Jang, Yong Jung, and Dongwon Lee, **"Teens are from Mars, Adults are from Venus": Analyzing and Predicting Age Groups with Behavioral Characteristics in Instagram**
 ACM Web Science 2016 Conference (WebSci'16) [\[paper\]](http://dl.acm.org/citation.cfm?id=2908160) (Acceptance rate 24% (17/70))
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **On Learning Causal Models from Relational Data.** 
 In Proceedings of Thirtieth Conference on Artificial Intelligence (AAAI 2016) (Acceptance rate 26% (549/2132)) [\[code\]](https://github.com/sanghack81/rcd-light) [\[paper\]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11972/12089)
@@ -44,13 +44,13 @@ In Proceedings of Thirtieth Conference on Artificial Intelligence (AAAI 2016) (A
 In Proceedings of the UAI 2015 Workshop on Advances in Causal Inference co-located with the 31st Conference on Uncertainty in Artificial Intelligence (UAI 2015). pp. 56-65 [\[paper\]](http://dl.acm.org/citation.cfm?id=3020273)
 
 ### 2013
-- Elias Bareinboim\*, <span style="background-color: #00FF00">Sanghack Lee</span>\*, Vasant Honavar, and Judea Pearl, **Transportability from Multiple Environments with Limited Experiments.**
+- Elias Bareinboim\*, <span style="background-color: #FFFF00">Sanghack Lee</span>\*, Vasant Honavar, and Judea Pearl, **Transportability from Multiple Environments with Limited Experiments.**
 Advances in Neural Information Processing Systems 26. pp. 136-144 (Acceptance rate 25% (360/1420)) [\[paper\]](https://papers.nips.cc/paper/5536-transportability-from-multiple-environments-with-limited-experiments-completeness-results)
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **Causal Transportability of Experiments on Controllable Subsets of Variables: z-Transportability**
 In Proceedings of the Twenty-ninth Conference on Uncertainty in Artificial Intelligence (UAI 2013). pp. 361-370 (Acceptance rate 31% (73/233)) [\[paper\]](http://dl.acm.org/citation.cfm?id=3023675)
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **m-Transportability: Transportability of a Causal Effect from Multiple Environments**
 In Proceedings of the Twenty-seventh Conference on Artificial Intelligence (AAAI 2013). pp. 583-590
-- Harris Lin\*, <span style="background-color: #00FF00">Sanghack Lee</span>\*, Ngot Bui\*, and Vasant Honavar, **Learning Classifiers from Distributional Data**
+- Harris Lin\*, <span style="background-color: #FFFF00">Sanghack Lee</span>\*, Ngot Bui\*, and Vasant Honavar, **Learning Classifiers from Distributional Data**
 In IEEE Second International Congress on Big Data. pp. 302-309
 
 ### Pre-Ph.D.
