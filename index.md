@@ -1,14 +1,16 @@
 ---
 layout: home
 ---
-Postdoctoral Research Associate, Computer Science, Purdue. [Curriculum Vitae](/assets/cv.pdf)
+Associate Research Scientist, Computer Science, Columbia University. [Curriculum Vitae](/assets/cv.pdf)
 
+I am an Associate Research Scientist at Columbia University. Prior to joining Columbia University, I was a Postdoctoral Research Associate at Computer Science, Purdue University.
 I got my Ph.D. in College of Information Sciences and Technology (with computer science background), Pennsylvania State University, University Park, under the supervision of Prof. Vasant Honavar. 
 My Ph.D. study is focused on causal discovery in relational domain. 
 Currently, I am working on developing methods for applying causality in sequential decision-making (e.g., bandit or reinforcement learning)
 and developing theory of causal effect identifiability.
 
 
+- (Jul 2019) I am joining Columbia University as an Associate Research Scientist!
 - (May 2019) Two papers are accepted at UAI'19.
 - (Apr 2019) Invited talk at ISysE, KAIST. 
 - (Oct 2018) A paper is accepted at AAAI'19 ([aloha!](https://aaai.org/Conferences/AAAI-19/aaai19call/)).
