@@ -9,10 +9,10 @@ I have published papers in top AI and ML conferences (UAI, NIPS, AAAI) as first 
 
 ### 2019
 - <span style="background-color: #00FF00">Sanghack Lee</span>, Juan D. Correa, and Elias Bareinboim, **General Identifiability with Arbitrary Surrogate Experiments** 
-In Proceedings of the Thirty-fifth Conference on Uncertainty in Artificial Intelligence (UAI 2019) (Acceptance rate 26% (118/450))
+In Proceedings of the Thirty-fifth Conference on Uncertainty in Artificial Intelligence (UAI 2019) (Acceptance rate 26% (118/450)) [\[paper\]](http://auai.org/uai2019/proceedings/papers/144.pdf)
 
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **Towards Robust Relational Causal Discovery** 
-In Proceedings of the Thirty-fifth Conference on Uncertainty in Artificial Intelligence (UAI 2019) (Acceptance rate 26% (118/450))
+In Proceedings of the Thirty-fifth Conference on Uncertainty in Artificial Intelligence (UAI 2019) (Acceptance rate 26% (118/450)) [\[paper\]](http://auai.org/uai2019/proceedings/papers/127.pdf)
 
 - Aria Khademi, <span style="background-color: #00FFFF">Sanghack Lee</span>, David Foley, and Vasant Honavar, **Fairness in Algorithmic Decision Making: An Excursion Through the Lens of Causality**
 In Proceedings of The Web Conference 2019 (WWW 2019) (forthcoming)
