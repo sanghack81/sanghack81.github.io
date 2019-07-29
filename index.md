@@ -10,6 +10,7 @@ Currently, I am working on developing methods for applying causality in sequenti
 and developing theory of causal effect identifiability.
 
 
+- (Jul 2019) I am thrilled to announce that my paper on general identifiability won the best paper award at UAI'19.
 - (Jul 2019) I am joining Columbia University as an Associate Research Scientist!
 - (May 2019) Two papers are accepted at UAI'19.
 - (Apr 2019) Invited talk at ISysE, KAIST. 
