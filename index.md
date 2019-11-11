@@ -10,6 +10,7 @@ Currently, I am working on developing methods for applying causality in sequenti
 and developing theory of causal effect identifiability.
 
 
+- (Nov 2019) Paper on transportability is accepted at AAAI'20 (oral). Additionally, the GID paper is also invited as a sister track (oral).
 - (Jul 2019) I am thrilled to announce that my paper on general identifiability won the best paper award at UAI'19.
 - (Jul 2019) I am joining Columbia University as an Associate Research Scientist!
 - (May 2019) Two papers are accepted at UAI'19.

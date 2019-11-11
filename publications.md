@@ -7,6 +7,14 @@ I have published papers in top AI and ML conferences (UAI, NIPS, AAAI) as first 
 
 \* equally contributed, <span style="background-color: #00FF00">first author</span>, <span style="background-color: #FFFF00">co-first</span>, , <span style="background-color: #00FFFF">second</span>
 
+### 2020
+- <span style="background-color: #00FF00">Sanghack Lee</span>, Juan D. Correa, and Elias Bareinboim, **Generalized Transportability: Synthesis of Experiments from Heterogeneous Domains** 
+In Proceedings of Thirty-fourth Conference on Artificial Intelligence (AAAI 2020)
+
+- <span style="background-color: #00FF00">Sanghack Lee</span>, Juan D. Correa, and Elias Bareinboim, **On Identifiability from A Combination of Observational and Experimental Studies** 
+In Proceedings of Thirty-fourth Conference on Artificial Intelligence (AAAI 2020) (Sister track)
+
+
 ### 2019
 - <span style="background-color: #00FF00">Sanghack Lee</span>, Juan D. Correa, and Elias Bareinboim, **General Identifiability with Arbitrary Surrogate Experiments** 
 In Proceedings of the Thirty-fifth Conference on Uncertainty in Artificial Intelligence (UAI 2019) (Acceptance rate 26% (118/450)) [\[paper\]](http://auai.org/uai2019/proceedings/papers/144.pdf) <font color="#e41a1c">Best Paper Award</font>
