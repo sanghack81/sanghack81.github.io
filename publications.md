@@ -8,16 +8,16 @@ I have published papers in top AI and ML conferences (UAI, NIPS, AAAI) as first 
 \* equally contributed, <span style="background-color: #00FF00">first author</span>, <span style="background-color: #FFFF00">co-first</span>, , <span style="background-color: #00FFFF">second</span>
 
 ### 2020
-- <span style="background-color: #00FF00">Sanghack Lee</span>, Juan D. Correa, and Elias Bareinboim, **Generalized Transportability: Synthesis of Experiments from Heterogeneous Domains** 
-In Proceedings of Thirty-fourth Conference on Artificial Intelligence (AAAI 2020)
+- <span style="background-color: #00FF00">Sanghack Lee</span>, Juan D. Correa, and Elias Bareinboim, ** Generalized Transportability: Synthesis of Experiments from Heterogeneous Domains** 
+In Proceedings of Thirty-fourth Conference on Artificial Intelligence (AAAI 2020) (oral)
 
-- <span style="background-color: #00FF00">Sanghack Lee</span>, Juan D. Correa, and Elias Bareinboim, **On Identifiability from A Combination of Observational and Experimental Studies** 
-In Proceedings of Thirty-fourth Conference on Artificial Intelligence (AAAI 2020) (Sister track)
+- <span style="background-color: #00FF00">Sanghack Lee</span>, Juan D. Correa, and Elias Bareinboim, **Identifiability from a Combination of Observations and Experiments** 
+In Proceedings of Thirty-fourth Conference on Artificial Intelligence (AAAI 2020) (Sister track) (oral)
 
 
 ### 2019
 - <span style="background-color: #00FF00">Sanghack Lee</span>, Juan D. Correa, and Elias Bareinboim, **General Identifiability with Arbitrary Surrogate Experiments** 
-In Proceedings of the Thirty-fifth Conference on Uncertainty in Artificial Intelligence (UAI 2019) (Acceptance rate 26% (118/450)) [\[paper\]](http://auai.org/uai2019/proceedings/papers/144.pdf) <font color="#e41a1c">Best Paper Award</font>
+In Proceedings of the Thirty-fifth Conference on Uncertainty in Artificial Intelligence (UAI 2019) (Acceptance rate 26% (118/450)) [\[paper\]](http://auai.org/uai2019/proceedings/papers/144.pdf) (oral) <font color="#e41a1c">Best Paper Award</font>
 
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **Towards Robust Relational Causal Discovery** 
 In Proceedings of the Thirty-fifth Conference on Uncertainty in Artificial Intelligence (UAI 2019) (Acceptance rate 26% (118/450)) [\[paper\]](http://auai.org/uai2019/proceedings/papers/127.pdf)
@@ -26,7 +26,7 @@ In Proceedings of the Thirty-fifth Conference on Uncertainty in Artificial Intel
 In Proceedings of The Web Conference 2019 (WWW 2019) (forthcoming)
 
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Elias Bareinboim, **On Structural Causal Bandit with Non-manipulable Variables** 
-In Proceedings of Thirty-third Conference on Artificial Intelligence (AAAI 2019) (Acceptance rate 16.2% (1150/7095)) [\[paper\]](https://causalai.net/r40.pdf), [\[poster\]](/assets/AAAI2019_poster.pdf), [\[slides\]](/assets/AAAI2019_presentation.pdf)
+In Proceedings of Thirty-third Conference on Artificial Intelligence (AAAI 2019) (Acceptance rate 16.2% (1150/7095)) [\[paper\]](https://causalai.net/r40.pdf), [\[poster\]](/assets/AAAI2019_poster.pdf), [\[slides\]](/assets/AAAI2019_presentation.pdf) (oral)
 
 
 ### 2018
@@ -41,11 +41,11 @@ In Proceedings of the Thirty-third Conference on Uncertainty in Artificial Intel
 
 ### 2016
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **A Characterization of Markov Equivalence Classes for Relational Causal Model with Path Semantics.**
-In Proceedings of the Thirty-second Conference on Uncertainty in Artificial Intelligence (UAI 2016). (Acceptance rate 31% (85/275)) [\[code\]](https://github.com/sanghack81/pyRCDs), [\[paper\]](/assets/UAI-2016-RpCD.pdf), [\[appendix\]](/assets/UAI-2016-RpCD-supp_fix_june_4.pdf) 
+In Proceedings of the Thirty-second Conference on Uncertainty in Artificial Intelligence (UAI 2016). (Acceptance rate 31% (85/275)) [\[code\]](https://github.com/sanghack81/pyRCDs), [\[paper\]](/assets/UAI-2016-RpCD.pdf), [\[appendix\]](/assets/UAI-2016-RpCD-supp_fix_june_4.pdf) (oral)
 - Kyungsik Han, <span style="background-color: #00FFFF">Sanghack Lee</span>, Jin Yea Jang, Yong Jung, and Dongwon Lee, **"Teens are from Mars, Adults are from Venus": Analyzing and Predicting Age Groups with Behavioral Characteristics in Instagram**
 ACM Web Science 2016 Conference (WebSci'16) [\[paper\]](http://dl.acm.org/citation.cfm?id=2908160) (Acceptance rate 24% (17/70))
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **On Learning Causal Models from Relational Data.** 
-In Proceedings of Thirtieth Conference on Artificial Intelligence (AAAI 2016) (Acceptance rate 26% (549/2132)) [\[code\]](https://github.com/sanghack81/rcd-light) [\[paper\]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11972/12089)
+In Proceedings of Thirtieth Conference on Artificial Intelligence (AAAI 2016) (Acceptance rate 26% (549/2132)) [\[code\]](https://github.com/sanghack81/rcd-light) [\[paper\]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11972/12089) (oral)
 
 ### 2015
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **Lifted Representation of Relational Causal Models Revisited: Implications for Reasoning and Structure Learning**
@@ -57,7 +57,7 @@ Advances in Neural Information Processing Systems 26. pp. 136-144 (Acceptance ra
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **Causal Transportability of Experiments on Controllable Subsets of Variables: z-Transportability**
 In Proceedings of the Twenty-ninth Conference on Uncertainty in Artificial Intelligence (UAI 2013). pp. 361-370 (Acceptance rate 31% (73/233)) [\[paper\]](http://dl.acm.org/citation.cfm?id=3023675)
 - <span style="background-color: #00FF00">Sanghack Lee</span> and Vasant Honavar, **m-Transportability: Transportability of a Causal Effect from Multiple Environments**
-In Proceedings of the Twenty-seventh Conference on Artificial Intelligence (AAAI 2013). pp. 583-590
+In Proceedings of the Twenty-seventh Conference on Artificial Intelligence (AAAI 2013). pp. 583-590 (oral)
 - Harris Lin\*, <span style="background-color: #FFFF00">Sanghack Lee</span>\*, Ngot Bui\*, and Vasant Honavar, **Learning Classifiers from Distributional Data**
 In IEEE Second International Congress on Big Data. pp. 302-309
 
