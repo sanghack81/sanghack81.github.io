@@ -23,13 +23,10 @@ and developing theory of causal effect identifiability and transportability.
 - (Jul 2019) I am joining Columbia University as an Associate Research Scientist!
 - (May 2019) Two papers are accepted at UAI'19.
 - (Apr 2019) Invited talk at ISysE, KAIST. 
-
-
-
-<!-- (Oct 2018) A paper is accepted at AAAI'19 ([aloha!](https://aaai.org/Conferences/AAAI-19/aaai19call/)).
+- (Oct 2018) A paper is accepted at AAAI'19 ([aloha!](https://aaai.org/Conferences/AAAI-19/aaai19call/)).
 - (Sep 2018) My [paper](https://causalai.net/r36.pdf) (with Prof. Bareinboim) is accepted at [NIPS'18](https://nips.cc/Conferences/2018/Schedule?showEvent=11265). 
 - (Apr 2018) I am now a postdoc at Purdue with Prof. Bareinboim.
 - (Jan 2018) I successfully defended my PhD dissertation.
 - (Aug 2017) I presented my papers at UAI 2017 and Causality Workshop@UAI, Sydney.
-- (Jun 2017) Two papers are accepted at UAI 2017. -->
+- (Jun 2017) Two papers are accepted at UAI 2017.
 
