@@ -2,7 +2,6 @@
 layout: page2
 title: Publications
 permalink: /publications/
-exclude: false
 ---
 
 I publish papers in AI and ML conferences (e.g., UAI, NeurIPS, AAAI).
