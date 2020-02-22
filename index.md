@@ -1,6 +1,11 @@
 ---
 layout: home
 ---
+
+
+## about me
+
+
 **Associate Research Scientist**, Computer Science, Columbia University. [Curriculum Vitae](/assets/cv.pdf)
 
 I am an Associate Research Scientist at Columbia University. Prior to joining Columbia University, I was a Postdoctoral Research Associate at Computer Science, Purdue University.
@@ -10,16 +15,20 @@ Currently, I am working on developing methods for applying causality in sequenti
 and developing theory of causal effect identifiability and transportability.
 
 
+## news
+- (Feb 2020) Attended AAAI'20 to present general identifiability and transportability papers.
 - (Nov 2019) A paper on transportability is accepted at AAAI'20 (oral). Additionally, the GID paper is also invited to a sister track (oral).
 - (Jul 2019) I am thrilled to announce that my paper on general identifiability won the best paper award at UAI'19.
 - (Jul 2019) I am joining Columbia University as an Associate Research Scientist!
 - (May 2019) Two papers are accepted at UAI'19.
 - (Apr 2019) Invited talk at ISysE, KAIST. 
-- (Oct 2018) A paper is accepted at AAAI'19 ([aloha!](https://aaai.org/Conferences/AAAI-19/aaai19call/)).
+
+
+
+<!-- (Oct 2018) A paper is accepted at AAAI'19 ([aloha!](https://aaai.org/Conferences/AAAI-19/aaai19call/)).
 - (Sep 2018) My [paper](https://causalai.net/r36.pdf) (with Prof. Bareinboim) is accepted at [NIPS'18](https://nips.cc/Conferences/2018/Schedule?showEvent=11265). 
 - (Apr 2018) I am now a postdoc at Purdue with Prof. Bareinboim.
 - (Jan 2018) I successfully defended my PhD dissertation.
 - (Aug 2017) I presented my papers at UAI 2017 and Causality Workshop@UAI, Sydney.
-- (Jun 2017) Two papers are accepted at UAI 2017.
-
+- (Jun 2017) Two papers are accepted at UAI 2017. -->
 
