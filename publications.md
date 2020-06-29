@@ -32,11 +32,11 @@ Conditional Independence Test <button type="button" class="btn btn-danger">CIT</
 In Proceedings of Thirty-seventh International Conference on Machine Learning (ICML 2020) 
 
 - <button type="button" class="btn btn-set1-2">TR</button> Sanghack Lee, Juan D. Correa, and Elias Bareinboim, **Generalized Transportability: Synthesis of Experiments from Heterogeneous Domains** 
-In Proceedings of Thirty-fourth Conference on Artificial Intelligence (AAAI 2020) 
+In Proceedings of Thirty-fourth Conference on Artificial Intelligence (AAAI 2020) [\[paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/6582/6438)
 
 
 - <button type="button" class="btn btn-set1-1">ID</button> Sanghack Lee, Juan D. Correa, and Elias Bareinboim, **Identifiability from a Combination of Observations and Experiments** 
-In Proceedings of Thirty-fourth Conference on Artificial Intelligence (AAAI 2020) (Sister track) 
+In Proceedings of Thirty-fourth Conference on Artificial Intelligence (AAAI 2020) (Sister track) [\[paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/7119/6973)
 
 
 - <button type="button" class="btn btn-set1-1">ID</button> Sanghack Lee, Juan D. Correa, and Elias Bareinboim, **General Identifiability with Arbitrary Surrogate Experiments** 
