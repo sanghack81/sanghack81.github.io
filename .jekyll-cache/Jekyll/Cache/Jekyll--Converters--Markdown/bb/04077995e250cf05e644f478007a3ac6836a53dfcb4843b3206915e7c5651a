@@ -1,0 +1,118 @@
+I"mC<script type="text/javascript" async="" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+<p>This post focuses on visualizing <strong>do-calculus</strong>, which was introduced by <a href="http://bayes.cs.ucla.edu/jp_home.html">Judea Pearl</a> in 1995 in his seminal paper <a href="http://bayes.cs.ucla.edu/R218-B.pdf">‘Causal diagrams for empirical research’</a>. 
+Do-calculus consists of three rules where each rule describes how a certain graphical conditional independence test (i.e., a d-separation criterion) ascertains the equality of two (causal) probabilities.
+The three rules of do-calculus are as follows:</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{align*}
+\textsf{(Rule 1)} & & P_{\mathbf{x}}(\mathbf{y} \mid \mathbf{w})            & =P_{\mathbf{x}}(\mathbf{y} \mid \mathbf{w},\mathbf{z}) & \textsf{ if } (\mathbf{Z} \perp \mathbf{Y} \mid \mathbf{X},\mathbf{W}) & \textsf{ in } \mathcal{G}_{\overline{\mathbf{X}}} \\
+\textsf{(Rule 2)} & & P_{\mathbf{x}}(\mathbf{y} \mid \mathbf{w},\mathbf{z}) & =P_{\mathbf{x},\mathbf{z}}(\mathbf{y} \mid \mathbf{w}) & \textsf{ if } (\mathbf{Z} \perp \mathbf{Y} \mid \mathbf{X},\mathbf{W}) & \textsf{ in } \mathcal{G}_{\overline{\mathbf{X}}\underline{\mathbf{Z}}} \\
+\textsf{(Rule 3)} & & P_{\mathbf{x}}(\mathbf{y} \mid \mathbf{w})            & =P_{\mathbf{x},\mathbf{z}}(\mathbf{y} \mid \mathbf{w}) & \textsf{ if } (\mathbf{Z} \perp \mathbf{Y} \mid \mathbf{X},\mathbf{W}) & \textsf{ in }\mathcal{G}_{\overline{\mathbf{X},\mathbf{Z}(\mathbf{W})}}
+\end{align*} %]]></script>
+
+<p>where <script type="math/tex">\mathbf{Z}(\mathbf{W})</script> is the set of <script type="math/tex">\mathbf{Z}</script> that are not ancestors of any <script type="math/tex">\mathbf{W}</script> in <script type="math/tex">\mathcal{G}_{\overline{X}}</script>. A subscript is used for a probability term to denote a do-operation, i.e., <script type="math/tex">P_{\mathbf{x}}(\cdot\mid \cdot) = P(\cdot \mid \cdot, do(\mathbf{x}))</script> (the probability when variables <script type="math/tex">\mathbf{X}</script> are held fixed to <script type="math/tex">\mathbf{x}</script>). A subscript next to a causal graph <script type="math/tex">\mathcal{G}</script> manipulates the given graph: <script type="math/tex">\overline{\mathbf{X}}</script> removes the edges incoming to <script type="math/tex">\mathbf{X}</script> while <script type="math/tex">\underline{\mathbf{Z}}</script> deletes the outgoing edges from <script type="math/tex">\mathbf{Z}</script>.</p>
+
+<p>Rule 1 is about insertion/deletion of observations, which is the generalization of traditional conditional independence to interventional distributions. Rule 2 is about exchange between observations and actions — when doing becomes seeing. Rule 3 is about insertion/deletion of actions, whether additional interventions have no effect on the given distribution.
+Without deep understanding, one can <em>use</em> do-calculus by just applying the d-separation criterion in manipulated graphs.</p>
+
+<h4 id="simplifying-do-calculus">Simplifying do-calculus</h4>
+
+<p>For the sake of easier understanding of do-calculus, I am going to modify its form.
+Since <script type="math/tex">do(\mathbf{X}=\mathbf{x})</script> operation removes incoming edges onto <script type="math/tex">\mathbf{X}</script>, a path including <script type="math/tex">X</script> in such a graph will look like <script type="math/tex">\dotsb \gets X\to \dotsb</script>. Then, conditioning on <script type="math/tex">\mathbf{X}</script> always blocks the path. Hence, there will be no <script type="math/tex">X\in \mathbf{X}</script> which will become the part of any d-connection path (active path) between <script type="math/tex">Z\in \mathbf{Z}</script> and <script type="math/tex">Y\in \mathbf{Y}</script>, if exists. That is, we can simply work on an alternative graph <script type="math/tex">\mathcal{H} = \mathcal{G}\setminus \mathbf{X}</script> — imagine <script type="math/tex">\mathcal{G}</script> with holes on <script type="math/tex">\mathbf{X}</script> as shown below.</p>
+
+<p><img src="/assets/posts/gs.pdf" alt="" width="630px" class="center-image" /></p>
+
+<p>One useful trick here is thinking about living inside a do-world. Do-operation <script type="math/tex">do(\mathbf{X}=\mathbf{x})</script> creates a submodel <script type="math/tex">\mathcal{M}_{\mathbf{x}}</script> from the original model <script type="math/tex">\mathcal{M}</script>. By imagining <script type="math/tex">\mathcal{M}_{\mathbf{x}}</script> as a default world, we employ <script type="math/tex">\mathcal{H}</script> as a causal graph and <script type="math/tex">Q=P_{\mathbf{x}}</script> as the observational distribution in the do-world. Then, the rules are a bit simplified.</p>
+
+<script type="math/tex; mode=display">% <![CDATA[
+\begin{align*}
+\textsf{(Rule 1)} & & Q(\mathbf{y} \mid \mathbf{w})            & =Q(\mathbf{y} \mid \mathbf{w},\mathbf{z})   & \textsf{ if } (\mathbf{Z} \perp \mathbf{Y} \mid \mathbf{W}) & \textsf{ in } \mathcal{H} \\
+\textsf{(Rule 2)} & & Q(\mathbf{y} \mid \mathbf{w},\mathbf{z}) & =Q_{\mathbf{z}}(\mathbf{y} \mid \mathbf{w}) & \textsf{ if } (\mathbf{Z} \perp \mathbf{Y} \mid \mathbf{W}) & \textsf{ in } \mathcal{H}_{\underline{\mathbf{Z}}} \\
+\textsf{(Rule 3)} & & Q(\mathbf{y} \mid \mathbf{w})            & =Q_{\mathbf{z}}(\mathbf{y} \mid \mathbf{w}) & \textsf{ if } (\mathbf{Z} \perp \mathbf{Y} \mid \mathbf{W}) & \textsf{ in }\mathcal{H}_{\overline{\mathbf{Z}(\mathbf{W})}}
+\end{align*} %]]></script>
+
+<p>where <script type="math/tex">\mathbf{Z}(\mathbf{W})</script> is the subset of <script type="math/tex">\mathbf{Z}</script> that are not ancestors of any <script type="math/tex">\mathbf{W}</script> in <script type="math/tex">\mathcal{H}</script>.</p>
+
+<p>For example, <script type="math/tex">Z</script> and <script type="math/tex">Y</script> are d-connected via a (back-door) path from <script type="math/tex">Z\leftrightarrow \cdot \to W \leftrightarrow \cdot \to Y</script>, which implies that 
+none of the following is granted: 
+<script type="math/tex">P_{x}(y|w)= P_{x}(y|w,z)</script> (Rule 1),
+<script type="math/tex">P_{x}(y|w,z) P_{x,z}(y|w)</script> (Rule 2), 
+<script type="math/tex">P_{x}(y|w)=P_{x,z}(y|w)</script> (Rule 3).</p>
+
+<h3 id="visualizing-the-rules-by-drawing-paths">Visualizing the rules by drawing paths</h3>
+
+<p>Let’s ignore <script type="math/tex">\mathbf{X}</script> for now (for good).
+To visualize do-calculus, first imagine an arbitrary causal graph. Testing for a conditional independence is checking whether there exists no d-connection path in <script type="math/tex">\mathcal{H}</script>.
+One may categorize d-connection paths as either a <em>back-door</em> and <em>front-door</em> path. Focusing on <script type="math/tex">Z\in\mathbf{Z}</script>, if a path starts with <script type="math/tex">Z\gets \dotsb Y</script>, then it is called back-door path. Otherwise if <script type="math/tex">Z\to \dotsb Y</script>, then it is a front-door path.
+Now, we connect these two types of paths with the three rules. For simplicity, let <script type="math/tex">\mathbf{Z}=\{Z\}</script>.</p>
+
+<h4 id="rule-1"><strong>Rule 1</strong></h4>
+
+<p>Now, Rule 1 looks fairly like a traditional conditional independence — if there exists a d-connection path between <script type="math/tex">Y\in\mathbf{Y}</script> and <script type="math/tex">Z</script> given <script type="math/tex">\mathbf{W}</script> in <script type="math/tex">\mathcal{H}</script>, one cannot simply add (or drop) <script type="math/tex">Z</script> from the probability term. The figure below is quite an abstraction which illustrates two possible types of d-connection paths we care about. All other variables including <script type="math/tex">\mathbf{W}</script> are implicit.</p>
+
+<p><img src="/assets/posts/rule1.pdf" alt="" width="146px" class="center-image" /></p>
+
+<p>This is a simple translation of conditional independence in the submodel created by an intervention. For sets <script type="math/tex">\mathbf{Z}</script> and <script type="math/tex">\mathbf{Y}</script>, you can imagine superimposing them and whether there exists any d-connection path between any of <script type="math/tex">Z\in\mathbf{Z}</script> and <script type="math/tex">Y\in\mathbf{Y}</script>.</p>
+
+<h4 id="rule-2"><strong>Rule 2</strong></h4>
+
+<p>To begin with, let me show you the equivalence between <script type="math/tex">P_{\mathbf{x},z}(\mathbf{y}|\mathbf{w})</script> and <script type="math/tex">P_{\mathbf{x},z}(\mathbf{y}|\mathbf{w},z)</script>.
+Intervening on <script type="math/tex">Z=z</script> would generate data with <script type="math/tex">Z=z</script>. That is, filtering only on <script type="math/tex">Z=z</script> by conditioning on <script type="math/tex">z</script> as a condition has no effect on the probability term. Hence, the equality holds.</p>
+
+<p>Although Rule 2 is described as the <em>exchange between observation and intervention</em>, 
+it would be easier to interpret as whether adding an action <script type="math/tex">do(z)</script> has an effect on the distribution when <script type="math/tex">z</script> is given, i.e., comparing <script type="math/tex">P_\mathbf{x}(\mathbf{y}|\mathbf{w},z)</script> and <script type="math/tex">P_{\mathbf{x},z}(\mathbf{y}|\mathbf{w},z)</script>. The test involves two different <em>worlds</em> (formerly, regimes).
+A way to test is introducing an auxiliary variable <script type="math/tex">\pi</script> pointing to <script type="math/tex">Z</script> where <script type="math/tex">\pi</script> can be viewed as a <em>mechanism selector</em> for <script type="math/tex">Z</script>.
+That is, if <script type="math/tex">\pi=0</script>, <script type="math/tex">f_Z</script> is used and <script type="math/tex">\pi=1</script>, <script type="math/tex">f'_Z</script> is used (where <script type="math/tex">f'_Z</script> can be just a constant! like <script type="math/tex">do(z)</script>).
+With the auxiliary variable, now the question becomes <script type="math/tex">P_\mathbf{x}(\mathbf{y}|\mathbf{w},z, \pi=0) = P_\mathbf{x}(\mathbf{y}|\mathbf{w},z, \pi=1)</script>, or equivalently, <script type="math/tex">P_\mathbf{x}(\mathbf{y}|\mathbf{w},z, \pi) = P_\mathbf{x}(\mathbf{y}|\mathbf{w},z)</script>, i.e.,</p>
+
+<script type="math/tex; mode=display">(\pi \perp \mathbf{Y} \mid \mathbf{W},Z) \textsf{ in } \mathcal{H} \textsf{ with } \pi \textsf{ added.}</script>
+
+<p><img src="/assets/posts/rule2.pdf" alt="" width="167px" class="center-image" /></p>
+
+<p>Since <script type="math/tex">Z</script> is blocked, front-door paths from <script type="math/tex">Z</script> to <script type="math/tex">Y\in\mathbf{Y}</script> should not be considered. We focus on finding a path <script type="math/tex">\pi\to Z \gets \dotsb Y</script>. That is <script type="math/tex">Z \gets \dotsb Y</script>, a back-door path from <script type="math/tex">Z</script> to <script type="math/tex">Y</script>. Therefore, the test is translated to <script type="math/tex">Z \perp \mathbf{Y} \mid \mathbf{W}</script> in <script type="math/tex">\mathcal{H}_{\underline{Z}}</script>.</p>
+
+<p>Generalization to a set of <script type="math/tex">\mathbf{Z}</script> is, unfortunately, not immediate. The test will be</p>
+
+<script type="math/tex; mode=display">(\boldsymbol{\pi} \perp \mathbf{Y} \mid \mathbf{W},\mathbf{Z}) \textsf{ in } \mathcal{H} \textsf{ with } \boldsymbol{\pi} \textsf{ added.}</script>
+
+<p>You might wonder Rule 2 does not include <script type="math/tex">\mathbf{Z}</script> in the conditionals for its test.
+Consider a back-door path from <script type="math/tex">\pi_i</script> to some <script type="math/tex">Y</script> which passes through <script type="math/tex">Z_j</script> (or its ancestors as a collider) such that <strong>not</strong> having <script type="math/tex">Z_j</script> as conditional would invalidate such path. This implies that <script type="math/tex">Z_j</script> has a back-door path to <script type="math/tex">Y</script>. One can iteratively apply this idea to see that there must be <script type="math/tex">Z\in \mathbf{Z}</script> that does not rely on <script type="math/tex">\mathbf{Z}\setminus \{Z\}</script> as conditionals, hence, the CI test of Rule 2 test holds correctly. Let’s see abstract figures.</p>
+
+<p><img src="/assets/posts/r2-special.pdf" alt="" width="828px" class="center-image" /></p>
+
+<p>In (a), the path from <script type="math/tex">Z_1</script> to <script type="math/tex">Y</script> through <script type="math/tex">Z_2</script> implies that <script type="math/tex">Z_2</script> has a back-door path to <script type="math/tex">Y</script>, which can be tested, which is irrelevant to <script type="math/tex">Z_1</script> being given or not. In (b), the path is <strong>not</strong> because <script type="math/tex">Z_2</script> is given but because <script type="math/tex">W</script> is given. The back-door path will be valid without <script type="math/tex">\mathbf{Z}</script> in conditional.</p>
+
+<p>An important case is shown in (c). There is no back-door path from <script type="math/tex">\pi_1</script> to <script type="math/tex">Y</script> since <script type="math/tex">Z_2</script> is given nor from <script type="math/tex">\pi_2</script> to <script type="math/tex">Y</script>. 
+Then, it would be okay to elicit, e.g., <script type="math/tex">P(y|z_1,z_2) = P_{z_1,z_2}(y)</script> through Rule 2. However, Rule 2 of do-calculus says that <script type="math/tex">Z_1</script> has a back-door path to <script type="math/tex">Y</script> since <script type="math/tex">Z_2</script> is not given, prohibiting us from licensing the equality! Is there something wrong? Not really. Let’s examine what’s going on. Rule 2 only says that <script type="math/tex">P(y|z_1,z_2) = P_{z_2}(y|z_1)</script>. Then, applying Rule 2 again yields <script type="math/tex">P_{z_2}(y|z_1) = P_{z_1,z_2}(y)</script>. That is, the failure to apply Rule 2 <em>simply</em> does not imply that the two probabilities are <em>not</em> equal.</p>
+
+<p>Then, does applying Rule 2 sequentially lead to the same conclusion based on the test with auxiliary variables? 
+The answer is yes! Simply put, one can move an observation <script type="math/tex">Z\in \mathbf{Z}</script> to an intervention if it does not involve <script type="math/tex">\mathbf{Z}\setminus\{Z\}</script> in its path to some <script type="math/tex">Y</script>.
+This can be iteratively applied to yield the same result based on the test with auxiliary variables.</p>
+
+<h4 id="rule-3"><strong>Rule 3</strong></h4>
+
+<p>Rule 3 is a bit tricky but the same idea is also applicable!
+We employ the auxiliary variable <script type="math/tex">\pi</script> for the change of mechanisms.
+This time, the only difference is that <script type="math/tex">Z</script> is not given.
+Then,</p>
+
+<script type="math/tex; mode=display">(\pi \perp \mathbf{Y} \mid \mathbf{W}) \textsf{ in } \mathcal{H} \textsf{ with } \pi \textsf{ added.}</script>
+
+<p>Unlike the previous case (Rule 2) where <script type="math/tex">Z</script> is given so that it blocks <script type="math/tex">\pi\to Z \to</script> but opens <script type="math/tex">\pi\to Z \gets</script>,
+this time we need to examine <script type="math/tex">\mathbf{W}</script>:</p>
+
+<p><img src="/assets/posts/rule3.pdf" alt="" width="402px" class="center-image" /></p>
+
+<p>If <script type="math/tex">Z</script> is the part of the ancestor of <script type="math/tex">\mathbf{W}</script>, 
+<script type="math/tex">\pi\to Z \gets \dotsb</script> will be the start of a valid path since the descendant of <script type="math/tex">Z</script> is given.
+Regardless of <script type="math/tex">\mathbf{W}</script>, <script type="math/tex">\pi\to Z \to \dotsb</script> is a valid path.
+That is, if <script type="math/tex">Z</script> is not an ancestor of <script type="math/tex">\mathbf{W}</script>, then we only care about front-door paths! A way to achieve this is ignoring back-door paths in <script type="math/tex">\mathcal{H}</script>. Hence, <script type="math/tex">\mathcal{H}_{\overline{Z(\mathbf{W})}} \triangleq \mathcal{H}_{\overline{Z\setminus An(\mathbf{W})_{\mathcal{H}}}}</script>.</p>
+
+<p>If there exists no <script type="math/tex">\mathbf{W}</script> is given, this is simplified to checking whether <script type="math/tex">Z</script> are in the ancestors of <script type="math/tex">\mathbf{Y}</script>.
+In <script type="math/tex">\mathcal{G}</script> (not <script type="math/tex">\mathcal{H}</script>), this is checking whether <script type="math/tex">\mathbf{X}</script> cuts the directed path from <script type="math/tex">Z</script> to <script type="math/tex">Y</script>.</p>
+
+<p>For sets <script type="math/tex">\mathbf{Z}</script> and <script type="math/tex">\mathbf{Y}</script>, this corresponds to <script type="math/tex">(\boldsymbol{\pi} \perp \mathbf{Y} \mid \mathbf{W}) \textsf{ in } \mathcal{H} \textsf{ with } \boldsymbol{\pi} \textsf{ added}</script>. Since no <script type="math/tex">\pi\in\boldsymbol{\pi}</script> appears in a possible path, this test translates well to <script type="math/tex">(\mathbf{Z} \perp \mathbf{Y} \mid \mathbf{W}) \textsf{ in } \mathcal{H}_{\overline{\mathbf{Z}(\mathbf{W})}}</script>.</p>
+
+:ET
