@@ -28,8 +28,13 @@ Conditional Independence Test <button type="button" class="btn btn-danger">CIT</
 
 
 #### Post Ph.D. (2018 --)
-- <button type="button" class="btn btn-set1-2">ID</button> Sanghack Lee, and Elias Bareinboim, **Causal Effect Identifiability under Partial-Observability** 
-In Proceedings of Thirty-seventh International Conference on Machine Learning (ICML 2020) 
+
+
+- <button type="button" class="btn btn-set1-3">DM</button> Sanghack Lee and Elias Bareinboim, **Characterizing Optimal Mixed Policies: Where to Intervene and What to Observe**
+preprint [\[paper\]](https://causalai.net/r63.pdf)
+
+- <button type="button" class="btn btn-set1-1">ID</button> Sanghack Lee, and Elias Bareinboim, **Causal Effect Identifiability under Partial-Observability** 
+In Proceedings of Thirty-seventh International Conference on Machine Learning (ICML 2020)  [\[paper\]](https://causalai.net/r58.pdf)
 
 - <button type="button" class="btn btn-set1-2">TR</button> Sanghack Lee, Juan D. Correa, and Elias Bareinboim, **Generalized Transportability: Synthesis of Experiments from Heterogeneous Domains** 
 In Proceedings of Thirty-fourth Conference on Artificial Intelligence (AAAI 2020) [\[paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/6582/6438)
@@ -91,6 +96,6 @@ In Proceedings of the Twenty-seventh Conference on Artificial Intelligence (AAAI
 #### Pre-Ph.D. 
 
 - (pre-PhD) A New Polynimial Time Algorithm for Bayesian Network Structure Learning
-In Proceedings of the Second International Conference on Advanced Data Mining and Applications (ADMA'06). Xi'an, China. pp. 501-508. (LNAI 4093)
+In Proceedings of the Second International Conference on Advanced Data Mining and Applications (ADMA 2006). pp. 501-508. (LNAI 4093)
 - (pre-PhD) Discovery of Hidden Similarity on Collaborative Filtering to Overcome Sparsity Problem
-In Proceedings of the Seventh International Conference on Discovery Science (DS'04). Padova, Italy. pp. 396-402. (LNAI 3245)
+In Proceedings of the Seventh International Conference on Discovery Science (DS 2004). Padova, Italy. pp. 396-402. (LNAI 3245)

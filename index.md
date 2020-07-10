@@ -17,6 +17,7 @@ and developing theory of causal effect identifiability and transportability.
 
 
 ## news
+- (Aug 2020) Invited talk at CSE AIGS, POSTECH. 
 - (Jun 2020) A paper on identifiability with partial-observability is accepted at ICML'20.
 - (Feb 2020) Attended AAAI'20 to present general identifiability and transportability papers.
 - (Nov 2019) A paper on transportability is accepted at AAAI'20 (oral). Additionally, the GID paper is also invited to a sister track (oral).
