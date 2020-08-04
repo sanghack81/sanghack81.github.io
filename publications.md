@@ -31,7 +31,7 @@ Conditional Independence Test <button type="button" class="btn btn-danger">CIT</
 
 
 - <button type="button" class="btn btn-set1-3">DM</button> Sanghack Lee and Elias Bareinboim, **Characterizing Optimal Mixed Policies: Where to Intervene and What to Observe**
-preprint [\[paper\]](https://causalai.net/r63.pdf)
+preprint. 2020. [\[paper\]](https://causalai.net/r63.pdf)
 
 - <button type="button" class="btn btn-set1-1">ID</button> Sanghack Lee, and Elias Bareinboim, **Causal Effect Identifiability under Partial-Observability** 
 In Proceedings of Thirty-seventh International Conference on Machine Learning (ICML 2020)  [\[paper\]](https://causalai.net/r58.pdf)
@@ -59,7 +59,7 @@ In Proceedings of Thirty-third Conference on Artificial Intelligence (AAAI 2019)
 
 
 - <button type="button" class="btn btn-set1-3">DM</button> Sanghack Lee and Elias Bareinboim, **Structural Causal Bandits: Where to Intervene?**
-In Advances in Neural Information Processing Systems 32nd.  [\[paper\]](https://causalai.net/r36.pdf), [\[code\]](https://github.com/sanghack81/SCMMAB-NIPS2018), [\[poster\]](/assets/nips2018-poster.pdf) 
+In Advances in Neural Information Processing Systems 32nd (NeurIPS 2018).  [\[paper\]](https://causalai.net/r36.pdf), [\[code\]](https://github.com/sanghack81/SCMMAB-NIPS2018), [\[poster\]](/assets/nips2018-poster.pdf) 
 
 
 #### Ph.D. (-- 2018)
@@ -83,7 +83,7 @@ ACM Web Science 2016 Conference (WebSci'16) [\[paper\]](http://dl.acm.org/citati
 In Proceedings of the UAI 2015 Workshop on Advances in Causal Inference co-located with the 31st Conference on Uncertainty in Artificial Intelligence (UAI 2015). pp. 56-65 [\[paper\]](http://dl.acm.org/citation.cfm?id=3020273)
 
 - <button type="button" class="btn btn-set1-2">TR</button> Elias Bareinboim\*, Sanghack Lee\*, Vasant Honavar, and Judea Pearl, **Transportability from Multiple Environments with Limited Experiments.**
-Advances in Neural Information Processing Systems 26. pp. 136-144 [\[paper\]](https://papers.nips.cc/paper/5536-transportability-from-multiple-environments-with-limited-experiments-completeness-results)
+Advances in Neural Information Processing Systems 26 (NeurIPS 2013). pp. 136-144 [\[paper\]](https://papers.nips.cc/paper/5536-transportability-from-multiple-environments-with-limited-experiments-completeness-results)
 
 - <button type="button" class="btn btn-set1-2">TR</button> Sanghack Lee and Vasant Honavar, **Causal Transportability of Experiments on Controllable Subsets of Variables: z-Transportability**
 In Proceedings of the Twenty-ninth Conference on Uncertainty in Artificial Intelligence (UAI 2013). pp. 361-370 [\[paper\]](http://dl.acm.org/citation.cfm?id=3023675)

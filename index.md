@@ -17,14 +17,14 @@ and developing theory of causal effect identifiability and transportability.
 
 
 ## news
-- (Aug 2020) Invited talk at CSE AIGS, POSTECH. 
+- (Aug 2020) Invited talk at CSE AIGS, POSTECH, South Korea
 - (Jun 2020) A paper on identifiability with partial-observability is accepted at ICML'20.
 - (Feb 2020) Attended AAAI'20 to present general identifiability and transportability papers.
 - (Nov 2019) A paper on transportability is accepted at AAAI'20 (oral). Additionally, the GID paper is also invited to a sister track (oral).
 - (Jul 2019) I am thrilled to announce that my paper on general identifiability won the best paper award at UAI'19.
 - (Jul 2019) I am joining Columbia University as an Associate Research Scientist!
 - (May 2019) Two papers are accepted at UAI'19.
-- (Apr 2019) Invited talk at ISysE, KAIST. 
+- (Apr 2019) Invited talk at ISysE, KAIST, South Korea
 - (Oct 2018) A paper is accepted at AAAI'19 ([aloha!](https://aaai.org/Conferences/AAAI-19/aaai19call/)).
 - (Sep 2018) My [paper](https://causalai.net/r36.pdf) (with Prof. Bareinboim) is accepted at [NIPS'18](https://nips.cc/Conferences/2018/Schedule?showEvent=11265). 
 - (Apr 2018) I am now a postdoc at Purdue with Prof. Bareinboim.
