@@ -1,0 +1,156 @@
+I"v%<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<script>
+	$(document).on("click", ".openaa", function() {
+		var index = $(".openaa").index(this);
+		// $(".popup-overlay:eq("+text(index)+")").addClass("active");
+		// $(".popup-content:eq("+text(index)+")").addClass("active");
+});
+
+//removes the "active" class to .popup and .popup-content when the "Close" button is clicked 
+$(document).on("click", ".closeaa", function() {
+  $(".popup-overlay, .popup-content").removeClass("active");
+});
+</script>
+
+<!--Creates the popup body-->
+<div class="popup-overlay">
+<!--Creates the popup content-->
+ <div class="popup-content">
+    <h2>Pop-Up</h2>
+    <p> first.</p>
+   <!--popup's close button-->
+    <button class="closeaa">Close</button>    
+</div>
+</div>
+
+<div class="popup-overlay">
+<!--Creates the popup content-->
+ <div class="popup-content">
+    <h2>Pop-Up</h2>
+    <p>second.</p>
+   <!--popup's close button-->
+    <button class="closeaa">Close</button>    
+</div>
+</div>
+
+<h2>jQuery Pop-Up Example</h2>
+<p><button class="openaa">Open</button>
+<button class="openaa">Open</button></p>
+
+<p>I have published papers in AI and ML conferences (e.g., UAI, NeurIPS, ICML, AAAI).
+Within the scope of causal inference, I investigated the problem of <strong>causal effect identifiability</strong> <button type="button" class="btn btn-set1-1">ID</button> allowing causal inference engines to take more diverse sets of data. In parallel, I also studied on the identifiability problem for heterogeneous domains (similar to the underlying ideas of domain adaptation or transfer learning in ML) called <strong>transportability</strong> <button type="button" class="btn btn-set1-2">TR</button>. I also pursue research in <strong>decision-making</strong> <button type="button" class="btn btn-set1-3">DM</button> where causality serves as the first principle to solve the problem.
+During my PhD study, I mostly spent time on understanding causal discovery from <strong>relational data</strong> <button type="button" class="btn btn-set1-4">REL</button> such as relational conditional independence, relational Markov equivalence classes, relational causal discovery algorithms both theoretical and practical.</p>
+
+<p><strong>Collaborators</strong>: <a href="http://jdcorrea.me">Juan D. Correa</a>, <a href="https://sites.psu.edu/khademi/">Aria Khademi</a>, <a href="https://causalai.net">Elias Bareinboim</a>, <a href="https://faculty.ist.psu.edu/vhonavar/index.htm">Vasant Honavar</a></p>
+
+<p>* equally contributed.</p>
+
+<!-- , <span style="background-color: #00FF00">first author</span>, <span style="background-color: #FFFF00">co-first</span>, <span style="background-color: #00FFFF">second</span> -->
+
+<!-- Decision Making <button type="button" class="btn btn-set1-3">DM</button>
+Identifiability <button type="button" class="btn btn-set1-1">ID</button>
+Transportability <button type="button" class="btn btn-set1-2">TR</button>
+Relational  <button type="button" class="btn btn-set1-4">REL</button>
+Conditional Independence Test <button type="button" class="btn btn-danger">CIT</button>
+ -->
+
+<p><button type="button" class="btn btn-set1-3">DM</button> <strong>Characterizing Optimal Mixed Policies: Where to Intervene and What to Observe</strong><br />
+Sanghack Lee and Elias Bareinboim<br /> 
+preprint 2020<br />
+<a href="https://causalai.net/r63.pdf">[paper]</a></p>
+
+<p><button type="button" class="btn btn-set1-1">ID</button> <strong>Causal Effect Identifiability under Partial-Observability</strong> <br />
+Sanghack Lee, and Elias Bareinboim<br />
+ICML 2020<br />
+<a href="https://causalai.net/r58.pdf">[paper]</a></p>
+
+<p><button type="button" class="btn btn-set1-2">TR</button> <strong>Generalized Transportability: Synthesis of Experiments from Heterogeneous Domains</strong> <br />
+Sanghack Lee, Juan D. Correa, and Elias Bareinboim<br />
+AAAI 2020<br />
+<a href="https://aaai.org/ojs/index.php/AAAI/article/view/6582/6438">[paper]</a></p>
+
+<p><button type="button" class="btn btn-set1-1">ID</button> <strong>Identifiability from a Combination of Observations and Experiments</strong> <br />
+Sanghack Lee, Juan D. Correa, and Elias Bareinboim<br />
+AAAI 2020 <br />
+<a href="https://aaai.org/ojs/index.php/AAAI/article/view/7119/6973">[paper]</a></p>
+
+<p><button type="button" class="btn btn-set1-1">ID</button> <strong>General Identifiability with Arbitrary Surrogate Experiments</strong> <br />
+Sanghack Lee, Juan D. Correa, and Elias Bareinboim<br />
+UAI 2019, <font color="#e41a1c">Best Paper Award</font> <br />
+<a href="http://auai.org/uai2019/proceedings/papers/144.pdf">[paper]</a></p>
+
+<p><button type="button" class="btn btn-set1-4">REL</button>  <strong>Towards Robust Relational Causal Discovery</strong> <br />
+Sanghack Lee and Vasant Honavar <br />
+UAI 2019<br />
+ <a href="http://auai.org/uai2019/proceedings/papers/127.pdf">[paper]</a></p>
+
+<p><button type="button" class="btn btn-set1-3">DM</button> <strong>Fairness in Algorithmic Decision Making: An Excursion Through the Lens of Causality</strong><br />
+Aria Khademi, Sanghack Lee, David Foley, and Vasant Honavar<br />
+WWW 2019<br />
+ <a href="https://arxiv.org/pdf/1903.11719.pdf">[paper]</a></p>
+
+<p><button type="button" class="btn btn-set1-3">DM</button> <strong>On Structural Causal Bandit with Non-manipulable Variables</strong> <br />
+Sanghack Lee and Elias Bareinboim <br />
+AAAI 2019<br />
+<a href="https://causalai.net/r40.pdf">[paper]</a>, <a href="/assets/AAAI2019_poster.pdf">[poster]</a>, <a href="/assets/AAAI2019_presentation.pdf">[slides]</a></p>
+
+<p><button type="button" class="btn btn-set1-3">DM</button>  <strong>Structural Causal Bandits: Where to Intervene?</strong><br />
+Sanghack Lee and Elias Bareinboim<br />
+NeurIPS 2018<br />
+  <a href="https://causalai.net/r36.pdf">[paper]</a>, <a href="https://github.com/sanghack81/SCMMAB-NIPS2018">[code]</a>, <a href="/assets/nips2018-poster.pdf">[poster]</a></p>
+
+<p><button type="button" class="btn btn-set1-4">REL</button> <button type="button" class="btn btn-set1-5">CIT</button>  <strong>A Kernel Conditional Independence Test for Relational Data</strong><br />
+Sanghack Lee and Vasant Honavar<br />
+UAI 2017<br />
+<a href="https://github.com/sanghack81/KRCIT">[code]</a>, <a href="/assets/krcit.pdf">[paper]</a></p>
+
+<p><button type="button" class="btn btn-set1-5">CIT</button> <strong>Self-Discrepancy Conditional Independence Test</strong><br />
+Sanghack Lee and Vasant Honavar<br />
+UAI 2017<br />
+<a href="https://github.com/sanghack81/SDCIT">[code]</a>, <a href="/assets/SDCIT-edited.pdf">[paper]</a></p>
+
+<p><button type="button" class="btn btn-set1-4">REL</button> <strong>A Characterization of Markov Equivalence Classes for Relational Causal Model with Path Semantics</strong> <br />
+Sanghack Lee and Vasant Honavar<br />
+UAI 2016<br />
+<a href="https://github.com/sanghack81/pyRCDs">[code]</a>, <a href="/assets/UAI-2016-RpCD.pdf">[paper]</a>, <a href="/assets/UAI-2016-RpCD-supp_fix_june_4.pdf">[appendix]</a></p>
+
+<p><button type="button" class="btn btn-set1-4">REL</button> <strong>On Learning Causal Models from Relational Data</strong> <br />
+Sanghack Lee and Vasant Honavar<br />
+AAAI 2016 <br />
+<a href="https://github.com/sanghack81/rcd-light">[code]</a> <a href="https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11972/12089">[paper]</a></p>
+
+<p><strong>“Teens are from Mars, Adults are from Venus”: Analyzing and Predicting Age Groups with Behavioral Characteristics in Instagram</strong><br />
+Kyungsik Han, Sanghack Lee, Jin Yea Jang, Yong Jung, and Dongwon Lee<br />
+WebSci 2016<br />
+<a href="http://dl.acm.org/citation.cfm?id=2908160">[paper]</a></p>
+
+<p><button type="button" class="btn btn-set1-4">REL</button> <strong>Lifted Representation of Relational Causal Models Revisited: Implications for Reasoning and Structure Learning</strong><br />
+Sanghack Lee and Vasant Honavar<br />
+UAI 2015 Workshop on Advances in Causal Inference<br />
+<a href="http://dl.acm.org/citation.cfm?id=3020273">[paper]</a></p>
+
+<p><button type="button" class="btn btn-set1-2">TR</button>  <strong>Transportability from Multiple Environments with Limited Experiments</strong><br />
+Elias Bareinboim*, Sanghack Lee*, Vasant Honavar, and Judea Pearl<br />
+NeurIPS 2013<br />
+<a href="https://papers.nips.cc/paper/5536-transportability-from-multiple-environments-with-limited-experiments-completeness-results">[paper]</a></p>
+
+<p><button type="button" class="btn btn-set1-2">TR</button> <strong>Causal Transportability of Experiments on Controllable Subsets of Variables: z-Transportability</strong><br />
+Sanghack Lee and Vasant Honavar<br />
+UAI 2013<br />
+<a href="http://dl.acm.org/citation.cfm?id=3023675">[paper]</a></p>
+
+<p><button type="button" class="btn btn-set1-2">TR</button> <strong>m-Transportability: Transportability of a Causal Effect from Multiple Environments</strong><br />
+Sanghack Lee and Vasant Honavar<br />
+AAAI 2013<br /></p>
+
+<p><strong>Learning Classifiers from Distributional Data</strong><br />
+Harris Lin*, Sanghack Lee*, Ngot Bui*, and Vasant Honavar<br />
+IEEE Second International Congress on Big Data</p>
+
+<!-- - (pre-PhD) A New Polynimial Time Algorithm for Bayesian Network Structure Learning
+In Proceedings of the Second International Conference on Advanced Data Mining and Applications (ADMA 2006). pp. 501-508. (LNAI 4093)
+- (pre-PhD) Discovery of Hidden Similarity on Collaborative Filtering to Overcome Sparsity Problem
+In Proceedings of the Seventh International Conference on Discovery Science (DS 2004). Padova, Italy. pp. 396-402. (LNAI 3245)
+ -->
+:ET

@@ -187,3 +187,28 @@
 	color: white;
 	border: 1px solid #ff7f00;
 }
+
+
+
+
+.popup-overlay {
+	visibility:hidden;
+	display:none;
+}
+.popup-overlay.active {
+	visibility: visible;
+	display:block;
+	text-align: center;
+}
+
+.popup-content {
+	visibility: hidden;
+	display:none;
+}
+
+.popup-content.active {
+	visibility: visible;
+	display:block;
+}
+
+  

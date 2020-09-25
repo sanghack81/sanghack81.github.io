@@ -17,6 +17,7 @@ and developing theory of causal effect identifiability and transportability.
 
 
 ## news
+- (Sep 2020) A paper on exploring the optimal policy for structural causal bandits accepted at NeurIPS'20!
 - (Aug 2020) Invited talk at CSE AIGS, POSTECH, South Korea
 - (Jun 2020) A paper on identifiability with partial-observability is accepted at ICML'20.
 - (Feb 2020) Attended AAAI'20 to present general identifiability and transportability papers.
@@ -26,9 +27,13 @@ and developing theory of causal effect identifiability and transportability.
 - (May 2019) Two papers are accepted at UAI'19.
 - (Apr 2019) Invited talk at ISysE, KAIST, South Korea
 - (Oct 2018) A paper is accepted at AAAI'19 ([aloha!](https://aaai.org/Conferences/AAAI-19/aaai19call/)).
-- (Sep 2018) My [paper](https://causalai.net/r36.pdf) (with Prof. Bareinboim) is accepted at [NIPS'18](https://nips.cc/Conferences/2018/Schedule?showEvent=11265). 
-- (Apr 2018) I am now a postdoc at Purdue with Prof. Bareinboim.
+- (Sep 2018) My [paper](https://causalai.net/r36.pdf) (with Prof. Bareinboim) is accepted at [NeurIPS'18](https://nips.cc/Conferences/2018/Schedule?showEvent=11265). 
+
+
+
+<!-- - (Apr 2018) I am now a postdoc at Purdue with Prof. Bareinboim.
 - (Jan 2018) I successfully defended my PhD dissertation.
 - (Aug 2017) I presented my papers at UAI 2017 and Causality Workshop@UAI, Sydney.
 - (Jun 2017) Two papers are accepted at UAI 2017.
 
+ -->
