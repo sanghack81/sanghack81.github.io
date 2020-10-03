@@ -90,7 +90,8 @@ AAAI 2020<br>
 <button type="button" class="btn btn-set1-1">ID</button> **Identifiability from a Combination of Observations and Experiments** <br>
 Sanghack Lee, Juan D. Correa, and Elias Bareinboim<br>
 AAAI 2020 <br>
-[\[paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/7119/6973)
+[\[paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/7119/6973), [\[slides\]](/assets/AAAI2020-GID-key.pdf) 
+
 
 
 <button type="button" class="btn btn-set1-1">ID</button> **General Identifiability with Arbitrary Surrogate Experiments** <br>
