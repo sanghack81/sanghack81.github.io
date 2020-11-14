@@ -45,12 +45,13 @@ Creates the popup body
 <button class="openaa">Open</button>
  -->
 
+## Publications
   
-
-
 I have published papers in AI and ML conferences (e.g., UAI, NeurIPS, ICML, AAAI).
 Within the scope of causal inference, I investigated the problem of **causal effect identifiability** <button type="button" class="btn btn-set1-1">ID</button> allowing causal inference engines to take more diverse sets of data. In parallel, I also studied on the identifiability problem for heterogeneous domains (similar to the underlying ideas of domain adaptation or transfer learning in ML) called **transportability** <button type="button" class="btn btn-set1-2">TR</button>. I also pursue research in **decision-making** <button type="button" class="btn btn-set1-3">DM</button> where causality serves as the first principle to solve the problem.
 During my PhD study, I mostly spent time on understanding causal discovery from **relational data** <button type="button" class="btn btn-set1-4">REL</button> such as relational conditional independence, relational Markov equivalence classes, relational causal discovery algorithms both theoretical and practical.
+
+[[Google Scholar](https://scholar.google.com/citations?hl=en&user=hsxjzdkAAAAJ&view_op=list_works&sortby=pubdate)]
 
 **Collaborators**: [Juan D. Correa](http://jdcorrea.me), [Aria Khademi](https://sites.psu.edu/khademi/), [Elias Bareinboim](https://causalai.net), [Vasant Honavar](https://faculty.ist.psu.edu/vhonavar/index.htm)
 
@@ -71,7 +72,8 @@ Conditional Independence Test <button type="button" class="btn btn-danger">CIT</
 
 <button type="button" class="btn btn-set1-3">DM</button> **Characterizing Optimal Mixed Policies: Where to Intervene and What to Observe**<br>
 Sanghack Lee and Elias Bareinboim<br> 
-NeurIPS 2020 (forthcoming)<br>
+NeurIPS 2020<br>
+[\[paper\]](/assets/r63-reprint.pdf), [\[slides\]](/assets/2020-neurips-presentation.pdf), [\[poster\]](/assets/2020-neurips-sanghack-poster.pdf)
 
 
 <button type="button" class="btn btn-set1-1">ID</button> **Causal Effect Identifiability under Partial-Observability** <br>
@@ -81,7 +83,7 @@ ICML 2020<br>
 
 
 
-<button type="button" class="btn btn-set1-2">TR</button> **Generalized Transportability: Synthesis of Experiments from Heterogeneous Domains** <br>
+<button type="button" class="btn btn-set1-2">TR</button> **General Transportability --- Synthesizing Experiments from Heterogeneous Domains** <br>
 Sanghack Lee, Juan D. Correa, and Elias Bareinboim<br>
 AAAI 2020<br>
 [\[paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/6582/6438)
