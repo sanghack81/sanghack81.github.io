@@ -222,10 +222,19 @@
   display: inline;
   margin: 0 auto;
   margin-left: 0%; //centers the image
-  height: 100%;
+  height: 250px;
   width: auto;
 }
 
+h2  {
+color: #34495E;
+}
+
+a { color: #2a7ae2; text-decoration: none; }
+
+a:visited { color: #1756a9; }
+
+a:hover { color: #111; text-decoration: underline; }
 
 #container {
   display: flex;                  /* establish flex container */
