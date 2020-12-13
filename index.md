@@ -43,7 +43,7 @@ During my Ph.D. study, I focused on causal discovery in relational domain.<br>
 ## Research Interests
 
 - **Causal Inference** (how can we identify the effect of an intervention?),  **Causal Decision Making** (how can we utilize causal information in decision making?),  **Causal Discovery** (how can we establish causal relationships from complex data?) 
-- (Future) Developing theories and applications for *health* and *social* domains with causality as a first principle by bringing ideas from *economics*. Developing machine learning algorithms utilizing causal knowledge. Studying 
+- (Future) Developing theories and applications for *health* and *social* domains with causality as a first principle by bringing ideas from *economics*. Developing robust machine learning algorithms utilizing causal knowledge.
 
 
 <p style="margin-bottom:1.25cm;"></p>
