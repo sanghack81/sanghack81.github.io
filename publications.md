@@ -19,6 +19,8 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 \* for joint first authorship
 
+<p style="margin-bottom:1.25cm;"></p>
+
 
 <button type="button" class="btn btn-set1-3">DM</button> Characterizing Optimal Mixed Policies: Where to Intervene and What to Observe [\[paper\]](/assets/r63-reprint.pdf), [\[slides\]](/assets/2020-neurips-presentation.pdf), [\[poster\]](/assets/2020-neurips-sanghack-poster.pdf)<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2020<br> 
 
@@ -45,6 +47,7 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 <button type="button" class="btn btn-set1-3">DM</button>  Structural Causal Bandits: Where to Intervene? [\[paper\]](https://causalai.net/r36.pdf), [\[code\]](https://github.com/sanghack81/SCMMAB-NIPS2018), [\[poster\]](/assets/nips2018-poster.pdf)<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2018<br> 
 
+<p style="margin-bottom:1.25cm;"></p>
 
 ### Pre-Ph.D. ---
 

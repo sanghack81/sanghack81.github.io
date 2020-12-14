@@ -4,23 +4,7 @@ exclude: true
 ---
 
 
-<!-- ## about me -->
-
-
-<!-- <p>
-**Associate Research Scientist**,<br>
-Computer Science, <br>
-Columbia University.	
-</p>
- -->
-
-
 <div id="container">
-	<!--   <div float="left" border=10px>
-  	 <div class="image-cropper">-->
-
-<!-- </div>
-  </div> -->
   <img src="assets/slee.jpeg" class="profile-pic"/>
   <div id="aboutme" float="right">
 <p style="margin-bottom:3mm;">
@@ -29,15 +13,14 @@ I got my Ph.D. in College of Information Sciences and Technology (with computer 
 </p>
 Currently, I am working on developing methods for applying causality in sequential decision-making
 and developing theory of causal effect identifiability and transportability.
-During my Ph.D. study, I focused on causal discovery in relational domain.<br>
+During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 [<a href="/assets/cv.pdf">Curriculum Vitae</a>]
   </div>
   
 </div>
 
 <br>
-<!-- , 
-[<a href="https://linkedin.com/in/sanghack-lee-65b52a28"><i class="fa fa-linkedin"></i>LinkedIn</a>] -->
+
 
 <p style="margin-bottom:1.25cm;"></p>
 ## Research Interests
@@ -54,10 +37,7 @@ During my Ph.D. study, I focused on causal discovery in relational domain.<br>
 | **Purdue University**  | |Postdoctoral Research Associate | |2018---2019 |
 | **Pennsylvania State University** | |Ph.D. | |2013---2018 |
 
-<!-- - ,  Associate Research Scientist, (2019--present)
-- Purdue University, Postdoctoral Research Associate, (2018--2019) 
-- (2013--2018) Ph.D. Pennsylvania State University, University Park, 
- --><!-- - BE & MSc Sogang University (South Korea)  -->
+
 <p style="margin-bottom:1.25cm;"></p>
 
 
@@ -84,12 +64,3 @@ Program Committee for
 - 2020 NeurIPS, UAI, ICML, AAAI, AISTATS, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Journal of Artificial Intelligence (AIJ), Journal of Causal Inference (JCI), [NeurIPS Workshop on Causal Discovery and Causality-Inspired Machine Learning](https://www.cmu.edu/dietrich/causality/neurips20ws/) (CDML, Area Chair)
 - 2019 NeurIPS, [WHY conference](https://why19.causalai.net),
  Journal of Machine Learning Research (JMLR), 2017 [Causality Workshop at UAI](https://causalai.net/causal-uai17/), 2016 ACM CHI, 2014 ACM Transactions on Intelligent Systems and Technology
-
-
-
-<!-- - (Apr 2018) I am now a postdoc at Purdue with Prof. Bareinboim.
-- (Jan 2018) I successfully defended my PhD dissertation.
-- (Aug 2017) I presented my papers at UAI 2017 and Causality Workshop@UAI, Sydney.
-- (Jun 2017) Two papers are accepted at UAI 2017.
-
- -->
