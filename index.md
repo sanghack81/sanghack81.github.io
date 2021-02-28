@@ -8,8 +8,11 @@ exclude: true
   <img src="assets/slee.jpeg" class="profile-pic"/>
   <div id="aboutme" float="right">
 <p style="margin-bottom:3mm;">
-	I am an <b>Associate Research Scientist</b> at <b>Columbia University</b>  working with Prof. <a href="http://causalai.net">Elias Bareinboim</a>. Prior to joining Columbia University, I was a Postdoctoral Research Associate at Computer Science, Purdue University.
-I got my Ph.D. in College of Information Sciences and Technology (with computer science background), Pennsylvania State University, University Park, under the supervision of Prof. <a href="https://faculty.ist.psu.edu/vhonavar/index.htm">Vasant Honavar</a>.
+	I am an <b>Assistant Professor</b> in the <a href="https://gsds.snu.ac.kr">Graduate School of Data Science</a> at <a href="https://www.snu.ac.kr">Seoul National University</a>. Prior to joining Seoul National University, 
+	I was an 
+	Associate Research Scientist at Columbia University and Postdoctoral Research Associate at Computer Science, Purdue University
+	working with Prof. <a href="http://causalai.net">Elias Bareinboim</a>.
+	I got my Ph.D. in College of Information Sciences and Technology, Pennsylvania State University, University Park, under the supervision of Prof. <a href="https://faculty.ist.psu.edu/vhonavar/index.htm">Vasant Honavar</a>.
 </p>
 Currently, I am working on developing methods for applying causality in sequential decision-making
 and developing theory of causal effect identifiability and transportability.
@@ -43,6 +46,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 
 ## News
+- (Mar 2021) I joined Graduate School of Data Science at Seoul National University as an Assistant Professor.
 - (Sep 2020) A paper on exploring the optimal policy for structural causal bandits accepted at **NeurIPS'20**!
 - (Aug 2020) Invited talk at CSE AIGS, POSTECH, South Korea
 - (Jun 2020) A paper on identifiability with partial-observability is accepted at **ICML'20**.
@@ -52,8 +56,8 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 - (Jul 2019) I am joining Columbia University as an Associate Research Scientist!
 - (May 2019) Two papers are accepted at **UAI'19**.
 - (Apr 2019) Invited talk at ISysE, KAIST, South Korea
-- (Oct 2018) A paper is accepted at **AAAI'19** aloha!
-- (Sep 2018) My paper (with Prof. Bareinboim) is accepted at **[NeurIPS'18](https://nips.cc/Conferences/2018/Schedule?showEvent=11265)**. 
+<!-- - (Oct 2018) A paper is accepted at **AAAI'19** aloha!
+- (Sep 2018) My paper (with Prof. Bareinboim) is accepted at **[NeurIPS'18](https://nips.cc/Conferences/2018/Schedule?showEvent=11265)**.  -->
 
 <p style="margin-bottom:1.25cm;"></p>
 ## Academic Activities
