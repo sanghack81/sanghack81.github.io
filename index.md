@@ -56,8 +56,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 - (Jul 2019) I am joining Columbia University as an Associate Research Scientist!
 - (May 2019) Two papers are accepted at **UAI'19**.
 - (Apr 2019) Invited talk at ISysE, KAIST, South Korea
-<!-- - (Oct 2018) A paper is accepted at **AAAI'19** aloha!
-- (Sep 2018) My paper (with Prof. Bareinboim) is accepted at **[NeurIPS'18](https://nips.cc/Conferences/2018/Schedule?showEvent=11265)**.  -->
+
 
 <p style="margin-bottom:1.25cm;"></p>
 ## Academic Activities
