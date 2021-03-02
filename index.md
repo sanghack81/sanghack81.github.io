@@ -36,7 +36,8 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 ## Employment & Education
 
 | :--- || ---: | ---: | ---: |
-| **Columbia Univeristy**  || Associate Research Scientist | |2019---present |
+| **Seoul National University**  || Associate Research Scientist | |2021---present |
+| **Columbia Univeristy**  || Associate Research Scientist | |2019---2021 |
 | **Purdue University**  | |Postdoctoral Research Associate | |2018---2019 |
 | **Pennsylvania State University** | |Ph.D. | |2013---2018 |
 
