@@ -56,7 +56,6 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 - (Jul 2019) I am thrilled to announce that my paper on general identifiability won the **best paper award** at **UAI'19**.
 - (Jul 2019) I am joining Columbia University as an Associate Research Scientist!
 - (May 2019) Two papers are accepted at **UAI'19**.
-- (Apr 2019) Invited talk at ISysE, KAIST, South Korea
 
 
 <p style="margin-bottom:1.25cm;"></p>
@@ -64,7 +63,8 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 Program Committee for 
 
-- 2021 ICLR, AAAI, AISTATS, UAI, ICML
+- 2022 ICLR
+- 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, Journal or Artificial Intelligence Research
 - 2020 NeurIPS, UAI, ICML, AAAI, AISTATS, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Journal of Artificial Intelligence (AIJ), Journal of Causal Inference (JCI), [NeurIPS Workshop on Causal Discovery and Causality-Inspired Machine Learning](https://www.cmu.edu/dietrich/causality/neurips20ws/) (CDML, Area Chair)
 - 2019 NeurIPS, [WHY conference](https://why19.causalai.net),
  Journal of Machine Learning Research (JMLR), 2017 [Causality Workshop at UAI](https://causalai.net/causal-uai17/), 2016 ACM CHI, 2014 ACM Transactions on Intelligent Systems and Technology
