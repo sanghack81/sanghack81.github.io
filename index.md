@@ -64,7 +64,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 Program Committee for 
 
 - 2022 ICLR
-- 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, Journal or Artificial Intelligence Research
+- 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, Journal of Artificial Intelligence Research
 - 2020 NeurIPS, UAI, ICML, AAAI, AISTATS, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Journal of Artificial Intelligence (AIJ), Journal of Causal Inference (JCI), [NeurIPS Workshop on Causal Discovery and Causality-Inspired Machine Learning](https://www.cmu.edu/dietrich/causality/neurips20ws/) (CDML, Area Chair)
 - 2019 NeurIPS, [WHY conference](https://why19.causalai.net),
  Journal of Machine Learning Research (JMLR), 2017 [Causality Workshop at UAI](https://causalai.net/causal-uai17/), 2016 ACM CHI, 2014 ACM Transactions on Intelligent Systems and Technology
