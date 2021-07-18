@@ -21,6 +21,11 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 <p style="margin-bottom:1.25cm;"></p>
 
+<button type="button" class="btn btn-set1-1">ID</button> Nested Counterfactual Identification from Arbitrary Surrogate Experiments [\[paper\]](https://arxiv.org/abs/2107.03190)<br> Juan D. Correa, **Sanghack Lee** and Elias Bareinboim<br> submitted<br> 
+
+
+<button type="button" class="btn btn-set1-1">ID</button> Causal Identification with Matrix Equations [\[paper\]](https://causalai.net/r70.pdf)<br> **Sanghack Lee** and Elias Bareinboim<br> submitted<br> 
+
 
 <button type="button" class="btn btn-set1-3">DM</button> Characterizing Optimal Mixed Policies: Where to Intervene and What to Observe [\[paper\]](/assets/r63-reprint.pdf), [\[slides\]](/assets/2020-neurips-presentation.pdf), [\[poster\]](/assets/2020-neurips-sanghack-poster.pdf)<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2020<br> 
 
