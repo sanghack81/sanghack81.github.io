@@ -68,3 +68,14 @@ Program Committee for
 - 2020 NeurIPS, UAI, ICML, AAAI, AISTATS, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Journal of Artificial Intelligence (AIJ), Journal of Causal Inference (JCI), [NeurIPS Workshop on Causal Discovery and Causality-Inspired Machine Learning](https://www.cmu.edu/dietrich/causality/neurips20ws/) (CDML, Area Chair)
 - 2019 NeurIPS, [WHY conference](https://why19.causalai.net),
  Journal of Machine Learning Research (JMLR), 2017 [Causality Workshop at UAI](https://causalai.net/causal-uai17/), 2016 ACM CHI, 2014 ACM Transactions on Intelligent Systems and Technology
+
+
+## Advisee
+
+- Yesong Choe (Ph.D. program 2021~)
+- Yeahoon Kwon (Ph.D. program 2021~)
+- Chaeyoung Chung (master program 2021~)
+- Juhyeon Kim (master program 2021~)
+- Taehan Kim (master program 2021~)
+- Dong Kyu Cho (master program 2021~)
+- Jewon Kang (master program 2021~)
