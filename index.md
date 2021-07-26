@@ -47,6 +47,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 
 ## News
+- (Jul 2021) A paper on 'counterfactual identification' (joint work with Correa and Bareinboim) is online.
 - (Mar 2021) I joined Graduate School of Data Science at Seoul National University as an Assistant Professor.
 - (Sep 2020) A paper on exploring the optimal policy for structural causal bandits accepted at **NeurIPS'20**!
 - (Aug 2020) Invited talk at CSE AIGS, POSTECH, South Korea
