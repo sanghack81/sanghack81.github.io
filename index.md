@@ -47,6 +47,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 
 ## News
+- (Dec 2021) Two papers on identification accepted to NeurIPS 2021 and a paper to a sequential decision making workshop at NeurIPS.
 - (Jul 2021) A paper on 'counterfactual identification' (joint work with Correa and Bareinboim) is online.
 - (Mar 2021) I joined Graduate School of Data Science at Seoul National University as an Assistant Professor.
 - (Sep 2020) A paper on exploring the optimal policy for structural causal bandits accepted at **NeurIPS'20**!
@@ -56,7 +57,6 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 - (Nov 2019) A paper on transportability is accepted at **AAAI'20**. Additionally, the GID paper is invited to a sister track.
 - (Jul 2019) I am thrilled to announce that my paper on general identifiability won the **best paper award** at **UAI'19**.
 - (Jul 2019) I am joining Columbia University as an Associate Research Scientist!
-- (May 2019) Two papers are accepted at **UAI'19**.
 
 
 <p style="margin-bottom:1.25cm;"></p>
@@ -64,8 +64,8 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 Program Committee for 
 
-- 2022 ICLR
-- 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, Journal of Artificial Intelligence Research
+- 2022 ICLR, AAAI, AISTATS, CLeaR, ICML, UAI
+- 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, Journal of Artificial Intelligence Research, NeurIPS Workshop on Causal Inference and Machine Learning: Why now?
 - 2020 NeurIPS, UAI, ICML, AAAI, AISTATS, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Journal of Artificial Intelligence (AIJ), Journal of Causal Inference (JCI), [NeurIPS Workshop on Causal Discovery and Causality-Inspired Machine Learning](https://www.cmu.edu/dietrich/causality/neurips20ws/) (CDML, Area Chair)
 - 2019 NeurIPS, [WHY conference](https://why19.causalai.net),
  Journal of Machine Learning Research (JMLR), 2017 [Causality Workshop at UAI](https://causalai.net/causal-uai17/), 2016 ACM CHI, 2014 ACM Transactions on Intelligent Systems and Technology
