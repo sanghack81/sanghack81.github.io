@@ -47,6 +47,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 
 ## News
+- (May 2022) A co-authored paper on the intersection between transportability and counterfactual identification will be presented at ICML.
 - (Dec 2021) Two papers on identification accepted to NeurIPS 2021 and a paper to a sequential decision making workshop at NeurIPS.
 - (Jul 2021) A paper on 'counterfactual identification' (joint work with Correa and Bareinboim) is online.
 - (Mar 2021) I joined Graduate School of Data Science at Seoul National University as an Assistant Professor.
@@ -55,8 +56,6 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 - (Jun 2020) A paper on identifiability with partial-observability is accepted at **ICML'20**.
 - (Feb 2020) Attended AAAI'20 to present general identifiability and transportability papers.
 - (Nov 2019) A paper on transportability is accepted at **AAAI'20**. Additionally, the GID paper is invited to a sister track.
-- (Jul 2019) I am thrilled to announce that my paper on general identifiability won the **best paper award** at **UAI'19**.
-- (Jul 2019) I am joining Columbia University as an Associate Research Scientist!
 
 
 <p style="margin-bottom:1.25cm;"></p>
@@ -64,10 +63,10 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 Program Committee for 
 
-- 2022 ICLR, AAAI, AISTATS, CLeaR, ICML, UAI
+- 2022 ICLR  (Highlighted Reviewer), AAAI, AISTATS, CLeaR, ICML, UAI, JCI
 - 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, Journal of Artificial Intelligence Research, NeurIPS Workshop on Causal Inference and Machine Learning: Why now?
-- 2020 NeurIPS, UAI, ICML, AAAI, AISTATS, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Journal of Artificial Intelligence (AIJ), Journal of Causal Inference (JCI), [NeurIPS Workshop on Causal Discovery and Causality-Inspired Machine Learning](https://www.cmu.edu/dietrich/causality/neurips20ws/) (CDML, Area Chair)
-- 2019 NeurIPS, [WHY conference](https://why19.causalai.net),
+- 2020 NeurIPS, UAI, ICML (Top Reviewer Award), AAAI, AISTATS, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Journal of Artificial Intelligence (AIJ), Journal of Causal Inference (JCI), [NeurIPS Workshop on Causal Discovery and Causality-Inspired Machine Learning](https://www.cmu.edu/dietrich/causality/neurips20ws/) (CDML, Area Chair)
+- 2019 NeurIPS (Best Reviewer Award), [WHY conference](https://why19.causalai.net),
  Journal of Machine Learning Research (JMLR), 2017 [Causality Workshop at UAI](https://causalai.net/causal-uai17/), 2016 ACM CHI, 2014 ACM Transactions on Intelligent Systems and Technology
 
 
