@@ -79,3 +79,11 @@ Program Committee for
 - Taehan Kim (master program 2021~)
 - Dong Kyu Cho (master program 2021~)
 - Jewon Kang (master program 2021~)
+
+
+
+## Projects
+
+- Self-Motivated AI (IITP, co-PI, 2022~)
+- Association and Causality in Metabolomic data (MFDS, co-PI, 2022~)
+- An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~)
