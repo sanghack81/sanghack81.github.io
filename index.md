@@ -47,6 +47,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 
 ## News
+- (July 2022) Five master students joined Causality Lab!
 - (May 2022) A co-authored paper on the intersection between transportability and counterfactual identification will be presented at ICML.
 - (Dec 2021) Two papers on identification accepted to NeurIPS 2021 and a paper to a sequential decision making workshop at NeurIPS.
 - (Jul 2021) A paper on 'counterfactual identification' (joint work with Correa and Bareinboim) is online.
@@ -54,8 +55,6 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 - (Sep 2020) A paper on exploring the optimal policy for structural causal bandits accepted at **NeurIPS'20**!
 - (Aug 2020) Invited talk at CSE AIGS, POSTECH, South Korea
 - (Jun 2020) A paper on identifiability with partial-observability is accepted at **ICML'20**.
-- (Feb 2020) Attended AAAI'20 to present general identifiability and transportability papers.
-- (Nov 2019) A paper on transportability is accepted at **AAAI'20**. Additionally, the GID paper is invited to a sister track.
 
 
 <p style="margin-bottom:1.25cm;"></p>
@@ -63,7 +62,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 Program Committee for 
 
-- 2022 ICLR  (Highlighted Reviewer), AAAI, AISTATS, CLeaR, ICML, UAI, JCI
+- 2022 ICLR  (Highlighted Reviewer), AAAI, AISTATS, CLeaR, ICML, UAI, JCI, NeurIPS
 - 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, Journal of Artificial Intelligence Research, NeurIPS Workshop on Causal Inference and Machine Learning: Why now?
 - 2020 NeurIPS, UAI, ICML (Top Reviewer Award), AAAI, AISTATS, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Journal of Artificial Intelligence (AIJ), Journal of Causal Inference (JCI), [NeurIPS Workshop on Causal Discovery and Causality-Inspired Machine Learning](https://www.cmu.edu/dietrich/causality/neurips20ws/) (CDML, Area Chair)
 - 2019 NeurIPS (Best Reviewer Award), [WHY conference](https://why19.causalai.net),
@@ -79,6 +78,12 @@ Program Committee for
 - Taehan Kim (master program 2021~)
 - Dong Kyu Cho (master program 2021~)
 - Jewon Kang (master program 2021~)
+- Jeong Ha Moon (master program 2022~)
+- Jung Soo Kim (master program 2022~)
+- Dahhee Yim (master program 2022~)
+- Jeongsup Park (master program 2022~)
+- Jonghwan Kim (master program 2022~)
+
 
 
 
