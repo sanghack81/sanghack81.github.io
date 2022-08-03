@@ -42,7 +42,7 @@ Partition-based Local Independence Discovery Inwoo Hwang, Byoung-Tak Zhang, and 
 <button type="button" class="btn btn-set1-1">ID</button> Identifiability from a Combination of Observations and Experiments [\[paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/7119/6973), [\[slides\]](/assets/AAAI2020-GID-key.pdf)<br> **Sanghack Lee**, Juan D. Correa, and Elias Bareinboim<br> AAAI 2020 <br> 
 
 
-<button type="button" class="btn btn-set1-1">ID</button> General Identifiability with Arbitrary Surrogate Experiments [\[paper\]](http://auai.org/uai2019/proceedings/papers/144.pdf) <br> **Sanghack Lee**, Juan D. Correa, and Elias Bareinboim<br> UAI 2019, <font color="#e41a1c">Best Paper Award</font> <br> 
+<button type="button" class="btn btn-set1-1">ID</button> General Identifiability with Arbitrary Surrogate Experiments [\[paper\]](https://causalai.net/r46.pdf) [\[errata\]](https://causalai.net/r46e.pdf) <br> **Sanghack Lee**, Juan D. Correa, and Elias Bareinboim<br> UAI 2019, <font color="#e41a1c">Best Paper Award</font> <br> 
 
 <button type="button" class="btn btn-set1-4">REL</button>  Towards Robust Relational Causal Discovery [\[paper\]](http://auai.org/uai2019/proceedings/papers/127.pdf) <br> **Sanghack Lee** and Vasant Honavar <br> UAI 2019<br> 
 
