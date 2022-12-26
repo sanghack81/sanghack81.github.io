@@ -74,10 +74,10 @@ Program Committee for
 - Yesong Choe (Ph.D. program 2021~)
 - Yeahoon Kwon (Ph.D. program 2021~)
 - Chaeyoung Chung (master program 2021~)
-- Juhyeon Kim (master program 2021~)
+- Juhyeon Kim (master program 2021~2023)
 - Taehan Kim (master program 2021~)
 - Dong Kyu Cho (master program 2021~)
-- Jewon Kang (master program 2021~)
+- Jewon Kang (master program 2021~2023)
 - Jeong Ha Moon (master program 2022~)
 - Jung Soo Kim (master program 2022~)
 - Dahhee Yim (master program 2022~)
@@ -87,8 +87,15 @@ Program Committee for
 
 
 
+
+
 ## Projects
 
-- Self-Motivated AI (IITP, co-PI, 2022~)
-- Association and Causality in Metabolomic data (MFDS, co-PI, 2022~)
-- An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~)
+- Self-Motivated AI (IITP, co-PI, 2022~2026)
+- An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~2024)
+- Enabling Causal Reasoning for Large Language Model (LG AI Research, PI, 2023~2024)
+
+
+### Past Projects
+
+- Association and Causality in Metabolomic data (MFDS, co-PI, 2022)

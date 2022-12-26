@@ -21,6 +21,12 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 <p style="margin-bottom:1.25cm;"></p>
 
+
+
+
+Detecting Causality by Data Augmentation via Part-of-Speech tagging<br> Juhyeon Kim, Yesong Choe and **Sanghack Lee**<br> CASE Workshop at EMNLP 2022<br> 
+
+
 <button type="button" class="btn btn-set1-2">TR</button> Counterfactual Transportability: A Formal Approach<br> Juan D. Correa, **Sanghack Lee** and Elias Bareinboim<br> ICML 2022<br> 
 
 Partition-based Local Independence Discovery Inwoo Hwang, Byoung-Tak Zhang, and **Sanghack Lee** <br> Causal Inference Challenges in Sequential Decision Making: Bridging Theory and Practice Worksop at NeurIPS 2021<br> 
