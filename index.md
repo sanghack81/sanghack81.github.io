@@ -88,7 +88,8 @@ Program Committee for
 - Kyung A Song (master program 2022~)
 - Jaeho Jeoung (master program 2022~)
 
-
+- Inwoo Hwang (Ph.D. program at Computer Science and Engineering)
+- Soheun Yi (undergraduate at Mathematical Sciences)
 
 
 
