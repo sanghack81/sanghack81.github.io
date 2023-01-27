@@ -23,6 +23,9 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 
 
+On Discovery of Local Independence over Continuous Variables via Neural Contextual Decomposition<br>
+Inwoo Hwang, Yunhyeok Kwak, Yeon-Ji Song, Byoung-Tak Zhang, **Sanghack Lee**<br> The 2nd Conference on Causal Learning and Reasoning (CLeaR) 2023 (To appear)<br>
+
 
 Detecting Causality by Data Augmentation via Part-of-Speech tagging<br> Juhyeon Kim, Yesong Choe and **Sanghack Lee**<br> CASE Workshop at EMNLP 2022<br> 
 

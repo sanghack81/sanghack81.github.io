@@ -47,14 +47,13 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 
 ## News
+- (Jan 2023) Inwoo's paper on local causal discovery using neural network is accepted at CLeaR 2023!
+- (Dec 2022) Four students joined the Lab!
 - (July 2022) Five master students joined Causality Lab!
 - (May 2022) A co-authored paper on the intersection between transportability and counterfactual identification will be presented at ICML.
 - (Dec 2021) Two papers on identification accepted to NeurIPS 2021 and a paper to a sequential decision making workshop at NeurIPS.
 - (Jul 2021) A paper on 'counterfactual identification' (joint work with Correa and Bareinboim) is online.
 - (Mar 2021) I joined Graduate School of Data Science at Seoul National University as an Assistant Professor.
-- (Sep 2020) A paper on exploring the optimal policy for structural causal bandits accepted at **NeurIPS'20**!
-- (Aug 2020) Invited talk at CSE AIGS, POSTECH, South Korea
-- (Jun 2020) A paper on identifiability with partial-observability is accepted at **ICML'20**.
 
 
 <p style="margin-bottom:1.25cm;"></p>
@@ -96,11 +95,13 @@ Program Committee for
 
 ## Projects
 
-- Self-Motivated AI (IITP, co-PI, 2022~2026)
-- An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~2024)
-- Enabling Causal Reasoning for Large Language Model (LG AI Research, PI, 2023~2024)
+- Self-Motivated AI (IITP, co-PI, 2022~26)
+- An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~24)
+- Enabling Causal Reasoning for Large Language Model (LG AI Research, PI, 2023~24)
+- Semantic Search for Korean Medical and Legal Documents (SNU, co-PI, 2022~23)
 
 
 ### Past Projects
 
 - Association and Causality in Metabolomic data (MFDS, co-PI, 2022)
+- Supply Chain based Financial Keyword Analysis (NH Investment, 2021)
