@@ -67,16 +67,23 @@ Program Committee for
 - 2019 NeurIPS (Best Reviewer Award), [WHY conference](https://why19.causalai.net),
  Journal of Machine Learning Research (JMLR), 2017 [Causality Workshop at UAI](https://causalai.net/causal-uai17/), 2016 ACM CHI, 2014 ACM Transactions on Intelligent Systems and Technology
 
+## Research Projects
+
+- Causal Machine Learning (NRF, PI, 2023~27)
+- Self-Motivated AI: Developing self-directed AI agents that can solve new problems (IITP, co-PI, 2022~26, PI: Byoung-Tak Zhang)
+- Metabolomic Big Data Analysis (MFDS, co-PI, 2023~25)
+- An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~24)
+- Semantic Search for Korean Medical and Legal Documents (SNU, co-PI, 2022~23, PI: Hyopil Shin)
 
 ## Advisee
 
 - Yesong Choe (Ph.D. program 2021~)
 - Yeahoon Kwon (Ph.D. program 2021~)
+- Juhyeon Kim (Ph.D. program 2023~)
+- Inwoo Hwang (Ph.D. program at Computer Science and Engineering, 2023~)
 - Chaeyoung Chung (master program 2021~)
-- Juhyeon Kim (master program 2021~2023)
 - Taehan Kim (master program 2021~)
 - Dong Kyu Cho (master program 2021~)
-- Jewon Kang (master program 2021~2023)
 - Jeong Ha Moon (master program 2022~)
 - Jung Soo Kim (master program 2022~)
 - Dahhee Yim (master program 2022~)
@@ -87,18 +94,13 @@ Program Committee for
 - Kyung A Song (master program 2022~)
 - Jaeho Jeoung (master program 2022~)
 
-- Inwoo Hwang (Ph.D. program at Computer Science and Engineering)
 - Soheun Yi (undergraduate at Mathematical Sciences)
 
 
 
+## Alumni 
+- Jewon Kang (master program 2021~2023, KDB)
 
-## Projects
-
-- Self-Motivated AI (IITP, co-PI, 2022~26)
-- An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~24)
-- Enabling Causal Reasoning for Large Language Model (LG AI Research, PI, 2023~24)
-- Semantic Search for Korean Medical and Legal Documents (SNU, co-PI, 2022~23)
 
 
 ### Past Projects
