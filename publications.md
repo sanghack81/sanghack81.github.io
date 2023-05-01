@@ -24,17 +24,17 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 
 On Discovery of Local Independence over Continuous Variables via Neural Contextual Decomposition<br>
-Inwoo Hwang, Yunhyeok Kwak, Yeon-Ji Song, Byoung-Tak Zhang, **Sanghack Lee**<br> The 2nd Conference on Causal Learning and Reasoning (CLeaR) 2023 (To appear)<br>
+Inwoo Hwang, Yunhyeok Kwak, Yeon-Ji Song, Byoung-Tak Zhang, **Sanghack Lee**<br> The 2nd Conference on Causal Learning and Reasoning (CLeaR) 2023 [\[paper\]](https://openreview.net/forum?id=-aFd28Uy9td)<br>
 
 
 Detecting Causality by Data Augmentation via Part-of-Speech tagging<br> Juhyeon Kim, Yesong Choe and **Sanghack Lee**<br> CASE Workshop at EMNLP 2022<br> 
 
 
-<button type="button" class="btn btn-set1-2">TR</button> Counterfactual Transportability: A Formal Approach<br> Juan D. Correa, **Sanghack Lee** and Elias Bareinboim<br> ICML 2022<br> 
+<button type="button" class="btn btn-set1-2">TR</button> Counterfactual Transportability: A Formal Approach<br> Juan D. Correa, **Sanghack Lee** and Elias Bareinboim<br> ICML 2022 [\[paper\]](https://proceedings.mlr.press/v162/correa22a.html)<br> 
 
 Partition-based Local Independence Discovery Inwoo Hwang, Byoung-Tak Zhang, and **Sanghack Lee** <br> Causal Inference Challenges in Sequential Decision Making: Bridging Theory and Practice Worksop at NeurIPS 2021<br> 
 
-<button type="button" class="btn btn-set1-1">ID</button> Nested Counterfactual Identification from Arbitrary Surrogate Experiments [\[paper\]](https://arxiv.org/abs/2107.03190)<br> Juan D. Correa, **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2021<br> 
+<button type="button" class="btn btn-set1-1">ID</button> Nested Counterfactual Identification from Arbitrary Surrogate Experiments [\[paper\]](https://arxiv.org/abs/2107.03190)<br> Juan D. Correa, **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2021 [\[paper\]](https://proceedings.neurips.cc/paper/2021/hash/36bedb6eb7152f39b16328448942822b-Abstract.html)<br> 
 
 
 <button type="button" class="btn btn-set1-1">ID</button> Causal Identification with Matrix Equations [\[paper\]](https://causalai.net/r70.pdf)<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2021<br> 
