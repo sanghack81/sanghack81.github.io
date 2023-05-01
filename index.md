@@ -59,8 +59,9 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 <p style="margin-bottom:1.25cm;"></p>
 ## Academic Activities
 
-Program Committee for 
+Program Committee/Reviewed for 
 
+- 2023 UAI, NeurIPS, Journal of Causal Inference
 - 2022 ICLR  (Highlighted Reviewer), AAAI, AISTATS, CLeaR, ICML, UAI (Top Reviewer), JCI, NeurIPS
 - 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, Journal of Artificial Intelligence Research, NeurIPS Workshop on Causal Inference and Machine Learning: Why now?
 - 2020 NeurIPS, UAI, ICML (Top Reviewer Award), AAAI, AISTATS, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Journal of Artificial Intelligence (AIJ), Journal of Causal Inference (JCI), [NeurIPS Workshop on Causal Discovery and Causality-Inspired Machine Learning](https://www.cmu.edu/dietrich/causality/neurips20ws/) (CDML, Area Chair)
@@ -69,6 +70,7 @@ Program Committee for
 
 ## Research Projects
 
+- Causal Discovery for Time Series (LG AI Research, PI, 2023.04~24.04)
 - Causal Machine Learning (NRF, PI, 2023~27)
 - Self-Motivated AI: Developing self-directed AI agents that can solve new problems (IITP, co-PI, 2022~26, PI: Byoung-Tak Zhang)
 - Metabolomic Big Data Analysis (MFDS, co-PI, 2023~25)
@@ -81,6 +83,8 @@ Program Committee for
 - Yeahoon Kwon (Ph.D. program 2021~)
 - Juhyeon Kim (Ph.D. program 2023~)
 - Inwoo Hwang (Ph.D. program at Computer Science and Engineering, 2023~)
+
+
 - Chaeyoung Chung (master program 2021~)
 - Taehan Kim (master program 2021~)
 - Dong Kyu Cho (master program 2021~)
@@ -100,6 +104,7 @@ Program Committee for
 
 ## Alumni 
 - Jewon Kang (master program 2021~2023, KDB)
+- Juhyeon Kim (master program 2021~2023, Ph.D. program)
 
 
 
