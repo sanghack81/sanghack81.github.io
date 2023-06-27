@@ -21,6 +21,11 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 <p style="margin-bottom:1.25cm;"></p>
 
+Causal Dynamics Learning with Quantized Local Independence Discovery<br>
+Inwoo Hwang, Yunhyeok Kwak, Suhyung Choi, Byoung-Tak Zhang, **Sanghack Lee**<br> 
+The Second Workshop on Spurious Correlations, Invariance and Stability at ICML 2023 (to appear)
+<br>
+
 
 
 On Discovery of Local Independence over Continuous Variables via Neural Contextual Decomposition<br>
