@@ -79,24 +79,26 @@ Program Committee/Reviewed for
 
 ## Advisee
 
-- Yesong Choe (Ph.D. program 2021~)
 - Yeahoon Kwon (Ph.D. program 2021~)
+- Yesong Choe (Ph.D. program 2021~)
 - Juhyeon Kim (Ph.D. program 2023~)
 - Inwoo Hwang (Ph.D. program at Computer Science and Engineering, 2023~)
+- Min Woo Park (master + Ph.D. program 2022~)
 
 
-- Chaeyoung Chung (master program 2021~)
 - Taehan Kim (master program 2021~)
-- Dong Kyu Cho (master program 2021~)
 - Jeong Ha Moon (master program 2022~)
 - Jung Soo Kim (master program 2022~)
 - Dahhee Yim (master program 2022~)
 - Jeongsup Park (master program 2022~)
 - Jonghwan Kim (master program 2022~)
-- Min Woo Park (master + Ph.D. program 2022~)
 - Heejin Choi (master program 2022~)
 - Kyung A Song (master program 2022~)
 - Jaeho Jeoung (master program 2022~)
+- Kwon Ho Kim (master program 2023~)
+- Jin A Choi (master program 2023~)
+- Soungmin Park (master program 2023~)
+- Oh Yoon Kwon (master program 2023~)
 
 - Soheun Yi (undergraduate at Mathematical Sciences)
 
@@ -105,6 +107,8 @@ Program Committee/Reviewed for
 ## Alumni 
 - Jewon Kang (master program 2021~2023, KDB)
 - Juhyeon Kim (master program 2021~2023, Ph.D. program)
+- Dong Kyu Cho (master program 2021, LG AI Research (intern))
+- Chaeyoung Chung (master program 2021)
 
 
 
