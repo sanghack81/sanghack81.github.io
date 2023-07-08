@@ -71,7 +71,7 @@ Program Committee/Reviewed for
 ## Research Projects
 
 - Causal Discovery for Time Series (LG AI Research, PI, 2023.04~24.04)
-- Causal Machine Learning (NRF, PI, 2023~27)
+- Causal Machine Learning (NRF, PI, 2023~27 with Innovative Research Lab Initiation Grant)
 - Self-Motivated AI: Developing self-directed AI agents that can solve new problems (IITP, co-PI, 2022~26, PI: Byoung-Tak Zhang)
 - Metabolomic Big Data Analysis (MFDS, co-PI, 2023~25)
 - An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~24)
@@ -99,6 +99,7 @@ Program Committee/Reviewed for
 - Jin A Choi (master program 2023~)
 - Soungmin Park (master program 2023~)
 - Oh Yoon Kwon (master program 2023~)
+- Hyunwoo Park (master program 2023~)
 
 - Soheun Yi (undergraduate at Mathematical Sciences)
 
