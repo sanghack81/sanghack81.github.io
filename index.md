@@ -79,10 +79,10 @@ Program Committee/Reviewed for
 
 ## Advisee
 
-- Yeahoon Kwon (Ph.D. program 2021~)
-- Yesong Choe (Ph.D. program 2021~)
+- [Yeahoon Kwon](https://deepstroy.github.io) (Ph.D. program 2021~)
+- [Yesong Choe](https://lovelyesong.github.io) (Ph.D. program 2021~)
 - Juhyeon Kim (Ph.D. program 2023~)
-- Inwoo Hwang (Ph.D. program at Computer Science and Engineering, 2023~)
+- [Inwoo Hwang](https://bluemoon010.github.io) (Ph.D. program at Computer Science and Engineering, 2023~)
 - Min Woo Park (master + Ph.D. program 2022~)
 
 
