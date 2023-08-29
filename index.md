@@ -94,7 +94,7 @@ Program Committee/Reviewed for
 - Jonghwan Kim (master program 2022~)
 - Heejin Choi (master program 2022~)
 - Kyung A Song (master program 2022~)
-- Jaeho Jeoung (master program 2022~)
+- Jaeho Jeong (master program 2022~)
 - Kwon Ho Kim (master program 2023~)
 - Jin A Choi (master program 2023~)
 - Soungmin Park (master program 2023~)
