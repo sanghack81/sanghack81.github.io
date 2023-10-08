@@ -5,7 +5,7 @@ exclude: true
 
 
 <div id="container">
-  <img src="assets/slee.jpeg" class="profile-pic"/>
+  <img src="assets/sanghack2023-face.png" class="profile-pic"/>
   <div id="aboutme" float="right">
 <p style="margin-bottom:3mm;">
 	I am an <b>Assistant Professor</b> in the <a href="https://gsds.snu.ac.kr">Graduate School of Data Science</a> at <a href="https://www.snu.ac.kr">Seoul National University</a>. Prior to joining Seoul National University, 
@@ -70,11 +70,12 @@ Program Committee/Reviewed for
 
 ## Research Projects
 
-- Causal Discovery for Time Series (LG AI Research, PI, 2023.04~24.04)
 - Causal Machine Learning (NRF, PI, 2023~27 with Innovative Research Lab Initiation Grant)
 - Self-Motivated AI: Developing self-directed AI agents that can solve new problems (IITP, co-PI, 2022~26, PI: Byoung-Tak Zhang)
+- Center for Optimizing Hyperscale AI Models and Platforms (NRF, co-PI, 2023.06~, PI: Jaejin Lee)
 - Metabolomic Big Data Analysis (MFDS, co-PI, 2023~25)
 - An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~24)
+- Causal Discovery for Time Series (LG AI Research, PI, 2023.04~24.04)
 - Semantic Search for Korean Medical and Legal Documents (SNU, co-PI, 2022~23, PI: Hyopil Shin)
 
 ## Advisee
@@ -101,7 +102,6 @@ Program Committee/Reviewed for
 - Oh Yoon Kwon (master program 2023~)
 - Hyunwoo Park (master program 2023~)
 
-- Soheun Yi (undergraduate at Mathematical Sciences)
 
 
 
@@ -110,6 +110,7 @@ Program Committee/Reviewed for
 - Juhyeon Kim (master program 2021~2023, Ph.D. program)
 - Dong Kyu Cho (master program 2021, LG AI Research (intern))
 - Chaeyoung Chung (master program 2021)
+- Soheun Yi (undergraduate at Mathematical Sciences, Ph.D. program at Carnegie Mellon University)
 
 
 
