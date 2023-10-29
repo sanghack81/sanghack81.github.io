@@ -8,7 +8,7 @@ permalink: /publications/
   
 I have published papers in AI and ML conferences (e.g., UAI, NeurIPS, ICML, AAAI).
 Within the scope of causal inference, I investigated the problem of **causal effect identifiability** <button type="button" class="btn btn-set1-1">ID</button> allowing causal inference engines to take more diverse sets of data. In parallel, I also studied on the identifiability problem for heterogeneous domains (similar to the underlying ideas of domain adaptation or transfer learning in ML) called **transportability** <button type="button" class="btn btn-set1-2">TR</button>. I also pursue research in **decision-making** <button type="button" class="btn btn-set1-3">DM</button> where causality serves as the first principle to solve the problem.
-During my PhD study, I mostly spent time on understanding causal discovery from **relational data** <button type="button" class="btn btn-set1-4">REL</button> such as relational conditional independence, relational Markov equivalence classes, relational causal discovery algorithms both theoretical and practical.
+During my PhD study, I mostly spent time on understanding causal discovery from **relational data** <button type="button" class="btn btn-set1-4">REL</button> such as relational conditional independence, relational Markov equivalence classes, relational causal discovery algorithms both theoretical and practical. Recently, I am interested in the intersection of causality and machine learning <button type="button" class="btn btn-set1-5">CML</button>(e.g., causal representation learning).
 
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=hsxjzdkAAAAJ&view_op=list_works&sortby=pubdate)]
 
@@ -22,28 +22,28 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 <p style="margin-bottom:1.25cm;"></p>
 
 
-Learning to ignore: Single Source Domain Generalization via Oracle Regularization<br>
+<button type="button" class="btn btn-set1-5">CML</button> Learning to ignore: Single Source Domain Generalization via Oracle Regularization<br>
 Dong Kyu Cho, **Sanghack Lee**<br>
 Causal Representation Learning Workshop at NeurIPS 2023<br>
 
 
-Quantized Local Independence Discovery for Fine-Grained Causal Dynamics Learning in Reinforcement Learning<br>
+<button type="button" class="btn btn-set1-5">CML</button> Quantized Local Independence Discovery for Fine-Grained Causal Dynamics Learning in Reinforcement Learning<br>
 Inwoo Hwang, Yunhyeok Kwak, Suhyung Choi, Byoung-Tak Zhang, **Sanghack Lee**<br> 
 GenPlan 2023: Seventh Workshop on Generalization in Planning at NeurIPS 2023<br>
 
 
-Causal Dynamics Learning with Quantized Local Independence Discovery<br>
+<button type="button" class="btn btn-set1-5">CML</button> Causal Dynamics Learning with Quantized Local Independence Discovery<br>
 Inwoo Hwang, Yunhyeok Kwak, Suhyung Choi, Byoung-Tak Zhang, **Sanghack Lee**<br> 
 The Second Workshop on Spurious Correlations, Invariance and Stability at ICML 2023
 <br>
 
 
 
-On Discovery of Local Independence over Continuous Variables via Neural Contextual Decomposition<br>
+<button type="button" class="btn btn-set1-5">CML</button> On Discovery of Local Independence over Continuous Variables via Neural Contextual Decomposition<br>
 Inwoo Hwang, Yunhyeok Kwak, Yeon-Ji Song, Byoung-Tak Zhang, **Sanghack Lee**<br> The 2nd Conference on Causal Learning and Reasoning (CLeaR) 2023 [\[paper\]](https://openreview.net/forum?id=-aFd28Uy9td)<br>
 
 
-Detecting Causality by Data Augmentation via Part-of-Speech tagging<br> Juhyeon Kim, Yesong Choe and **Sanghack Lee**<br> CASE Workshop at EMNLP 2022<br> 
+<button type="button" class="btn btn-set1-5">CRL</button> Detecting Causality by Data Augmentation via Part-of-Speech tagging<br> Juhyeon Kim, Yesong Choe and **Sanghack Lee**<br> CASE Workshop at EMNLP 2022<br> 
 
 
 <button type="button" class="btn btn-set1-2">TR</button> Counterfactual Transportability: A Formal Approach<br> Juan D. Correa, **Sanghack Lee** and Elias Bareinboim<br> ICML 2022 [\[paper\]](https://proceedings.mlr.press/v162/correa22a.html)<br> 
