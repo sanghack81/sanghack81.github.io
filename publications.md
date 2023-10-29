@@ -43,7 +43,7 @@ The Second Workshop on Spurious Correlations, Invariance and Stability at ICML 2
 Inwoo Hwang, Yunhyeok Kwak, Yeon-Ji Song, Byoung-Tak Zhang, **Sanghack Lee**<br> The 2nd Conference on Causal Learning and Reasoning (CLeaR) 2023 [\[paper\]](https://openreview.net/forum?id=-aFd28Uy9td)<br>
 
 
-<button type="button" class="btn btn-set1-5">CRL</button> Detecting Causality by Data Augmentation via Part-of-Speech tagging<br> Juhyeon Kim, Yesong Choe and **Sanghack Lee**<br> CASE Workshop at EMNLP 2022<br> 
+<button type="button" class="btn btn-set1-5">CML</button> Detecting Causality by Data Augmentation via Part-of-Speech tagging<br> Juhyeon Kim, Yesong Choe and **Sanghack Lee**<br> CASE Workshop at EMNLP 2022<br> 
 
 
 <button type="button" class="btn btn-set1-2">TR</button> Counterfactual Transportability: A Formal Approach<br> Juan D. Correa, **Sanghack Lee** and Elias Bareinboim<br> ICML 2022 [\[paper\]](https://proceedings.mlr.press/v162/correa22a.html)<br> 
