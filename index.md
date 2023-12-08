@@ -47,6 +47,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 
 ## News
+- (Nov 2023) Two NeurIPS workshop papers are accepted.
 - (Jul 2023) Five master students joined the Lab.
 - (Jun 2023) Causal dynamics learning paper by Inwoo is accepted to a workshop at ICML 2023.
 - (Jan 2023) Inwoo's paper on local causal discovery using neural network is accepted at CLeaR 2023!
@@ -64,7 +65,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 Program Committee/Reviewed for 
 
 - 2024 CLeaR, AISTATS
-- 2023 UAI, NeurIPS, Journal of Causal Inference
+- 2023 UAI, NeurIPS (Top Reviewer), Journal of Causal Inference
 - 2022 ICLR  (Highlighted Reviewer), AAAI, AISTATS, CLeaR, ICML, UAI (Top Reviewer), JCI, NeurIPS
 - 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, Journal of Artificial Intelligence Research, NeurIPS Workshop on Causal Inference and Machine Learning: Why now?
 - 2020 NeurIPS, UAI, ICML (Top Reviewer Award), AAAI, AISTATS, IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Journal of Artificial Intelligence (AIJ), Journal of Causal Inference (JCI), [NeurIPS Workshop on Causal Discovery and Causality-Inspired Machine Learning](https://www.cmu.edu/dietrich/causality/neurips20ws/) (CDML, Area Chair)
@@ -83,6 +84,7 @@ Program Committee/Reviewed for
 
 ## Advisee
 
+### Ph.D. and Integrated Master/Ph.D. programs
 - [Yeahoon Kwon](https://deepstroy.github.io) (Ph.D. program 2021~)
 - [Yesong Choe](https://lovelyesong.github.io) (Ph.D. program 2021~)
 - Juhyeon Kim (Ph.D. program 2023~)
@@ -90,6 +92,7 @@ Program Committee/Reviewed for
 - Min Woo Park (master + Ph.D. program 2022~)
 
 
+### Master program 
 - Taehan Kim (master program 2021~)
 - Jeong Ha Moon (master program 2022~)
 - Jung Soo Kim (master program 2022~)
