@@ -85,28 +85,28 @@ Program Committee/Reviewed for
 ## Advisee
 
 ### Ph.D. and Integrated Master/Ph.D. programs
-- [Yeahoon Kwon](https://deepstroy.github.io) (Ph.D. program 2021~)
-- [Yesong Choe](https://lovelyesong.github.io) (Ph.D. program 2021~)
-- Juhyeon Kim (Ph.D. program 2023~)
+- [Yeahoon Kwon](https://deepstroy.github.io) (2021~)
+- [Yesong Choe](https://lovelyesong.github.io) (2021~)
+- Juhyeon Kim (2023~)
 - [Inwoo Hwang](https://bluemoon010.github.io) (Ph.D. program at Computer Science and Engineering, 2023~)
-- Min Woo Park (master + Ph.D. program 2022~)
+- Min Woo Park (2022~)
 
 
 ### Master program 
-- Taehan Kim (master program 2021~)
-- Jeong Ha Moon (master program 2022~)
-- Jung Soo Kim (master program 2022~)
-- Dahhee Yim (master program 2022~)
-- Jeongsup Park (master program 2022~)
-- Jonghwan Kim (master program 2022~)
-- Heejin Choi (master program 2022~)
-- Kyung A Song (master program 2022~)
-- Jaeho Jeong (master program 2022~)
-- Kwon Ho Kim (master program 2023~)
-- Jin A Choi (master program 2023~)
-- Soungmin Park (master program 2023~)
-- Oh Yoon Kwon (master program 2023~)
-- Hyunwoo Park (master program 2023~)
+- Taehan Kim (2021~)
+- Jeong Ha Moon (2022~)
+- Jung Soo Kim (2022~)
+- Dahhee Yim (2022~)
+- Jeongsup Park (2022~)
+- Jonghwan Kim (2022~)
+- Heejin Choi (2022~)
+- Kyung A Song (2022~)
+- Jaeho Jeong (2022~)
+- Kwon Ho Kim (2023~)
+- Jin A Choi (2023~)
+- Soungmin Park (2023~)
+- Oh Yoon Kwon (2023~)
+- Hyunwoo Park (2023~)
 
 
 
