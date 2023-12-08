@@ -113,7 +113,7 @@ Program Committee/Reviewed for
 
 ## Alumni 
 - Jewon Kang (master program 2021~2023, KDB)
-- Juhyeon Kim (master program 2021~2023, Ph.D. program)
+<!-- - Juhyeon Kim (master program 2021~2023, Ph.D. program)-->
 - Dong Kyu Cho (master program 2021, LG AI Research (intern))
 - Chaeyoung Chung (master program 2021)
 - Soheun Yi (undergraduate at Mathematical Sciences, Ph.D. program at Carnegie Mellon University)
