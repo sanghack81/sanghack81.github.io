@@ -26,6 +26,7 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 - Causality-inspired Domain Generalization
 - Fine-grained Causal Dynamics Learning
 - Sequential Adjustment Criterion
+- On Value of Information in Insoluble Decision
 - Representation Learning for Instrumental Variables
 - Regularized Synthetic Control
 - Robust Differences-in-Differences
