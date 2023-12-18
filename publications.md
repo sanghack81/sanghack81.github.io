@@ -22,6 +22,7 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 ### Working Papers
 
 - Cyclic Causal Discovery
+- LLM-Guided Causal Discovery
 - Causal Inference under Weaker Assumption
 - Causality-inspired Domain Generalization
 - Fine-grained Causal Dynamics Learning
