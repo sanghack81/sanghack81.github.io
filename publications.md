@@ -17,10 +17,23 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 
 
-\* for joint first authorship
 
 <p style="margin-bottom:1.25cm;"></p>
+### Working Papers
 
+- Cyclic Causal Discovery
+- Causal Inference under Weaker Assumption
+- Causality-inspired Domain Generalization
+- Fine-grained Causal Dynamics Learning
+- Sequential Adjustment Criterion
+- Representation Learning for Instrumental Variables
+- Regularized Synthetic Control
+- Robust Differences-in-Differences
+- Robust Local Causal Discovery
+
+### Published Papers
+
+\* for joint first authorship
 
 <button type="button" class="btn btn-set1-5">CML</button> Learning to ignore: Single Source Domain Generalization via Oracle Regularization<br>
 Dong Kyu Cho, **Sanghack Lee**<br>
