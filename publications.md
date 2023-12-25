@@ -117,7 +117,7 @@ Partition-based Local Independence Discovery Inwoo Hwang, Byoung-Tak Zhang, and 
 <button type="button" class="btn btn-set1-4">REL</button> Lifted Representation of Relational Causal Models Revisited: Implications for Reasoning and Structure Learning [\[paper\]](http://dl.acm.org/citation.cfm?id=3020273)<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2015 Workshop on Advances in Causal Inference<br> 
 
 
-<button type="button" class="btn btn-set1-2">TR</button>  Transportability from Multiple Environments with Limited Experiments [\[paper\]](https://papers.nips.cc/paper/5536-transportability-from-multiple-environments-with-limited-experiments-completeness-results)<br> Elias Bareinboim\*, **Sanghack Lee**\*, Vasant Honavar, and Judea Pearl<br> NeurIPS 2013<br> 
+<button type="button" class="btn btn-set1-2">TR</button>  Transportability from Multiple Environments with Limited Experiments [\[paper\]](https://ftp.cs.ucla.edu/pub/stat_ser/r419.pdf)<br> Elias Bareinboim\*, **Sanghack Lee**\*, Vasant Honavar, and Judea Pearl<br> NeurIPS 2013<br> 
 
 
 <button type="button" class="btn btn-set1-2">TR</button> Causal Transportability of Experiments on Controllable Subsets of Variables: z-Transportability [\[paper\]](http://dl.acm.org/citation.cfm?id=3023675)<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2013<br> 
