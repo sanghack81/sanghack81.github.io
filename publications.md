@@ -39,17 +39,17 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 <button type="button" class="btn btn-set1-5">CML</button> Learning to ignore: Single Source Domain Generalization via Oracle Regularization<br>
 Dong Kyu Cho, **Sanghack Lee**<br>
-Causal Representation Learning Workshop at NeurIPS 2023<br>
+Causal Representation Learning Workshop at NeurIPS 2023 [\[paper\]](https://openreview.net/forum?id=8btzvHmSfU)<br>
 
 
 <button type="button" class="btn btn-set1-3">DM</button> Quantized Local Independence Discovery for Fine-Grained Causal Dynamics Learning in Reinforcement Learning<br>
 Inwoo Hwang, Yunhyeok Kwak, Suhyung Choi, Byoung-Tak Zhang, **Sanghack Lee**<br> 
-GenPlan 2023: Seventh Workshop on Generalization in Planning at NeurIPS 2023<br>
+GenPlan 2023: Seventh Workshop on Generalization in Planning at NeurIPS 2023 [\[paper\]](https://openreview.net/forum?id=4xGCYC4dFp)<br>
 
 
 <button type="button" class="btn btn-set1-3">DM</button> Causal Dynamics Learning with Quantized Local Independence Discovery<br>
 Inwoo Hwang, Yunhyeok Kwak, Suhyung Choi, Byoung-Tak Zhang, **Sanghack Lee**<br> 
-The Second Workshop on Spurious Correlations, Invariance and Stability at ICML 2023
+The Second Workshop on Spurious Correlations, Invariance and Stability at ICML 2023 [\[paper\]](https://openreview.net/forum?id=BXiA1YuOb7)
 <br>
 
 
