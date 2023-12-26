@@ -87,9 +87,10 @@ Program Committee/Reviewed for
 ### Ph.D. and Integrated Master/Ph.D. programs
 - [Yeahoon Kwon](https://deepstroy.github.io) (2021~)
 - [Yesong Choe](https://lovelyesong.github.io) (2021~)
-- Juhyeon Kim (2023~)
-- [Inwoo Hwang](https://bluemoon010.github.io) (Ph.D. program at Computer Science and Engineering, 2023~)
+- Juhyeon Kim (2021~, 2023~)
+- [Inwoo Hwang](https://bluemoon010.github.io) (Ph.D. program at CSE, 2023~)
 - Min Woo Park (2022~)
+- Yeo Dong Youn (2024~)
 
 
 ### Master program 
@@ -107,6 +108,9 @@ Program Committee/Reviewed for
 - Soungmin Park (2023~)
 - Oh Yoon Kwon (2023~)
 - Hyunwoo Park (2023~)
+- Hyeonji Kim (2024~)
+- Jihae Chung (2024~)
+
 
 
 
