@@ -21,17 +21,17 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 <p style="margin-bottom:1.25cm;"></p>
 ### Working Papers
 
-- Cyclic Causal Discovery
-- LLM-Guided Causal Discovery
-- Causal Inference under Weaker Assumption
-- Causality-inspired Domain Generalization
-- Fine-grained Causal Dynamics Learning
+- Cyclic Causal Discovery (Soheun)
+- LLM-Guided Causal Discovery (Juhyeon)
+- Causal Inference under Weaker Assumption (Yesong, Yeahoon, Inwoo)
+- Causality-inspired Domain Generalization (Dong Kyu)
+- Fine-grained Causal Dynamics Learning (Inwoo)
 - Sequential Adjustment Criterion
 - On Value of Information in Insoluble Decision
-- Representation Learning for Instrumental Variables
-- Regularized Synthetic Control
-- Robust Differences-in-Differences
-- Robust Local Causal Discovery
+- Representation Learning for Instrumental Variables (Jung Soo)
+- Regularized Synthetic Control (Jeongsup)
+- Robust Differences-in-Differences (Jeong Ha)
+- Robust Local Causal Discovery (Jonghwan)
 
 ### Published Papers
 
