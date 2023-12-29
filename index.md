@@ -94,22 +94,22 @@ Program Committee/Reviewed for
 
 
 ### Master program 
-- Taehan Kim (2021~)
-- Jeong Ha Moon (2022~)
-- Jung Soo Kim (2022~)
-- Dahhee Yim (2022~)
-- Jeongsup Park (2022~)
-- Jonghwan Kim (2022~)
-- Heejin Choi (2022~)
-- Kyung A Song (2022~)
-- Jaeho Jeong (2022~)
-- Kwon Ho Kim (2023~)
-- Jin A Choi (2023~)
-- Soungmin Park (2023~)
-- Oh Yoon Kwon (2023~)
-- Hyunwoo Park (2023~)
-- Hyeonji Kim (2024~)
-- Jihae Chung (2024~)
+- (2021) Taehan Kim
+- (2022) Jeong Ha Moon
+- (2022) Jung Soo Kim
+- (2022) Dahhee Yim
+- (2022) Jeongsup Park
+- (2022) Jonghwan Kim
+- (2023) Heejin Choi
+- (2023) Kyung A Song
+- (2023) Jaeho Jeong, ML-based IV estimation under misspecification
+- (2023) Kwon Ho Kim, causal discovery with score matching, causally disentangled representation learning
+- (2023) Jin A Choi
+- (2023) Soungmin Park
+- (2023) Oh Yoon Kwon
+- (2023) Hyunwoo Park
+- (2024) Hyeonji Kim
+- (2024) Jihae Chung
 
 
 
@@ -118,7 +118,7 @@ Program Committee/Reviewed for
 ## Alumni 
 - Jewon Kang (master program 2021~2023, KDB)
 <!-- - Juhyeon Kim (master program 2021~2023, Ph.D. program)-->
-- Dong Kyu Cho (master program 2021, LG AI Research (intern))
+- \[Dong Kyu Cho\](https://umamicode.github.io/aboutme/) (master program 2021, LG AI Research (intern))
 - Chaeyoung Chung (master program 2021)
 - Soheun Yi (undergraduate at Mathematical Sciences, Ph.D. program at Carnegie Mellon University)
 
