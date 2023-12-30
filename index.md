@@ -85,27 +85,28 @@ Program Committee/Reviewed for
 ## Advisee
 
 ### Ph.D. and Integrated Master/Ph.D. programs
-- [Yeahoon Kwon](https://deepstroy.github.io) (2021~)
-- [Yesong Choe](https://lovelyesong.github.io) (2021~)
-- Juhyeon Kim (2021~, 2023~)
-- [Inwoo Hwang](https://bluemoon010.github.io) (Ph.D. program at CSE, 2023~)
-- Min Woo Park (2022~)
-- Yeo Dong Youn (2024~)
+- [Yeahoon Kwon](https://deepstroy.github.io), causal decision making
+- [Yesong Choe](https://lovelyesong.github.io), efficient causal inference
+- Juhyeon Kim 
+- [Inwoo Hwang](https://bluemoon010.github.io)
+- Min Woo Park
+- Yeo Dong Youn
+- Yeha Kim
 
 
 ### Master program 
-- (2021) Taehan Kim
-- (2022) Jeong Ha Moon
-- (2022) Jung Soo Kim
-- (2022) Dahhee Yim
-- (2022) Jeongsup Park
-- (2022) Jonghwan Kim
+- (2021) Taehan Kim, causal feature selection
+- (2022) Jeong Ha Moon, adaptive differences-in-differences
+- (2022) Jung Soo Kim, representation learning for instrumental variables
+- (2022) Dahhee Yim, counterfactual inference
+- (2022) Jeongsup Park, robust synthetic control method
+- (2022) Jonghwan Kim, robust and efficient causal discovery
 - (2023) Heejin Choi
 - (2023) Kyung A Song
 - (2023) Jaeho Jeong, ML-based IV estimation under misspecification
 - (2023) Kwon Ho Kim, causal discovery with score matching, causally disentangled representation learning
 - (2023) Jin A Choi
-- (2023) Soungmin Park
+- (2023) Soungmin Park, Causal RL, Counterfactual Identification
 - (2023) Oh Yoon Kwon
 - (2023) Hyunwoo Park
 - (2024) Hyeonji Kim
