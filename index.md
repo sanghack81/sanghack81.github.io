@@ -89,7 +89,7 @@ Program Committee/Reviewed for
 - [Yesong Choe](https://lovelyesong.github.io), efficient causal inference
 - Juhyeon Kim 
 - [Inwoo Hwang](https://bluemoon010.github.io)
-- Min Woo Park
+- [Min Woo Park](https://minwoopark96.github.io)
 - Yeo Dong Youn
 - Yeha Kim
 
