@@ -80,16 +80,15 @@ Program Committee/Reviewed for
 - Metabolomic Big Data Analysis (MFDS, co-PI, 2023~25)
 - An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~24)
 - Causal Discovery for Time Series (LG AI Research, PI, 2023.04~24.04)
-- Semantic Search for Korean Medical and Legal Documents (SNU, co-PI, 2022~23, PI: Hyopil Shin)
 
 ## Advisee
 
 ### Ph.D. and Integrated Master/Ph.D. programs
-- [Yeahoon Kwon](https://deepstroy.github.io), causal decision making
+- [Yeahoon Kwon](https://deepstroy.github.io), causal imitation learning
 - [Yesong Choe](https://lovelyesong.github.io), efficient causal inference
 - Juhyeon Kim 
 - [Inwoo Hwang](https://bluemoon010.github.io)
-- [Min Woo Park](https://minwoopark96.github.io)
+- [Min Woo Park](https://minwoopark96.github.io), causal decision making
 - Yeo Dong Youn
 - Yeha Kim
 
@@ -127,5 +126,6 @@ Program Committee/Reviewed for
 
 ### Past Projects
 
+- Semantic Search for Korean Medical and Legal Documents (SNU, co-PI, 2022~23, PI: Hyopil Shin)
 - Association and Causality in Metabolomic data (MFDS, co-PI, 2022)
 - Supply Chain based Financial Keyword Analysis (NH Investment, 2021)
