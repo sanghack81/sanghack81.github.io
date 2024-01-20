@@ -21,11 +21,11 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 <p style="margin-bottom:1.25cm;"></p>
 ### Working Papers
 
-- Cyclic Causal Discovery (Soheun)
+- Cyclic Causal Discovery (Soheun) submitted
 - LLM-Guided Causal Discovery (Juhyeon)
 - Causal Inference under Weaker Assumption (Yesong, Yeahoon, Inwoo)
 - Causality-inspired Domain Generalization (Dong Kyu)
-- Fine-grained Causal Dynamics Learning (Inwoo)
+- Fine-grained Causal Dynamics Learning (Inwoo) submitted
 - Sequential Adjustment Criterion
 - On Value of Information in Insoluble Decision
 - Representation Learning for Instrumental Variables (Jung Soo)
@@ -36,6 +36,9 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 ### Published Papers
 
 \* for joint first authorship
+<button type="button" class="btn btn-set1-5">CD</button>Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models<br>
+Soheun Yi, **Sanghack Lee**<br>
+AISTATS 2024 \[accepted\]<br>
 
 <button type="button" class="btn btn-set1-5">CML</button> Learning to ignore: Single Source Domain Generalization via Oracle Regularization<br>
 Dong Kyu Cho, **Sanghack Lee**<br>
