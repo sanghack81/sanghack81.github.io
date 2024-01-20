@@ -21,7 +21,6 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 <p style="margin-bottom:1.25cm;"></p>
 ### Working Papers
 
-- Cyclic Causal Discovery (Soheun) submitted
 - LLM-Guided Causal Discovery (Juhyeon)
 - Causal Inference under Weaker Assumption (Yesong, Yeahoon, Inwoo)
 - Causality-inspired Domain Generalization (Dong Kyu)
@@ -36,7 +35,9 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 ### Published Papers
 
 \* for joint first authorship
-<button type="button" class="btn btn-set1-5">CD</button>Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models<br>
+
+
+<button type="button" class="btn btn-set1-6">CD</button>Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models<br>
 Soheun Yi, **Sanghack Lee**<br>
 AISTATS 2024 \[accepted\]<br>
 
