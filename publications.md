@@ -6,14 +6,14 @@ permalink: /publications/
 
 ## Publications
   
-I have published papers in AI and ML conferences (e.g., UAI, NeurIPS, ICML, AAAI).
+I have published papers in AI and ML conferences (e.g., UAI, NeurIPS, ICML, AAAI, AISTATS).
 Within the scope of causal inference, I investigated the problem of **causal effect identifiability** <button type="button" class="btn btn-set1-1">ID</button> allowing causal inference engines to take more diverse sets of data. In parallel, I also studied on the identifiability problem for heterogeneous domains (similar to the underlying ideas of domain adaptation or transfer learning in ML) called **transportability** <button type="button" class="btn btn-set1-2">TR</button>. I also pursue research in **decision-making** <button type="button" class="btn btn-set1-3">DM</button> where causality serves as the first principle to solve the problem.
-During my PhD study, I mostly spent time on understanding causal discovery from **relational data** <button type="button" class="btn btn-set1-4">REL</button> such as relational conditional independence, relational Markov equivalence classes, relational causal discovery algorithms both theoretical and practical. Recently, I am interested in the intersection of causality and machine learning <button type="button" class="btn btn-set1-5">CML</button> (e.g., causal representation learning).
+During my PhD study, I mostly spent time on understanding causal discovery from **relational data** <button type="button" class="btn btn-set1-4">REL</button> such as relational conditional independence, relational Markov equivalence classes, relational causal discovery algorithms both theoretical and practical. Recently, I am interested in the intersection of causality and machine learning <button type="button" class="btn btn-set1-5">CML</button> (e.g., causal representation learning) and <button type="button" class="btn btn-set1-1">CD</button> causal discovery.
 
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=hsxjzdkAAAAJ&view_op=list_works&sortby=pubdate)]
 
-**Collaborators**: [Juan D. Correa](http://jdcorrea.me), [Aria Khademi](https://sites.psu.edu/khademi/), [Elias Bareinboim](https://causalai.net), [Vasant Honavar](https://faculty.ist.psu.edu/vhonavar/index.htm)
-
+<!--**Collaborators**: [Juan D. Correa](http://jdcorrea.me), [Aria Khademi](https://sites.psu.edu/khademi/), [Elias Bareinboim](https://causalai.net), [Vasant Honavar](https://faculty.ist.psu.edu/vhonavar/index.htm)
+-->
 
 
 
@@ -21,12 +21,15 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 <p style="margin-bottom:1.25cm;"></p>
 ### Working Papers
 
-- LLM-Guided Causal Discovery (Juhyeon)
+- LLM-Guided Causal Discovery (Juhyeon+)
+- Citation for Retrieval Augmented Generation (Juhyeon+)
 - Causal Inference under Weaker Assumption (Yesong, Yeahoon, Inwoo)
 - Causality-inspired Domain Generalization (Dong Kyu)
-- Fine-grained Causal Dynamics Learning (Inwoo) submitted
-- Sequential Adjustment Criterion
-- On Value of Information in Insoluble Decision
+- Fine-grained Causal Dynamics Learning (Inwoo) 
+- Robust Monte-Carlo Tree Search (Inwoo+) 
+- Sequential Adjustment Criterion (YJ)
+- Value of Information under Insolubility (RC, RE, EB, Minwoo)
+- Causality in Rested Bandit (ND, Yeahoon, Soungmin)
 - Representation Learning for Instrumental Variables (Jung Soo)
 - Regularized Synthetic Control (Jeongsup)
 - Robust Differences-in-Differences (Jeong Ha)
@@ -37,7 +40,7 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 \* for joint first authorship
 
 
-<button type="button" class="btn btn-set1-6">CD</button>Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models<br>
+<button type="button" class="btn btn-set1-1">CD</button>Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models<br>
 Soheun Yi, **Sanghack Lee**<br>
 AISTATS 2024 \[accepted\]<br>
 
