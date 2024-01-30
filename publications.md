@@ -40,7 +40,7 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 \* for joint first authorship
 
 
-<button type="button" class="btn btn-set1-1">CD</button>Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models<br>
+<button type="button" class="btn btn-set1-1">CD</button> Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models<br>
 Soheun Yi, **Sanghack Lee**<br>
 AISTATS 2024 \[accepted\]<br>
 
