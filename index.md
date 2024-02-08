@@ -93,10 +93,8 @@ Program Committee/Reviewed for
 
 ### Master program 
 - (2021) Taehan Kim, causal feature selection
-- (2022) Jeong Ha Moon, adaptive differences-in-differences
 - (2022) Jung Soo Kim, representation learning for instrumental variables
 - (2022) Dahhee Yim, counterfactual inference
-- (2022) Jeongsup Park, robust synthetic control method
 - (2022) Jonghwan Kim, robust and efficient causal discovery
 - (2023) Heejin Choi
 - (2023) Kyung A Song
@@ -118,6 +116,8 @@ Program Committee/Reviewed for
 <!-- - Juhyeon Kim (master program 2021~2023, Ph.D. program)-->
 - [Dong Kyu Cho](https://umamicode.github.io/aboutme/) (master program 2021, LG AI Research (intern))
 - Chaeyoung Chung (master program 2021)
+- Jeongsup Park (master program 2022)
+- Jeong Ha Moon (master program 2022)
 - Soheun Yi (undergraduate at Mathematical Sciences, Ph.D. program at Carnegie Mellon University)
 
 
