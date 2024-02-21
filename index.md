@@ -8,7 +8,7 @@ exclude: true
   <img src="assets/sanghack2023-face.png" class="profile-pic"/>
   <div id="aboutme" float="right">
 <p style="margin-bottom:3mm;">
-	I am an <b>Assistant Professor</b> in the <a href="https://gsds.snu.ac.kr">Graduate School of Data Science</a> at <a href="https://www.snu.ac.kr">Seoul National University</a>, directing Causality Lab <img src="/assets/logo_2023.png" height="16" style="vertical-align: bottom"/>. Prior to joining Seoul National University, 
+	I am an <b>Assistant Professor</b> in the <a href="https://gsds.snu.ac.kr">Graduate School of Data Science</a> at <a href="https://www.snu.ac.kr">Seoul National University</a>, directing Causality Lab <img src="/assets/logo_2023.png" height="16" style="vertical-align: baseline"/>. Prior to joining Seoul National University, 
 	I was an 
 	Associate Research Scientist at Columbia University and Postdoctoral Research Associate at Computer Science, Purdue University
 	working with Prof. <a href="http://causalai.net">Elias Bareinboim</a>.
