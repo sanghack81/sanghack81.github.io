@@ -8,7 +8,7 @@ exclude: true
   <img src="assets/sanghack2023-face.png" class="profile-pic"/>
   <div id="aboutme" float="right">
 <p style="margin-bottom:3mm;">
-	I am an <b>Assistant Professor</b> in the <a href="https://gsds.snu.ac.kr">Graduate School of Data Science</a> at <a href="https://www.snu.ac.kr">Seoul National University</a>. Prior to joining Seoul National University, 
+	I am an <b>Assistant Professor</b> in the <a href="https://gsds.snu.ac.kr">Graduate School of Data Science</a> at <a href="https://www.snu.ac.kr">Seoul National University</a>, directing Causality Lab <img src="/assets/logo_2023.png" height="20"/>. Prior to joining Seoul National University, 
 	I was an 
 	Associate Research Scientist at Columbia University and Postdoctoral Research Associate at Computer Science, Purdue University
 	working with Prof. <a href="http://causalai.net">Elias Bareinboim</a>.
@@ -62,7 +62,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 Program Committee/Reviewed for 
 
-- 2024 CLeaR, AISTATS, ICML, UAI
+- 2024 CLeaR, AISTATS, ICML, UAI, JMLR
 - 2023 UAI, NeurIPS (Top Reviewer), Journal of Causal Inference
 - 2022 ICLR  (Highlighted Reviewer), AAAI, AISTATS, CLeaR, ICML, UAI (Top Reviewer), JCI, NeurIPS
 - 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, Journal of Artificial Intelligence Research, NeurIPS Workshop on Causal Inference and Machine Learning: Why now?
@@ -82,13 +82,13 @@ Program Committee/Reviewed for
 ## Advisee
 
 ### Ph.D. and Integrated Master/Ph.D. programs
+- [Inwoo Hwang](https://bluemoon010.github.io)
 - [Yeahoon Kwon](https://deepstroy.github.io), causal imitation learning
 - [Yesong Choe](https://lovelyesong.github.io), efficient causal inference
+- Yeha Kim
 - Juhyeon Kim 
-- [Inwoo Hwang](https://bluemoon010.github.io)
 - [Min Woo Park](https://minwoopark96.github.io), causal decision making
 - Yeo Dong Youn
-- Yeha Kim
 
 
 ### Master program 
