@@ -85,7 +85,7 @@ Program Committee/Reviewed for
 - [Inwoo Hwang](https://bluemoon010.github.io)
 - [Yeahoon Kwon](https://deepstroy.github.io), causal imitation learning
 - [Yesong Choe](https://lovelyesong.github.io), efficient causal inference
-- Yeha Kim
+- [Yeha Kim](https://yeha-777.github.io), deep counterfactual inference
 - Juhyeon Kim 
 - [Min Woo Park](https://minwoopark96.github.io), causal decision making
 - Yeo Dong Youn
