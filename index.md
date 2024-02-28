@@ -129,5 +129,4 @@ Program Committee/Reviewed for
 - Semantic Search for Korean Medical and Legal Documents (SNU, co-PI, 2022~23, PI: Hyopil Shin)
 - Association and Causality in Metabolomic data (MFDS, co-PI, 2022)
 - Supply Chain based Financial Keyword Analysis (NH Investment, 2021)
-
-a <p ="color:gray;font-size:8px">t</p> a
+<span style="font-size:8px;color:gray;">a</span>
