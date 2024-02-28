@@ -96,8 +96,8 @@ Program Committee/Reviewed for
 - (2022) Jung Soo Kim, representation learning for instrumental variables
 - (2022) Dahhee Yim, counterfactual inference
 - (2022) Jonghwan Kim, robust and efficient causal discovery
-- (2023) Heejin Choi
-- (2023) Kyung A Song
+- (2023) Heejin Choi, interpretable causal inference
+- (2023) Kyung A Song, bias-mitigated recommender system
 - (2023) Jaeho Jeong, ML-based IV estimation under misspecification
 - (2023) Kwon Ho Kim, causal discovery with score matching, causally disentangled representation learning
 - (2023) Jin A Choi
@@ -107,7 +107,9 @@ Program Committee/Reviewed for
 - (2024) Hyeonji Kim
 - (2024) Jihae Chung
 
-
+### Undergraduate Researchers
+- Min Young Cho
+- Sangyeon Cho
 
 
 
@@ -127,3 +129,5 @@ Program Committee/Reviewed for
 - Semantic Search for Korean Medical and Legal Documents (SNU, co-PI, 2022~23, PI: Hyopil Shin)
 - Association and Causality in Metabolomic data (MFDS, co-PI, 2022)
 - Supply Chain based Financial Keyword Analysis (NH Investment, 2021)
+
+a <p ="color:gray;font-size:8px">t</p> a
