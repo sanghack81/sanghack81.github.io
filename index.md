@@ -83,25 +83,25 @@ Program Committee/Reviewed for
 
 ### Ph.D. and Integrated Master/Ph.D. programs
 - [Inwoo Hwang](https://bluemoon010.github.io)
-- [Yeahoon Kwon](https://deepstroy.github.io), <span style="font-size:12px;color:gray;">causal imitation learning</span>
-- [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:12px;color:gray;">efficient causal inference</span>
-- [Yeha Kim](https://yeha-777.github.io), <span style="font-size:12px;color:gray;">deep counterfactual inference</span>
-- Juhyeon Kim, <span style="font-size:12px;color:gray;">causal NLP</span>
-- [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:12px;color:gray;">causal decision making</span>
+- [Yeahoon Kwon](https://deepstroy.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
+- [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
+- [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">deep counterfactual inference</span>
+- Juhyeon Kim, <span style="font-size:16px;color:gray;">causal NLP</span>
+- [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
 - Yeo Dong Youn
 
 
 ### Master program 
-- (2021) Taehan Kim, <span style="font-size:12px;color:gray;">causal feature selection</span>
-- (2022) Jung Soo Kim, <span style="font-size:12px;color:gray;">representation learning for instrumental variables</span>
-- (2022) Dahhee Yim, <span style="font-size:12px;color:gray;">counterfactual inference</span>
-- (2022) Jonghwan Kim, <span style="font-size:12px;color:gray;">robust and efficient causal discovery</span>
-- (2023) Heejin Choi, <span style="font-size:12px;color:gray;">interpretable causal inference</span>
-- (2023) Kyung A Song, <span style="font-size:12px;color:gray;">bias-mitigated recommender system</span>
-- (2023) Jaeho Jeong, <span style="font-size:12px;color:gray;">ML-based IV estimation under misspecification</span>
-- (2023) Kwon Ho Kim, <span style="font-size:12px;color:gray;">causal discovery with score matching, causally disentangled representation learning</span>
+- (2021) Taehan Kim, <span style="font-size:16px;color:gray;">causal feature selection</span>
+- (2022) Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
+- (2022) Dahhee Yim, <span style="font-size:16px;color:gray;">counterfactual inference</span>
+- (2022) Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
+- (2023) Heejin Choi, <span style="font-size:16px;color:gray;">interpretable causal inference</span>
+- (2023) Kyung A Song, <span style="font-size:16px;color:gray;">bias-mitigated recommender system</span>
+- (2023) Jaeho Jeong, <span style="font-size:16px;color:gray;">ML-based IV estimation under misspecification</span>
+- (2023) Kwon Ho Kim, <span style="font-size:16px;color:gray;">causal discovery with score matching, causally disentangled representation learning</span>
 - (2023) Jin A Choi
-- (2023) Soungmin Park, <span style="font-size:12px;color:gray;">causal RL, counterfactual Identification</span>
+- (2023) Soungmin Park, <span style="font-size:16px;color:gray;">causal RL, counterfactual Identification</span>
 - (2023) Oh Yoon Kwon
 - (2023) Hyunwoo Park
 - (2024) Hyeonji Kim
@@ -129,4 +129,4 @@ Program Committee/Reviewed for
 - Semantic Search for Korean Medical and Legal Documents (SNU, co-PI, 2022~23, PI: Hyopil Shin)
 - Association and Causality in Metabolomic data (MFDS, co-PI, 2022)
 - Supply Chain based Financial Keyword Analysis (NH Investment, 2021)
-<span style="font-size:12px;color:gray;">a</span>
+<span style="font-size:16px;color:gray;">a</span>
