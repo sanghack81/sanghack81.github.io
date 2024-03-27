@@ -82,7 +82,7 @@ Program Committee/Reviewed for
 
 ## Causality Lab. <img src="/assets/logo_2023.png" height="24" style="vertical-align: baseline"/>
 
-### Ph.D. and Integrated Master/Ph.D. programs
+### Ph.D. students
 - [Inwoo Hwang](https://bluemoon010.github.io)
 - [Yeahoon Kwon](https://deepstroy.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
 - [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
@@ -92,7 +92,7 @@ Program Committee/Reviewed for
 - Yeo Dong Youn
 
 
-### Master program 
+### Master students 
 - (2021) Taehan Kim, <span style="font-size:16px;color:gray;">causal feature selection</span>
 - (2022) Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
 - (2022) Dahhee Yim, <span style="font-size:16px;color:gray;">counterfactual inference</span>
