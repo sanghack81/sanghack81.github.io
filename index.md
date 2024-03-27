@@ -79,7 +79,8 @@ Program Committee/Reviewed for
 - An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~24)
 - Causal Discovery for Time Series (LG AI Research, PI, 2023.04~24.04)
 
-## Advisee
+
+## Causality Lab. <img src="/assets/logo_2023.png" height="24" style="vertical-align: baseline"/>
 
 ### Ph.D. and Integrated Master/Ph.D. programs
 - [Inwoo Hwang](https://bluemoon010.github.io)
