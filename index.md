@@ -70,6 +70,8 @@ Program Committee/Reviewed for
 - 2019 NeurIPS (Best Reviewer Award), [WHY conference](https://why19.causalai.net),
  Journal of Machine Learning Research (JMLR), 2017 [Causality Workshop at UAI](https://causalai.net/causal-uai17/), 2016 ACM CHI, 2014 ACM Transactions on Intelligent Systems and Technology
 
+<p style="margin-bottom:1.25cm;"></p>
+
 ## Research Projects
 
 - Causal Machine Learning (NRF, PI, 2023~27 with Innovative Research Lab Initiation Grant)
@@ -79,8 +81,9 @@ Program Committee/Reviewed for
 - An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~24)
 - Causal Discovery for Time Series (LG AI Research, PI, 2023.04~24.04)
 
+<p style="margin-bottom:1.25cm;"></p>
 
-## Causality Lab. <img src="/assets/logo_2023.png" height="24" style="vertical-align: baseline"/>
+## <img src="/assets/logo_2023.png" height="28" style="vertical-align: baseline"/> Causality Lab. 
 
 ### Ph.D. students
 - [Inwoo Hwang](https://bluemoon010.github.io)
@@ -109,25 +112,26 @@ Program Committee/Reviewed for
 - (2024) Jihae Chung
 
 ### Undergraduate Researchers
-- Min Young Cho
 - Sangyeon Cho, causal data science for economic analysis
+- Min Young Cho
+- HyeJin Kwon
 
 
 
 ## Alumni 
-- Jewon Kang (master program 2021~2023, KDB)
+- Jeong Ha Moon (master 2022)
+- Jeongsup Park (master 2022)
+- Chaeyoung Chung (master 2021)
+- [Dong Kyu Cho](https://umamicode.github.io/aboutme/) (master 2021, LG AI Research (intern))
+- Jewon Kang (master 2021~2023, KDB)
 <!-- - Juhyeon Kim (master program 2021~2023, Ph.D. program)-->
-- [Dong Kyu Cho](https://umamicode.github.io/aboutme/) (master program 2021, LG AI Research (intern))
-- Chaeyoung Chung (master program 2021)
-- Jeongsup Park (master program 2022)
-- Jeong Ha Moon (master program 2022)
 - Soheun Yi (undergraduate at Mathematical Sciences, Ph.D. program at Carnegie Mellon University)
 
 
+<p style="margin-bottom:1.25cm;"></p>
 
-### Past Projects
+## Past Projects
 
 - Semantic Search for Korean Medical and Legal Documents (SNU, co-PI, 2022~23, PI: Hyopil Shin)
 - Association and Causality in Metabolomic data (MFDS, co-PI, 2022)
 - Supply Chain based Financial Keyword Analysis (NH Investment, 2021)
-<span style="font-size:16px;color:gray;">a</span>
