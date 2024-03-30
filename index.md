@@ -62,7 +62,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 Program Committee/Reviewed for 
 
-- 2024 CLeaR, AISTATS, ICML, UAI, JMLR
+- 2024 NeurIPS (Area Chair), CLeaR, AISTATS, ICML, UAI, JMLR
 - 2023 UAI, NeurIPS (_top reviewer_), Journal of Causal Inference
 - 2022 ICLR  (_highlighted reviewer_), AAAI, AISTATS, CLeaR, ICML, UAI (_top reviewer_), JCI, NeurIPS
 - 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, Journal of Artificial Intelligence Research, NeurIPS Workshop on Causal Inference and Machine Learning: Why now?
