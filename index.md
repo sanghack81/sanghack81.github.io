@@ -122,10 +122,10 @@ Program Committee/Reviewed for
 - Jeong Ha Moon (master 2022)
 - Jeongsup Park (master 2022)
 - Chaeyoung Chung (master 2021)
-- [Dong Kyu Cho](https://umamicode.github.io/aboutme/) (master 2021, LG AI Research (intern))
+- [Dong Kyu Cho](https://umamicode.github.io/aboutme/) (master 2021, LG AI Research (intern), a soon-to-be NYU Ph.D. student)
 - Jewon Kang (master 2021~2023, KDB)
 <!-- - Juhyeon Kim (master program 2021~2023, Ph.D. program)-->
-- Soheun Yi (undergraduate at Mathematical Sciences, Ph.D. program at Carnegie Mellon University)
+- Soheun Yi (CMU Ph.D. program)
 
 
 <p style="margin-bottom:1.25cm;"></p>
