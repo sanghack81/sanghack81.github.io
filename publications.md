@@ -21,15 +21,15 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 <p style="margin-bottom:1.25cm;"></p>
 ### Working Papers
 
-- LLM-Guided Causal Discovery (Juhyeon+)
-- Causality-inspired Domain Generalization (Dong Kyu)
-- Sequential Adjustment Criterion (YJ)
+- Causality-inspired Domain Generalization (Dong Kyu, Inwoo)
+- Sequential Adjustment Criterion (YJ, Minwoo)
 - Causality in Rested Bandit (ND, Yeahoon, Soungmin)
+- Value of Information under Insolubility (RC, RE, Minwoo)
 - Robust Differences-in-Differences (Jeong Ha)
-- Value of Information under Insolubility (RC, RE, EB, Minwoo)
+- LLM-Guided Temporal Causal Discovery (Juhyeon+, _submitted_)
 - Citation for Retrieval Augmented Generation (Juhyeon+, _submitted_)
 - Causal Inference under Weaker Assumption (Yesong, Yeahoon, Inwoo, _submitted_)
-- Fine-grained Causal Dynamics Learning (Inwoo, _submitted_) 
+- Causal Dynamics Learning (Inwoo, _submitted_) 
 - Robust Monte-Carlo Tree Search (Inwoo+, _submitted_) 
 - Representation Learning for Instrumental Variables (Jung Soo+, _submitted_)
 - Regularized Synthetic Control (Jeongsup+, _submitted_)
@@ -42,8 +42,9 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 <button type="button" class="btn btn-set1-1">CD</button> Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models<br>
 Soheun Yi, **Sanghack Lee**<br>
-AISTATS 2024 \[accepted\]<br>
+AISTATS 2024 [\[paper\]](https://proceedings.mlr.press/v238/yi24a/yi24a.pdf)<br>
 
+<button type="button" class="btn btn-outline-secondary">workshop</button>
 <button type="button" class="btn btn-set1-5">CML</button> Learning to ignore: Single Source Domain Generalization via Oracle Regularization<br>
 Dong Kyu Cho, **Sanghack Lee**<br>
 Causal Representation Learning Workshop at NeurIPS 2023 [\[paper\]](https://openreview.net/forum?id=8btzvHmSfU)<br>
