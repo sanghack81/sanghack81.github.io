@@ -37,7 +37,9 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 \* for joint first authorship or corresponding author
 
-<button type="button" class="btn btn-set1-1">CD</button> Efficient Monte Carlo Tree Search via On-the-Fly State-Conditioned Action Abstraction<br>
+<button type="button" class="btn btn-set1-1">CD</button>
+<button type="button" class="btn btn-set1-3">DM</button>
+Efficient Monte Carlo Tree Search via On-the-Fly State-Conditioned Action Abstraction<br>
 Yunhyeok Kwak\*, Inwoo Hwang\*, Dooyoung Kim, **Sanghack Lee**\*, Byoung-Tak Zhang\*<br>
 UAI 2024 \[coming soon\]<br>
 
