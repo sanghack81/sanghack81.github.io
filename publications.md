@@ -21,17 +21,17 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 <p style="margin-bottom:1.25cm;"></p>
 ### Working Papers
 
-- Causality-inspired Domain Generalization (Dong Kyu, Inwoo)
-- Sequential Adjustment Criterion (YJ, Minwoo)
-- Causality in Rested Bandit (ND, Yeahoon, Soungmin)
-- Value of Information under Insolubility (RC, RE, Minwoo)
-- Robust Differences-in-Differences (Jeong Ha)
 - LLM-Guided Temporal Causal Discovery (Juhyeon+, _submitted_)
 - Citation for Retrieval Augmented Generation (Juhyeon+, _submitted_)
 - Causal Inference under Weaker Assumption (Yesong, Yeahoon, Inwoo, _submitted_)
 - Causal Dynamics Learning (Inwoo, _submitted_) 
 - Representation Learning for Instrumental Variables (Jung Soo+, _submitted_)
-- Regularized Synthetic Control (Jeongsup+, _submitted_)
+- Regularized Synthetic Control (Jeongsup+)
+- Causality-inspired Domain Generalization (Dong Kyu, Inwoo)
+- Sequential Adjustment Criterion (YJ, Minwoo)
+- Causality in Rested Bandit (ND, Yeahoon, Soungmin)
+- Value of Information under Insolubility (RC, RE, Minwoo)
+- Robust Differences-in-Differences (Jeong Ha)
 
 ### Published Papers
 
