@@ -30,15 +30,20 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 - Citation for Retrieval Augmented Generation (Juhyeon+, _submitted_)
 - Causal Inference under Weaker Assumption (Yesong, Yeahoon, Inwoo, _submitted_)
 - Causal Dynamics Learning (Inwoo, _submitted_) 
-- Robust Monte-Carlo Tree Search (Inwoo+, _submitted_) 
 - Representation Learning for Instrumental Variables (Jung Soo+, _submitted_)
 - Regularized Synthetic Control (Jeongsup+, _submitted_)
-- Robust Causal Discovery (Jonghwan+, _submitted_)
 
 ### Published Papers
 
-\* for joint first authorship
+\* for joint first authorship or corresponding author
 
+<button type="button" class="btn btn-set1-1">CD</button> Efficient Monte Carlo Tree Search via On-the-Fly State-Conditioned Action Abstraction<br>
+Yunhyeok Kwak\*, Inwoo Hwang\*, Dooyoung Kim, **Sanghack Lee**\*, Byoung-Tak Zhang\*<br>
+UAI 2024 \[coming soon\]<br>
+
+<button type="button" class="btn btn-set1-1">CD</button> Causal Discovery with Deductive Reasoning: One Less Problem<br>
+Jonghwan Kim, Inwoo Hwang, **Sanghack Lee**<br>
+UAI 2024 \[coming soon\]<br>
 
 <button type="button" class="btn btn-set1-1">CD</button> Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models<br>
 Soheun Yi, **Sanghack Lee**<br>

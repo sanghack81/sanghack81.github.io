@@ -47,6 +47,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 
 ## News
+- (Apr 2024) Two papers are accepted at UAI 2024. Super congrats!
 - (Jan 2024) Soheun's paper on cyclic causal discovery is accepted at AISTATS. Congrats!
 - (Nov 2023) Two NeurIPS workshop papers are accepted.
 - (Jun 2023) Causal dynamics learning paper by Inwoo is accepted to a workshop at ICML 2023.
