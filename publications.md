@@ -6,8 +6,8 @@ permalink: /publications/
 
 ## Publications
   
-I have published papers in AI and ML conferences (e.g., UAI, NeurIPS, ICML, AAAI, AISTATS).
-Within the scope of causal inference, I investigated the problem of **causal effect identifiability** <button type="button" class="btn btn-set1-1">ID</button> allowing causal inference engines to take more diverse sets of data. In parallel, I also studied on the identifiability problem for heterogeneous domains (similar to the underlying ideas of domain adaptation or transfer learning in ML) called **transportability** <button type="button" class="btn btn-set1-2">TR</button>. I also pursue research in **decision-making** <button type="button" class="btn btn-set1-3">DM</button> where causality serves as the first principle to solve the problem.
+My collaborators and I have published papers in AI and ML conferences (e.g., UAI, NeurIPS, ICML, AAAI, AISTATS).
+Within the scope of causal inference, we investigated the problem of **causal effect identifiability** <button type="button" class="btn btn-set1-1">ID</button> allowing causal inference engines to take more diverse sets of data. In parallel, we also studied on the identifiability problem for heterogeneous domains (similar to the underlying ideas of domain adaptation or transfer learning in ML) called **transportability** <button type="button" class="btn btn-set1-2">TR</button>. We also pursue research on **decision-making** <button type="button" class="btn btn-set1-3">DM</button> where causality serves as the first principle to solve the problem.
 During my PhD study, I mostly spent time on understanding causal discovery from **relational data** <button type="button" class="btn btn-set1-4">REL</button> such as relational conditional independence, relational Markov equivalence classes, relational causal discovery algorithms both theoretical and practical. Recently, I am interested in the intersection of causality and machine learning <button type="button" class="btn btn-set1-5">CML</button> (e.g., causal representation learning) and <button type="button" class="btn btn-set1-1">CD</button> causal discovery.
 
 [[Google Scholar](https://scholar.google.com/citations?hl=en&user=hsxjzdkAAAAJ&view_op=list_works&sortby=pubdate)]
@@ -110,7 +110,7 @@ Partition-based Local Independence Discovery<br> Inwoo Hwang, Byoung-Tak Zhang, 
 
 <button type="button" class="btn btn-set1-1">ID</button> General Identifiability with Arbitrary Surrogate Experiments [\[paper\]](https://causalai.net/r46.pdf) [\[errata\]](https://causalai.net/r46e.pdf) <br> **Sanghack Lee**, Juan D. Correa, and Elias Bareinboim<br> UAI 2019, <font color="#e41a1c">Best Paper Award</font> <br> 
 
-<button type="button" class="btn btn-set1-4">REL</button>  Towards Robust Relational Causal Discovery [\[paper\]](http://auai.org/uai2019/proceedings/papers/127.pdf) <br> **Sanghack Lee** and Vasant Honavar <br> UAI 2019<br> 
+<button type="button" class="btn btn-set1-1">CD</button>  Towards Robust Relational Causal Discovery [\[paper\]](http://auai.org/uai2019/proceedings/papers/127.pdf) <br> **Sanghack Lee** and Vasant Honavar <br> UAI 2019<br> 
 
 
 
@@ -126,14 +126,14 @@ Partition-based Local Independence Discovery<br> Inwoo Hwang, Byoung-Tak Zhang, 
 
 ### Pre-Ph.D. ---
 
-<button type="button" class="btn btn-set1-4">REL</button> <button type="button" class="btn btn-set1-5">CIT</button>  A Kernel Conditional Independence Test for Relational Data [\[code\]](https://github.com/sanghack81/KRCIT), [\[paper\]](/assets/krcit.pdf)<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2017<br> 
+<button type="button" class="btn btn-set1-1">CD</button> <button type="button" class="btn btn-set1-5">CIT</button>  A Kernel Conditional Independence Test for Relational Data [\[code\]](https://github.com/sanghack81/KRCIT), [\[paper\]](/assets/krcit.pdf)<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2017<br> 
 
 
 <button type="button" class="btn btn-set1-5">CIT</button> Self-Discrepancy Conditional Independence Test [\[code\]](https://github.com/sanghack81/SDCIT), [\[paper\]](/assets/SDCIT-edited.pdf)<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2017<br> 
 
-<button type="button" class="btn btn-set1-4">REL</button> A Characterization of Markov Equivalence Classes for Relational Causal Model with Path Semantics [\[code\]](https://github.com/sanghack81/pyRCDs), [\[paper\]](/assets/UAI-2016-RpCD.pdf), [\[appendix\]](/assets/UAI-2016-RpCD-supp_fix_june_4.pdf)<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2016<br> 
+<button type="button" class="btn btn-set1-1">CD</button> A Characterization of Markov Equivalence Classes for Relational Causal Model with Path Semantics [\[code\]](https://github.com/sanghack81/pyRCDs), [\[paper\]](/assets/UAI-2016-RpCD.pdf), [\[appendix\]](/assets/UAI-2016-RpCD-supp_fix_june_4.pdf)<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2016<br> 
 
-<button type="button" class="btn btn-set1-4">REL</button> On Learning Causal Models from Relational Data [\[code\]](https://github.com/sanghack81/rcd-light) [\[paper\]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11972/12089)<br> **Sanghack Lee** and Vasant Honavar<br> AAAI 2016 <br> 
+<button type="button" class="btn btn-set1-1">CD</button> On Learning Causal Models from Relational Data [\[code\]](https://github.com/sanghack81/rcd-light) [\[paper\]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11972/12089)<br> **Sanghack Lee** and Vasant Honavar<br> AAAI 2016 <br> 
 
 
 "Teens are from Mars, Adults are from Venus": Analyzing and Predicting Age Groups with Behavioral Characteristics in Instagram [\[paper\]](http://dl.acm.org/citation.cfm?id=2908160)<br> Kyungsik Han, **Sanghack Lee**, Jin Yea Jang, Yong Jung, and Dongwon Lee<br> WebSci 2016<br> 
@@ -141,7 +141,7 @@ Partition-based Local Independence Discovery<br> Inwoo Hwang, Byoung-Tak Zhang, 
 
 
 <button type="button" class="btn btn-outline-secondary">ws</button>
-<button type="button" class="btn btn-set1-4">REL</button> Lifted Representation of Relational Causal Models Revisited: Implications for Reasoning and Structure Learning [\[paper\]](http://dl.acm.org/citation.cfm?id=3020273)<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2015 Workshop on Advances in Causal Inference<br> 
+<button type="button" class="btn btn-set1-1">CD</button> Lifted Representation of Relational Causal Models Revisited: Implications for Reasoning and Structure Learning [\[paper\]](http://dl.acm.org/citation.cfm?id=3020273)<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2015 Workshop on Advances in Causal Inference<br> 
 
 
 <button type="button" class="btn btn-set1-2">TR</button>  Transportability from Multiple Environments with Limited Experiments [\[paper\]](https://ftp.cs.ucla.edu/pub/stat_ser/r419.pdf)<br> Elias Bareinboim\*, **Sanghack Lee**\*, Vasant Honavar, and Judea Pearl<br> NeurIPS 2013<br> 

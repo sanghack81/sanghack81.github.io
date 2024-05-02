@@ -14,8 +14,7 @@ exclude: true
 	working with Prof. <a href="http://causalai.net">Elias Bareinboim</a>.
 	I got my Ph.D. in College of Information Sciences and Technology, Pennsylvania State University, University Park, under the supervision of Prof. <a href="https://faculty.ist.psu.edu/vhonavar/index.htm">Vasant Honavar</a>.
 </p>
-Currently, I am working on developing methods for applying causality in sequential decision-making
-and developing theory of causal effect identifiability and transportability.
+Currently, I am working on the theory and application of causality from the perspectives of machine learning, artificial intelligence, and data science. In particular, I am interested in causal discovery, sequential decision-making, and the identifiability and estimation of causal effects in diverse settings.
 During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 [<a href="/assets/cv.pdf">Curriculum Vitae</a>]
   </div>
@@ -28,8 +27,8 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 <p style="margin-bottom:1.25cm;"></p>
 ## Research Interests
 
-- **Causal Inference** (how can we identify the effect of an intervention?),  **Causal Decision Making** (how can we utilize causal information in decision making?),  **Causal Discovery** (how can we establish causal relationships from complex data?) 
-- (Future) Developing theories and applications for *health* and *social* domains with causality as a first principle by bringing ideas from *economics*. Developing robust machine learning algorithms utilizing causal knowledge.
+- **Causal Inference** (how can we identify and estimate the effect of an intervention?),  **Causal Decision Making** (how can we utilize causal information in decision making?),  **Causal Discovery** (how can we establish causal relationships from complex data?) 
+- (Future) Developing theories and applications for *health* and *social* domains with causality as a first principle. Developing robust machine learning models and algorithms utilizing causal knowledge. Artificial general intelligence and causality (how can an agent equip a causal mindset. how to counterfactually reason about its actions and consequences.)
 
 
 <p style="margin-bottom:1.25cm;"></p>
@@ -64,7 +63,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 Program Committee/Reviewed for 
 
-- 2024 NeurIPS (Area Chair), CLeaR, AISTATS, ICML, UAI, JMLR, ECAI
+- 2024 NeurIPS (Area Chair), CLeaR, AISTATS, ICML, UAI, JMLR, ECAI, CI4TS@UAI
 - 2023 UAI, NeurIPS (_top reviewer_), Journal of Causal Inference
 - 2022 ICLR  (_highlighted reviewer_), AAAI, AISTATS, CLeaR, ICML, UAI (_top reviewer_), JCI, NeurIPS
 - 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, Journal of Artificial Intelligence Research, NeurIPS Workshop on Causal Inference and Machine Learning: Why now?
