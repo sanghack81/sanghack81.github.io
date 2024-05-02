@@ -23,10 +23,8 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 - LLM-Guided Temporal Causal Discovery (Juhyeon+, _submitted_)
 - Citation for Retrieval Augmented Generation (Juhyeon+, _submitted_)
-- Causal Inference under Weaker Assumption (Yesong, Yeahoon, Inwoo, _submitted_)
-- Causal Dynamics Learning (Inwoo, _submitted_) 
 - Representation Learning for Instrumental Variables (Jung Soo+, _submitted_)
-- Regularized Synthetic Control (Jeongsup+)
+- Regularized Synthetic Control (Yeodong, Jeongsup, Inwoo)
 - Causality-inspired Domain Generalization (Dong Kyu, Inwoo)
 - Sequential Adjustment Criterion (YJ, Minwoo)
 - Causality in Rested Bandit (ND, Yeahoon, Soungmin)
@@ -36,6 +34,15 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 ### Published Papers
 
 \* for joint first authorship or corresponding author
+
+<button type="button" class="btn btn-set1-5">CML</button>Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning<br>
+Inwoo Hwang\*, Yunhyeok Kwak\*, Suhyung Choi, **Byoung-Tak Zhang**, **Sanghack Lee**<br>
+ICML 2024 \[coming soon\]<br>
+
+<button type="button" class="btn btn-set1-1">ID</button>On Positivity Condition for Causal Inference<br>
+Inwoo Hwang\*, Yesong Choe\*, Yeahoon Kwon,  **Sanghack Lee**<br>
+ICML 2024 \[coming soon\]<br>
+
 
 <button type="button" class="btn btn-set1-1">CD</button>
 <button type="button" class="btn btn-set1-3">DM</button>
