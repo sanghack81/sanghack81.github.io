@@ -35,11 +35,11 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 \* for joint first authorship or corresponding author
 
-<button type="button" class="btn btn-set1-5">CML</button>Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning<br>
+<button type="button" class="btn btn-set1-5">CML</button> Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning<br>
 Inwoo Hwang\*, Yunhyeok Kwak\*, Suhyung Choi, Byoung-Tak Zhang\*, **Sanghack Lee**\*<br>
 ICML 2024 \[coming soon\]<br>
 
-<button type="button" class="btn btn-set1-1">ID</button>On Positivity Condition for Causal Inference<br>
+<button type="button" class="btn btn-set1-1">ID</button> On Positivity Condition for Causal Inference<br>
 Inwoo Hwang\*, Yesong Choe\*, Yeahoon Kwon,  **Sanghack Lee**\*<br>
 ICML 2024 \[coming soon\]<br>
 
