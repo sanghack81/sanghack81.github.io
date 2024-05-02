@@ -100,7 +100,8 @@ Partition-based Local Independence Discovery<br> Inwoo Hwang, Byoung-Tak Zhang, 
 <button type="button" class="btn btn-set1-1">ID</button> Nested Counterfactual Identification from Arbitrary Surrogate Experiments [\[paper\]](https://arxiv.org/abs/2107.03190)<br> Juan D. Correa, **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2021 [\[paper\]](https://proceedings.neurips.cc/paper/2021/hash/36bedb6eb7152f39b16328448942822b-Abstract.html)<br> 
 
 
-<button type="button" class="btn btn-set1-1">ID</button> Causal Identification with Matrix Equations [\[paper\]](https://causalai.net/r70.pdf)<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2021<br> 
+<button type="button" class="btn btn-set1-1">ID</button> Causal Identification with Matrix Equations [\[paper\]](https://causalai.net/r70.pdf)<br> **Sanghack Lee** and Elias Bareinboim<br>
+NeurIPS 2021, <font color="#e41a1c">Oral</font><br> 
 
 
 <button type="button" class="btn btn-set1-3">DM</button> Characterizing Optimal Mixed Policies: Where to Intervene and What to Observe [\[paper\]](/assets/r63-reprint.pdf), [\[slides\]](/assets/2020-neurips-presentation.pdf), [\[poster\]](/assets/2020-neurips-sanghack-poster.pdf)<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2020<br> 
@@ -122,7 +123,7 @@ Partition-based Local Independence Discovery<br> Inwoo Hwang, Byoung-Tak Zhang, 
 
 <button type="button" class="btn btn-set1-3">DM</button> Fairness in Algorithmic Decision Making: An Excursion Through the Lens of Causality [\[paper\]](https://arxiv.org/pdf/1903.11719.pdf)<br> Aria Khademi, **Sanghack Lee**, David Foley, and Vasant Honavar<br> WWW 2019<br> 
 
-<button type="button" class="btn btn-set1-3">DM</button> On Structural Causal Bandit with Non-manipulable Variables [\[paper\]](https://causalai.net/r40.pdf), [\[poster\]](/assets/AAAI2019_poster.pdf), [\[slides\]](/assets/AAAI2019_presentation.pdf)<br> **Sanghack Lee** and Elias Bareinboim <br> AAAI 2019<br> 
+<button type="button" class="btn btn-set1-3">DM</button> On Structural Causal Bandit with Non-manipulable Variables [\[paper\]](https://causalai.net/r40.pdf), [\[poster\]](/assets/AAAI2019_poster.pdf), [\[slides\]](/assets/AAAI2019_presentation.pdf)<br> **Sanghack Lee** and Elias Bareinboim <br> AAAI 2019, <font color="#e41a1c">Oral</font><br> 
 
 
 
@@ -137,9 +138,9 @@ Partition-based Local Independence Discovery<br> Inwoo Hwang, Byoung-Tak Zhang, 
 
 <button type="button" class="btn btn-set1-5">CIT</button> Self-Discrepancy Conditional Independence Test [\[code\]](https://github.com/sanghack81/SDCIT), [\[paper\]](/assets/SDCIT-edited.pdf)<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2017<br> 
 
-<button type="button" class="btn btn-set1-1">CD</button> A Characterization of Markov Equivalence Classes for Relational Causal Model with Path Semantics [\[code\]](https://github.com/sanghack81/pyRCDs), [\[paper\]](/assets/UAI-2016-RpCD.pdf), [\[appendix\]](/assets/UAI-2016-RpCD-supp_fix_june_4.pdf)<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2016<br> 
+<button type="button" class="btn btn-set1-1">CD</button> A Characterization of Markov Equivalence Classes for Relational Causal Model with Path Semantics [\[code\]](https://github.com/sanghack81/pyRCDs), [\[paper\]](/assets/UAI-2016-RpCD.pdf), [\[appendix\]](/assets/UAI-2016-RpCD-supp_fix_june_4.pdf)<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2016, <font color="#e41a1c">Oral</font><br> 
 
-<button type="button" class="btn btn-set1-1">CD</button> On Learning Causal Models from Relational Data [\[code\]](https://github.com/sanghack81/rcd-light) [\[paper\]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11972/12089)<br> **Sanghack Lee** and Vasant Honavar<br> AAAI 2016 <br> 
+<button type="button" class="btn btn-set1-1">CD</button> On Learning Causal Models from Relational Data [\[code\]](https://github.com/sanghack81/rcd-light) [\[paper\]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11972/12089)<br> **Sanghack Lee** and Vasant Honavar<br> AAAI 2016, <font color="#e41a1c">Oral</font> <br> 
 
 
 "Teens are from Mars, Adults are from Venus": Analyzing and Predicting Age Groups with Behavioral Characteristics in Instagram [\[paper\]](http://dl.acm.org/citation.cfm?id=2908160)<br> Kyungsik Han, **Sanghack Lee**, Jin Yea Jang, Yong Jung, and Dongwon Lee<br> WebSci 2016<br> 
