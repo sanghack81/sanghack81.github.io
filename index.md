@@ -47,6 +47,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 
 ## News
+- (May 2024) Two papers are accepted at ICML 2024. Thanks for students' incredible efforts!
 - (Apr 2024) Two papers are accepted at UAI 2024. Super congrats!
 - (Jan 2024) Soheun's paper on cyclic causal discovery is accepted at AISTATS. Congrats!
 - (Nov 2023) Two NeurIPS workshop papers are accepted.
@@ -63,7 +64,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 Program Committee/Reviewed for 
 
-- 2024 NeurIPS (Area Chair), CLeaR, AISTATS, ICML, UAI, JMLR
+- 2024 NeurIPS (Area Chair), CLeaR, AISTATS, ICML, UAI, JMLR, ECAI
 - 2023 UAI, NeurIPS (_top reviewer_), Journal of Causal Inference
 - 2022 ICLR  (_highlighted reviewer_), AAAI, AISTATS, CLeaR, ICML, UAI (_top reviewer_), JCI, NeurIPS
 - 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, Journal of Artificial Intelligence Research, NeurIPS Workshop on Causal Inference and Machine Learning: Why now?
