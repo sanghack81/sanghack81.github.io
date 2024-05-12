@@ -87,7 +87,7 @@ Program Committee/Reviewed for
 ## <img src="/assets/logo_2023.png" height="28" style="vertical-align: baseline"/> Causality Lab. 
 
 ### Ph.D. students
-- [Inwoo Hwang](https://bluemoon010.github.io)
+- [Inwoo Hwang](https://iwhwang.github.io)
 - [Yeahoon Kwon](https://deepstroy.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
 - [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
 - [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">deep counterfactual inference</span>
@@ -113,9 +113,11 @@ Program Committee/Reviewed for
 - (2024) Jihae Chung
 
 ### Undergraduate Researchers
-- Sangyeon Cho, causal data science for economic analysis
+- Sangyeon Cho,  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
 - Min Young Cho
 - HyeJin Kwon
+- GyeongChan, Han (Summer, 2024)
+- Seungsoo, Han (Summer, 2024)
 
 
 
