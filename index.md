@@ -87,7 +87,7 @@ Program Committee/Reviewed for
 ## <img src="/assets/logo_2023.png" height="28" style="vertical-align: baseline"/> Causality Lab. 
 
 ### Ph.D. students
-- [Inwoo Hwang](https://iwhwang.github.io)
+- [Inwoo Hwang](https://iwhwang.github.io), <span style="font-size:16px;color:gray;">causal machine learning, trustworthy AI</span>
 - [Yeahoon Kwon](https://deepstroy.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
 - [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
 - [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">deep counterfactual inference</span>
