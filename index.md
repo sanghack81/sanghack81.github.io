@@ -22,7 +22,8 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 </div>
 
 <br>
-
+Dear prospective students, I am sorry if I did not respond to your email. We (GSDS) do not admit master students based on 'contact' and, thus, there is no need to email professors at GSDS for admission. Further, internship experience (at least in my lab) is neither sufficient nor necessary to be admitted to our master program.
+<br>
 
 <p style="margin-bottom:1.25cm;"></p>
 ## Research Interests
@@ -86,11 +87,13 @@ Program Committee/Reviewed for
 
 ## <img src="/assets/logo_2023.png" height="28" style="vertical-align: baseline"/> Causality Lab. 
 
-### Ph.D. students
+### Ph.D. candidates
 - [Inwoo Hwang](https://iwhwang.github.io), <span style="font-size:16px;color:gray;">causal machine learning, trustworthy AI</span>
+- [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">deep counterfactual inference</span>
+ 
+### Ph.D. students
 - [Yeahoon Kwon](https://deepstroy.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
 - [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
-- [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">deep counterfactual inference</span>
 - Juhyeon Kim, <span style="font-size:16px;color:gray;">causal NLP</span>
 - [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
 - Yeo Dong Youn
