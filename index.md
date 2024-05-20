@@ -22,8 +22,6 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 </div>
 
 <br>
-<span style="font-size:14px;color:gray;">Dear prospective students, I am sorry if I did not respond to your email. We (GSDS) do not admit master students based on 'contact' and, thus, there is no need to email professors at GSDS for admission. Further, internship experience (at least in my lab) is neither sufficient nor necessary to be admitted to our master program.</span>
-<br>
 
 <p style="margin-bottom:1.25cm;"></p>
 ## Research Interests
