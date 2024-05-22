@@ -19,6 +19,7 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 
 <p style="margin-bottom:1.25cm;"></p>
+<!--
 ### Working Papers
 
 - LLM-Guided Temporal Causal Discovery (Juhyeon+, _submitted_)
@@ -30,6 +31,7 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 - Causality in Rested Bandit (ND, Yeahoon, Soungmin)
 - Value of Information under Insolubility (RC, RE, Minwoo)
 - Robust Differences-in-Differences (Jeong Ha)
+-->
 
 ### Published Papers
 
