@@ -41,7 +41,7 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 <button type="button" class="btn btn-set1-3">DM</button>
 <button type="button" class="btn btn-set1-5">CML</button> Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning<br>
 Inwoo Hwang, Yunhyeok Kwak, Suhyung Choi, Byoung-Tak Zhang\*, **Sanghack Lee**\*<br>
-ICML 2024 (previously, GenPlan workshop at NeurIPS 2023, SCIS workshop at ICML 2023)<br>
+ICML 2024 <span style="font-size:16px;color:gray;">(previously, GenPlan workshop at NeurIPS 2023, SCIS workshop at ICML 2023)</span><br>
 
 <button type="button" class="btn btn-set1-1">ID</button> On Positivity Condition for Causal Inference<br>
 Inwoo Hwang\*, Yesong Choe\*, Yeahoon Kwon,  **Sanghack Lee**<br>
@@ -58,14 +58,14 @@ UAI 2024, <font color="#e41a1c">Oral</font><br>
 Jonghwan Kim, Inwoo Hwang, **Sanghack Lee**<br>
 UAI 2024<br>
 
-<button type="button" class="btn btn-set1-1">CD</button> Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models<br>
+<button type="button" class="btn btn-set1-1">CD</button> Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models [\[paper\]](https://proceedings.mlr.press/v238/yi24a/yi24a.pdf)<br>
 Soheun Yi, **Sanghack Lee**<br>
-AISTATS 2024 [\[paper\]](https://proceedings.mlr.press/v238/yi24a/yi24a.pdf)<br>
+AISTATS 2024<br>
 
 <button type="button" class="btn btn-outline-secondary">ws</button>
-<button type="button" class="btn btn-set1-5">CML</button> Learning to ignore: Single Source Domain Generalization via Oracle Regularization<br>
+<button type="button" class="btn btn-set1-5">CML</button> Learning to ignore: Single Source Domain Generalization via Oracle Regularization [\[paper\]](https://openreview.net/forum?id=8btzvHmSfU)<br>
 Dong Kyu Cho, **Sanghack Lee**<br>
-Causal Representation Learning Workshop at NeurIPS 2023 [\[paper\]](https://openreview.net/forum?id=8btzvHmSfU)<br>
+Causal Representation Learning Workshop at NeurIPS 2023<br>
 
 
 <!--
@@ -84,22 +84,23 @@ The Second Workshop on Spurious Correlations, Invariance and Stability at ICML 2
 
 
 <button type="button" class="btn btn-set1-1">CD</button>
-<button type="button" class="btn btn-set1-5">CML</button> On Discovery of Local Independence over Continuous Variables via Neural Contextual Decomposition<br>
-Inwoo Hwang, Yunhyeok Kwak, Yeon-Ji Song, Byoung-Tak Zhang, **Sanghack Lee**<br> The 2nd Conference on Causal Learning and Reasoning (CLeaR) 2023 [\[paper\]](https://openreview.net/forum?id=-aFd28Uy9td)<br>
+<button type="button" class="btn btn-set1-5">CML</button> On Discovery of Local Independence over Continuous Variables via Neural Contextual Decomposition [\[paper\]](https://openreview.net/forum?id=-aFd28Uy9td)<br>
+Inwoo Hwang, Yunhyeok Kwak, Yeon-Ji Song, Byoung-Tak Zhang, **Sanghack Lee**<br> 
+CLeaR 2023 <br>
 
 
 <button type="button" class="btn btn-outline-secondary">ws</button>
 <button type="button" class="btn btn-set1-5">CML</button> Detecting Causality by Data Augmentation via Part-of-Speech tagging<br> Juhyeon Kim, Yesong Choe and **Sanghack Lee**<br> CASE Workshop at EMNLP 2022<br> 
 
 
-<button type="button" class="btn btn-set1-2">TR</button> Counterfactual Transportability: A Formal Approach<br> Juan D. Correa, **Sanghack Lee** and Elias Bareinboim<br> ICML 2022 [\[paper\]](https://proceedings.mlr.press/v162/correa22a.html)<br> 
+<button type="button" class="btn btn-set1-2">TR</button> Counterfactual Transportability: A Formal Approach [\[paper\]](https://proceedings.mlr.press/v162/correa22a.html)<br> Juan D. Correa, **Sanghack Lee** and Elias Bareinboim<br> ICML 2022<br> 
 
 
 <button type="button" class="btn btn-outline-secondary">ws</button>
 <button type="button" class="btn btn-set1-1">CD</button>
 Partition-based Local Independence Discovery<br> Inwoo Hwang, Byoung-Tak Zhang, and **Sanghack Lee** <br> Causal Inference Challenges in Sequential Decision Making: Bridging Theory and Practice Worksop at NeurIPS 2021<br> 
 
-<button type="button" class="btn btn-set1-1">ID</button> Nested Counterfactual Identification from Arbitrary Surrogate Experiments [\[paper\]](https://arxiv.org/abs/2107.03190)<br> Juan D. Correa, **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2021 [\[paper\]](https://proceedings.neurips.cc/paper/2021/hash/36bedb6eb7152f39b16328448942822b-Abstract.html)<br> 
+<button type="button" class="btn btn-set1-1">ID</button> Nested Counterfactual Identification from Arbitrary Surrogate Experiments [\[paper\]](https://arxiv.org/abs/2107.03190)<br> Juan D. Correa, **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2021<br> 
 
 
 <button type="button" class="btn btn-set1-1">ID</button> Causal Identification with Matrix Equations [\[paper\]](https://causalai.net/r70.pdf)<br> **Sanghack Lee** and Elias Bareinboim<br>
@@ -162,7 +163,7 @@ NeurIPS 2021, <font color="#e41a1c">Oral</font><br>
 <button type="button" class="btn btn-set1-2">TR</button> m-Transportability: Transportability of a Causal Effect from Multiple Environments<br> **Sanghack Lee** and Vasant Honavar<br> AAAI 2013<br>
 
 
-Learning Classifiers from Distributional Data<br> Harris Lin\*, **Sanghack Lee**\*, Ngot Bui\*, and Vasant Honavar<br> IEEE Second International Congress on Big Data
+Learning Classifiers from Distributional Data<br> Harris Lin\*, **Sanghack Lee**\*, Ngot Bui\*, and Vasant Honavar<br> IEEE International Congress on Big Data
 
 
 
