@@ -62,12 +62,12 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 Program Committee/Reviewed for 
 
-- 2024 NeurIPS (_Area Chair_), CLeaR, AISTATS, ICML, UAI, JMLR, ECAI, CI4TS at UAI
-- 2023 UAI, NeurIPS (_top reviewer_), Journal of Causal Inference (JCI)
-- 2022 ICLR  (_highlighted reviewer_), AAAI, AISTATS, CLeaR, ICML, UAI (_top reviewer_), JCI, NeurIPS
+- 2024 NeurIPS <span style="font-size:16px;color:SteelBlue;"(_Area Chair_)</span>, CLeaR, AISTATS, ICML, UAI, JMLR, ECAI, CI4TS at UAI
+- 2023 UAI, NeurIPS <span style="font-size:16px;color:SteelBlue;"(_top reviewer_)</span>, Journal of Causal Inference (JCI)
+- 2022 ICLR  <span style="font-size:16px;color:SteelBlue;"(_highlighted reviewer_)</span>, AAAI, AISTATS, CLeaR, ICML, UAI <span style="font-size:16px;color:SteelBlue;"(_top reviewer_)</span>, JCI, NeurIPS
 - 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, JAIR, Why now? workshop at NeurIPS
-- 2020 NeurIPS, UAI, ICML (_top reviewer_), AAAI, AISTATS, IEEE TPAMI, Journal of Artificial Intelligence (AIJ), JCI, CDML Workshop at NeurIPS
-- 2019 NeurIPS (_Best Reviewer Award_), WHY conference,
+- 2020 NeurIPS, UAI, ICML <span style="font-size:16px;color:SteelBlue;"(_top reviewer_)</span>, AAAI, AISTATS, IEEE TPAMI, Journal of Artificial Intelligence (AIJ), JCI, CDML Workshop at NeurIPS
+- 2019 NeurIPS <span style="font-size:16px;color:SteelBlue;"(_Best Reviewer Award_)</span>, WHY conference,
  JMLR, 2017 Causality Workshop at UAI, 2016 ACM CHI, 2014 ACM TIST
 
 <p style="margin-bottom:1.25cm;"></p>
@@ -98,20 +98,20 @@ Program Committee/Reviewed for
 
 
 ### Master students 
-- (2021) Taehan Kim, <span style="font-size:16px;color:gray;">causal feature selection</span>
-- (2022) Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
-- (2022) Dahhee Yim, <span style="font-size:16px;color:gray;">counterfactual inference</span>
-- (2022) Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
-- (2023) Heejin Choi, <span style="font-size:16px;color:gray;">interpretable causal inference</span>
-- (2023) Kyung A Song, <span style="font-size:16px;color:gray;">bias-mitigated recommender system</span>
-- (2023) Jaeho Jeong, <span style="font-size:16px;color:gray;">ML-based IV estimation under misspecification</span>
-- (2023) Kwon Ho Kim, <span style="font-size:16px;color:gray;">causal discovery with score matching, causally disentangled representation learning</span>
-- (2023) Jin A Choi
-- (2023) Soungmin Park, <span style="font-size:16px;color:gray;">causal RL, counterfactual Identification</span>
-- (2023) Oh Yoon Kwon
-- (2023) Hyunwoo Park
-- (2024) Hyeonji Kim
-- (2024) Jihae Chung
+- Taehan Kim, <span style="font-size:16px;color:gray;">causal feature selection</span>
+- Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
+- Dahhee Yim, <span style="font-size:16px;color:gray;">counterfactual inference</span>
+- Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
+- Heejin Choi, <span style="font-size:16px;color:gray;">interpretable causal inference</span>
+- Kyung A Song, <span style="font-size:16px;color:gray;">bias-mitigated recommender system</span>
+- Jaeho Jeong, <span style="font-size:16px;color:gray;">ML-based IV estimation under misspecification</span>
+- Kwon Ho Kim, <span style="font-size:16px;color:gray;">causal discovery with score matching, causally disentangled representation learning</span>
+- Jin A Choi
+- Soungmin Park, <span style="font-size:16px;color:gray;">causal RL, counterfactual Identification</span>
+- Oh Yoon Kwon
+- Hyunwoo Park
+- Hyeonji Kim
+- Jihae Chung
 
 <!--
 ### Undergraduate Researchers
