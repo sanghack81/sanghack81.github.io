@@ -90,28 +90,28 @@ Program Committee/Reviewed for
 - [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">deep counterfactual inference</span>
  
 ### Ph.D. students
-- [Yeahoon Kwon](https://deepstroy.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
-- [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
-- Juhyeon Kim, <span style="font-size:16px;color:gray;">causal NLP</span>
-- [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
 - Yeo Dong Youn
+- [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
+- Juhyeon Kim, <span style="font-size:16px;color:gray;">causal NLP</span>
+- [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
+- [Yeahoon Kwon](https://deepstroy.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
 
 
 ### Master students 
-- Taehan Kim, <span style="font-size:16px;color:gray;">causal feature selection</span>
-- Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
-- Dahhee Yim, <span style="font-size:16px;color:gray;">counterfactual inference</span>
-- Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
-- Heejin Choi, <span style="font-size:16px;color:gray;">interpretable causal inference</span>
-- Kyung A Song, <span style="font-size:16px;color:gray;">bias-mitigated recommender system</span>
-- Jaeho Jeong, <span style="font-size:16px;color:gray;">ML-based IV estimation under misspecification</span>
-- Kwon Ho Kim, <span style="font-size:16px;color:gray;">causal discovery with score matching, causally disentangled representation learning</span>
-- Jin A Choi
-- Soungmin Park, <span style="font-size:16px;color:gray;">causal RL, counterfactual Identification</span>
-- Oh Yoon Kwon
-- Hyunwoo Park
-- Hyeonji Kim
 - Jihae Chung
+- Hyeonji Kim
+- Hyunwoo Park
+- Oh Yoon Kwon
+- Soungmin Park, <span style="font-size:16px;color:gray;">causal RL, counterfactual Identification</span>
+- Jin A Choi
+- Kwon Ho Kim, <span style="font-size:16px;color:gray;">causal discovery with score matching, causally disentangled representation learning</span>
+- Jaeho Jeong, <span style="font-size:16px;color:gray;">ML-based IV estimation under misspecification</span>
+- Kyung A Song, <span style="font-size:16px;color:gray;">bias-mitigated recommender system</span>
+- Heejin Choi, <span style="font-size:16px;color:gray;">interpretable causal inference</span>
+- Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
+- Dahhee Yim, <span style="font-size:16px;color:gray;">counterfactual inference</span>
+- Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
+- Taehan Kim, <span style="font-size:16px;color:gray;">causal feature selection</span>
 
 <!--
 ### Undergraduate Researchers
