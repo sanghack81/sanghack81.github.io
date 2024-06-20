@@ -126,8 +126,7 @@ Program Committee/Reviewed for
 - Bogeun, Kim (Summer, 2024)
 
 
-<details>
-<summary><h3>Alumni</h3></summary>
+### Alumni 
 - Jeong Ha Moon (master 2022)
 - Jeongsup Park (master 2022)
 - Chaeyoung Chung (master 2021)
@@ -135,7 +134,6 @@ Program Committee/Reviewed for
 - Jewon Kang (master 2021~2023, KDB)
 <!-- - Juhyeon Kim (master program 2021~2023, Ph.D. program)-->
 - Soheun Yi (&rarr; CMU Ph.D.)
-</details>
 
 <p style="margin-bottom:1.25cm;"></p>
 
