@@ -145,3 +145,5 @@ Program Committee/Reviewed for
 - Association and Causality in Metabolomic data (MFDS, co-PI, 2022)
 - Supply Chain based Financial Keyword Analysis (NH Investment, 2021)
 - Causal Discovery for Time Series (LG AI Research, PI, 2023.04~24.04)
+
+
