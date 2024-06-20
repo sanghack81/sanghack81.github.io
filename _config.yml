@@ -1,12 +1,12 @@
 # Site settings
-title: Sanghack Lee
+title: Sanghack Lee 이상학
 email: sanghack.lee@gmail.com
 description: > #Sanghack Lee curriculum vitae or resume
 baseurl: ""
 url: "http://sanghacklee.me"
 name: Sanghack Lee
-job: Associate Research Scientist
-location: New York City, New York, United States
+job: Assistant Professor
+location: Seoul, Republic of Korea
 #languages: HTML, CSS and Javascript
 #twitter_username: sanghack81
 github_username:  sanghack81

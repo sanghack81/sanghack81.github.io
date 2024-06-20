@@ -62,8 +62,8 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 Program Committee/Reviewed for 
 
-- 2024 NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, CLeaR, AISTATS, ICML, UAI, JMLR, ECAI, CI4TS at UAI
-- 2023 UAI, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, Journal of Causal Inference (JCI)
+- 2024 NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, CLeaR, AISTATS, ICML, UAI, JMLR, ECAI, ARR (June), CI4TS at UAI
+- 2023 UAI, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, Journal of Causal Inference (JCI), CI4TS at UAI
 - 2022 ICLR  <span style="font-size:16px;color:SteelBlue;">(_highlighted reviewer_)</span>, AAAI, AISTATS, CLeaR, ICML, UAI <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, JCI, NeurIPS
 - 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, JAIR, Why now? workshop at NeurIPS
 - 2020 NeurIPS, UAI, ICML <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, AAAI, AISTATS, IEEE TPAMI, Journal of Artificial Intelligence (AIJ), JCI, CDML Workshop at NeurIPS
@@ -79,7 +79,7 @@ Program Committee/Reviewed for
 - Center for Optimizing Hyperscale AI Models and Platforms (NRF, co-PI, 2023.06~, PI: Jaejin Lee)
 - Metabolomic Big Data Analysis (MFDS, co-PI, 2023~25)
 - An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~24)
-- Causal Discovery for Time Series (LG AI Research, PI, 2023.04~24.04)
+- Deep Generative Models for Causal Reasoning (LG AI Research, PI, 2024.05~25.05)
 
 <p style="margin-bottom:1.25cm;"></p>
 
@@ -90,6 +90,7 @@ Program Committee/Reviewed for
 - [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">deep counterfactual inference</span>
  
 ### Ph.D. students
+- Byeonghui Lim
 - Yeo Dong Youn
 - [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
 - Juhyeon Kim, <span style="font-size:16px;color:gray;">causal NLP</span>
@@ -98,6 +99,12 @@ Program Committee/Reviewed for
 
 
 ### Master students 
+- Daehui Park
+- Younsuk Yeom
+- Eunseo Lee
+- Sumin Cho
+- Sangyeon Cho,  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
+- Min Young Cho
 - Jihae Chung
 - Hyeonji Kim
 - Hyunwoo Park
@@ -113,25 +120,22 @@ Program Committee/Reviewed for
 - Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
 - Taehan Kim, <span style="font-size:16px;color:gray;">causal feature selection</span>
 
-<!--
 ### Undergraduate Researchers
-- Sangyeon Cho,  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
-- Min Young Cho
-- HyeJin Kwon
+- HyeJin Kwon (Summer, 2024)
 - GyeongChan, Han (Summer, 2024)
-- Seungsoo, Han (Summer, 2024)
--->
+- Bogeun, Kim (Summer, 2024)
 
 
-## Alumni 
+<details>
+<summary><h3>Alumni</h3></summary>
 - Jeong Ha Moon (master 2022)
 - Jeongsup Park (master 2022)
 - Chaeyoung Chung (master 2021)
-- [Dong Kyu Cho](https://umamicode.github.io/aboutme/) (master 2021, LG AI Research (intern), a soon-to-be NYU Ph.D. student)
+- [Dong Kyu Cho](https://umamicode.github.io/aboutme/) (master 2021, &rarr; NYU Ph.D. )
 - Jewon Kang (master 2021~2023, KDB)
 <!-- - Juhyeon Kim (master program 2021~2023, Ph.D. program)-->
-- Soheun Yi (CMU Ph.D. program)
-
+- Soheun Yi (&rarr; CMU Ph.D.)
+</details>
 
 <p style="margin-bottom:1.25cm;"></p>
 
@@ -140,3 +144,4 @@ Program Committee/Reviewed for
 - Semantic Search for Korean Medical and Legal Documents (SNU, co-PI, 2022~23, PI: Hyopil Shin)
 - Association and Causality in Metabolomic data (MFDS, co-PI, 2022)
 - Supply Chain based Financial Keyword Analysis (NH Investment, 2021)
+- Causal Discovery for Time Series (LG AI Research, PI, 2023.04~24.04)
