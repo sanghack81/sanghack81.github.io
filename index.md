@@ -99,6 +99,7 @@ Program Committee/Reviewed for
 
 
 ### Master students 
+- Sujeong Oh
 - Daehui Park
 - Younsuk Yeom
 - Eunseo Lee
