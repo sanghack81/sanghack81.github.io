@@ -100,7 +100,7 @@ Program Committee/Reviewed for
 
 ### Master students 
 - Sujeong Oh
-- Daehui Park
+- [Daehui Park](https://www.linkedin.com/in/대희-박-201500222/),  <span style="font-size:16px;color:gray;">causal inference</span>
 - [Younsuk Yeom](https://www.linkedin.com/in/younsuk-yeom78/), <span style="font-size:16px;color:gray;">causal discovery, causal representation learning</span>
 - Eunseo Lee
 - Sumin Cho
