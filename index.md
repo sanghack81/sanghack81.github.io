@@ -99,10 +99,10 @@ Program Committee/Reviewed for
 
 
 ### Master students 
-- Sujeong Oh
+- [Sujeong Oh](https://www.linkedin.com/in/5sudeng), <span style="font-size:16px;color:gray;">causal machine learning</span>
 - [Daehui Park](https://www.linkedin.com/in/대희-박-201500222/),  <span style="font-size:16px;color:gray;">causal inference</span>
 - [Younsuk Yeom](https://www.linkedin.com/in/younsuk-yeom78/), <span style="font-size:16px;color:gray;">causal discovery, causal representation learning</span>
-- Eunseo Lee
+- [Eunseo Lee](https://www.linkedin.com/in/은서-이-9497a8315/)
 - Sumin Cho
 - [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
 - Min Young Cho
