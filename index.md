@@ -113,7 +113,8 @@ Program Committee/Reviewed for
 - Soungmin Park, <span style="font-size:16px;color:gray;">causal RL, counterfactual Identification</span>
 - Jin A Choi
 - Kwon Ho Kim, <span style="font-size:16px;color:gray;">causal discovery with score matching, causally disentangled representation learning</span>
-- Jaeho Jeong, <span style="font-size:16px;color:gray;">ML-based IV estimation under misspecification</span>
+- [Jaeho Jeong](https://www.linkedin.com/in/jaeho-jeong-043458199/), <span style="font-size:16px;color:gray;">robust conformal inference of individual treatment effects
+</span>
 - Kyung A Song, <span style="font-size:16px;color:gray;">bias-mitigated recommender system</span>
 - Heejin Choi, <span style="font-size:16px;color:gray;">interpretable causal inference</span>
 - Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
