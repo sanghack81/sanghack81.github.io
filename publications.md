@@ -45,7 +45,7 @@ ICML 2024 <span style="font-size:16px;color:gray;">(previously, GenPlan workshop
 
 <button type="button" class="btn btn-set1-1">ID</button> On Positivity Condition for Causal Inference<br>
 Inwoo Hwang\*, Yesong Choe\*, Yeahoon Kwon,  **Sanghack Lee**<br>
-ICML 2024<br>
+ICML 2024 <span style="font-size:16px;color:gray;">(+ Causality workshop at UAI 2024)</span><br>
 
 
 <button type="button" class="btn btn-set1-1">CD</button>

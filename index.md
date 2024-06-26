@@ -45,6 +45,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 
 ## News
+- (Jun 2024) Six students joined <img src="/assets/logo_2023.png" height="16" style="vertical-align: baseline"/> Causality Lab!
 - (May 2024) Two papers are accepted at ICML 2024. Thanks for students' incredible efforts!
 - (Apr 2024) Two papers are accepted at UAI 2024. Super congrats!
 - (Jan 2024) Soheun's paper on cyclic causal discovery is accepted at AISTATS. Congrats!
