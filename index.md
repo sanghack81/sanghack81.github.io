@@ -111,7 +111,7 @@ Program Committee/Reviewed for
 - Hyunwoo Park
 - Oh Yoon Kwon
 - Soungmin Park, <span style="font-size:16px;color:gray;">causal RL, counterfactual Identification</span>
-- Jin A Choi
+- [Jin A Choi](https://www.linkedin.com/in/jina-choi-7862852bb/) <span style="font-size:16px;color:gray;">causal explanation</span>
 - Kwon Ho Kim, <span style="font-size:16px;color:gray;">causal discovery with score matching, causally disentangled representation learning</span>
 - [Jaeho Jeong](https://www.linkedin.com/in/jaeho-jeong-043458199/), <span style="font-size:16px;color:gray;">robust conformal inference of individual treatment effects
 </span>
