@@ -116,10 +116,8 @@ Program Committee/Reviewed for
 - Kwon Ho Kim, <span style="font-size:16px;color:gray;">causal discovery with score matching, causally disentangled representation learning</span>
 - [Jaeho Jeong](https://www.linkedin.com/in/jaeho-jeong-043458199/), <span style="font-size:16px;color:gray;">robust conformal inference of individual treatment effects
 </span>
-- Kyung A Song, <span style="font-size:16px;color:gray;">bias-mitigated recommender system</span>
 - Heejin Choi, <span style="font-size:16px;color:gray;">interpretable causal inference</span>
 - Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
-- Dahhee Yim, <span style="font-size:16px;color:gray;">counterfactual inference</span>
 - Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
 - Taehan Kim, <span style="font-size:16px;color:gray;">causal feature selection</span>
 
@@ -130,6 +128,8 @@ Program Committee/Reviewed for
 
 
 ### Alumni 
+- Kyung A Song (master 2022)
+- Dahhee Yim (master 2022)
 - Jeong Ha Moon (master 2022)
 - Jeongsup Park (master 2022)
 - Chaeyoung Chung (master 2021)

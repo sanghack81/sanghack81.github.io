@@ -39,22 +39,22 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 <button type="button" class="btn btn-set1-1">CD</button>
 <button type="button" class="btn btn-set1-3">DM</button>
-<button type="button" class="btn btn-set1-5">CML</button> Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning<br>
+<button type="button" class="btn btn-set1-5">CML</button> Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning [\[paper\]](https://openreview.net/pdf?id=mrd4e8ZJjm)<br>
 Inwoo Hwang, Yunhyeok Kwak, Suhyung Choi, Byoung-Tak Zhang\*, **Sanghack Lee**\*<br>
 ICML 2024 <span style="font-size:16px;color:gray;">(previously, GenPlan workshop at NeurIPS 2023, SCIS workshop at ICML 2023)</span><br>
 
-<button type="button" class="btn btn-set1-1">ID</button> On Positivity Condition for Causal Inference<br>
+<button type="button" class="btn btn-set1-1">ID</button> On Positivity Condition for Causal Inference [\[paper\]](https://openreview.net/pdf?id=6D0nyemiWk)<br>
 Inwoo Hwang\*, Yesong Choe\*, Yeahoon Kwon,  **Sanghack Lee**<br>
 ICML 2024 <span style="font-size:16px;color:gray;">(+ Causality workshop at UAI 2024)</span><br>
 
 
 <button type="button" class="btn btn-set1-1">CD</button>
 <button type="button" class="btn btn-set1-3">DM</button>
-Efficient Monte Carlo Tree Search via On-the-Fly State-Conditioned Action Abstraction<br>
+Efficient Monte Carlo Tree Search via On-the-Fly State-Conditioned Action Abstraction [\[paper\]](https://openreview.net/pdf?id=UvDsWevxUI)<br>
 Yunhyeok Kwak\*, Inwoo Hwang\*, Dooyoung Kim, **Sanghack Lee**\*, Byoung-Tak Zhang\*<br>
 UAI 2024, <font color="#e41a1c">Oral</font><br>
 
-<button type="button" class="btn btn-set1-1">CD</button> Causal Discovery with Deductive Reasoning: One Less Problem<br>
+<button type="button" class="btn btn-set1-1">CD</button> Causal Discovery with Deductive Reasoning: One Less Problem [\[paper\]](https://openreview.net/pdf?id=HmhAFOD1Bz)<br>
 Jonghwan Kim, Inwoo Hwang, **Sanghack Lee**<br>
 UAI 2024<br>
 
