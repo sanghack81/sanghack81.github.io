@@ -91,6 +91,8 @@ Program Committee/Reviewed for
 - [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">deep counterfactual inference</span>
  
 ### Ph.D. students
+- Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
+- Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
 - Byeonghui Lim
 - Yeo Dong Youn
 - [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
@@ -117,8 +119,6 @@ Program Committee/Reviewed for
 - [Jaeho Jeong](https://www.linkedin.com/in/jaeho-jeong-043458199/), <span style="font-size:16px;color:gray;">robust conformal inference of individual treatment effects
 </span>
 - Heejin Choi, <span style="font-size:16px;color:gray;">interpretable causal inference</span>
-- Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
-- Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
 - Taehan Kim, <span style="font-size:16px;color:gray;">causal feature selection</span>
 
 ### Undergraduate Researchers
