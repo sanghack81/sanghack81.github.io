@@ -43,7 +43,7 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 Inwoo Hwang, Yunhyeok Kwak, Suhyung Choi, Byoung-Tak Zhang\*, **Sanghack Lee**\*<br>
 ICML 2024 <span style="font-size:16px;color:gray;">(previously, GenPlan workshop at NeurIPS 2023, SCIS workshop at ICML 2023)</span><br>
 
-<button type="button" class="btn btn-set1-1">ID</button> On Positivity Condition for Causal Inference [\[paper\]](https://openreview.net/pdf?id=6D0nyemiWk)<br>
+<button type="button" class="btn btn-set1-1">ID</button> On Positivity Condition for Causal Inference [\[paper\]](https://openreview.net/pdf?id=6D0nyemiWk), [\[poster\]](assets/2024-ICML-positivity-poster.pdf)<br>
 Inwoo Hwang\*, Yesong Choe\*, Yeahoon Kwon,  **Sanghack Lee**<br>
 ICML 2024 <span style="font-size:16px;color:gray;">(+ Causality workshop at UAI 2024)</span><br>
 
@@ -54,7 +54,7 @@ Efficient Monte Carlo Tree Search via On-the-Fly State-Conditioned Action Abstra
 Yunhyeok Kwak\*, Inwoo Hwang\*, Dooyoung Kim, **Sanghack Lee**\*, Byoung-Tak Zhang\*<br>
 UAI 2024, <font color="#e41a1c">Oral</font><br>
 
-<button type="button" class="btn btn-set1-1">CD</button> Causal Discovery with Deductive Reasoning: One Less Problem [\[paper\]](https://openreview.net/pdf?id=HmhAFOD1Bz)<br>
+<button type="button" class="btn btn-set1-1">CD</button> Causal Discovery with Deductive Reasoning: One Less Problem [\[paper\]](https://openreview.net/pdf?id=HmhAFOD1Bz), [\[poster\]](assets/2024-UAI-deduce-dep-poster.pdf)<br>
 Jonghwan Kim, Inwoo Hwang, **Sanghack Lee**<br>
 UAI 2024<br>
 
