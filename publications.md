@@ -33,6 +33,13 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 - Robust Differences-in-Differences (Jeong Ha)
 -->
 
+### Preprints
+
+Toward a Complete Criterion for Value of Information in Insoluble Decision Problems [\[arXiv\]](https://arxiv.org/abs/2407.09883)<br>
+Ryan Carey, **Sanghack Lee**, Robin J. Evans<br>
+
+
+
 ### Published Papers
 
 \* for joint first authorship or corresponding author
