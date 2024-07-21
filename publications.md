@@ -35,6 +35,7 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 ### Preprints
 
+<button type="button" class="btn btn-set1-3">DM</button>
 Toward a Complete Criterion for Value of Information in Insoluble Decision Problems [\[arXiv\]](https://arxiv.org/abs/2407.09883)<br>
 Ryan Carey, **Sanghack Lee**, Robin J. Evans<br>
 
@@ -46,7 +47,7 @@ Ryan Carey, **Sanghack Lee**, Robin J. Evans<br>
 
 <button type="button" class="btn btn-set1-1">CD</button>
 <button type="button" class="btn btn-set1-3">DM</button>
-<button type="button" class="btn btn-set1-5">CML</button> Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning [\[paper\]](https://openreview.net/pdf?id=mrd4e8ZJjm)<br>
+<button type="button" class="btn btn-set1-5">CML</button> Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning [\[paper\]](https://openreview.net/pdf?id=mrd4e8ZJjm), [\[poster\]](assets/2024-ICML-CRL-poster.pdf) <br>
 Inwoo Hwang, Yunhyeok Kwak, Suhyung Choi, Byoung-Tak Zhang\*, **Sanghack Lee**\*<br>
 ICML 2024 <span style="font-size:16px;color:gray;">(previously, GenPlan workshop at NeurIPS 2023, SCIS workshop at ICML 2023)</span><br>
 
