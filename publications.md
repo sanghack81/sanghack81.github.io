@@ -10,7 +10,8 @@ My collaborators and I have published papers in AI and ML conferences (e.g., UAI
 Within the scope of causal inference, we investigated the problem of **causal effect identifiability** <button type="button" class="btn btn-set1-1">ID</button> allowing causal inference engines to take more diverse sets of data. In parallel, we also studied on the identifiability problem for heterogeneous domains (similar to the underlying ideas of domain adaptation or transfer learning in ML) called **transportability** <button type="button" class="btn btn-set1-2">TR</button>. We also pursue research on **decision-making** <button type="button" class="btn btn-set1-3">DM</button> where causality serves as the first principle to solve the problem.
 During my PhD study, I mostly spent time on understanding causal discovery from **relational data** <button type="button" class="btn btn-set1-4">REL</button> such as relational conditional independence, relational Markov equivalence classes, relational causal discovery algorithms both theoretical and practical. Recently, I am interested in the intersection of causality and machine learning <button type="button" class="btn btn-set1-5">CML</button> (e.g., causal representation learning) and <button type="button" class="btn btn-set1-1">CD</button> causal discovery.
 
-[[Google Scholar](https://scholar.google.com/citations?hl=en&user=hsxjzdkAAAAJ&view_op=list_works&sortby=pubdate)]
+[[Google Scholar](https://scholar.google.com/citations?hl=en&user=hsxjzdkAAAAJ&view_op=list_works&sortby=pubdate)], 
+[[Openreview](https://openreview.net/profile?id=~Sanghack_Lee1)]
 
 <!--**Collaborators**: [Juan D. Correa](http://jdcorrea.me), [Aria Khademi](https://sites.psu.edu/khademi/), [Elias Bareinboim](https://causalai.net), [Vasant Honavar](https://faculty.ist.psu.edu/vhonavar/index.htm)
 -->
@@ -20,17 +21,17 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 <p style="margin-bottom:1.25cm;"></p>
 <!--
-### Working Papers
-
+### Working Topics
+- Unit Selection Prediction
+- Mitigating Popularity bias in Recommender Systems
+- Counterfactual Recommender Systems
+- Representation Learning for Temporal Causal Discovery 
 - LLM-Guided Temporal Causal Discovery (Juhyeon+, _submitted_)
 - Citation for Retrieval Augmented Generation (Juhyeon+, _submitted_)
 - Representation Learning for Instrumental Variables (Jung Soo+, _submitted_)
 - Regularized Synthetic Control (Yeodong, Jeongsup, Inwoo)
 - Causality-inspired Domain Generalization (Dong Kyu, Inwoo)
 - Sequential Adjustment Criterion (YJ, Minwoo)
-- Causality in Rested Bandit (ND, Yeahoon, Soungmin)
-- Value of Information under Insolubility (RC, RE, Minwoo)
-- Robust Differences-in-Differences (Jeong Ha)
 -->
 
 ### Preprints
@@ -40,6 +41,10 @@ Toward a Complete Criterion for Value of Information in Insoluble Decision Probl
 Ryan Carey, **Sanghack Lee**, Robin J. Evans<br>
 
 
+<!--
+Can We Utilize Pre-trained Language Models within Causal Discovery Algorithms? [\[arXiv\]](https://arxiv.org/abs/2311.11212)<br>
+Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, Sangjun Han, Hyeokjun Choe, Soyeon Park, Woohyung Lim, Sungbin Lim, **Sanghack Lee**<br>
+-->
 
 ### Published Papers
 
