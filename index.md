@@ -45,6 +45,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 
 ## News
+- (Aug 2024) Congratulations to Inwoo for being chosen as a recipient of the Yulchon AI STAR Scholarship!
 - (Jun 2024) Six students joined <img src="/assets/logo_2023.png" height="16" style="vertical-align: baseline"/> Causality Lab!
 - (May 2024) Two papers are accepted at ICML 2024. Thanks for students' incredible efforts!
 - (Apr 2024) Two papers are accepted at UAI 2024. Super congrats!
@@ -63,7 +64,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 Program Committee/Reviewed for 
 
-- 2025 AAAI, KDD
+- 2025 AAAI, KDD, ICLR
 - 2024 NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, CLeaR, AISTATS, ICML, UAI, JMLR, ECAI, ARR (June), CI4TS at UAI
 - 2023 UAI, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, Journal of Causal Inference (JCI), CI4TS at UAI
 - 2022 ICLR  <span style="font-size:16px;color:SteelBlue;">(_highlighted reviewer_)</span>, AAAI, AISTATS, CLeaR, ICML, UAI <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, JCI, NeurIPS
