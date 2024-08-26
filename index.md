@@ -78,9 +78,9 @@ Program Committee/Reviewed for
 ## Research Projects
 
 - Causal Machine Learning (NRF, PI, 2023~27 with Innovative Research Lab Initiation Grant)
-- Self-Motivated AI: Developing self-directed AI agents that can solve new problems (IITP, co-PI, 2022~26, PI: Byoung-Tak Zhang)
-- Center for Optimizing Hyperscale AI Models and Platforms (NRF, co-PI, 2023.06~, PI: Jaejin Lee)
-- Metabolomic Big Data Analysis (MFDS, co-PI, 2023~25)
+- Self-Motivated AI: Developing self-directed AI agents that can solve new problems (IITP, Co-I, 2022~26, PI: Byoung-Tak Zhang)
+- Center for Optimizing Hyperscale AI Models and Platforms (NRF, Co-I, 2023.06~, PI: Jaejin Lee)
+- Metabolomic Big Data Analysis (MFDS, Co-I, 2023~25)
 - An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~24)
 - Deep Generative Models for Causal Reasoning (LG AI Research, PI, 2024.05~25.05)
 
