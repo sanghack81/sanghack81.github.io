@@ -131,8 +131,8 @@ Program Committee/Reviewed for
 
 ### Alumni 
 - Kyung A Song (master 2022)
-- Dahhee Yim (master 2022)
-- Jeong Ha Moon (master 2022)
+- Dahhee Yim (master 2022, Doosan)
+- Jeong Ha Moon (master 2022, Coupang)
 - Jeongsup Park (master 2022)
 - Chaeyoung Chung (master 2021)
 - [Dong Kyu Cho](https://umamicode.github.io/aboutme/) (master 2021, &rarr; NYU Ph.D. )
