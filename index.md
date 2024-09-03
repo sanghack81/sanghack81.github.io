@@ -53,12 +53,13 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 - (Jan 2024) Soheun's paper on cyclic causal discovery is accepted at AISTATS. Congrats!
 - (Nov 2023) Two NeurIPS workshop papers are accepted.
 - (Jun 2023) Causal dynamics learning paper by Inwoo is accepted to a workshop at ICML 2023.
+<!-- 
 - (Jan 2023) Inwoo's paper on local causal discovery using neural network is accepted at CLeaR 2023!
 - (May 2022) A co-authored paper on the intersection between transportability and counterfactual identification will be presented at ICML.
 - (Dec 2021) Two papers on identification accepted to NeurIPS 2021 and a paper to a sequential decision making workshop at NeurIPS.
 - (Jul 2021) A paper on 'counterfactual identification' (joint work with Correa and Bareinboim) is online.
 - (Mar 2021) I joined Graduate School of Data Science at Seoul National University as an Assistant Professor.
-
+-->
 
 <p style="margin-bottom:1.25cm;"></p>
 ## Academic Activities
@@ -66,7 +67,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 Program Committee/Reviewed for 
 
 - 2025 AAAI, KDD, ICLR
-- 2024 NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, CLeaR, AISTATS, ICML, UAI, JMLR, ECAI, ARR (June), CI4TS at UAI
+- 2024 NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, CLeaR, ICML, UAI, JMLR, ECAI, ARR (June), CI4TS at UAI
 - 2023 UAI, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, Journal of Causal Inference (JCI), CI4TS at UAI
 - 2022 ICLR  <span style="font-size:16px;color:SteelBlue;">(_highlighted reviewer_)</span>, AAAI, AISTATS, CLeaR, ICML, UAI <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, JCI, NeurIPS
 - 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, JAIR, Why now? workshop at NeurIPS
@@ -125,10 +126,13 @@ Program Committee/Reviewed for
 - Taehan Kim, <span style="font-size:16px;color:gray;">causal feature selection</span>
 
 ### Undergraduate Researchers
-- HyeJin Kwon (Summer, 2024)
-- GyeongChan, Han (Summer, 2024)
-- Bogeun, Kim (Summer, 2024)
+- Taehui Yun (Fall, 2024)
+<!--
 
+- HyeJin Kwon (Summer, 2024)
+- GyeongChan Han (Summer, 2024)
+- Bogeun Kim (Summer, 2024)
+-->
 
 ### Alumni 
 - Kyung A Song (master 2022)
