@@ -127,12 +127,6 @@ Program Committee/Reviewed for
 
 ### Undergraduate Researchers
 - Taehui Yun (Fall, 2024)
-<!--
-
-- HyeJin Kwon (Summer, 2024)
-- GyeongChan Han (Summer, 2024)
-- Bogeun Kim (Summer, 2024)
--->
 
 ### Alumni 
 - Kyung A Song (master 2022)
