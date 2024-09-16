@@ -60,7 +60,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 Program Committee/Reviewed for 
 
-- 2025 AAAI, KDD, ICLR
+- 2025 AAAI (reduced load), KDD, ICLR, AISTATS (reduced load)
 - 2024 NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, CLeaR, ICML, UAI, JMLR, ECAI, ARR (June), CI4TS at UAI
 - 2023 UAI, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, Journal of Causal Inference (JCI), CI4TS at UAI
 - 2022 ICLR  <span style="font-size:16px;color:SteelBlue;">(_highlighted reviewer_)</span>, AAAI, AISTATS, CLeaR, ICML, UAI <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, JCI, NeurIPS
