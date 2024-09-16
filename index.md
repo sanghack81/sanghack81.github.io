@@ -53,13 +53,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 - (Jan 2024) Soheun's paper on cyclic causal discovery is accepted at AISTATS. Congrats!
 - (Nov 2023) Two NeurIPS workshop papers are accepted.
 - (Jun 2023) Causal dynamics learning paper by Inwoo is accepted to a workshop at ICML 2023.
-<!---
 - (Jan 2023) Inwoo's paper on local causal discovery using neural network is accepted at CLeaR 2023!
-- (May 2022) A co-authored paper on the intersection between transportability and counterfactual identification will be presented at ICML.
-- (Dec 2021) Two papers on identification accepted to NeurIPS 2021 and a paper to a sequential decision making workshop at NeurIPS.
-- (Jul 2021) A paper on 'counterfactual identification' (joint work with Correa and Bareinboim) is online.
-- (Mar 2021) I joined Graduate School of Data Science at Seoul National University as an Assistant Professor.
--->
 
 <p style="margin-bottom:1.25cm;"></p>
 ## Academic Activities
@@ -97,8 +91,8 @@ Program Committee/Reviewed for
 ### Ph.D. students
 - Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
 - Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
-- Byeonghui Lim
-- Yeo Dong Youn
+- Byeonghui Lim, <span style="font-size:16px;color:gray;">causal decision making</span>
+- Yeo Dong Youn, <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
 - [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
 - Juhyeon Kim, <span style="font-size:16px;color:gray;">causal NLP</span>
 - [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
