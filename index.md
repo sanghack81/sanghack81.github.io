@@ -124,12 +124,12 @@ Program Committee/Reviewed for
 
 ### Alumni 
 - Kyung A Song (master 2022)
-- Dahhee Yim (master 2022, Doosan Enerbility)
-- Jeong Ha Moon (master 2022, Coupang)
-- Jeongsup Park (master 2022)
-- Chaeyoung Chung (master 2021)
+- Dahhee Yim (master 2022, <em>Doosan Enerbility</em>)
+- Jeong Ha Moon (master 2022, <em>Coupang</em>)
+- Jeongsup Park (master 2022, <em>AB180</em>)
+- Chaeyoung Chung (master 2021, <em>secret</em>)
 - [Dong Kyu Cho](https://umamicode.github.io/aboutme/) (master 2021, &rarr; NYU Ph.D. )
-- Jewon Kang (master 2021~2023, KDB)
+- Jewon Kang (master 2021~2023, <em>KDB</em>)
 <!-- - Juhyeon Kim (master program 2021~2023, Ph.D. program)-->
 - Soheun Yi (&rarr; CMU Ph.D.)
 
