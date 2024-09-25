@@ -50,6 +50,8 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 
 \* for joint first authorship or corresponding author
 
+<button type="button" class="btn btn-set1-1">ID</button> Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference  <br> Yonghan Jung, Min Woo Park, Sanghack Lee<br> NeurIPS 2024<br> 
+
 <button type="button" class="btn btn-set1-1">CD</button>
 <button type="button" class="btn btn-set1-3">DM</button>
 <button type="button" class="btn btn-set1-5">CML</button> Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning [\[paper\]](https://openreview.net/pdf?id=mrd4e8ZJjm), [\[poster\]](assets/2024-ICML-CRL-poster.pdf) <br>
