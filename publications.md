@@ -37,7 +37,7 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 ### Preprints
 
 <button type="button" class="btn btn-set1-3">DM</button>
-Toward a Complete Criterion for Value of Information in Insoluble Decision Problems [\[arXiv\]](https://arxiv.org/abs/2407.09883)<br>
+ Toward a Complete Criterion for Value of Information in Insoluble Decision Problems [\[arXiv\]](https://arxiv.org/abs/2407.09883)<br>
 Ryan Carey, **Sanghack Lee**, Robin J. Evans<br>
 
 
@@ -49,14 +49,15 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 ### Published Papers
 
 \* for joint first authorship or corresponding author
+
 <button type="button" class="btn btn-outline-secondary">ws</button>
-<button type="button" class="btn btn-set1-5">CD</button>On Incorporating Prior Knowledge Extracted from Pre-trained Language Models into Causal Discovery<br>
+<button type="button" class="btn btn-set1-5">CD</button> On Incorporating Prior Knowledge Extracted from Pre-trained Language Models into Causal Discovery<br>
 Chanhui Lee\*, Juhyeon Kim\*, YongJun Jeong, Yeom Yoon Seok, Juhyun Lyu, Jung-Hee Kim, Sangmin Lee, Sangjun Han, Hyeokjun Choe, Soyeon Park, Woohyung Lim, Kyunghoon Bae, Sungbin Lim\*, **Sanghack Lee**\*<br>
 First Workshop on Causality and Large Model at NeurIPS 2024<br>
 
 
 <button type="button" class="btn btn-outline-secondary">ws</button>
-<button type="button" class="btn btn-set1-5">ML</button>Locality-aware Concept Bottleneck Model<br>
+<button type="button" class="btn btn-set1-5">ML</button> Locality-aware Concept Bottleneck Model<br>
 Sujin Jeon, Inwoo Hwang, **Sanghack Lee**\*, Byoung-Tak Zhang\*<br>
 UniReps: 2nd Edition of the Workshop on Unifying Representations in Neural Models at NeurIPS 2024<br>
 
@@ -69,7 +70,7 @@ Inwoo Hwang, Yunhyeok Kwak, Suhyung Choi, Byoung-Tak Zhang\*, **Sanghack Lee**\*
 ICML 2024 <span style="font-size:16px;color:gray;">(previously, GenPlan workshop at NeurIPS 2023, SCIS workshop at ICML 2023)</span><br>
 
 <button type="button" class="btn btn-set1-1">ID</button> On Positivity Condition for Causal Inference [\[paper\]](https://openreview.net/pdf?id=6D0nyemiWk), [\[poster\]](assets/2024-ICML-positivity-poster.pdf)<br>
-Inwoo Hwang\*, Yesong Choe\*, Yeahoon Kwon,  **Sanghack Lee**<br>
+Inwoo Hwang\*, Yesong Choe\*, Yeahoon Kwon,  **Sanghack Lee**\*<br>
 ICML 2024 <span style="font-size:16px;color:gray;">(+ Causality workshop at UAI 2024)</span><br>
 
 
@@ -80,16 +81,16 @@ Yunhyeok Kwak\*, Inwoo Hwang\*, Dooyoung Kim, **Sanghack Lee**\*, Byoung-Tak Zha
 UAI 2024, <font color="#e41a1c">Oral</font><br>
 
 <button type="button" class="btn btn-set1-1">CD</button> Causal Discovery with Deductive Reasoning: One Less Problem [\[paper\]](https://openreview.net/pdf?id=HmhAFOD1Bz), [\[poster\]](assets/2024-UAI-deduce-dep-poster.pdf)<br>
-Jonghwan Kim, Inwoo Hwang, **Sanghack Lee**<br>
+Jonghwan Kim, Inwoo Hwang, **Sanghack Lee**\*<br>
 UAI 2024<br>
 
 <button type="button" class="btn btn-set1-1">CD</button> Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models [\[paper\]](https://proceedings.mlr.press/v238/yi24a/yi24a.pdf)<br>
-Soheun Yi, **Sanghack Lee**<br>
+Soheun Yi, **Sanghack Lee**\*<br>
 AISTATS 2024<br>
 
 <button type="button" class="btn btn-outline-secondary">ws</button>
 <button type="button" class="btn btn-set1-5">CML</button> Learning to ignore: Single Source Domain Generalization via Oracle Regularization [\[paper\]](https://openreview.net/forum?id=8btzvHmSfU)<br>
-Dong Kyu Cho, **Sanghack Lee**<br>
+Dong Kyu Cho, **Sanghack Lee**\*<br>
 Causal Representation Learning Workshop at NeurIPS 2023<br>
 
 
