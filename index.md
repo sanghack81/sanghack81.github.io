@@ -22,8 +22,8 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 </div>
 
 <br>
-I am seeking self-motivated undergraduate interns with strong problem-solving abilities and excellent communication skills who can work in a collaborative environment.
-Please email me if you are interested in solving problems in causal inference.
+<em>I am seeking self-motivated **undergraduate interns** with strong problem-solving abilities and excellent communication skills who can work in a collaborative environment.
+Please email me if you are interested in solving problems in causal inference.</em>
 <br>
 
 <p style="margin-bottom:1.25cm;"></p>
