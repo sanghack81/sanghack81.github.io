@@ -22,8 +22,8 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 </div>
 
 <br>
-<em>I am seeking self-motivated **undergraduate interns** with strong problem-solving abilities and excellent communication skills who can work in a collaborative environment.
-Please email me if you are interested in solving problems in causal inference.</em>
+<em>Causality lab. is seeking self-motivated **undergraduate interns** with strong problem-solving abilities and excellent communication skills who can work in a collaborative environment.
+Please email me if you are interested in solving problems in causal inference (check out Research Topics below).</em>
 <br>
 
 <p style="margin-bottom:1.25cm;"></p>
@@ -101,19 +101,30 @@ Program Committee/Reviewed for
 ### Ph.D. candidates
 - [Inwoo Hwang](https://iwhwang.github.io), <span style="font-size:16px;color:gray;">causal machine learning, trustworthy AI</span>
 - [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">deep counterfactual inference</span>
+- Juhyeon Kim, <span style="font-size:16px;color:gray;">causal NLP</span>
  
 ### Ph.D. students
-- Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
-- Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
-- Byeonghui Lim, <span style="font-size:16px;color:gray;">causal decision making</span>
-- Yeo Dong Youn, <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
-- [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
-- Juhyeon Kim, <span style="font-size:16px;color:gray;">causal NLP</span>
 - [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
 - [Yeahoon Kwon](https://deepstroy.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
+- [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
+- Yeo Dong Youn, <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
+- Byeonghui Lim, <span style="font-size:16px;color:gray;">causal decision making</span>
+- Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
+- Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
 
 
 ### Master students 
+- Taehan Kim, <span style="font-size:16px;color:gray;">causal feature selection</span>
+- [Jaeho Jeong](https://www.linkedin.com/in/jaeho-jeong-043458199/), <span style="font-size:16px;color:gray;">robust conformal inference of individual treatment effects
+</span>
+- Heejin Choi, <span style="font-size:16px;color:gray;">interpretable causal inference</span>
+- Hyunwoo Park
+- Oh Yoon Kwon
+- Soungmin Park, <span style="font-size:16px;color:gray;">causal RL, counterfactual Identification</span>
+- [Jin A Choi](https://www.linkedin.com/in/jina-choi-7862852bb/) <span style="font-size:16px;color:gray;">causal explanation</span>
+- Kwon Ho Kim, <span style="font-size:16px;color:gray;">causal discovery with score matching, causally disentangled representation learning</span>
+- Jihae Chung
+- Hyeonji Kim
 - [Sujeong Oh](https://www.linkedin.com/in/5sudeng), <span style="font-size:16px;color:gray;">causal machine learning</span>
 - [Daehui Park](https://www.linkedin.com/in/대희-박-201500222/),  <span style="font-size:16px;color:gray;">causal inference</span>
 - [Younsuk Yeom](https://www.linkedin.com/in/younsuk-yeom78/), <span style="font-size:16px;color:gray;">causal discovery, causal representation learning</span>
@@ -121,17 +132,6 @@ Program Committee/Reviewed for
 - Sumin Cho
 - [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
 - Min Young Cho
-- Jihae Chung
-- Hyeonji Kim
-- Hyunwoo Park
-- Oh Yoon Kwon
-- Soungmin Park, <span style="font-size:16px;color:gray;">causal RL, counterfactual Identification</span>
-- [Jin A Choi](https://www.linkedin.com/in/jina-choi-7862852bb/) <span style="font-size:16px;color:gray;">causal explanation</span>
-- Kwon Ho Kim, <span style="font-size:16px;color:gray;">causal discovery with score matching, causally disentangled representation learning</span>
-- [Jaeho Jeong](https://www.linkedin.com/in/jaeho-jeong-043458199/), <span style="font-size:16px;color:gray;">robust conformal inference of individual treatment effects
-</span>
-- Heejin Choi, <span style="font-size:16px;color:gray;">interpretable causal inference</span>
-- Taehan Kim, <span style="font-size:16px;color:gray;">causal feature selection</span>
 
 ### Undergraduate Researchers
 - Taehui Yun (Fall, 2024)
