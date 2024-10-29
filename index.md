@@ -22,6 +22,9 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 </div>
 
 <br>
+I am seeking self-motivated undergraduate interns with strong problem-solving abilities and excellent communication skills who can work in a collaborative environment.
+Please email me if you are interested in solving problems in causal inference.
+<br>
 
 <p style="margin-bottom:1.25cm;"></p>
 ## Research Interests
@@ -45,6 +48,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 
 ## News
+- (Oct 2024) Two NeurIPS workshop papers are accepted.
 - (Sep 2024) A paper on a graphical criterion for sequential adjustment is accepted at NeurIPS!
 - (Aug 2024) Congratulations, Hyeonji, on receiving NRF's Research Scholarship for Master students!
 - (Aug 2024) Congratulations to Inwoo for being chosen as a recipient of the Yulchon AI STAR Scholarship!
@@ -61,7 +65,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 
 Program Committee/Reviewed for 
 
-- 2025 AAAI (reduced load), KDD, ICLR, AISTATS (reduced load)
+- 2025 AAAI, KDD, ICLR, AISTATS, CLeaR
 - 2024 NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, CLeaR, ICML, UAI, JMLR, ECAI, ARR (June), CI4TS at UAI
 - 2023 UAI, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, Journal of Causal Inference (JCI), CI4TS at UAI
 - 2022 ICLR  <span style="font-size:16px;color:SteelBlue;">(_highlighted reviewer_)</span>, AAAI, AISTATS, CLeaR, ICML, UAI <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, JCI, NeurIPS
