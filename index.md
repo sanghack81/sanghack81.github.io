@@ -89,6 +89,15 @@ Program Committee/Reviewed for
 
 ## <img src="/assets/logo_2023.png" height="28" style="vertical-align: baseline"/> Causality Lab. 
 
+### Research Topics
+- Non-stationary Temporal Causal Discovery
+- Representation Learning for Causal Inference
+- Explainability/Interpretability for Causal Inference (Uncertainty Quantification)
+- Efficient Causal Decision Making in Generalized Settings (Non-stationary, without Sufficiency)
+- Deep Generative Models for Temporal Causal Inference
+- Causal Inference/Discovery with Text/LLM
+- misc. (fairness, recommender systems, domain generalization, RAG, ... )
+
 ### Ph.D. candidates
 - [Inwoo Hwang](https://iwhwang.github.io), <span style="font-size:16px;color:gray;">causal machine learning, trustworthy AI</span>
 - [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">deep counterfactual inference</span>
