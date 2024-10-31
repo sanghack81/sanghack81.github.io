@@ -16,7 +16,7 @@ exclude: true
 </p>
 Currently, I am working on the theory and application of causality from the perspectives of machine learning, artificial intelligence, and data science. In particular, I am interested in causal discovery, sequential decision-making, and the identifiability and estimation of causal effects in diverse settings.
 During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
-[<a href="/assets/cv.pdf">Curriculum Vitae</a>]
+[<a href="/assets/cv.pdf">CV</a>]
   </div>
   
 </div>
