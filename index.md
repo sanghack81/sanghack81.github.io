@@ -132,6 +132,10 @@ Program Committee/Reviewed for
 - Sumin Cho
 - [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
 - Min Young Cho
+- <span style="color:gray;">GyeongChan Han (2025~)</span>
+- <span style="color:gray;">Taehui Yun (2025~)</span>
+- <span style="color:gray;">Bogeun Kim (2025~)</span>
+- <span style="color:gray;">Juyong Sung (2025~)</span> 
 
 ### Undergraduate Researchers
 - Taehui Yun (Fall, 2024)
