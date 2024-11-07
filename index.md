@@ -49,16 +49,16 @@ Please email me if you are interested in solving problems in causal inference (c
 
 ## News
 - (Oct 2024) Two NeurIPS workshop papers are accepted.
-- (Sep 2024) A paper on a graphical criterion for sequential adjustment is accepted at NeurIPS!
-- (Aug 2024) Congratulations, Hyeonji, on receiving NRF's Research Scholarship for Master students!
-- (Aug 2024) Congratulations to Inwoo for being chosen as a recipient of the Yulchon AI STAR Scholarship!
+- (Sep 2024) A paper on a graphical criterion for sequential adjustment is accepted at **NeurIPS**!
+- (Aug 2024) Congratulations, **Hyeonji**, on receiving NRF's **Research Scholarship** for Master students!
+- (Aug 2024) Congratulations to **Inwoo** for being chosen as a recipient of the **Yulchon AI STAR** Scholarship!
 - (Jun 2024) Six students joined <img src="/assets/logo_2023.png" height="16" style="vertical-align: baseline"/> Causality Lab!
-- (May 2024) Two papers are accepted at ICML 2024. Thanks for students' incredible efforts!
-- (Apr 2024) Two papers are accepted at UAI 2024. Super congrats!
-- (Jan 2024) Soheun's paper on cyclic causal discovery is accepted at AISTATS. Congrats!
+- (May 2024) Two papers are accepted at **ICML 2024**. Thanks for students' incredible efforts!
+- (Apr 2024) Two papers are accepted at **UAI 2024**. Super congrats!
+- (Jan 2024) Soheun's paper on cyclic causal discovery is accepted at **AISTATS**. Congrats!
 - (Nov 2023) Two NeurIPS workshop papers are accepted.
-- (Jun 2023) Causal dynamics learning paper by Inwoo is accepted to a workshop at ICML 2023.
-- (Jan 2023) Inwoo's paper on local causal discovery using neural network is accepted at CLeaR 2023!
+- (Jun 2023) Causal dynamics learning paper by Inwoo is accepted to a workshop at **ICML 2023**.
+- (Jan 2023) Inwoo's paper on local causal discovery using neural network is accepted at **CLeaR 2023**!
 
 <p style="margin-bottom:1.25cm;"></p>
 ## Academic Activities
