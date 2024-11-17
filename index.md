@@ -48,6 +48,7 @@ Please email me if you are interested in solving problems in causal inference (c
 
 
 ## News
+- (Nov 2024) Our paper on IV representation learning won a **Best Paper Award** at 2024 Fall Conference of Korean AI Association
 - (Oct 2024) Two NeurIPS workshop papers are accepted.
 - (Sep 2024) A paper on a graphical criterion for sequential adjustment is accepted at **NeurIPS**!
 - (Aug 2024) Congratulations, **Hyeonji**, on receiving NRF's **Research Scholarship** for Master students!
@@ -66,7 +67,7 @@ Please email me if you are interested in solving problems in causal inference (c
 Program Committee/Reviewed for 
 
 - 2025 AAAI, KDD, ICLR, AISTATS, CLeaR
-- 2024 NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, CLeaR, ICML, UAI, JMLR, ECAI, ARR (June), CI4TS at UAI
+- 2024 NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, CLeaR, ICML, UAI, JMLR (2x), ECAI, ARR (June), CI4TS at UAI
 - 2023 UAI, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, Journal of Causal Inference (JCI), CI4TS at UAI
 - 2022 ICLR  <span style="font-size:16px;color:SteelBlue;">(_highlighted reviewer_)</span>, AAAI, AISTATS, CLeaR, ICML, UAI <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, JCI, NeurIPS
 - 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, JAIR, Why now? workshop at NeurIPS
