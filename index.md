@@ -22,8 +22,8 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 </div>
 
 <br>
-<em>Causality lab. is seeking self-motivated **undergraduate interns** with strong problem-solving abilities and excellent communication skills who can work in a collaborative environment.
-Please email me if you are interested in solving problems in causal inference (check out Research Topics below).</em>
+<em>Causality lab. is seeking self-motivated **undergraduate interns** (Winter 2024) with strong problem-solving abilities and excellent communication skills who can work in a collaborative environment.
+Please email me your resume and transcript if you are interested in solving problems in causal inference (check out Research Topics below).</em>
 <br>
 
 <p style="margin-bottom:1.25cm;"></p>
@@ -139,7 +139,9 @@ Program Committee/Reviewed for
 - <span style="color:gray;">Juyong Sung (2025~)</span> 
 
 ### Undergraduate Researchers
-- Taehui Yun (Fall, 2024)
+- Taehui Yun (POSTECH, Fall 2024)
+- <span style="color:gray;">Kangsan Kim (SNU, Winter 2024)</span>
+- <span style="color:gray;">Jiwon Bae (Korea Univ., Winter 2024)</span>
 
 ### Alumni 
 - Kyung A Song (master 2022)
