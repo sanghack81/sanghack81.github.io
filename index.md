@@ -48,6 +48,7 @@ Please email me your resume and transcript if you are interested in solving prob
 
 
 ## News
+- (Nov 2024) Jonghwan and Jeongsup won **first prize** at DATA AI competition (by KISTI)
 - (Nov 2024) Our paper on IV representation learning won a **Best Paper Award** at 2024 Fall Conference of Korean AI Association
 - (Oct 2024) Two NeurIPS workshop papers are accepted.
 - (Sep 2024) A paper on a graphical criterion for sequential adjustment is accepted at **NeurIPS**!
