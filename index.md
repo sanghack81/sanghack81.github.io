@@ -21,10 +21,10 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
   
 </div>
 
-<br>
-<em>Causality lab. is seeking self-motivated **undergraduate interns** (Winter 2024) with strong problem-solving abilities and excellent communication skills who can work in a collaborative environment.
+<!--<br>
+<em>Causality lab. is seeking self-motivated **undergraduate interns** (Spring 2024) with strong problem-solving abilities and excellent communication skills who can work in a collaborative environment.
 Please email me your resume and transcript if you are interested in solving problems in causal inference (check out Research Topics below).</em>
-<br>
+<br>-->
 
 <p style="margin-bottom:1.25cm;"></p>
 ## Research Interests
