@@ -141,8 +141,9 @@ Program Committee/Reviewed for
 
 ### Undergraduate Researchers
 - Taehui Yun (POSTECH, Fall 2024)
-- <span style="color:gray;">Kangsan Kim (SNU, Winter 2024)</span>
-- <span style="color:gray;">Jiwon Bae (Korea Univ., Winter 2024)</span>
+- <span style="color:gray;">Kangsan Kim (SNU, Winter 2024--25)</span>
+- <span style="color:gray;">Jiwon Bae (Korea Univ., Winter 2024--25)</span>
+- <span style="color:gray;">SeEun Lee (Korea Univ., Winter 2024--25)</span>
 
 ### Alumni 
 - Kyung A Song (master 2022)
