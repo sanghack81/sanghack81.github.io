@@ -61,7 +61,9 @@ First Workshop on Causality and Large Model at NeurIPS 2024<br>
 Sujin Jeon, Inwoo Hwang, **Sanghack Lee**\*, Byoung-Tak Zhang\*<br>
 UniReps: 2nd Edition of the Workshop on Unifying Representations in Neural Models at NeurIPS 2024<br>
 
-<button type="button" class="btn btn-set1-1">ID</button> Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference  <br> Yonghan Jung, Min Woo Park, **Sanghack Lee**\*<br> NeurIPS 2024<br> 
+<button type="button" class="btn btn-set1-1">ID</button> Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference [\[paper\]](https://openreview.net/forum?id=6gIcnPvw2x&referrer=%5Bthe%20profile%20of%20Yonghan%20Jung%5D(%2Fprofile%3Fid%3D~Yonghan_Jung1)) <br> 
+Yonghan Jung, Min Woo Park, **Sanghack Lee**\*<br> 
+NeurIPS 2024<br> 
 
 <button type="button" class="btn btn-set1-1">CD</button>
 <button type="button" class="btn btn-set1-3">DM</button>
