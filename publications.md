@@ -51,7 +51,7 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 \* for joint first authorship or corresponding author
 
 <button type="button" class="btn btn-outline-secondary">ws</button>
-<button type="button" class="btn btn-set1-5">CD</button> On Incorporating Prior Knowledge Extracted from Pre-trained Language Models into Causal Discovery<br>
+<button type="button" class="btn btn-set1-1">CD</button> On Incorporating Prior Knowledge Extracted from Pre-trained Language Models into Causal Discovery<br>
 Chanhui Lee\*, Juhyeon Kim\*, YongJun Jeong, Yeom Yoon Seok, Juhyun Lyu, Jung-Hee Kim, Sangmin Lee, Sangjun Han, Hyeokjun Choe, Soyeon Park, Woohyung Lim, Kyunghoon Bae, Sungbin Lim\*, **Sanghack Lee**\*<br>
 First Workshop on Causality and Large Model at NeurIPS 2024<br>
 
@@ -61,7 +61,7 @@ First Workshop on Causality and Large Model at NeurIPS 2024<br>
 Sujin Jeon, Inwoo Hwang, **Sanghack Lee**\*, Byoung-Tak Zhang\*<br>
 UniReps: 2nd Edition of the Workshop on Unifying Representations in Neural Models at NeurIPS 2024<br>
 
-<button type="button" class="btn btn-set1-1">ID</button> Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference  <br> Yonghan Jung, Min Woo Park, Sanghack Lee<br> NeurIPS 2024<br> 
+<button type="button" class="btn btn-set1-1">ID</button> Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference  <br> Yonghan Jung, Min Woo Park, **Sanghack Lee**\*<br> NeurIPS 2024<br> 
 
 <button type="button" class="btn btn-set1-1">CD</button>
 <button type="button" class="btn btn-set1-3">DM</button>
@@ -111,7 +111,7 @@ The Second Workshop on Spurious Correlations, Invariance and Stability at ICML 2
 
 <button type="button" class="btn btn-set1-1">CD</button>
 <button type="button" class="btn btn-set1-5">CML</button> On Discovery of Local Independence over Continuous Variables via Neural Contextual Decomposition [\[paper\]](https://openreview.net/forum?id=-aFd28Uy9td)<br>
-Inwoo Hwang, Yunhyeok Kwak, Yeon-Ji Song, Byoung-Tak Zhang, **Sanghack Lee**<br> 
+Inwoo Hwang, Yunhyeok Kwak, Yeon-Ji Song, Byoung-Tak Zhang\*, **Sanghack Lee**\*<br> 
 CLeaR 2023 <br>
 
 
