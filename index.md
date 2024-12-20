@@ -116,15 +116,10 @@ Program Committee/Reviewed for
 
 
 ### Master students 
-- Taehan Kim, <span style="font-size:16px;color:gray;">causal feature selection</span>
 - [Jaeho Jeong](https://www.linkedin.com/in/jaeho-jeong-043458199/), <span style="font-size:16px;color:gray;">robust conformal inference of individual treatment effects
 </span>
-- Heejin Choi, <span style="font-size:16px;color:gray;">interpretable causal inference</span>
 - Hyunwoo Park
 - Oh Yoon Kwon
-- Soungmin Park, <span style="font-size:16px;color:gray;">causal RL, counterfactual Identification</span>
-- [Jin A Choi](https://www.linkedin.com/in/jina-choi-7862852bb/) <span style="font-size:16px;color:gray;">causal explanation</span>
-- Kwon Ho Kim, <span style="font-size:16px;color:gray;">causal discovery with score matching, causally disentangled representation learning</span>
 - Jihae Chung
 - Hyeonji Kim
 - [Sujeong Oh](https://www.linkedin.com/in/5sudeng), <span style="font-size:16px;color:gray;">causal machine learning</span>
@@ -146,6 +141,11 @@ Program Committee/Reviewed for
 - Youngin Jang (POSTECH., Winter 2024--25)
 
 ### Alumni 
+- Taehan Kim (master 2021, <em>police</em>)
+- Heejin Choi (master 2022, <em>SK Hynix</em>)
+- Soungmin Park (master 2023)
+- Jin A Choi (master 2023)
+- Kwon Ho Kim (master 2023, <em>LG Uplus</em>)
 - Kyung A Song (master 2022)
 - Dahhee Yim (master 2022, <em>Doosan Enerbility</em>)
 - Jeong Ha Moon (master 2022, <em>Coupang</em>)
