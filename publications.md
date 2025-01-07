@@ -35,6 +35,9 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 -->
 
 ### Preprints
+<button type="button" class="btn btn-set1-3">DM</button>
+ An Introduction to Causal Reinforcement Learning [\[paper\]](https://causalai.net/r65.pdf)<br>
+Elias Bareinboim, Junzhe Zhang, **Sanghack Lee**<br>
 
 <button type="button" class="btn btn-set1-3">DM</button>
  Toward a Complete Criterion for Value of Information in Insoluble Decision Problems [\[arXiv\]](https://arxiv.org/abs/2407.09883)<br>
