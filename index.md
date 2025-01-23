@@ -109,7 +109,7 @@ Program Committee/Reviewed for
 ### Ph.D. students
 - [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
 - [Yeahoon Kwon](https://deepstroy.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
-- Yeo Dong Youn, <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
+- [Yeo Dong Youn](https://yeodongyoun1995.github.io), <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
 - Byeonghui Lim, <span style="font-size:16px;color:gray;">causal decision making</span>
 - Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
 - Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
