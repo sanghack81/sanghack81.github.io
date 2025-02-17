@@ -67,7 +67,7 @@ Please email me your resume and transcript if you are interested in solving prob
 
 Program Committee/Reviewed for 
 
-- 2025 AAAI, KDD <span style="font-size:16px;color:SteelBlue;">(_outstanding reviewer_)</span>, ICLR, AISTATS, CLeaR, ICML <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>
+- 2025 AAAI, KDD <span style="font-size:16px;color:SteelBlue;">(_outstanding reviewer_)</span>, ICLR, AISTATS, CLeaR, ICML <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>
 - 2024 NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, CLeaR, ICML, UAI, JMLR (2x), ECAI, ARR (June), CI4TS at UAI
 - 2023 UAI, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, Journal of Causal Inference (JCI), CI4TS at UAI
 - 2022 ICLR  <span style="font-size:16px;color:SteelBlue;">(_highlighted reviewer_)</span>, AAAI, AISTATS, CLeaR, ICML, UAI <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, JCI, NeurIPS
