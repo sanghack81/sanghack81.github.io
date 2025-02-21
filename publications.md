@@ -36,6 +36,10 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 ### Preprints
 <button type="button" class="btn btn-set1-3">DM</button>
+Structural Causal Bandits under Markov Equivalence [\[paper\]](https://causalai.net/r122.pdf)<br>
+ Min Woo Park, Andy Arditi, Elias Bareinboim\*, **Sanghack Lee**\*<br>
+
+<button type="button" class="btn btn-set1-3">DM</button>
  An Introduction to Causal Reinforcement Learning [\[paper\]](https://causalai.net/r65.pdf)<br>
 Elias Bareinboim, Junzhe Zhang, **Sanghack Lee**<br>
 
