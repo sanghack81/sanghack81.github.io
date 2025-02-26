@@ -48,6 +48,7 @@ Please email me your resume and transcript if you are interested in solving prob
 
 
 ## News
+- (Feb 2025) Dong Kyu's paper on single source domain generalization is accepted at CVPR 2025!
 - (Nov 2024) Jonghwan and Jeongsup won **first prize** at DATA AI competition (by KISTI)
 - (Nov 2024) Our paper on IV representation learning won a **Best Paper Award** at 2024 Fall Conference of Korean AI Association
 - (Oct 2024) Two NeurIPS workshop papers are accepted.
@@ -135,10 +136,9 @@ Program Committee/Reviewed for
 - Juyong Sung (2025~)
 
 ### Undergraduate Researchers
-- Kangsan Kim (SNU, Winter 2024--25)
-- Jiwon Bae (Korea Univ., Winter 2024--25)
-- SeEun Lee (Korea Univ., Winter 2024--25)
-- Youngin Jang (POSTECH., Winter 2024--25)
+- Kangsan Kim (SNU, Spring 2025)
+- Jiwon Bae (Korea Univ., Spring 2025)
+- Youngin Jang (POSTECH., Spring 2025)
 
 ### Alumni 
 - Taehan Kim (master 2021, <em>police</em>)
