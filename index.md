@@ -8,7 +8,7 @@ exclude: true
   <img src="assets/sanghack2023-face.png" class="profile-pic"/>
   <div id="aboutme" float="right">
 <p style="margin-bottom:3mm;">
-	I am an <b>Assistant Professor</b> in the <a href="https://gsds.snu.ac.kr">Graduate School of Data Science</a> at <a href="https://www.snu.ac.kr">Seoul National University</a>, directing Causality Lab <img src="/assets/logo_2023.png" height="16" style="vertical-align: baseline"/>. Prior to joining Seoul National University, 
+	I am an <b>Associate Professor</b> in the <a href="https://gsds.snu.ac.kr">Graduate School of Data Science</a> at <a href="https://www.snu.ac.kr">Seoul National University</a>, directing Causality Lab <img src="/assets/logo_2023.png" height="16" style="vertical-align: baseline"/>. Prior to joining Seoul National University, 
 	I was an 
 	Associate Research Scientist at Columbia University and Postdoctoral Research Associate at Computer Science, Purdue University
 	working with Prof. <a href="http://causalai.net">Elias Bareinboim</a>.
@@ -37,7 +37,8 @@ Please email me your resume and transcript if you are interested in solving prob
 ## Employment & Education
 
 | :--- || ---: | ---: | ---: |
-| **Seoul National University**  || Assistant Professor | |2021---present |
+| **Seoul National University**  || Associate Professor | |2025.03---present |
+| **Seoul National University**  || Assistant Professor | |2021.03---2025.02 |
 | **Columbia Univeristy**  || Associate Research Scientist | |2019---2021 |
 | **Purdue University**  | |Postdoctoral Research Associate | |2018---2019 |
 | **Pennsylvania State University** | |Ph.D. | |2013---2018 |
