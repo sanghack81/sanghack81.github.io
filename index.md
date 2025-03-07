@@ -103,7 +103,6 @@ Program Committee/Reviewed for
 - misc. (fairness, recommender systems, domain generalization, RAG, ... )
 
 ### Ph.D. candidates
-- [Inwoo Hwang](https://iwhwang.github.io), <span style="font-size:16px;color:gray;">causal machine learning, trustworthy AI</span>
 - [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">deep counterfactual inference</span>
 - Juhyeon Kim, <span style="font-size:16px;color:gray;">causal NLP</span>
 - [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
@@ -142,6 +141,7 @@ Program Committee/Reviewed for
 - Youngin Jang (POSTECH., Spring 2025)
 
 ### Alumni 
+- Inwoo Hwang (Ph.D., <em>Columbia University</em>
 - Taehan Kim (master 2021, <em>police</em>)
 - Heejin Choi (master 2022, <em>SK Hynix</em>)
 - Soungmin Park (master 2023)
