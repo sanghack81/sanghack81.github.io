@@ -49,6 +49,7 @@ Please email me your resume and transcript if you are interested in solving prob
 
 
 ## News
+- (Apr 2025) We’re excited to host research talks by Julius von Kügelgen and Junhyung Park from ETH Zurich!
 - (Feb 2025) Dong Kyu's paper on single source domain generalization is accepted at CVPR 2025!
 - (Nov 2024) Jonghwan and Jeongsup won **first prize** at DATA AI competition (by KISTI)
 - (Nov 2024) Our paper on IV representation learning won a **Best Paper Award** at 2024 Fall Conference of Korean AI Association
@@ -130,15 +131,15 @@ Program Committee/Reviewed for
 - Sumin Cho
 - [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
 - Min Young Cho
-- GyeongChan Han (2025~)
-- Taehui Yun (2025~)
-- Bogeun Kim (2025~)
-- Juyong Sung (2025~)
+- GyeongChan Han
+- Taehui Yun
+- Bogeun Kim
+- Juyong Sung
+- Kangsan Kim (Fall, 2025)
+- Youngin Jang (Fall, 2025)
 
 ### Undergraduate Researchers
-- Kangsan Kim (SNU, Spring 2025)
-- Jiwon Bae (Korea Univ., Spring 2025)
-- Youngin Jang (POSTECH., Spring 2025)
+- Jiwon Bae (Korea Univ., Spring 2025, &arr; Columbia Data Science master program)
 
 ### Alumni 
 - Inwoo Hwang (Ph.D., <em>Columbia University</em>
@@ -147,7 +148,7 @@ Program Committee/Reviewed for
 - Soungmin Park (master 2023)
 - Jin A Choi (master 2023)
 - Kwon Ho Kim (master 2023, <em>LG Uplus</em>)
-- Kyung A Song (master 2022)
+- Kyung A Song (master 2022, <em>DS Trade</em>)
 - Dahhee Yim (master 2022, <em>Doosan Enerbility</em>)
 - Jeong Ha Moon (master 2022, <em>Coupang</em>)
 - Jeongsup Park (master 2022, <em>AB180</em>)
