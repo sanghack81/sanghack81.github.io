@@ -117,7 +117,7 @@ Program Committee/Reviewed for
 - Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
 
 
-### Master students 
+### Master students (* integrated MS/PhD program) 
 - [Jaeho Jeong](https://www.linkedin.com/in/jaeho-jeong-043458199/), <span style="font-size:16px;color:gray;">robust conformal inference of individual treatment effects
 </span>
 - Hyunwoo Park
@@ -131,12 +131,13 @@ Program Committee/Reviewed for
 - Sumin Cho
 - [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
 - Min Young Cho
-- GyeongChan Han
-- Taehui Yun
-- Bogeun Kim
+- GyeongChan Han*
+- Taehui Yun*
+- Bogeun Kim*
 - Juyong Sung
-- Kangsan Kim (Fall, 2025)
-- Youngin Jang (Fall, 2025)
+- Kangsan Kim* (Fall, 2025)
+- Youngin Jang* (Fall, 2025)
+- Hyunbin Moon* (Fall, 2025)
 
 ### Undergraduate Researchers
 - Jiwon Bae (Korea Univ., Spring 2025, &arr; Columbia Data Science master program)
