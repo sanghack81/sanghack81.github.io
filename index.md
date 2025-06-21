@@ -118,12 +118,6 @@ Program Committee/Reviewed for
 
 
 ### Master students (* integrated MS/PhD program) 
-- [Jaeho Jeong](https://www.linkedin.com/in/jaeho-jeong-043458199/), <span style="font-size:16px;color:gray;">robust conformal inference of individual treatment effects
-</span>
-- Hyunwoo Park
-- Oh Yoon Kwon
-- Jihae Chung &arr; <em>KAI</em>
-- Hyeonji Kim
 - [Sujeong Oh](https://www.linkedin.com/in/5sudeng), <span style="font-size:16px;color:gray;">causal machine learning</span>
 - [Daehui Park](https://www.linkedin.com/in/대희-박-201500222/),  <span style="font-size:16px;color:gray;">causal inference</span>
 - [Younsuk Yeom](https://www.linkedin.com/in/younsuk-yeom78/), <span style="font-size:16px;color:gray;">causal discovery, causal representation learning</span>
@@ -143,7 +137,12 @@ Program Committee/Reviewed for
 - Jiwon Bae (Korea Univ., Spring 2025, &arr; Columbia Data Science master program)
 
 ### Alumni 
-- Inwoo Hwang (Ph.D., <em>Columbia University</em>
+- Inwoo Hwang (Ph.D., <em>Columbia University Post doc</em>)
+- Jaeho Jeong (mater 2022)
+- Hyunwoo Park (master 2023)
+- Oh Yoon Kwon (master 2023)
+- Jihae Chung (master 2023, <em>KAI</em>)
+- Hyeonji Kim (master 2023, <em>LG CNS</em>)
 - Taehan Kim (master 2021, <em>police</em>)
 - Heejin Choi (master 2022, <em>SK Hynix</em>)
 - Soungmin Park (master 2023)
