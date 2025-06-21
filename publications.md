@@ -43,9 +43,6 @@ Structural Causal Bandits under Markov Equivalence [\[paper\]](https://causalai.
  An Introduction to Causal Reinforcement Learning [\[paper\]](https://causalai.net/r65.pdf)<br>
 Elias Bareinboim, Junzhe Zhang, **Sanghack Lee**<br>
 
-<button type="button" class="btn btn-set1-3">DM</button>
- Toward a Complete Criterion for Value of Information in Insoluble Decision Problems [\[arXiv\]](https://arxiv.org/abs/2407.09883)<br>
-Ryan Carey, **Sanghack Lee**, Robin J. Evans<br>
 
 
 <!--
@@ -57,9 +54,20 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 
 \* for joint first authorship or corresponding author
 
-<button type="button" class="btn btn-set1-5">CML</button> PEER pressure: Model-to-Model Regularization for Single Source Domain Generalization (_to appear_)<br>
+<button type="button" class="btn btn-outline-secondary">ws</button>
+<button type="button" class="btn btn-set1-5">CML</button>Towards Causal Representation Learning with Observable Sources as Auxiliaries<br>
+Kwonho Kim, Heejeong Nam, Inwoo Hwang, **Sanghack Lee**\*<br>
+ICML 2025 Workshop on Scaling Up Intervention Models &amp; UAI 2025 Workshop on Causal Abstractions and Representations<br>
+
+<button type="button" class="btn btn-set1-5">CML</button> PEER pressure: Model-to-Model Regularization for Single Source Domain Generalization<br>
 Dong Kyu Cho, Inwoo Hwang, **Sanghack Lee**\*<br>
 CVPR 2025<br>
+
+
+<button type="button" class="btn btn-set1-3">DM</button>
+ Toward a Complete Criterion for Value of Information in Insoluble Decision Problems<br>
+Ryan Carey, **Sanghack Lee**, Robin J. Evans<br>
+Transactions on Machine Learning 2024<br>
 
 
 <button type="button" class="btn btn-outline-secondary">ws</button>

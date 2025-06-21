@@ -105,13 +105,13 @@ Program Committee/Reviewed for
 
 ### Ph.D. candidates
 - [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">deep counterfactual inference</span>
-- Juhyeon Kim, <span style="font-size:16px;color:gray;">causal NLP</span>
+- [Juhyeon Kim](https://juhyeon-kim-git.github.io), <span style="font-size:16px;color:gray;">causal NLP</span>
 - [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
+- [Yeo Dong Youn](https://yeodongyoun1995.github.io), <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
  
 ### Ph.D. students
 - [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
 - [Yeahoon Kwon](https://deepstroy.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
-- [Yeo Dong Youn](https://yeodongyoun1995.github.io), <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
 - Byeonghui Lim, <span style="font-size:16px;color:gray;">causal decision making</span>
 - Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
 - Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
@@ -122,7 +122,7 @@ Program Committee/Reviewed for
 </span>
 - Hyunwoo Park
 - Oh Yoon Kwon
-- Jihae Chung
+- Jihae Chung &arr; <em>KAI</em>
 - Hyeonji Kim
 - [Sujeong Oh](https://www.linkedin.com/in/5sudeng), <span style="font-size:16px;color:gray;">causal machine learning</span>
 - [Daehui Park](https://www.linkedin.com/in/대희-박-201500222/),  <span style="font-size:16px;color:gray;">causal inference</span>
