@@ -54,29 +54,29 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 
 \* for joint first authorship or corresponding author
 
-<button type="button" class="btn btn-outline-secondary">ws</button>
+<button type="button" class="btn btn-outline-secondary">ws</button> 
 <button type="button" class="btn btn-set1-5">CML</button>Towards Causal Representation Learning with Observable Sources as Auxiliaries<br>
 Kwonho Kim, Heejeong Nam, Inwoo Hwang, **Sanghack Lee**\*<br>
 ICML 2025 Workshop on Scaling Up Intervention Models &amp; UAI 2025 Workshop on Causal Abstractions and Representations<br>
 
-<button type="button" class="btn btn-set1-5">CML</button> PEER pressure: Model-to-Model Regularization for Single Source Domain Generalization<br>
+<button type="button" class="btn btn-set1-5">CML</button> PEER pressure: Model-to-Model Regularization for Single Source Domain Generalization [\[paper\]](https://openaccess.thecvf.com/content/CVPR2025/papers/Cho_PEER_Pressure_Model-to-Model_Regularization_for_Single_Source_Domain_Generalization_CVPR_2025_paper.pdf)<br>
 Dong Kyu Cho, Inwoo Hwang, **Sanghack Lee**\*<br>
 CVPR 2025<br>
 
 
 <button type="button" class="btn btn-set1-3">DM</button>
- Toward a Complete Criterion for Value of Information in Insoluble Decision Problems<br>
+ Toward a Complete Criterion for Value of Information in Insoluble Decision Problems [\[paper\]](https://openreview.net/pdf?id=0RUzRV05Jn)<br>
 Ryan Carey, **Sanghack Lee**, Robin J. Evans<br>
 Transactions on Machine Learning 2024<br>
 
 
-<button type="button" class="btn btn-outline-secondary">ws</button>
+<button type="button" class="btn btn-outline-secondary">ws</button> 
 <button type="button" class="btn btn-set1-1">CD</button> On Incorporating Prior Knowledge Extracted from Pre-trained Language Models into Causal Discovery<br>
 Chanhui Lee\*, Juhyeon Kim\*, YongJun Jeong, Yeom Yoon Seok, Juhyun Lyu, Jung-Hee Kim, Sangmin Lee, Sangjun Han, Hyeokjun Choe, Soyeon Park, Woohyung Lim, Kyunghoon Bae, Sungbin Lim\*, **Sanghack Lee**\*<br>
 First Workshop on Causality and Large Model at NeurIPS 2024<br>
 
 
-<button type="button" class="btn btn-outline-secondary">ws</button>
+<button type="button" class="btn btn-outline-secondary">ws</button> 
 <button type="button" class="btn btn-set1-5">ML</button> Locality-aware Concept Bottleneck Model<br>
 Sujin Jeon, Inwoo Hwang, **Sanghack Lee**\*, Byoung-Tak Zhang\*<br>
 UniReps: 2nd Edition of the Workshop on Unifying Representations in Neural Models at NeurIPS 2024<br>
