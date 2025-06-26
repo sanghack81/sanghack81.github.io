@@ -104,7 +104,7 @@ Program Committee/Reviewed for
 - misc. (fairness, recommender systems, domain generalization, RAG, ... )
 
 ### Ph.D. candidates
-- [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">deep counterfactual inference</span>
+- [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">Causality & Trustworthy AI (L2–3)</span>
 - [Juhyeon Kim](https://juhyeon-kim-git.github.io), <span style="font-size:16px;color:gray;">causal NLP</span>
 - [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
 - [Yeo Dong Youn](https://yeodongyoun1995.github.io), <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
@@ -126,7 +126,7 @@ Program Committee/Reviewed for
 - [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
 - Min Young Cho
 - GyeongChan Han*
-- Taehui Yun*
+- Taehui Yun*, <span style="font-size:16px;color:gray;">Causal Deep Generative Model, Causal Inference with Time-series</span>
 - Bogeun Kim*
 - Juyong Sung
 - Kangsan Kim* (Fall, 2025)
