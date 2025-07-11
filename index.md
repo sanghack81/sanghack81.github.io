@@ -135,6 +135,10 @@ Program Committee/Reviewed for
 
 ### Undergraduate Researchers
 - Jiwon Bae (Korea Univ., Spring 2025, &arr; Columbia Data Science master program)
+- Serjin Kim (SNU Economics (minor in Financial Economics, Business Administration), Summer 2025~)
+- Junha Ham (SNU Liberal Studies (CSE &amp; Economics), Summer 2025~)
+- Deokgyu Kim (SNU Statistics &amp; Business Administration, Summer 2025~)
+- DoEun Kim (Sogang Univ. Math &amp; CSE, Summer 2025~)
 
 ### Alumni 
 - Inwoo Hwang (Ph.D., <em>Columbia University Post doc</em>)
