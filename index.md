@@ -134,7 +134,6 @@ Program Committee/Reviewed for
 - Hyunbin Moon* (Fall, 2025)
 
 ### Undergraduate Researchers
-- Jiwon Bae (Korea Univ., Spring 2025, &rarr; Columbia Data Science master program)
 - Serjin Kim (SNU Economics (minor in Financial Economics, Business Administration), Summer 2025~)
 - Junha Ham (SNU Liberal Studies (CSE &amp; Economics), Summer 2025~)
 - Deokgyu Kim (SNU Statistics &amp; Business Administration, Summer 2025~)
@@ -160,7 +159,7 @@ Program Committee/Reviewed for
 - [Dong Kyu Cho](https://umamicode.github.io/aboutme/) (master 2021, &rarr; NYU Ph.D. )
 - Jewon Kang (master 2021~2023, <em>KDB</em>)
 <!-- - Juhyeon Kim (master program 2021~2023, Ph.D. program)-->
-- Soheun Yi (&rarr; CMU Ph.D.)
+- (undergraduate researchers) Soheun Yi (&rarr; CMU Ph.D.), Jiwon Bae (&rarr; Columbia master)
 
 <p style="margin-bottom:1.25cm;"></p>
 
