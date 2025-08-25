@@ -87,8 +87,7 @@ Program Committee/Reviewed for
 - Self-Motivated AI: Developing self-directed AI agents that can solve new problems (IITP, Co-I, 2022~26, PI: Byoung-Tak Zhang)
 - Center for Optimizing Hyperscale AI Models and Platforms (NRF, Co-I, 2023.06~, PI: Jaejin Lee)
 - Metabolomic Big Data Analysis (MFDS, Co-I, 2023~25)
-- An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~24)
-- Deep Generative Models for Causal Reasoning (LG AI Research, PI, 2024.05~25.05)
+<!-- - Scalable Causal Discovery (LG AI Research, PI, 2025~26) -->
 
 <p style="margin-bottom:1.25cm;"></p>
 
@@ -98,14 +97,14 @@ Program Committee/Reviewed for
 - Non-stationary Temporal Causal Discovery
 - Representation Learning for Causal Inference
 - Explainability/Interpretability for Causal Inference (Uncertainty Quantification)
-- Efficient Causal Decision Making in Generalized Settings (Non-stationary, without Sufficiency)
+- Efficient Causal Decision Making in Generalized Settings (Non-stationary, without Sufficiency, Counterfactually)
 - Deep Generative Models for Temporal Causal Inference
 - Causal Inference/Discovery with Text/LLM
-- misc. (fairness, recommender systems, domain generalization, RAG, ... )
+- misc. (fairness, recommender systems, domain generalization, ... )
 
 ### Ph.D. candidates
 - [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">Causality & Trustworthy AI (L2–3)</span>
-- [Juhyeon Kim](https://juhyeon-kim-git.github.io), <span style="font-size:16px;color:gray;">causal NLP</span>
+<!-- - [Juhyeon Kim](https://juhyeon-kim-git.github.io), <span style="font-size:16px;color:gray;">causal NLP</span> -->
 - [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
 - [Yeo Dong Youn](https://yeodongyoun1995.github.io), <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
  
@@ -129,9 +128,9 @@ Program Committee/Reviewed for
 - Taehui Yun*, <span style="font-size:16px;color:gray;">Causal Deep Generative Model, Causal Inference with Time-series</span>
 - Bogeun Kim*
 - Juyong Sung
-- Kangsan Kim* (Fall, 2025)
-- Youngin Jang* (Fall, 2025)
-- Hyunbin Moon* (Fall, 2025)
+- Kangsan Kim*
+- Youngin Jang*
+- Hyunbin Moon*
 
 ### Undergraduate Researchers
 - Serjin Kim (SNU Economics (minor in Financial Economics, Business Administration), Summer 2025~)
@@ -158,7 +157,7 @@ Program Committee/Reviewed for
 - Chaeyoung Chung (master 2021, <em>secret</em>)
 - [Dong Kyu Cho](https://umamicode.github.io/aboutme/) (master 2021, &rarr; NYU Ph.D. )
 - Jewon Kang (master 2021~2023, <em>KDB</em>)
-<!-- - Juhyeon Kim (master program 2021~2023, Ph.D. program)-->
+- Juhyeon Kim (master program 2021~2023)
 - (undergraduate researchers) Soheun Yi (&rarr; CMU Ph.D.), Jiwon Bae (&rarr; Columbia master)
 
 <p style="margin-bottom:1.25cm;"></p>
@@ -169,5 +168,7 @@ Program Committee/Reviewed for
 - Association and Causality in Metabolomic data (MFDS, co-PI, 2022)
 - Supply Chain based Financial Keyword Analysis (NH Investment, 2021)
 - Causal Discovery for Time Series (LG AI Research, PI, 2023.04~24.04)
+- An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~24)
+- Deep Generative Models for Causal Reasoning (LG AI Research, PI, 2024.05~25.05)
 
 
