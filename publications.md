@@ -53,6 +53,10 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 ### Published Papers
 
 \* for joint first authorship or corresponding author
+<button type="button" class="btn btn-set1-5">CML</button> On Predicting Post-Click Conversion Rate via Counterfactual Inference<br>
+Junhyung Ahn, **Sanghack Lee**\*<br>
+ICDM 2025 (to appear)<br>
+
 
 <button type="button" class="btn btn-outline-secondary">ws</button> 
 <button type="button" class="btn btn-set1-5">CML</button>Towards Causal Representation Learning with Observable Sources as Auxiliaries<br>
