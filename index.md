@@ -70,6 +70,7 @@ Please email me your resume and transcript if you are interested in solving prob
 
 Program Committee/Reviewed for 
 
+- 2026 AAAI, AISTATS
 - 2025 AAAI, KDD <span style="font-size:16px;color:SteelBlue;">(_outstanding reviewer_)</span>, ICLR, AISTATS, CLeaR, ICML <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>
 - 2024 NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, CLeaR, ICML, UAI, JMLR (2x), ECAI, ARR (June), CI4TS at UAI
 - 2023 UAI, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, Journal of Causal Inference (JCI), CI4TS at UAI
@@ -139,7 +140,7 @@ Program Committee/Reviewed for
 - DoEun Kim (Sogang Univ. Math &amp; CSE, Summer 2025~)
 
 ### Alumni 
-- Inwoo Hwang (Ph.D., <em>Columbia University Post doc</em>)
+- [Inwoo Hwang](https://iwhwang.github.io) (Ph.D., <em>Columbia University Post doc</em>)
 - Jaeho Jeong (mater 2022)
 - Hyunwoo Park (master 2023)
 - Oh Yoon Kwon (master 2023)
@@ -158,7 +159,7 @@ Program Committee/Reviewed for
 - [Dong Kyu Cho](https://umamicode.github.io/aboutme/) (master 2021, &rarr; NYU Ph.D. )
 - Jewon Kang (master 2021~2023, <em>KDB</em>)
 - Juhyeon Kim (master program 2021~2023)
-- (undergraduate researchers) Soheun Yi (&rarr; CMU Ph.D.), Jiwon Bae (&rarr; Columbia master)
+- (undergraduate researchers) [Soheun Yi](https://soheunyi.github.io) (&rarr; CMU Ph.D.), Jiwon Bae (&rarr; Columbia master)
 
 <p style="margin-bottom:1.25cm;"></p>
 
