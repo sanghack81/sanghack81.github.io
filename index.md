@@ -89,6 +89,7 @@ Program Committee/Reviewed for
 - Center for Optimizing Hyperscale AI Models and Platforms (NRF, Co-I, 2023.06~, PI: Jaejin Lee)
 - Metabolomic Big Data Analysis (MFDS, Co-I, 2023~25)
 <!-- - Scalable Causal Discovery (LG AI Research, PI, 2025~26) -->
+<!-- - Counterfactual Evaluation of Logged Feedback (Balance Hero, PI, 2025~26) -->
 
 <p style="margin-bottom:1.25cm;"></p>
 
@@ -100,6 +101,8 @@ Program Committee/Reviewed for
 - Explainability/Interpretability for Causal Inference (Uncertainty Quantification)
 - Efficient Causal Decision Making in Generalized Settings (Non-stationary, without Sufficiency, Counterfactually)
 - Deep Generative Models for Temporal Causal Inference
+- Causal Understanding of Multi-Modal Models
+- Scalable and Stable Causal Discovery
 - Causal Inference/Discovery with Text/LLM
 - misc. (fairness, recommender systems, domain generalization, ... )
 
@@ -109,15 +112,23 @@ Program Committee/Reviewed for
 - [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
 - [Yeo Dong Youn](https://yeodongyoun1995.github.io), <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
  
-### Ph.D. students
+### Ph.D. program 
 - [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
 - [Yeahoon Kwon](https://deepstroy.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
 - Byeonghui Lim, <span style="font-size:16px;color:gray;">causal decision making</span>
 - Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
 - Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
 
+### integrated Master/Ph.D. program 
+- GyeongChan Han
+- Taehui Yun, <span style="font-size:16px;color:gray;">Causal Deep Generative Model, Causal Inference with Time-series</span>
+- Bogeun Kim
+- Kangsan Kim
+- Youngin Jang
+- Hyunbin Moon
 
-### Master students (* integrated MS/PhD program) 
+
+### Master students
 - [Sujeong Oh](https://www.linkedin.com/in/5sudeng), <span style="font-size:16px;color:gray;">causal machine learning</span>
 - [Daehui Park](https://www.linkedin.com/in/대희-박-201500222/),  <span style="font-size:16px;color:gray;">causal inference</span>
 - [Younsuk Yeom](https://www.linkedin.com/in/younsuk-yeom78/), <span style="font-size:16px;color:gray;">causal discovery, causal representation learning</span>
@@ -125,13 +136,7 @@ Program Committee/Reviewed for
 - Sumin Cho
 - [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
 - Min Young Cho
-- GyeongChan Han*
-- Taehui Yun*, <span style="font-size:16px;color:gray;">Causal Deep Generative Model, Causal Inference with Time-series</span>
-- Bogeun Kim*
 - Juyong Sung
-- Kangsan Kim*
-- Youngin Jang*
-- Hyunbin Moon*
 
 ### Undergraduate Researchers
 - Serjin Kim (SNU Economics (minor in Financial Economics, Business Administration), Summer 2025~)
