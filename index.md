@@ -49,6 +49,7 @@ Please email me your resume and transcript if you are interested in solving prob
 
 
 ## News
+- (Sep 2025) Two papers on Structural Causal Bandits are accepted at **NeurIPS**.
 - (Apr 2025) We’re excited to host research talks by Julius von Kügelgen and Junhyung Park from ETH Zurich!
 - (Feb 2025) Dong Kyu's paper on single source domain generalization is accepted at CVPR 2025!
 - (Nov 2024) Jonghwan and Jeongsup won **first prize** at DATA AI competition (by KISTI)
@@ -88,7 +89,7 @@ Program Committee/Reviewed for
 - Self-Motivated AI: Developing self-directed AI agents that can solve new problems (IITP, Co-I, 2022~26, PI: Byoung-Tak Zhang)
 - Center for Optimizing Hyperscale AI Models and Platforms (NRF, Co-I, 2023.06~, PI: Jaejin Lee)
 - Metabolomic Big Data Analysis (MFDS, Co-I, 2023~25)
-<!-- - Scalable Causal Discovery (LG AI Research, PI, 2025~26) -->
+- Scalable Causal Discovery (LG AI Research, PI, 2025~26)
 <!-- - Counterfactual Evaluation of Logged Feedback (Balance Hero, PI, 2025~26) -->
 
 <p style="margin-bottom:1.25cm;"></p>
@@ -106,15 +107,12 @@ Program Committee/Reviewed for
 - Causal Inference/Discovery with Text/LLM
 - misc. (fairness, recommender systems, domain generalization, ... )
 
-### Ph.D. candidates
-- [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">Causality & Trustworthy AI (L2–3)</span>
-<!-- - [Juhyeon Kim](https://juhyeon-kim-git.github.io), <span style="font-size:16px;color:gray;">causal NLP</span> -->
-- [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
-- [Yeo Dong Youn](https://yeodongyoun1995.github.io), <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
- 
 ### Ph.D. program 
+- [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">Causality & Trustworthy AI (L2–3)</span>
 - [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
 - [Yeahoon Kwon](https://deepstroy.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
+- [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
+- [Yeo Dong Youn](https://yeodongyoun1995.github.io), <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
 - Byeonghui Lim, <span style="font-size:16px;color:gray;">causal decision making</span>
 - Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
 - Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
@@ -151,7 +149,7 @@ Program Committee/Reviewed for
 - Oh Yoon Kwon (master 2023)
 - Jihae Chung (master 2023, <em>KAI</em>)
 - Hyeonji Kim (master 2023, <em>LG CNS</em>)
-- Taehan Kim (master 2021, <em>police</em>)
+- Taehan Kim (master 2021, <em>National Police Agency</em>)
 - Heejin Choi (master 2022, <em>SK Hynix</em>)
 - Soungmin Park (master 2023)
 - Jin A Choi (master 2023)
@@ -160,10 +158,10 @@ Program Committee/Reviewed for
 - Dahhee Yim (master 2022, <em>Doosan Enerbility</em>)
 - Jeong Ha Moon (master 2022, <em>Coupang</em>)
 - Jeongsup Park (master 2022, <em>AB180</em>)
-- Chaeyoung Chung (master 2021, <em>secret</em>)
+- Chaeyoung Chung (master 2021, <em>unspecified</em>)
 - [Dong Kyu Cho](https://umamicode.github.io/aboutme/) (master 2021, &rarr; NYU Ph.D. )
-- Jewon Kang (master 2021~2023, <em>KDB</em>)
-- Juhyeon Kim (master program 2021~2023)
+- Jewon Kang (master 2021, <em>KDB</em>)
+- Juhyeon Kim (master 2021, <em>GSDS Ph.D. program</em>)
 - (undergraduate researchers) [Soheun Yi](https://soheunyi.github.io) (&rarr; CMU Ph.D.), Jiwon Bae (&rarr; Columbia master)
 
 <p style="margin-bottom:1.25cm;"></p>

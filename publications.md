@@ -35,9 +35,6 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 -->
 
 ### Preprints
-<button type="button" class="btn btn-set1-3">DM</button>
-Structural Causal Bandits under Markov Equivalence [\[paper\]](https://causalai.net/r122.pdf)<br>
- Min Woo Park, Andy Arditi, Elias Bareinboim\*, **Sanghack Lee**\*<br>
 
 <button type="button" class="btn btn-set1-3">DM</button>
  An Introduction to Causal Reinforcement Learning [\[paper\]](https://causalai.net/r65.pdf)<br>
@@ -53,6 +50,19 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 ### Published Papers
 
 \* for joint first authorship or corresponding author
+
+<button type="button" class="btn btn-set1-3">DM</button>
+Structural Causal Bandits under Markov Equivalence [\[paper\]](https://causalai.net/r122.pdf)<br>
+ Min Woo Park, Andy Arditi, Elias Bareinboim\*, **Sanghack Lee**\*<br>
+NeurIPS 2025 (to appear)<br>
+
+
+<button type="button" class="btn btn-set1-3">DM</button>
+Non-Stationary Structural Causal Bandits<br>
+Yeahoon Kwon\*,  Yesong Choe\*, Neil Dhir, **Sanghack Lee**\*<br>
+NeurIPS 2025 (to appear)<br>
+
+
 <button type="button" class="btn btn-set1-5">CML</button> On Predicting Post-Click Conversion Rate via Counterfactual Inference<br>
 Junhyung Ahn, **Sanghack Lee**\*<br>
 ICDM 2025 (to appear)<br>
