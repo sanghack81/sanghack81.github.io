@@ -59,7 +59,7 @@ NeurIPS 2025 (to appear)<br>
 
 <button type="button" class="btn btn-set1-3">DM</button>
 Non-Stationary Structural Causal Bandits<br>
-Yeahoon Kwon\*,  Yesong Choe\*, Neil Dhir, **Sanghack Lee**\*<br>
+Yeahoon Kwon,  Yesong Choe, Soungmin Park, Neil Dhir, **Sanghack Lee**\*<br>
 NeurIPS 2025 (to appear)<br>
 
 
