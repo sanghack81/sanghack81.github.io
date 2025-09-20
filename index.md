@@ -143,9 +143,9 @@ Program Committee/Reviewed for
 
 ### Alumni 
 - [Inwoo Hwang](https://iwhwang.github.io) (Ph.D., <em>Columbia University Post doc</em>)
-- Jaeho Jeong (mater 2022)
-- Hyunwoo Park (master 2023)
-- Oh Yoon Kwon (master 2023)
+- Jaeho Jeong (mater 2022, recently graduated)
+- Hyunwoo Park (master 2023, recently graduated)
+- Oh Yoon Kwon (master 2023, recently graduated)
 - Jihae Chung (master 2023, <em>KAI</em>)
 - Hyeonji Kim (master 2023, <em>LG CNS</em>)
 - Taehan Kim (master 2021, <em>National Police Agency</em>)
