@@ -51,6 +51,8 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 
 \* for joint first authorship or corresponding author
 
+#### 2025
+
 <button type="button" class="btn btn-set1-3">DM</button>
 Structural Causal Bandits under Markov Equivalence [\[paper\]](https://causalai.net/r122.pdf)<br>
  Min Woo Park, Andy Arditi, Elias Bareinboim\*, **Sanghack Lee**\*<br>
@@ -77,6 +79,7 @@ ICML 2025 Workshop on Scaling Up Intervention Models &amp; UAI 2025 Workshop on 
 Dong Kyu Cho, Inwoo Hwang, **Sanghack Lee**\*<br>
 CVPR 2025<br>
 
+#### 2024
 
 <button type="button" class="btn btn-set1-3">DM</button>
  Toward a Complete Criterion for Value of Information in Insoluble Decision Problems [\[paper\]](https://openreview.net/pdf?id=0RUzRV05Jn)<br>
@@ -124,6 +127,8 @@ UAI 2024<br>
 Soheun Yi, **Sanghack Lee**\*<br>
 AISTATS 2024<br>
 
+#### 2023
+
 <button type="button" class="btn btn-outline-secondary">ws</button>
 <button type="button" class="btn btn-set1-5">CML</button> Learning to ignore: Single Source Domain Generalization via Oracle Regularization [\[paper\]](https://openreview.net/forum?id=8btzvHmSfU)<br>
 Dong Kyu Cho, **Sanghack Lee**\*<br>
@@ -150,6 +155,8 @@ The Second Workshop on Spurious Correlations, Invariance and Stability at ICML 2
 Inwoo Hwang, Yunhyeok Kwak, Yeon-Ji Song, Byoung-Tak Zhang\*, **Sanghack Lee**\*<br> 
 CLeaR 2023 <br>
 
+#### 2022
+
 
 <button type="button" class="btn btn-outline-secondary">ws</button>
 <button type="button" class="btn btn-set1-5">CML</button> Detecting Causality by Data Augmentation via Part-of-Speech tagging<br> Juhyeon Kim, Yesong Choe and **Sanghack Lee**<br> CASE Workshop at EMNLP 2022<br> 
@@ -157,6 +164,8 @@ CLeaR 2023 <br>
 
 <button type="button" class="btn btn-set1-2">TR</button> Counterfactual Transportability: A Formal Approach [\[paper\]](https://proceedings.mlr.press/v162/correa22a.html)<br> Juan D. Correa, **Sanghack Lee** and Elias Bareinboim<br> ICML 2022<br> 
 
+
+#### 2021
 
 <button type="button" class="btn btn-outline-secondary">ws</button>
 <button type="button" class="btn btn-set1-1">CD</button>
@@ -168,6 +177,8 @@ Partition-based Local Independence Discovery<br> Inwoo Hwang, Byoung-Tak Zhang, 
 <button type="button" class="btn btn-set1-1">ID</button> Causal Identification with Matrix Equations [\[paper\]](https://causalai.net/r70.pdf)<br> **Sanghack Lee** and Elias Bareinboim<br>
 NeurIPS 2021, <font color="#e41a1c">Oral</font><br> 
 
+
+#### before 2020
 
 <button type="button" class="btn btn-set1-3">DM</button> Characterizing Optimal Mixed Policies: Where to Intervene and What to Observe [\[paper\]](/assets/r63-reprint.pdf), [\[slides\]](/assets/2020-neurips-presentation.pdf), [\[poster\]](/assets/2020-neurips-sanghack-poster.pdf)<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2020<br> 
 
@@ -195,8 +206,6 @@ NeurIPS 2021, <font color="#e41a1c">Oral</font><br>
 <button type="button" class="btn btn-set1-3">DM</button>  Structural Causal Bandits: Where to Intervene? [\[paper\]](https://causalai.net/r36.pdf), [\[code\]](https://github.com/sanghack81/SCMMAB-NIPS2018), [\[poster\]](/assets/nips2018-poster.pdf)<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2018<br> 
 
 <p style="margin-bottom:1.25cm;"></p>
-
-### Pre-Ph.D. ---
 
 <button type="button" class="btn btn-set1-1">CD</button> <button type="button" class="btn btn-set1-5">CIT</button>  A Kernel Conditional Independence Test for Relational Data [\[code\]](https://github.com/sanghack81/KRCIT), [\[paper\]](/assets/krcit.pdf)<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2017<br> 
 
