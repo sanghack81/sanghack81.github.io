@@ -61,7 +61,7 @@ NeurIPS 2025 (to appear)<br>
 
 <button type="button" class="btn btn-set1-3">DM</button>
 Non-Stationary Structural Causal Bandits<br>
-Yeahoon Kwon,  Yesong Choe, Soungmin Park, Neil Dhir, **Sanghack Lee**\*<br>
+Yeahoon Kwon,  Yesong Choe, Soungmin Park, Neil Dhir\*, **Sanghack Lee**\*<br>
 NeurIPS 2025 (to appear)<br>
 
 
@@ -205,7 +205,6 @@ NeurIPS 2021, <font color="#e41a1c">Oral</font><br>
 
 <button type="button" class="btn btn-set1-3">DM</button>  Structural Causal Bandits: Where to Intervene? [\[paper\]](https://causalai.net/r36.pdf), [\[code\]](https://github.com/sanghack81/SCMMAB-NIPS2018), [\[poster\]](/assets/nips2018-poster.pdf)<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2018<br> 
 
-<p style="margin-bottom:1.25cm;"></p>
 
 <button type="button" class="btn btn-set1-1">CD</button> <button type="button" class="btn btn-set1-5">CIT</button>  A Kernel Conditional Independence Test for Relational Data [\[code\]](https://github.com/sanghack81/KRCIT), [\[paper\]](/assets/krcit.pdf)<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2017<br> 
 

@@ -58,7 +58,6 @@ Please email me your resume and transcript if you are interested in solving prob
 - (Sep 2024) A paper on a graphical criterion for sequential adjustment is accepted at **NeurIPS**!
 - (Aug 2024) Congratulations, **Hyeonji**, on receiving NRF's **Research Scholarship** for Master students!
 - (Aug 2024) Congratulations to **Inwoo** for being chosen as a recipient of the **Yulchon AI STAR** Scholarship!
-- (Jun 2024) Six students joined <img src="/assets/logo_2023.png" height="16" style="vertical-align: baseline"/> Causality Lab!
 - (May 2024) Two papers are accepted at **ICML 2024**. Thanks for students' incredible efforts!
 - (Apr 2024) Two papers are accepted at **UAI 2024**. Super congrats!
 - (Jan 2024) Soheun's paper on cyclic causal discovery is accepted at **AISTATS**. Congrats!
