@@ -150,7 +150,7 @@ Program Committee/Reviewed for
 - Hyeonji Kim (master 2023, <em>LG CNS</em>)
 - Taehan Kim (master 2021, <em>National Police Agency</em>)
 - Heejin Choi (master 2022, <em>SK Hynix</em>)
-- Soungmin Park (master 2023)
+- Soungmin Park (master 2023, <em>LG CNS</em>)
 - Jin A Choi (master 2023)
 - Kwon Ho Kim (master 2023, <em>LG Uplus</em>)
 - Kyung A Song (master 2022, <em>DS Trade</em>)
