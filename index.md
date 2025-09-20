@@ -50,6 +50,7 @@ Please email me your resume and transcript if you are interested in solving prob
 
 ## News
 - (Sep 2025) Two papers on Structural Causal Bandits are accepted at **NeurIPS**.
+- (Aug 2025) Yesong was awarded the NRF Ph.D. fellowship.
 - (Apr 2025) We’re excited to host research talks by Julius von Kügelgen and Junhyung Park from ETH Zurich!
 - (Feb 2025) Dong Kyu's paper on single source domain generalization is accepted at CVPR 2025!
 - (Nov 2024) Jonghwan and Jeongsup won **first prize** at DATA AI competition (by KISTI)
