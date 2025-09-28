@@ -62,9 +62,6 @@ Please email me your resume and transcript if you are interested in solving prob
 - (May 2024) Two papers are accepted at **ICML 2024**. Thanks for students' incredible efforts!
 - (Apr 2024) Two papers are accepted at **UAI 2024**. Super congrats!
 - (Jan 2024) Soheun's paper on cyclic causal discovery is accepted at **AISTATS**. Congrats!
-- (Nov 2023) Two NeurIPS workshop papers are accepted.
-- (Jun 2023) Causal dynamics learning paper by Inwoo is accepted to a workshop at **ICML 2023**.
-- (Jan 2023) Inwoo's paper on local causal discovery using neural network is accepted at **CLeaR 2023**!
 
 <p style="margin-bottom:1.25cm;"></p>
 ## Academic Activities

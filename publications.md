@@ -65,6 +65,14 @@ Yeahoon Kwon,  Yesong Choe, Soungmin Park, Neil Dhir\*, **Sanghack Lee**\*<br>
 NeurIPS 2025 (to appear)<br>
 
 
+<button type="button" class="btn btn-outline-secondary">ws</button> 
+<button type="button" class="btn btn-set1-1">ID</button> 
+<button type="button" class="btn btn-set1-5">CML</button> Instrumental Variable Representation Learning under Confounded Covariates<br>
+Jungsoo Kim, Kwonho Kim, Inwoo Hwang, **Sanghack Lee**\*<br>
+NeurIPS 2025 Workshop: CauScien---Uncovering Causality in Science<br>
+
+
+
 <button type="button" class="btn btn-set1-5">CML</button> On Predicting Post-Click Conversion Rate via Counterfactual Inference<br>
 Junhyung Ahn, **Sanghack Lee**\*<br>
 ICDM 2025 (to appear)<br>
