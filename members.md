@@ -41,7 +41,6 @@ permalink: /members/
 - Hyunbin Moon
 
 
----
 
 ### Master students
 - [Sujeong Oh](https://www.linkedin.com/in/5sudeng), <span style="font-size:16px;color:gray;">causal machine learning</span>
