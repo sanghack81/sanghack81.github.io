@@ -10,6 +10,9 @@ exclude: true
 <p style="margin-bottom:3mm;">
 I am an Associate Professor leading the Causality Lab <img src="/assets/logo_2023.png" height="16" style="vertical-align: baseline"/> at Seoul National University, where we explore how causal reasoning can make machine learning systems more reliable, interpretable, and useful in the real world. Our research spans from theoretical foundations of causal discovery to practical applications in health, finance, and large-scale AI systems.
 We are always looking for motivated students who are curious about how why-questions can drive the next generation of intelligent systems.
+
+[<a href="/assets/cv.pdf">CV</a>]
+</p>
 <!--	I am an <b>Associate Professor</b> in the <a href="https://gsds.snu.ac.kr">Graduate School of Data Science</a> at <a href="https://www.snu.ac.kr">Seoul National University</a>, directing Causality Lab <img src="/assets/logo_2023.png" height="16" style="vertical-align: baseline"/>. Prior to joining Seoul National University, 
 	I was an 
 	Associate Research Scientist at Columbia University and Postdoctoral Research Associate at Computer Science, Purdue University
@@ -18,7 +21,7 @@ We are always looking for motivated students who are curious about how why-quest
 </p>
 Currently, I am working on the theory and application of causality from the perspectives of machine learning, artificial intelligence, and data science. In particular, I am interested in causal discovery, sequential decision-making, and the identifiability and estimation of causal effects in diverse settings.
 During my Ph.D. study, I focused on causal discovery in a relational domain.<br>-->
-[<a href="/assets/cv.pdf">CV</a>]
+  </div>
   </div>
   
 
