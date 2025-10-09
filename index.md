@@ -8,14 +8,16 @@ exclude: true
   <img src="assets/sanghack2023-face.png" class="profile-pic"/>
   <div id="aboutme" float="right">
 <p style="margin-bottom:3mm;">
-	I am an <b>Associate Professor</b> in the <a href="https://gsds.snu.ac.kr">Graduate School of Data Science</a> at <a href="https://www.snu.ac.kr">Seoul National University</a>, directing Causality Lab <img src="/assets/logo_2023.png" height="16" style="vertical-align: baseline"/>. Prior to joining Seoul National University, 
+I am an Associate Professor leading the Causality Lab <img src="/assets/logo_2023.png" height="16" style="vertical-align: baseline"/> at Seoul National University, where we explore how causal reasoning can make machine learning systems more reliable, interpretable, and useful in the real world. Our research spans from theoretical foundations of causal discovery to practical applications in health, finance, and large-scale AI systems.
+We are always looking for motivated students who are curious about how why-questions can drive the next generation of intelligent systems.
+<!--	I am an <b>Associate Professor</b> in the <a href="https://gsds.snu.ac.kr">Graduate School of Data Science</a> at <a href="https://www.snu.ac.kr">Seoul National University</a>, directing Causality Lab <img src="/assets/logo_2023.png" height="16" style="vertical-align: baseline"/>. Prior to joining Seoul National University, 
 	I was an 
 	Associate Research Scientist at Columbia University and Postdoctoral Research Associate at Computer Science, Purdue University
 	working with Prof. <a href="http://causalai.net">Elias Bareinboim</a>.
 	I got my Ph.D. in College of Information Sciences and Technology, Pennsylvania State University, University Park, under the supervision of Prof. <a href="https://faculty.ist.psu.edu/vhonavar/index.htm">Vasant Honavar</a>.
 </p>
 Currently, I am working on the theory and application of causality from the perspectives of machine learning, artificial intelligence, and data science. In particular, I am interested in causal discovery, sequential decision-making, and the identifiability and estimation of causal effects in diverse settings.
-During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
+During my Ph.D. study, I focused on causal discovery in a relational domain.<br>-->
 [<a href="/assets/cv.pdf">CV</a>]
   </div>
   
@@ -29,9 +31,14 @@ Please email me your resume and transcript if you are interested in solving prob
 <p style="margin-bottom:1.25cm;"></p>
 ## Research Interests
 
+My research lies at the intersection of causal inference, causal discovery, and causal decision making, aiming to make machine learning systems not only accurate but also understandable, fair, and actionable.
+I am particularly interested in developing methods that uncover and utilize causal structures in complex, non-stationary, and high-dimensional environments — advancing both the theory and practical algorithms for reliable causal reasoning from data.
+Beyond these core directions, I am also interested in explainable and trustworthy AI, including issues of fairness, robustness, and interpretability, and in emerging connections between causal reasoning and large-scale foundation models, where causal perspectives may help explain or improve their reasoning behavior.
+
+<!--
 - **Causal Inference** (how can we identify and estimate the effect of an intervention?),  **Causal Decision Making** (how can we utilize causal information in decision making?),  **Causal Discovery** (how can we establish causal relationships from complex data?) 
 - (Future) Developing theories and applications for *health* and *social* domains with causality as a first principle. Developing robust machine learning models and algorithms utilizing causal knowledge. Artificial general intelligence and causality (how can an agent equip a causal mindset. how to counterfactually reason about its actions and consequences.)
-
+-->
 
 <p style="margin-bottom:1.25cm;"></p>
 ## Employment & Education
@@ -91,19 +98,22 @@ Program Committee/Reviewed for
 
 <p style="margin-bottom:1.25cm;"></p>
 
-## <img src="/assets/logo_2023.png" height="28" style="vertical-align: baseline"/> Causality Lab. 
 
+<!--
 ### Research Topics
 - Non-stationary Temporal Causal Discovery
-- Representation Learning for Causal Inference
-- Explainability/Interpretability for Causal Inference (Uncertainty Quantification)
-- Efficient Causal Decision Making in Generalized Settings (Non-stationary, without Sufficiency, Counterfactually)
-- Deep Generative Models for Temporal Causal Inference
+- Representation Learning for Causal Inference (CRL, IV, ...)
+- Uncertainty Quantification and Explainability for Causal Inference
+- Efficient Causal Decision Making in Generalized Settings (Non-stationary, without Sufficiency, Counterfactually, ...)
+- Deep Generative Models for Causal Inference
 - Causal Understanding of Multi-Modal Models
 - Scalable and Stable Causal Discovery
 - Causal Inference/Discovery with Text/LLM
+- Robust and Risk-Aware Off-Policy Evaluation and Learning
 - misc. (fairness, recommender systems, domain generalization, ... )
+-->
 
+<!--
 ### Ph.D. program 
 - [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">Causality & Trustworthy AI (L2–3)</span>
 - [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
@@ -131,7 +141,7 @@ Program Committee/Reviewed for
 - Sumin Cho
 - [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
 - Min Young Cho
-- Juyong Sung
+- [Juyong Sung](https://www.linkedin.com/in/juyong-sung-9a60b0226/)
 
 ### Undergraduate Researchers
 - Serjin Kim (SNU Economics (minor in Financial Economics, Business Administration), Summer 2025~)
@@ -139,7 +149,7 @@ Program Committee/Reviewed for
 - Deokgyu Kim (SNU Statistics &amp; Business Administration, Summer 2025~)
 - DoEun Kim (Sogang Univ. Math &amp; CSE, Summer 2025~)
 
-### Alumni (year graduated) 
+### Caus-Alumni (year graduated) 
 - [Inwoo Hwang](https://iwhwang.github.io) (Ph.D., <em>Columbia University Post doc</em>)
 - Jaeho Jeong (mater 2025, recently graduated)
 - Hyunwoo Park (master 2025, recently graduated)
@@ -160,7 +170,7 @@ Program Committee/Reviewed for
 - Jewon Kang (master 2023, <em>KDB</em>)
 - Juhyeon Kim (master 2023, <em>GSDS Ph.D. program</em>)
 - (undergraduate researchers) [Soheun Yi](https://soheunyi.github.io) (&rarr; CMU Ph.D.), Jiwon Bae (&rarr; Columbia master)
-
+-->
 <p style="margin-bottom:1.25cm;"></p>
 
 ## Past Projects
