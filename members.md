@@ -22,7 +22,7 @@ permalink: /members/
 - misc. (fairness, recommender systems, domain generalization, ... )
 -->
 
-### Ph.D. program
+### Ph.D. students 
 - [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">Causality & Trustworthy AI (L2–3)</span>
 - [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
 - [Yeahoon Kwon](https://deepstroy.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
@@ -32,7 +32,7 @@ permalink: /members/
 - Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
 - Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
 
-### integrated Master/Ph.D. program
+### Master students (integrated Master/Ph.D. program)
 - GyeongChan Han
 - Taehui Yun, <span style="font-size:16px;color:gray;">Causal Deep Generative Model, Causal Inference with Time-series</span>
 - Bogeun Kim
@@ -58,8 +58,13 @@ permalink: /members/
 - Deokgyu Kim (SNU Statistics &amp; Business Administration, Summer 2025~)
 - DoEun Kim (Sogang Univ. Math &amp; CSE, Summer 2025~)
 
-### Caus-Alumni (year graduated)
-- [Inwoo Hwang](https://iwhwang.github.io) (Ph.D., <em>Columbia University Post doc</em>)
+### Caus-Alumni (year graduated, academia first)
+- [Inwoo Hwang](https://iwhwang.github.io) (Ph.D. 2025, <em>Columbia University Post doc</em>)
+- [Dong Kyu Cho](https://umamicode.github.io/aboutme/) (master 2023, &rarr; NYU Ph.D. )
+- [Soheun Yi](https://soheunyi.github.io) (undergraduate researcher, &rarr; CMU Ph.D.)
+- Jiwon Bae (undergraduate researcher, &rarr; Columbia master)
+
+
 - Jaeho Jeong (mater 2025, recently graduated)
 - Hyunwoo Park (master 2025, recently graduated)
 - Oh Yoon Kwon (master 2025, recently graduated)
@@ -75,9 +80,7 @@ permalink: /members/
 - Jeong Ha Moon (master 2024, <em>Coupang</em>)
 - Jeongsup Park (master 2024, <em>AB180</em>)
 - Chaeyoung Chung (master 2023, <em>unspecified</em>)
-- [Dong Kyu Cho](https://umamicode.github.io/aboutme/) (master 2023, &rarr; NYU Ph.D. )
 - Jewon Kang (master 2023, <em>KDB</em>)
 - Juhyeon Kim (master 2023, <em>GSDS Ph.D. program</em>)
-- (undergraduate researchers) [Soheun Yi](https://soheunyi.github.io) (&rarr; CMU Ph.D.), Jiwon Bae (&rarr; Columbia master)
 
 
