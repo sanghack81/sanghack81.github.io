@@ -42,8 +42,12 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 ### Preprints
 
+<button type="button" class="btn btn-set1-5">CML</button>Towards Causal Representation Learning with Observable Sources as Auxiliaries [\[preprint\]](https://arxiv.org/abs/2509.19058)<br>
+Kwonho Kim, Heejeong Nam, Inwoo Hwang, **Sanghack Lee**\*<br>
+
+
 <button type="button" class="btn btn-set1-3">DM</button>
- An Introduction to Causal Reinforcement Learning [\[paper\]](https://causalai.net/r65.pdf)<br>
+ An Introduction to Causal Reinforcement Learning [\[preprint\]](https://causalai.net/r65.pdf)<br>
 Elias Bareinboim, Junzhe Zhang, **Sanghack Lee**<br>
 
 
@@ -76,8 +80,7 @@ NeurIPS 2025 (to appear)<br>
 
 <button type="button" class="btn btn-set1-5">CML</button> On Predicting Post-Click Conversion Rate via Counterfactual Inference<br>
 Junhyung Ahn, **Sanghack Lee**\*<br>
-ICDM 2025 (to appear)<br>
-
+ICDM 2025 (to appear,  <font color="#e41a1c">Best Paper Award Finalist</font>)<br>
 
 <button type="button" class="btn btn-set1-5">CML</button> PEER pressure: Model-to-Model Regularization for Single Source Domain Generalization [\[paper\]](https://openaccess.thecvf.com/content/CVPR2025/papers/Cho_PEER_Pressure_Model-to-Model_Regularization_for_Single_Source_Domain_Generalization_CVPR_2025_paper.pdf)<br>
 Dong Kyu Cho, Inwoo Hwang, **Sanghack Lee**\*<br>
@@ -164,7 +167,7 @@ CLeaR 2023 <br>
 NeurIPS 2021, <font color="#e41a1c">Oral</font><br> 
 
 
-### Workshops and Preprints
+### Workshops
 
 
 
@@ -183,6 +186,7 @@ ICML 2025 Workshop on Scaling Up Intervention Models &amp; UAI 2025 Workshop on 
 <button type="button" class="btn btn-set1-5">ML</button> Locality-aware Concept Bottleneck Model<br>
 Sujin Jeon, Inwoo Hwang, **Sanghack Lee**\*, Byoung-Tak Zhang\*<br>
 UniReps: 2nd Edition of the Workshop on Unifying Representations in Neural Models at NeurIPS 2024<br>
+
 
 <button type="button" class="btn btn-outline-secondary">ws</button> 
 <button type="button" class="btn btn-set1-1">CD</button> On Incorporating Prior Knowledge Extracted from Pre-trained Language Models into Causal Discovery<br>
