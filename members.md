@@ -1,6 +1,6 @@
 ---
 layout: page2
-title: Members
+title: Lab.
 permalink: /members/
 ---
 
@@ -48,6 +48,7 @@ permalink: /members/
 - [Younsuk Yeom](https://www.linkedin.com/in/younsuk-yeom78/), <span style="font-size:16px;color:gray;">causal discovery, causal representation learning</span>
 - [Eunseo Lee](https://www.linkedin.com/in/은서-이-9497a8315/)
 - Sumin Cho
+- Hyunwoo Kim
 - [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
 - Min Young Cho
 - [Juyong Sung](https://www.linkedin.com/in/juyong-sung-9a60b0226/)
@@ -60,7 +61,7 @@ permalink: /members/
 
 ### Caus-Alumni (year graduated, academia first)
 - [Inwoo Hwang](https://iwhwang.github.io) (Ph.D. 2025, <em>Columbia University Post doc</em>)
-- [Dong Kyu Cho](https://umamicode.github.io/aboutme/) (master 2023, &rarr; NYU Ph.D. )
+- [Dong Kyu Cho](https://sites.google.com/view/dongkyu-cho/home) (master 2023, &rarr; NYU Ph.D. )
 - [Soheun Yi](https://soheunyi.github.io) (undergraduate researcher, &rarr; CMU Ph.D.)
 - Jiwon Bae (undergraduate researcher, &rarr; Columbia master)
 
