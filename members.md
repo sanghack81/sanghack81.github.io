@@ -66,7 +66,7 @@ permalink: /members/
 - Jiwon Bae (undergraduate researcher, &rarr; Columbia master)
 
 
-- Jaeho Jeong (mater 2025, recently graduated)
+- Jaeho Jeong (mater 2025, <em>Korea Fiscal Information Service</em>)
 - Hyunwoo Park (master 2025, recently graduated)
 - Oh Yoon Kwon (master 2025, recently graduated)
 - Jihae Chung (master 2025, <em>KAI</em>)
