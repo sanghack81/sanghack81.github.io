@@ -187,19 +187,23 @@ ICML 2025 Workshop on Scaling Up Intervention Models &amp; UAI 2025 Workshop on 
 Sujin Jeon, Inwoo Hwang, **Sanghack Lee**\*, Byoung-Tak Zhang\*<br>
 UniReps: 2nd Edition of the Workshop on Unifying Representations in Neural Models at NeurIPS 2024<br>
 
-
+<!--
 <button type="button" class="btn btn-outline-secondary">ws</button> 
 <button type="button" class="btn btn-set1-1">CD</button> On Incorporating Prior Knowledge Extracted from Pre-trained Language Models into Causal Discovery<br>
 Chanhui Lee\*, Juhyeon Kim\*, YongJun Jeong, Yeom Yoon Seok, Juhyun Lyu, Jung-Hee Kim, Sangmin Lee, Sangjun Han, Hyeokjun Choe, Soyeon Park, Woohyung Lim, Kyunghoon Bae, Sungbin Lim\*, **Sanghack Lee**\*<br>
 First Workshop on Causality and Large Model at NeurIPS 2024<br>
+-->
 
 <button type="button" class="btn btn-outline-secondary">ws</button>
 <button type="button" class="btn btn-set1-5">CML</button> Learning to ignore: Single Source Domain Generalization via Oracle Regularization [\[paper\]](https://openreview.net/forum?id=8btzvHmSfU)<br>
 Dong Kyu Cho, **Sanghack Lee**\*<br>
 Causal Representation Learning Workshop at NeurIPS 2023<br>
 
+<!--
 <button type="button" class="btn btn-outline-secondary">ws</button>
 <button type="button" class="btn btn-set1-5">CML</button> Detecting Causality by Data Augmentation via Part-of-Speech tagging<br> Juhyeon Kim, Yesong Choe and **Sanghack Lee**<br> CASE Workshop at EMNLP 2022<br> 
+-->
+
 
 <button type="button" class="btn btn-outline-secondary">ws</button>
 <button type="button" class="btn btn-set1-1">CD</button>
