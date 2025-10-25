@@ -173,9 +173,9 @@ Program Committee/Reviewed for
 - Juhyeon Kim (master 2023, <em>GSDS Ph.D. program</em>)
 - (undergraduate researchers) [Soheun Yi](https://soheunyi.github.io) (&rarr; CMU Ph.D.), Jiwon Bae (&rarr; Columbia master)
 -->
-<p style="margin-bottom:1.25cm;"></p>
+<p style="margin-bottom:1cm;"></p>
 
-## Past Projects
+### Past Projects
 
 - Semantic Search for Korean Medical and Legal Documents (SNU, co-PI, 2022~23, PI: Hyopil Shin)
 - Association and Causality in Metabolomic data (MFDS, co-PI, 2022)

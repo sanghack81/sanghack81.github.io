@@ -42,7 +42,7 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 ### Preprints
 
-<button type="button" class="btn btn-set1-5">CML</button>Towards Causal Representation Learning with Observable Sources as Auxiliaries [\[preprint\]](https://arxiv.org/abs/2509.19058)<br>
+<button type="button" class="btn btn-set1-5">CML</button> Towards Causal Representation Learning with Observable Sources as Auxiliaries [\[preprint\]](https://arxiv.org/abs/2509.19058)<br>
 Kwonho Kim, Heejeong Nam, Inwoo Hwang, **Sanghack Lee**\*<br>
 
 
