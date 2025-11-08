@@ -61,6 +61,13 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 
 \* for joint first authorship or corresponding author
 
+#### 2026
+
+<button type="button" class="btn btn-set1-5">CML</button> Mitigating Length Bias in RLHF through a Causal Lens<br>
+Hyeonji Kim, Sujeong Oh, **Sanghack Lee**\*<br>
+AAAI 2026 (to appear)<br>
+
+
 #### 2025
 
 <button type="button" class="btn btn-set1-3">DM</button>

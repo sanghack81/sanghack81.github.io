@@ -58,6 +58,7 @@ Beyond these core directions, I am also interested in explainable and trustworth
 
 
 ## News
+- (Nov 2025) Hyeonji's paper on mitigating bias in RLHF is accepted at **AAAI**.
 - (Sep 2025) Two papers on Structural Causal Bandits are accepted at **NeurIPS**.
 - (Aug 2025) Yesong was awarded the NRF Ph.D. fellowship.
 - (Apr 2025) We’re excited to host research talks by Julius von Kügelgen and Junhyung Park from ETH Zurich!
@@ -91,12 +92,12 @@ Program Committee/Reviewed for
 
 ## Research Projects
 
-- Causal Machine Learning (NRF, PI, 2023~27 with Innovative Research Lab Initiation Grant)
-- Self-Motivated AI: Developing self-directed AI agents that can solve new problems (IITP, Co-I, 2022~26, PI: Byoung-Tak Zhang)
-- Center for Optimizing Hyperscale AI Models and Platforms (NRF, Co-I, 2023.06~, PI: Jaejin Lee)
-- Metabolomic Big Data Analysis (MFDS, Co-I, 2023~25)
-- Scalable Causal Discovery (LG AI Research, PI, 2025~26)
-<!-- - Counterfactual Evaluation of Logged Feedback (Balance Hero, PI, 2025~26) -->
+- Causal Machine Learning (NRF, PI, 2023 ~ 27 with Innovative Research Lab Initiation Grant)
+- Self-Motivated AI: Developing self-directed AI agents that can solve new problems (IITP, Co-I, 2022 ~ 26, PI: Byoung-Tak Zhang)
+- Center for Optimizing Hyperscale AI Models and Platforms (NRF, Co-I, 2023~, PI: Jaejin Lee)
+- Metabolomic Big Data Analysis (MFDS, Co-I, 2023 ~ 25)
+- Scalable Causal Discovery (LG AI Research, PI, 2025 ~ 26)
+- Advancing Credit Decision Making (Afinit, PI, 2025 ~ 26)
 
 <p style="margin-bottom:1.25cm;"></p>
 
