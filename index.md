@@ -58,6 +58,7 @@ Beyond these core directions, I am also interested in explainable and trustworth
 
 
 ## News
+- (Nov 2025) Prof. Lee is recognized as a Top Area Chair (top 10% of Area Chairs) at NeurIPS.
 - (Nov 2025) Hyeonji's paper on mitigating bias in RLHF is accepted at **AAAI**.
 - (Sep 2025) Two papers on Structural Causal Bandits are accepted at **NeurIPS**.
 - (Aug 2025) Yesong was awarded the NRF Ph.D. fellowship.
@@ -78,8 +79,8 @@ Beyond these core directions, I am also interested in explainable and trustworth
 
 Program Committee/Reviewed for 
 
-- 2026 AAAI, AISTATS
-- 2025 AAAI, KDD <span style="font-size:16px;color:SteelBlue;">(_outstanding reviewer_)</span>, ICLR, AISTATS, CLeaR, ICML <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>
+- 2026 AAAI, AISTATS, ICML <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>
+- 2025 AAAI, KDD <span style="font-size:16px;color:SteelBlue;">(_outstanding reviewer_)</span>, ICLR, AISTATS, CLeaR, ICML <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Top Area Chair_)</span>
 - 2024 NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, CLeaR, ICML, UAI, JMLR (2x), ECAI, ARR (June), CI4TS at UAI
 - 2023 UAI, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, Journal of Causal Inference (JCI), CI4TS at UAI
 - 2022 ICLR  <span style="font-size:16px;color:SteelBlue;">(_highlighted reviewer_)</span>, AAAI, AISTATS, CLeaR, ICML, UAI <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, JCI, NeurIPS
