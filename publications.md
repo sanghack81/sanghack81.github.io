@@ -42,6 +42,11 @@ During my PhD study, I mostly spent time on understanding causal discovery from 
 
 ### Preprints
 
+<button type="button" class="btn btn-set1-3">DM</button>
+ On Transportability for Structural Causal Bandits [\[preprint\]](http://arxiv.org/abs/2511.17953)<br>
+Min Woo Park, **Sanghack Lee**<br>
+
+
 <button type="button" class="btn btn-set1-5">CML</button> Towards Causal Representation Learning with Observable Sources as Auxiliaries [\[preprint\]](https://arxiv.org/abs/2509.19058)<br>
 Kwonho Kim, Heejeong Nam, Inwoo Hwang, **Sanghack Lee**\*<br>
 
@@ -49,6 +54,8 @@ Kwonho Kim, Heejeong Nam, Inwoo Hwang, **Sanghack Lee**\*<br>
 <button type="button" class="btn btn-set1-3">DM</button>
  An Introduction to Causal Reinforcement Learning [\[preprint\]](https://causalai.net/r65.pdf)<br>
 Elias Bareinboim, Junzhe Zhang, **Sanghack Lee**<br>
+
+
 
 
 
