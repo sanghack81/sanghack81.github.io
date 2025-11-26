@@ -66,7 +66,7 @@ permalink: /members/
 - Jiwon Bae (undergraduate researcher, &rarr; Columbia master)
 
 
-- Jaeho Jeong (mater 2025, <em>Korea Fiscal Information Service</em>)
+- Jaeho Jeong (master 2025, <em>Korea Fiscal Information Service</em>)
 - Hyunwoo Park (master 2025, recently graduated)
 - Oh Yoon Kwon (master 2025, recently graduated)
 - Jihae Chung (master 2025, <em>KAI</em>)
@@ -82,6 +82,5 @@ permalink: /members/
 - Jeongsup Park (master 2024, <em>AB180</em>)
 - Chaeyoung Chung (master 2023, <em>unspecified</em>)
 - Jewon Kang (master 2023, <em>KDB</em>)
-- Juhyeon Kim (master 2023, <em>GSDS Ph.D. program</em>)
 
 
