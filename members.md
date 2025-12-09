@@ -25,7 +25,7 @@ permalink: /members/
 ### Ph.D. students 
 - [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">Causality & Trustworthy AI (L2–3)</span>
 - [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
-- [Yeahoon Kwon](https://deepstroy.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
+- [Yeahoon Kwon](https://yeahoon-k.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
 - [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
 - [Yeo Dong Youn](https://yeodongyoun1995.github.io), <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
 - Byeonghui Lim, <span style="font-size:16px;color:gray;">causal decision making</span>
