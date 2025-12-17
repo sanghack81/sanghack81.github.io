@@ -23,7 +23,7 @@ permalink: /members/
 -->
 
 ### Ph.D. students 
-- [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">Causality & Trustworthy AI (L2–3)</span>
+<!-- - [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">Causality & Trustworthy AI (L2–3)</span> -->
 - [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
 - [Yeahoon Kwon](https://yeahoon-k.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
 - [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
@@ -67,8 +67,8 @@ permalink: /members/
 
 
 - Jaeho Jeong (master 2025, <em>NICE Information Service</em>)
-- Hyunwoo Park (master 2025, recently graduated)
-- Oh Yoon Kwon (master 2025, recently graduated)
+- Hyunwoo Park (master 2025)
+- Oh Yoon Kwon (master 2025)
 - Jihae Chung (master 2025, <em>KAI</em>)
 - Hyeonji Kim (master 2025, <em>LG CNS</em>)
 - Taehan Kim (master 2025, <em>National Police Agency</em>)
