@@ -43,11 +43,6 @@ permalink: /members/
 
 
 ### Master students
-- [Sujeong Oh](https://www.linkedin.com/in/5sudeng), <span style="font-size:16px;color:gray;">causal machine learning</span>
-- [Daehui Park](https://www.linkedin.com/in/대희-박-201500222/),  <span style="font-size:16px;color:gray;">causal inference</span>
-- [Younsuk Yeom](https://www.linkedin.com/in/younsuk-yeom78/), <span style="font-size:16px;color:gray;">causal discovery, causal representation learning</span>
-- [Eunseo Lee](https://www.linkedin.com/in/은서-이-9497a8315/)
-- Sumin Cho
 - Hyunwoo Kim
 - [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
 - Min Young Cho
@@ -66,6 +61,11 @@ permalink: /members/
 - Jiwon Bae (undergraduate researcher, &rarr; Columbia master)
 
 
+- Sujeong Oh (master 2026)
+- Daehui Park (master 2026)
+- Younsuk Yeom (master 2026, LG CNS)
+- Eunseo Lee (master 2026)
+- Sumin Cho (master 2026, SK hynix)
 - Jaeho Jeong (master 2025, <em>NICE Information Service</em>)
 - Hyunwoo Park (master 2025)
 - Oh Yoon Kwon (master 2025)
