@@ -33,7 +33,6 @@ permalink: /members/
 - Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
 
 ### Master students (integrated Master/Ph.D. program)
-- GyeongChan Han
 - Taehui Yun, <span style="font-size:16px;color:gray;">Causal Deep Generative Model, Causal Inference with Time-series</span>
 - Bogeun Kim
 - Kangsan Kim
@@ -46,6 +45,7 @@ permalink: /members/
 - Hyunwoo Kim
 - [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
 - Min Young Cho
+- GyeongChan Han
 - [Juyong Sung](https://www.linkedin.com/in/juyong-sung-9a60b0226/)
 
 ### Undergraduate Researchers
