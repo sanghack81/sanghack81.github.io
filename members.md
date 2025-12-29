@@ -33,8 +33,8 @@ permalink: /members/
 - Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
 
 ### Master students (integrated Master/Ph.D. program)
-- Taehui Yun, <span style="font-size:16px;color:gray;">Causal Deep Generative Model, Causal Inference with Time-series</span>
-- Bogeun Kim
+- Taehui Yun, <span style="font-size:16px;color:gray;">causal deep generative model, causal inference with time-series</span>
+- [Bogeun Kim](https://bogeun.pages.dev), <span style="font-size:16px;color:gray;">domain generalization with causality</span>
 - Kangsan Kim
 - Youngin Jang
 - Hyunbin Moon
@@ -49,18 +49,14 @@ permalink: /members/
 - [Juyong Sung](https://www.linkedin.com/in/juyong-sung-9a60b0226/)
 
 ### Undergraduate Researchers
-- Serjin Kim (SNU Economics (minor in Financial Economics, Business Administration), Summer 2025~)
-- Junha Ham (SNU Liberal Studies (CSE &amp; Economics), Summer 2025~)
-- Deokgyu Kim (SNU Statistics &amp; Business Administration, Summer 2025~)
-- DoEun Kim (Sogang Univ. Math &amp; CSE, Summer 2025~)
+- Serjin Kim (SNU, Summer 2025~)
+- Junha Ham (SNU, Summer 2025~)
+- Deokgyu Kim (SNU, Summer 2025~)
+- DoEun Kim (Sogang Univ., Summer 2025~)
 
 ### Caus-Alumni (year graduated, academia first)
 - [Inwoo Hwang](https://iwhwang.github.io) (Ph.D. 2025, <em>Columbia University Post doc</em>)
 - [Dong Kyu Cho](https://sites.google.com/view/dongkyu-cho/home) (master 2023, &rarr; NYU Ph.D. )
-- [Soheun Yi](https://soheunyi.github.io) (undergraduate researcher, &rarr; CMU Ph.D.)
-- Jiwon Bae (undergraduate researcher, &rarr; Columbia master)
-
-
 - Sujeong Oh (master 2026)
 - Daehui Park (master 2026)
 - Eunseo Lee (master 2026)
@@ -80,7 +76,10 @@ permalink: /members/
 - Dahhee Yim (master 2024, <em>Doosan Enerbility</em>)
 - Jeong Ha Moon (master 2024, <em>Coupang</em>)
 - Jeongsup Park (master 2024, <em>AB180</em>)
-- Chaeyoung Chung (master 2023, <em>unspecified</em>)
+- Chaeyoung Chung (master 2023, <em>undisclosed</em>)
 - Jewon Kang (master 2023, <em>KDB</em>)
 
+### Former Undergraduate Researchers
+- [Soheun Yi](https://soheunyi.github.io) (2022--23, CMU Ph.D.)
+- Jiwon Bae (2025, Columbia master)
 
