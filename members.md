@@ -33,7 +33,7 @@ permalink: /members/
 - Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
 
 ### Master students (integrated Master/Ph.D. program)
-- Taehui Yun, <span style="font-size:16px;color:gray;">causal deep generative model, causal inference with time-series</span>
+- [Taehui Yun](https://tei-yun.github.io/), <span style="font-size:16px;color:gray;">causal deep generative model, causal inference with time-series</span>
 - [Bogeun Kim](https://bogeun.pages.dev), <span style="font-size:16px;color:gray;">domain generalization with causality</span>
 - Kangsan Kim
 - Youngin Jang
