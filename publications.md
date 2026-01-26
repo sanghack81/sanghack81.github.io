@@ -70,9 +70,14 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 
 #### 2026
 
-<button type="button" class="btn btn-set1-5">CML</button> Mitigating Length Bias in RLHF through a Causal Lens<br>
+<button type="button" class="btn btn-set1-3">DM</button> Counterfactual Structural Causal Bandits<br>
+Min Woo Park, **Sanghack Lee**\*<br>
+ICLR 2026 (to appear)<br>
+
+
+<button type="button" class="btn btn-set1-5">CML</button> Mitigating Length Bias in RLHF through a Causal Lens [\[arXiv\]](https://arxiv.org/abs/2511.12573)<br>
 Hyeonji Kim, Sujeong Oh, **Sanghack Lee**\*<br>
-AAAI 2026 (to appear)<br>
+AAAI 2026<br>
 
 
 #### 2025
@@ -80,21 +85,21 @@ AAAI 2026 (to appear)<br>
 <button type="button" class="btn btn-set1-3">DM</button>
 Structural Causal Bandits under Markov Equivalence [\[paper\]](https://causalai.net/r122.pdf)<br>
  Min Woo Park, Andy Arditi, Elias Bareinboim\*, **Sanghack Lee**\*<br>
-NeurIPS 2025 (to appear)<br>
+NeurIPS 2025<br>
 
 
 <button type="button" class="btn btn-set1-3">DM</button>
-Non-Stationary Structural Causal Bandits<br>
+Non-Stationary Structural Causal Bandits [\[paper\]](https://openreview.net/pdf?id=F4LhOqhxkk)<br>
 Yeahoon Kwon,  Yesong Choe, Soungmin Park, Neil Dhir\*, **Sanghack Lee**\*<br>
-NeurIPS 2025 (to appear)<br>
+NeurIPS 2025<br>
 
 
 
 
 
-<button type="button" class="btn btn-set1-5">CML</button> On Predicting Post-Click Conversion Rate via Counterfactual Inference<br>
+<button type="button" class="btn btn-set1-5">CML</button> On Predicting Post-Click Conversion Rate via Counterfactual Inference [\[arXiv\]](https://arxiv.org/abs/2510.04816) <br>
 Junhyung Ahn, **Sanghack Lee**\*<br>
-ICDM 2025 (to appear,  <font color="#e41a1c">Best Paper Award Finalist</font>)<br>
+ICDM 2025 (<font color="#e41a1c">Best Paper Award Finalist</font>)<br>
 
 <button type="button" class="btn btn-set1-5">CML</button> PEER pressure: Model-to-Model Regularization for Single Source Domain Generalization [\[paper\]](https://openaccess.thecvf.com/content/CVPR2025/papers/Cho_PEER_Pressure_Model-to-Model_Regularization_for_Single_Source_Domain_Generalization_CVPR_2025_paper.pdf)<br>
 Dong Kyu Cho, Inwoo Hwang, **Sanghack Lee**\*<br>

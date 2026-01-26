@@ -58,6 +58,7 @@ Beyond these core directions, I am also interested in explainable and trustworth
 
 
 ## News
+- (Jan 2026) Min Woo's paper on Counterfactual Bandit is accepted at **ICLR** 2026!
 - (Nov 2025) Prof. Lee is recognized as a Top Area Chair (top 10% of Area Chairs) at **NeurIPS**.
 - (Nov 2025) Hyeonji's paper on mitigating bias in RLHF is accepted at **AAAI**.
 - (Sep 2025) Two papers on Structural Causal Bandits are accepted at **NeurIPS**.
