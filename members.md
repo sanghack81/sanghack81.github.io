@@ -37,7 +37,6 @@ permalink: /members/
 - [Bogeun Kim](https://bogeun.pages.dev), <span style="font-size:16px;color:gray;">domain generalization with causality</span>
 - Kangsan Kim
 - Youngin Jang
-- Hyunbin Moon
 
 
 
