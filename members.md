@@ -63,7 +63,7 @@ permalink: /members/
 - [Dong Kyu Cho](https://sites.google.com/view/dongkyu-cho/home) (master 2023, &rarr; NYU Ph.D. )
 - Sujeong Oh (master 2026)
 - Daehui Park (master 2026)
-- Eunseo Lee (master 2026)
+- Eunseo Lee (master 2026, <em>Mirae Asset</em>)
 - Younsuk Yeom (master 2026, <em>LG CNS</em>)
 - Sumin Cho (master 2026, <em>SK Hynix</em>)
 - Hyunwoo Park (master 2025)
