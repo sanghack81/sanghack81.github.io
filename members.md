@@ -57,6 +57,7 @@ permalink: /members/
 - Daewon Kim (Sogang Univ., Winter 2026~)
 - Seungju Lee (SNU, Winter 2026~)
 - Geo Moon (SNU, Winter 2026~)
+- Soobin Kim (U Toronto, Summer 2026~)
 
 ### Caus-Alumni (year graduated, academia first)
 - [Inwoo Hwang](https://iwhwang.github.io) (Ph.D. 2025, <em>Columbia University Post doc</em>)
