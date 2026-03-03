@@ -6,53 +6,52 @@
 @import "custom";
 
 
-.center-image
-{
-    margin: 0 auto;
-    display: block;
+.center-image {
+	margin: 0 auto;
+	display: block;
 }
 
 .first-letter {
-  //  float: left;
-  // font-size: 3.15em;
-  // line-height: 0.5;
-  // margin: 0.159em 0.159em 0 0;
-  // // color: #166079;
-  // font-weight: normal;
-  // text-transform: uppercase;
-  color: #000000;
-  float: left;
-  font-family: Georgia;
-  font-size: 54px;
-  line-height: 54px;
-  padding-top: 0px;
-  padding-right: 8px;
-  padding-left: 3px;
+	//  float: left;
+	// font-size: 3.15em;
+	// line-height: 0.5;
+	// margin: 0.159em 0.159em 0 0;
+	// // color: #166079;
+	// font-weight: normal;
+	// text-transform: uppercase;
+	color: #000000;
+	float: left;
+	font-family: Georgia;
+	font-size: 54px;
+	line-height: 54px;
+	padding-top: 0px;
+	padding-right: 8px;
+	padding-left: 3px;
 }
 
 .btn {
-    font-size: 16px;
-    padding: 0px 6px;
-    margin-bottom: 0;
-    font-weight: bold;
+	font-size: 16px;
+	padding: 0px 6px;
+	margin-bottom: 0;
+	font-weight: bold;
 
-    display: inline-block;
-    text-decoration: none;
-    text-align: center;
-    white-space: nowrap;
-    vertical-align:  baseline;
-    border-radius: 4px;
-    -ms-touch-action: manipulation;
-    touch-action: manipulation;
-    cursor: pointer;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-    background-image: none;
-    background-color: white;
-    // border: 1px solid transparent;
-    border: 1px solid transparent;
+	display: inline-block;
+	text-decoration: none;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: baseline;
+	border-radius: 4px;
+	-ms-touch-action: manipulation;
+	touch-action: manipulation;
+	cursor: pointer;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	background-image: none;
+	background-color: white;
+	// border: 1px solid transparent;
+	border: 1px solid transparent;
 }
 
 .btn1{
@@ -238,12 +237,26 @@ a:visited { color: #1756a9; }
 a:hover { color: #111; text-decoration: underline; }
 
 #container {
-  display: flex;                  /* establish flex container */
-  flex-direction: row;            /* default value; can be omitted */
-  flex-wrap: nowrap;              /* default value; can be omitted */
-  justify-content: space-between; /* switched from default (flex-start, see below) */
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: space-between;
 }
 
 #aboutme {
   padding-left: 50px;
+}
+
+@media screen and (max-width: 768px) {
+  #container {
+    flex-direction: column;
+    align-items: center;
+  }
+  .profile-pic {
+    display: block;
+    margin: 0 auto 20px;
+  }
+  #aboutme {
+    padding-left: 0;
+  }
 }

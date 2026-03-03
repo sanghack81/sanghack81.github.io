@@ -48,7 +48,7 @@ Beyond these core directions, I am also interested in explainable and trustworth
 | :--- || ---: | ---: | ---: |
 | **Seoul National University**  || Associate Professor | |2025.03---present |
 | **Seoul National University**  || Assistant Professor | |2021.03---2025.02 |
-| **Columbia Univeristy**  || Associate Research Scientist | |2019---2021 |
+| **Columbia University**  || Associate Research Scientist | |2019---2021 |
 | **Purdue University**  | |Postdoctoral Research Associate | |2018---2019 |
 | **Pennsylvania State University** | |Ph.D. | |2013---2018 |
 

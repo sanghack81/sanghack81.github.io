@@ -27,3 +27,9 @@ end
 
 
 gem "webrick", "~> 1.8"
+
+# Required for Ruby 4.0+ (removed from default gems)
+gem "logger"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
