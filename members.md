@@ -57,7 +57,9 @@ permalink: /members/
 - Daewon Kim (Sogang Univ., Winter 2026~)
 - Soobin Kim (U Toronto, Summer 2026~)
 
-### Caus-Alumni (year graduated, academia first)
+<details markdown="1">
+<summary><h3 style="display: inline-block; cursor: pointer; margin-top: 0; margin-bottom: 0;">Caus-Alumni (year graduated, academia first)</h3></summary>
+
 - [Inwoo Hwang](https://iwhwang.github.io) (Ph.D. 2025, <em>Columbia University Post doc</em>)
 - [Dong Kyu Cho](https://sites.google.com/view/dongkyu-cho/home) (master 2023, &rarr; NYU Ph.D. )
 - Sujeong Oh (master 2026, <em>HEIMDEX</em>)
@@ -82,9 +84,17 @@ permalink: /members/
 - Chaeyoung Chung (master 2023, <em>undisclosed</em>)
 - Jewon Kang (master 2023, <em>KDB</em>)
 
-### Former Undergraduate Researchers
+</details>
+
+<br>
+
+<details markdown="1">
+<summary><h3 style="display: inline-block; cursor: pointer; margin-top: 0; margin-bottom: 0;">Former Undergraduate Researchers</h3></summary>
+
 - [Soheun Yi](https://soheunyi.github.io) (2022--23, CMU Ph.D.)
 - Jiwon Bae (2025, Columbia master)
 - Seungju Lee (SNU, Winter 2026)
 - Geo Moon (SNU, Winter 2026)
+
+</details>
 

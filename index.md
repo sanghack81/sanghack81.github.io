@@ -30,19 +30,6 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 Please email me your resume and transcript if you are interested in solving problems in causal inference (check out Research Topics below).</em>
 <br>-->
 
-<p style="margin-bottom:1.25cm;"></p>
-## Research Interests
-
-My research lies at the intersection of causal inference, causal discovery, and causal decision making, aiming to make machine learning systems not only accurate but also understandable, fair, and actionable.
-I am particularly interested in developing methods that uncover and utilize causal structures in complex, non-stationary, and high-dimensional environments — advancing both the theory and practical algorithms for reliable causal reasoning from data.
-Beyond these core directions, I am also interested in explainable and trustworthy AI, including issues of fairness, robustness, and interpretability, and in emerging connections between causal reasoning and large-scale foundation models, where causal perspectives may help explain or improve their reasoning behavior.
-
-<!--
-- **Causal Inference** (how can we identify and estimate the effect of an intervention?),  **Causal Decision Making** (how can we utilize causal information in decision making?),  **Causal Discovery** (how can we establish causal relationships from complex data?) 
-- (Future) Developing theories and applications for *health* and *social* domains with causality as a first principle. Developing robust machine learning models and algorithms utilizing causal knowledge. Artificial general intelligence and causality (how can an agent equip a causal mindset. how to counterfactually reason about its actions and consequences.)
--->
-
-<p style="margin-bottom:1.25cm;"></p>
 ## Employment & Education
 
 | :--- || ---: | ---: | ---: |
@@ -90,33 +77,6 @@ Program Committee/Reviewed for
 - 2019 NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Best Reviewer Award_)</span>, WHY conference,
  JMLR, 2017 Causality Workshop at UAI, 2016 ACM CHI, 2014 ACM TIST
 
-<p style="margin-bottom:1.25cm;"></p>
-
-## Research Projects
-
-- Causal Machine Learning (NRF, PI, 2023 ~ 27 with Innovative Research Lab Initiation Grant)
-- Self-Motivated AI: Developing self-directed AI agents that can solve new problems (IITP, Co-I, 2022 ~ 26, PI: Byoung-Tak Zhang)
-- Center for Optimizing Hyperscale AI Models and Platforms (NRF, Co-I, 2023~, PI: Jaejin Lee)
-- Metabolomic Big Data Analysis (MFDS, Co-I, 2023 ~ 25)
-- Scalable Causal Discovery (LG AI Research, PI, 2025 ~ 26)
-- Advancing Credit Decision Making (Afinit, PI, 2025 ~ 26)
-
-<p style="margin-bottom:1.25cm;"></p>
-
-
-<!--
-### Research Topics
-- Non-stationary Temporal Causal Discovery
-- Representation Learning for Causal Inference (CRL, IV, ...)
-- Uncertainty Quantification and Explainability for Causal Inference
-- Efficient Causal Decision Making in Generalized Settings (Non-stationary, without Sufficiency, Counterfactually, ...)
-- Deep Generative Models for Causal Inference
-- Causal Understanding of Multi-Modal Models
-- Scalable and Stable Causal Discovery
-- Causal Inference/Discovery with Text/LLM
-- Robust and Risk-Aware Off-Policy Evaluation and Learning
-- misc. (fairness, recommender systems, domain generalization, ... )
--->
 
 <!--
 ### Ph.D. program 
@@ -177,14 +137,3 @@ Program Committee/Reviewed for
 - (undergraduate researchers) [Soheun Yi](https://soheunyi.github.io) (&rarr; CMU Ph.D.), Jiwon Bae (&rarr; Columbia master)
 -->
 <p style="margin-bottom:1cm;"></p>
-
-### Past Projects
-
-- Semantic Search for Korean Medical and Legal Documents (SNU, co-PI, 2022~23, PI: Hyopil Shin)
-- Association and Causality in Metabolomic data (MFDS, co-PI, 2022)
-- Supply Chain based Financial Keyword Analysis (NH Investment, 2021)
-- Causal Discovery for Time Series (LG AI Research, PI, 2023.04~24.04)
-- An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~24)
-- Deep Generative Models for Causal Reasoning (LG AI Research, PI, 2024.05~25.05)
-
-
