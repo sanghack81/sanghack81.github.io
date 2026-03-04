@@ -1,12 +1,12 @@
 ---
 layout: page2
-title: Lab.
+title: Lab
 permalink: /members/
 ---
 
 
 
-## <img src="/assets/logo_2023.png" height="28" style="vertical-align: baseline"/> Causality Lab.
+## <img src="/assets/logo_2023.png" height="28" style="vertical-align: baseline"/> Causality Lab
 
 <!--
 ### Research Topics

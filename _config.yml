@@ -12,5 +12,12 @@ location: Seoul, Republic of Korea
 github_username:  sanghack81
 email_address: sanghack.lee@gmail.com
 linkedin_username: sanghack-lee-65b52a28
+# Navigation menu order
+header_pages:
+  - research.md
+  - publications.md
+  - members.md
+  - join.md
+
 # Build settings
 markdown: kramdown
