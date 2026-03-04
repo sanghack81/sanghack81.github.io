@@ -30,7 +30,7 @@ During my Ph.D. study, I focused on causal discovery in a relational domain.<br>
 Please email me your resume and transcript if you are interested in solving problems in causal inference (check out Research Topics below).</em>
 <br>-->
 
-## Employment & Education
+<!-- ## Employment & Education
 
 | :--- || ---: | ---: | ---: |
 | **Seoul National University**  || Associate Professor | |2025.03---present |
@@ -40,7 +40,7 @@ Please email me your resume and transcript if you are interested in solving prob
 | **Pennsylvania State University** | |Ph.D. | |2013---2018 |
 
 
-<p style="margin-bottom:1.25cm;"></p>
+<p style="margin-bottom:1.25cm;"></p> -->
 
 
 
