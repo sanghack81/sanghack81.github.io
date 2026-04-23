@@ -1,4 +1,10 @@
-_site
+_site/
 .sass-cache
 .jekyll-metadata
-.idea
+.jekyll-cache/
+.idea/
+.ruby-lsp/
+vendor/
+.claude/
+CLAUDE.md
+CLAUDE.local.md
