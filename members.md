@@ -63,7 +63,7 @@ permalink: /members/
 - [Inwoo Hwang](https://iwhwang.github.io) (Ph.D. 2025, <em>Columbia University Post doc</em>)
 - [Dong Kyu Cho](https://sites.google.com/view/dongkyu-cho/home) (master 2023, &rarr; NYU Ph.D. )
 - Sujeong Oh (master 2026, <em>HEIMDEX</em>)
-- Daehui Park (master 2026, <em>Kearney</em>)
+- Daehui Park (master 2026)
 - Eunseo Lee (master 2026, <em>Mirae Asset Securities</em>)
 - Younsuk Yeom (master 2026, <em>LG CNS</em>)
 - Sumin Cho (master 2026, <em>SK Hynix</em>)

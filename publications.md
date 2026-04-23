@@ -155,12 +155,12 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 <div style="margin-top: 1.25em;"></div>
 #### 2026
 
-<span class="pub-tag tag-dm">DM</span> Counterfactual Structural Causal Bandits<br>
+<span class="pub-tag tag-dm">DM</span> Counterfactual Structural Causal Bandits [\[OpenReview\]](https://openreview.net/forum?id=gjvTNxVd2f)<br>
 Min Woo Park, **Sanghack Lee**\*<br>
-ICLR 2026 (to appear)<br>
+ICLR 2026<br>
 
 
-<span class="pub-tag tag-cml">CML</span> Mitigating Length Bias in RLHF through a Causal Lens [\[arXiv\]](https://arxiv.org/abs/2511.12573)<br>
+<span class="pub-tag tag-cml">CML</span> Mitigating Length Bias in RLHF through a Causal Lens [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/38806)<br>
 Hyeonji Kim, Sujeong Oh, **Sanghack Lee**\*<br>
 AAAI 2026<br>
 
@@ -183,7 +183,7 @@ NeurIPS 2025<br>
 
 
 
-<span class="pub-tag tag-cml">CML</span> On Predicting Post-Click Conversion Rate via Counterfactual Inference [\[arXiv\]](https://arxiv.org/abs/2510.04816) <br>
+<span class="pub-tag tag-cml">CML</span> On Predicting Post-Click Conversion Rate via Counterfactual Inference [\[paper\]](https://www.computer.org/csdl/proceedings-article/icdm/2025/959900a011/2eowjjXUamQ) [\[arXiv\]](https://arxiv.org/abs/2510.04816) <br>
 Junhyung Ahn, **Sanghack Lee**\*<br>
 ICDM 2025 (<font color="#e41a1c">Best Paper Award Finalist</font>)<br>
 
