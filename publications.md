@@ -126,6 +126,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ### Preprints
 
+<span class="pub-tag tag-id">ID</span> Canonical Domain Reduction for Partial Counterfactual Identification [\[preprint\]](/assets/canonical-domain-reduction-pcid.pdf)<br>
+Yesong Choe, Yeahoon Kwon\*, Min Woo Park\*, **Sanghack Lee**\*<br>
+
+
 <span class="pub-tag tag-dm">DM</span>
  On Transportability for Structural Causal Bandits [\[preprint\]](http://arxiv.org/abs/2511.17953)<br>
 Min Woo Park, **Sanghack Lee**<br>
