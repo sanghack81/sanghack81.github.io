@@ -285,6 +285,11 @@ NeurIPS 2021, <font color="#e41a1c">Oral</font><br>
 
 
 <span class="pub-tag tag-ws">ws</span> 
+<span class="pub-tag tag-ml">ML</span> A Tale of Two Uncertainties: Global–Local Attribution for Conformal Prediction<br>
+Sangyeon Cho, Minyoung Cho, Jungsoo Kim, Sujeong Oh, **Sanghack Lee**\*<br>
+ICML 2026 Workshop on Epistemic Intelligence in Machine Learning (EIML)<br>
+
+<span class="pub-tag tag-ws">ws</span> 
 <span class="pub-tag tag-id">ID</span> 
 <span class="pub-tag tag-cml">CML</span> Instrumental Variable Representation Learning under Confounded Covariates<br>
 Jungsoo Kim, Kwonho Kim, Inwoo Hwang, **Sanghack Lee**\*<br>
