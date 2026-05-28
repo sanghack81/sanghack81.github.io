@@ -31,6 +31,7 @@ permalink: /members/
 - Byeonghui Lim, <span style="font-size:16px;color:gray;">causal decision making</span>
 - Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
 - Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
+- [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span> (Fall 2026~)
 
 ### Master students (integrated Master/Ph.D. program)
 - [Taehui Yun](https://tei-yun.github.io/), <span style="font-size:16px;color:gray;">causal deep generative model, causal inference with time-series</span>
@@ -42,10 +43,10 @@ permalink: /members/
 
 ### Master students
 - Hyunwoo Kim
-- [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
 - Min Young Cho
 - GyeongChan Han
 - [Juyong Sung](https://www.linkedin.com/in/juyong-sung-9a60b0226/)
+- Woongi Yoon (Fall 2026~)
 
 ### Undergraduate Researchers
 - Serjin Kim (SNU, Summer 2025~)
@@ -56,6 +57,7 @@ permalink: /members/
 - Minchul Shin (SNU, Winter 2026~)
 - Daewon Kim (Sogang Univ., Winter 2026~)
 - Soobin Kim (U Toronto, Summer 2026~)
+- Jiho Kwak (SNU, Summer 2026~)
 
 <details markdown="1">
 <summary><h3 style="display: inline-block; cursor: pointer; margin-top: 0; margin-bottom: 0;">Caus-Alumni (year graduated, academia first)</h3></summary>
@@ -80,7 +82,7 @@ permalink: /members/
 - Kyung A Song (master 2024, <em>DS Trade</em>)
 - Dahhee Yim (master 2024, <em>Doosan Enerbility</em>)
 - Jeong Ha Moon (master 2024, <em>Coupang</em>)
-- Jeongsup Park (master 2024, <em>AB180</em>)
+- Jeongsup Park (master 2024, <em>gowid</em>)
 - Chaeyoung Chung (master 2023, <em>undisclosed</em>)
 - Jewon Kang (master 2023, <em>KDB</em>)
 
