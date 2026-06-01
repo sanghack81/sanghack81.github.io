@@ -126,19 +126,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ### Preprints
 
-<span class="pub-tag tag-id">ID</span> Canonical Domain Reduction for Partial Counterfactual Identification [\[preprint\]](/assets/canonical-domain-reduction-pcid.pdf)<br>
-Yesong Choe, Yeahoon Kwon\*, Min Woo Park\*, **Sanghack Lee**\*<br>
-
-
-<span class="pub-tag tag-dm">DM</span>
- On Transportability for Structural Causal Bandits [\[preprint\]](http://arxiv.org/abs/2511.17953)<br>
-Min Woo Park, **Sanghack Lee**<br>
-
-
-<span class="pub-tag tag-cml">CML</span> Towards Causal Representation Learning with Observable Sources as Auxiliaries [\[preprint\]](https://arxiv.org/abs/2509.19058)<br>
-Kwonho Kim, Heejeong Nam, Inwoo Hwang, **Sanghack Lee**\*<br>
-
-
 <span class="pub-tag tag-dm">DM</span>
  An Introduction to Causal Reinforcement Learning [\[preprint\]](https://causalai.net/r65.pdf)<br>
 Elias Bareinboim, Junzhe Zhang, **Sanghack Lee**<br>
@@ -158,6 +145,43 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 
 <div style="margin-top: 1.25em;"></div>
 #### 2026
+
+<span class="pub-tag tag-cd">CD</span> Don't Test What You Can Deduce: Causal Discovery with Logical Inference<br>
+Jonghwan Kim, **Sanghack Lee**\*<br>
+UAI 2026, <font color="#e41a1c">Oral</font><br>
+
+
+<span class="pub-tag tag-id">ID</span> Canonical Domain Reduction for Partial Counterfactual Identification [\[preprint\]](/assets/canonical-domain-reduction-pcid.pdf)<br>
+Yesong Choe, Yeahoon Kwon\*, Min Woo Park\*, **Sanghack Lee**\*<br>
+UAI 2026<br>
+
+
+<span class="pub-tag tag-id">ID</span>
+<span class="pub-tag tag-dm">DM</span> Beyond Bounds: Quantifying the Probability of Counterfactual Fairness<br>
+Teahan Kim, Minyoung Cho, **Sanghack Lee**\*<br>
+UAI 2026<br>
+
+
+<span class="pub-tag tag-tr">TR</span>
+<span class="pub-tag tag-dm">DM</span> On Transportability for Structural Causal Bandits [\[arXiv\]](http://arxiv.org/abs/2511.17953)<br>
+Min Woo Park, **Sanghack Lee**\*<br>
+UAI 2026<br>
+
+
+<span class="pub-tag tag-cml">CML</span> Estimating Interventional Outcomes over Time with Causal Normalizing Flow<br>
+Yoonseok Yeom, Jonghwan Kim, Taehui Yun, Juhyun Lyu, Jung-Hee Kim, Sangmin Lee, Jinseok Yang, Hyemin Jung, Woohyung Lim, **Sanghack Lee**\*<br>
+UAI 2026<br>
+
+
+<span class="pub-tag tag-cml">CML</span> On Causal Representation Learning with Internal Auxiliaries [\[arXiv\]](https://arxiv.org/abs/2509.19058)<br>
+Kwonho Kim, Heejeong Nam, Inwoo Hwang, **Sanghack Lee**\*<br>
+UAI 2026 <span style="font-size:16px;color:gray;">(previously, Scaling Up Intervention Models workshop at ICML 2025, Causal Abstractions and Representations workshop at UAI 2025)</span><br>
+
+
+<span class="pub-tag tag-cd">CD</span> Breaking Bad: Component-Wise Parent Deletion for Score-Based Causal Discovery<br>
+Min Woo Park, Taehui Yun, YoungIn Jang, Yoonseok Yeom, Jonghwan Kim, Jiyeon Kang, Songseong Kim, Hyemin Jung, Sangmin Lee, Jongseong Jang, **Sanghack Lee**\*<br>
+UAI 2026<br>
+
 
 <span class="pub-tag tag-dm">DM</span> Counterfactual Structural Causal Bandits [\[OpenReview\]](https://openreview.net/forum?id=gjvTNxVd2f)<br>
 Min Woo Park, **Sanghack Lee**\*<br>
@@ -299,11 +323,6 @@ ICML 2026 Workshop on Epistemic Intelligence in Machine Learning (EIML)<br>
 <span class="pub-tag tag-cml">CML</span> Instrumental Variable Representation Learning under Confounded Covariates<br>
 Jungsoo Kim, Kwonho Kim, Inwoo Hwang, **Sanghack Lee**\*<br>
 NeurIPS 2025 Workshop: CauScien---Uncovering Causality in Science<br>
-
-<span class="pub-tag tag-ws">ws</span> 
-<span class="pub-tag tag-cml">CML</span>Towards Causal Representation Learning with Observable Sources as Auxiliaries<br>
-Kwonho Kim, Heejeong Nam, Inwoo Hwang, **Sanghack Lee**\*<br>
-ICML 2025 Workshop on Scaling Up Intervention Models &amp; UAI 2025 Workshop on Causal Abstractions and Representations<br>
 
 <span class="pub-tag tag-ws">ws</span> 
 <span class="pub-tag tag-ml">ML</span> Locality-aware Concept Bottleneck Model<br>

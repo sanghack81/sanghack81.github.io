@@ -45,6 +45,7 @@ Please email me your resume and transcript if you are interested in solving prob
 
 
 ## News
+- (Jun 2026) Seven papers accepted at **UAI 2026**, covering causal inference, discovery, decision-making, and representation learning. Wonderful effort by my students and collaborators — congratulations to all!
 - (Jan 2026) Min Woo's paper on Counterfactual Bandit is accepted at **ICLR** 2026!
 - (Nov 2025) Prof. Lee is recognized as a Top Area Chair (top 10% of Area Chairs) at **NeurIPS**.
 - (Nov 2025) Hyeonji's paper on mitigating bias in RLHF is accepted at **AAAI**.
