@@ -29,14 +29,14 @@ permalink: /members/
 - [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
 - [Yeo Dong Youn](https://yeodongyoun1995.github.io), <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
 - Byeonghui Lim, <span style="font-size:16px;color:gray;">causal decision making</span>
-- Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
+- Jonghwan Kim (→ NYU Ph.D. program), <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
 - Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
+- [Taehui Yun](https://tei-yun.github.io/), <span style="font-size:16px;color:gray;">causal deep generative model, causal inference with time-series</span>
+- [Bogeun Kim](https://bogeun.pages.dev), <span style="font-size:16px;color:gray;">domain generalization with causality</span>
 - [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span> (Fall 2026~)
 
 ### Master students (integrated Master/Ph.D. program)
-- [Taehui Yun](https://tei-yun.github.io/), <span style="font-size:16px;color:gray;">causal deep generative model, causal inference with time-series</span>
-- [Bogeun Kim](https://bogeun.pages.dev), <span style="font-size:16px;color:gray;">domain generalization with causality</span>
-- Kangsan Kim
+- Kangsan Kim <span style="font-size:16px;color:gray;">(on leave)</span>
 - Youngin Jang
 
 
@@ -45,19 +45,19 @@ permalink: /members/
 - Hyunwoo Kim
 - Min Young Cho
 - GyeongChan Han
-- [Juyong Sung](https://www.linkedin.com/in/juyong-sung-9a60b0226/)
+- [Juyong Sung](https://www.linkedin.com/in/juyong-sung-9a60b0226/) <span style="font-size:16px;color:gray;">(on internship)</span>
 - Woongi Yoon (Fall 2026~)
 
 ### Undergraduate Researchers
-- Serjin Kim (SNU, Summer 2025~)
+- Serjin Kim (SNU, Summer 2025--Summer 2026, → MIT Master of Finance)
 - Junha Ham (SNU, Summer 2025~)
 - Deokgyu Kim (SNU, Summer 2025~)
 - DoEun Kim (Sogang Univ., Summer 2025~)
 - Sunghyun Yoo (SNU, Winter 2026~)
-- Minchul Shin (SNU, Winter 2026~)
 - Daewon Kim (Sogang Univ., Winter 2026~)
 - Soobin Kim (U Toronto, Summer 2026~)
 - Jiho Kwak (SNU, Summer 2026~)
+- Jusang Yu (SNU, Summer 2026~)
 
 <details markdown="1">
 <summary><h3 style="display: inline-block; cursor: pointer; margin-top: 0; margin-bottom: 0;">Caus-Alumni (year graduated, academia first)</h3></summary>
@@ -97,6 +97,7 @@ permalink: /members/
 - Jiwon Bae (2025, Columbia master)
 - Seungju Lee (SNU, Winter 2026)
 - Geo Moon (SNU, Winter 2026)
+- Minchul Shin (SNU, Winter 2026--Spring 2026)
 
 </details>
 
