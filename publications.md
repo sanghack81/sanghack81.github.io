@@ -193,6 +193,24 @@ Hyeonji Kim, Sujeong Oh, **Sanghack Lee**\*<br>
 AAAI 2026<br>
 
 
+<span class="pub-tag tag-ws">ws</span>
+<span class="pub-tag tag-cml">CML</span> Causal Foundation Models Perform Better without Post-treatment Variables<br>
+Junha Ham, Deokgyu Kim, Doeun Kim, Serjin Kim, **Sanghack Lee**\*<br>
+ICML 2026 Workshop on Foundation Models for Structured Data (FMSD)<br>
+
+
+<span class="pub-tag tag-ws">ws</span>
+<span class="pub-tag tag-cml">CML</span> A Structural View of Query Misspecification in Causal Foundation Models<br>
+Junha Ham, Deokgyu Kim, Doeun Kim, Serjin Kim, **Sanghack Lee**\*<br>
+ICML 2026 Workshop on Structured Probabilistic Inference &amp; Generative Modeling (SPIGM)<br>
+
+
+<span class="pub-tag tag-ws">ws</span>
+<span class="pub-tag tag-ml">ML</span> A Tale of Two Uncertainties: Global–Local Attribution for Conformal Prediction<br>
+Sangyeon Cho, Minyoung Cho, Jungsoo Kim, Sujeong Oh, **Sanghack Lee**\*<br>
+ICML 2026 Workshop on Epistemic Intelligence in Machine Learning (EIML)<br>
+
+
 <div style="margin-top: 1.25em;"></div>
 #### 2025
 
@@ -218,6 +236,12 @@ ICDM 2025 (<font color="#e41a1c">Best Paper Award Finalist</font>)<br>
 <span class="pub-tag tag-cml">CML</span> PEER pressure: Model-to-Model Regularization for Single Source Domain Generalization [\[paper\]](https://openaccess.thecvf.com/content/CVPR2025/papers/Cho_PEER_Pressure_Model-to-Model_Regularization_for_Single_Source_Domain_Generalization_CVPR_2025_paper.pdf)<br>
 Dong Kyu Cho, Inwoo Hwang, **Sanghack Lee**\*<br>
 CVPR 2025<br>
+
+<span class="pub-tag tag-ws">ws</span>
+<span class="pub-tag tag-id">ID</span>
+<span class="pub-tag tag-cml">CML</span> Instrumental Variable Representation Learning under Confounded Covariates<br>
+Jungsoo Kim, Kwonho Kim, Inwoo Hwang, **Sanghack Lee**\*<br>
+NeurIPS 2025 Workshop: CauScien---Uncovering Causality in Science<br>
 
 <div style="margin-top: 1.25em;"></div>
 #### 2024
@@ -260,6 +284,11 @@ UAI 2024<br>
 Soheun Yi, **Sanghack Lee**\*<br>
 AISTATS 2024<br>
 
+<span class="pub-tag tag-ws">ws</span>
+<span class="pub-tag tag-ml">ML</span> Locality-aware Concept Bottleneck Model<br>
+Sujin Jeon, Inwoo Hwang, **Sanghack Lee**\*, Byoung-Tak Zhang\*<br>
+UniReps: 2nd Edition of the Workshop on Unifying Representations in Neural Models at NeurIPS 2024<br>
+
 <div style="margin-top: 1.25em;"></div>
 #### 2023
 
@@ -285,6 +314,11 @@ The Second Workshop on Spurious Correlations, Invariance and Stability at ICML 2
 Inwoo Hwang, Yunhyeok Kwak, Yeon-Ji Song, Byoung-Tak Zhang\*, **Sanghack Lee**\*<br> 
 CLeaR 2023 <br>
 
+<span class="pub-tag tag-ws">ws</span>
+<span class="pub-tag tag-cml">CML</span> Learning to ignore: Single Source Domain Generalization via Oracle Regularization [\[paper\]](https://openreview.net/forum?id=8btzvHmSfU)<br>
+Dong Kyu Cho, **Sanghack Lee**\*<br>
+Causal Representation Learning Workshop at NeurIPS 2023<br>
+
 <div style="margin-top: 1.25em;"></div>
 #### 2022
 
@@ -304,52 +338,8 @@ CLeaR 2023 <br>
 NeurIPS 2021, <font color="#e41a1c">Oral</font><br> 
 
 
-### Workshops
-
-
-
-<span class="pub-tag tag-ws">ws</span> 
-<span class="pub-tag tag-cml">CML</span> A Structural View of Query Misspecification in Causal Foundation Models<br>
-Junha Ham, Deokgyu Kim, Doeun Kim, Serjin Kim, **Sanghack Lee**\*<br>
-ICML 2026 Workshop on Structured Probabilistic Inference &amp; Generative Modeling (SPIGM)<br>
-
-<span class="pub-tag tag-ws">ws</span> 
-<span class="pub-tag tag-ml">ML</span> A Tale of Two Uncertainties: Global–Local Attribution for Conformal Prediction<br>
-Sangyeon Cho, Minyoung Cho, Jungsoo Kim, Sujeong Oh, **Sanghack Lee**\*<br>
-ICML 2026 Workshop on Epistemic Intelligence in Machine Learning (EIML)<br>
-
-<span class="pub-tag tag-ws">ws</span> 
-<span class="pub-tag tag-id">ID</span> 
-<span class="pub-tag tag-cml">CML</span> Instrumental Variable Representation Learning under Confounded Covariates<br>
-Jungsoo Kim, Kwonho Kim, Inwoo Hwang, **Sanghack Lee**\*<br>
-NeurIPS 2025 Workshop: CauScien---Uncovering Causality in Science<br>
-
-<span class="pub-tag tag-ws">ws</span> 
-<span class="pub-tag tag-ml">ML</span> Locality-aware Concept Bottleneck Model<br>
-Sujin Jeon, Inwoo Hwang, **Sanghack Lee**\*, Byoung-Tak Zhang\*<br>
-UniReps: 2nd Edition of the Workshop on Unifying Representations in Neural Models at NeurIPS 2024<br>
-
-<!--
-<span class="pub-tag tag-ws">ws</span> 
-<span class="pub-tag tag-cd">CD</span> On Incorporating Prior Knowledge Extracted from Pre-trained Language Models into Causal Discovery<br>
-Chanhui Lee\*, Juhyeon Kim\*, YongJun Jeong, Yeom Yoon Seok, Juhyun Lyu, Jung-Hee Kim, Sangmin Lee, Sangjun Han, Hyeokjun Choe, Soyeon Park, Woohyung Lim, Kyunghoon Bae, Sungbin Lim\*, **Sanghack Lee**\*<br>
-First Workshop on Causality and Large Model at NeurIPS 2024<br>
--->
-
 <span class="pub-tag tag-ws">ws</span>
-<span class="pub-tag tag-cml">CML</span> Learning to ignore: Single Source Domain Generalization via Oracle Regularization [\[paper\]](https://openreview.net/forum?id=8btzvHmSfU)<br>
-Dong Kyu Cho, **Sanghack Lee**\*<br>
-Causal Representation Learning Workshop at NeurIPS 2023<br>
-
-<!--
-<span class="pub-tag tag-ws">ws</span>
-<span class="pub-tag tag-cml">CML</span> Detecting Causality by Data Augmentation via Part-of-Speech tagging<br> Juhyeon Kim, Yesong Choe and **Sanghack Lee**<br> CASE Workshop at EMNLP 2022<br> 
--->
-
-
-<span class="pub-tag tag-ws">ws</span>
-<span class="pub-tag tag-cd">CD</span>
-Partition-based Local Independence Discovery<br> Inwoo Hwang, Byoung-Tak Zhang, and **Sanghack Lee** <br> Causal Inference Challenges in Sequential Decision Making: Bridging Theory and Practice Worksop at NeurIPS 2021<br> 
+<span class="pub-tag tag-cd">CD</span> Partition-based Local Independence Discovery<br> Inwoo Hwang, Byoung-Tak Zhang, and **Sanghack Lee** <br> Causal Inference Challenges in Sequential Decision Making: Bridging Theory and Practice Worksop at NeurIPS 2021<br>
 
 
 

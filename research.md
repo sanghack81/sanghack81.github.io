@@ -25,9 +25,9 @@ Beyond these, we are also interested in explainable and trustworthy AI — inclu
 - Causal Machine Learning (NRF, PI, 2023 ~ 27 with Innovative Research Lab Initiation Grant)
 - Self-Motivated AI: Developing self-directed AI agents that can solve new problems (IITP, Co-I, 2022 ~ 26, PI: Byoung-Tak Zhang)
 - Center for Optimizing Hyperscale AI Models and Platforms (NRF, Co-I, 2023~, PI: Jaejin Lee)
-- Metabolomic Big Data Analysis (MFDS, Co-I, 2023 ~ 25)
 - Scalable Causal Discovery (LG AI Research, PI, 2025 ~ 26)
 - Advancing Credit Decision Making (AFINIT, PI, 2025 ~ 26)
+- AI Platform for Predicting Drug Efficacy and Side Effects from Integrated Medical and Multi-omics Data (MFDS, Co-I, 2026 ~ 30)
 
 <p style="margin-bottom:1.25cm;"></p>
 
@@ -49,7 +49,9 @@ Beyond these, we are also interested in explainable and trustworthy AI — inclu
 
 - Semantic Search for Korean Medical and Legal Documents (SNU, co-PI, 2022~23, PI: Hyopil Shin)
 - Association and Causality in Metabolomic data (MFDS, co-PI, 2022)
+- Metabolomic Big Data Analysis (MFDS, Co-I, 2023 ~ 25)
 - Supply Chain based Financial Keyword Analysis (NH Investment, 2021)
 - Causal Discovery for Time Series (LG AI Research, PI, 2023.04~24.04)
 - An algorithmic aspect of proxy-based causal inference (SNU, PI, 2021~24)
 - Deep Generative Models for Causal Reasoning (LG AI Research, PI, 2024.05~25.05)
+- Human-centric Embodied AI Agents with Autonomous Decision-Making (IITP, Co-I, 2025)

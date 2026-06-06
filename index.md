@@ -53,6 +53,10 @@ Please email me your resume and transcript if you are interested in solving prob
 - (Aug 2025) Yesong was awarded the NRF Ph.D. fellowship.
 - (Apr 2025) We’re excited to host research talks by Julius von Kügelgen and Junhyung Park from ETH Zurich!
 - (Feb 2025) Dong Kyu's paper on single source domain generalization is accepted at CVPR 2025!
+
+<details markdown="1">
+<summary style="cursor: pointer; color: #828282;">more…</summary>
+
 - (Nov 2024) Jonghwan and Jeongsup won **first prize** at DATA AI competition (by KISTI)
 - (Nov 2024) Our paper on IV representation learning won a **Best Paper Award** at 2024 Fall Conference of Korean AI Association
 - (Oct 2024) Two NeurIPS workshop papers are accepted.
@@ -62,6 +66,8 @@ Please email me your resume and transcript if you are interested in solving prob
 - (May 2024) Two papers are accepted at **ICML 2024**. Thanks for students' incredible efforts!
 - (Apr 2024) Two papers are accepted at **UAI 2024**. Super congrats!
 - (Jan 2024) Soheun's paper on cyclic causal discovery is accepted at **AISTATS**. Congrats!
+
+</details>
 
 <p style="margin-bottom:1.25cm;"></p>
 ## Academic Activities
