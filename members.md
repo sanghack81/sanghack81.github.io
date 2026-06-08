@@ -35,13 +35,9 @@ permalink: /members/
 - [Bogeun Kim](https://bogeun.pages.dev), <span style="font-size:16px;color:gray;">domain generalization with causality</span>
 - [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span> (Fall 2026~)
 
-### Master students (integrated Master/Ph.D. program)
+### Master students
 - Kangsan Kim <span style="font-size:16px;color:gray;">(on leave)</span>
 - Youngin Jang
-
-
-
-### Master students
 - Hyunwoo Kim
 - Min Young Cho
 - GyeongChan Han
@@ -58,17 +54,16 @@ permalink: /members/
 - Soobin Kim (U Toronto, Summer 2026~)
 - Jiho Kwak (SNU, Summer 2026~)
 - Jusang Yu (SNU, Summer 2026~)
+- Seojin Kim (SNU Statistics, Summer 2026~)
 
-<details markdown="1">
-<summary><h3 style="display: inline-block; cursor: pointer; margin-top: 0; margin-bottom: 0;">Caus-Alumni (year graduated, academia first)</h3></summary>
+### Alumni
 
-- [Inwoo Hwang](https://iwhwang.github.io) (Ph.D. 2025, <em>Columbia University Post doc</em>)
-- [Dong Kyu Cho](https://sites.google.com/view/dongkyu-cho/home) (master 2023, &rarr; NYU Ph.D. )
 - Sujeong Oh (master 2026, <em>HEIMDEX</em>)
 - Daehui Park (master 2026)
 - Eunseo Lee (master 2026, <em>Mirae Asset Securities</em>)
 - Younsuk Yeom (master 2026, <em>LG CNS</em>)
 - Sumin Cho (master 2026, <em>SK Hynix</em>)
+- [Inwoo Hwang](https://iwhwang.github.io) (Ph.D. 2025, <em>Columbia University Post doc</em>)
 - Hyunwoo Park (master 2025)
 - Jaeho Jeong (master 2025, <em>NICE Information Service</em>)
 - Oh Yoon Kwon (master 2025, <em>LG CNS</em>)
@@ -83,10 +78,9 @@ permalink: /members/
 - Dahhee Yim (master 2024, <em>Doosan Enerbility</em>)
 - Jeong Ha Moon (master 2024, <em>Coupang</em>)
 - Jeongsup Park (master 2024, <em>gowid</em>)
+- [Dong Kyu Cho](https://sites.google.com/view/dongkyu-cho/home) (master 2023, &rarr; NYU Ph.D. )
 - Chaeyoung Chung (master 2023, <em>undisclosed</em>)
 - Jewon Kang (master 2023, <em>KDB</em>)
-
-</details>
 
 <br>
 
