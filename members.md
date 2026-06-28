@@ -36,12 +36,12 @@ permalink: /members/
 - [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span> (Fall 2026~)
 
 ### Master students
-- Kangsan Kim <span style="font-size:16px;color:gray;">(on leave)</span>
 - Youngin Jang
 - Hyunwoo Kim
 - GyeongChan Han
 - [Juyong Sung](https://www.linkedin.com/in/juyong-sung-9a60b0226/) <span style="font-size:16px;color:gray;">(on internship)</span>
 - Woongi Yoon (Fall 2026~)
+- <span style="color:gray;">Kangsan Kim</span> <span style="font-size:16px;color:gray;">(on leave)</span>
 
 ### Undergraduate Researchers
 - Serjin Kim (SNU, Summer 2025--Summer 2026, → MIT Master of Finance)
