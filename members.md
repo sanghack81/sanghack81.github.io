@@ -39,7 +39,6 @@ permalink: /members/
 - Kangsan Kim <span style="font-size:16px;color:gray;">(on leave)</span>
 - Youngin Jang
 - Hyunwoo Kim
-- Min Young Cho
 - GyeongChan Han
 - [Juyong Sung](https://www.linkedin.com/in/juyong-sung-9a60b0226/) <span style="font-size:16px;color:gray;">(on internship)</span>
 - Woongi Yoon (Fall 2026~)
@@ -58,6 +57,7 @@ permalink: /members/
 
 ### Alumni
 
+- Min Young Cho (master 2026, <em>LG Energy Solution</em>)
 - Sujeong Oh (master 2026, <em>HEIMDEX</em>)
 - Daehui Park (master 2026)
 - Eunseo Lee (master 2026, <em>Mirae Asset Securities</em>)
