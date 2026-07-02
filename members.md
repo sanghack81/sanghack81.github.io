@@ -44,7 +44,6 @@ permalink: /members/
 - <span style="color:gray;">Kangsan Kim</span> <span style="font-size:16px;color:gray;">(on leave)</span>
 
 ### Undergraduate Researchers
-- Serjin Kim (SNU, Summer 2025--Summer 2026, → MIT Master of Finance)
 - Junha Ham (SNU, Summer 2025~)
 - Deokgyu Kim (SNU, Summer 2025~)
 - DoEun Kim (Sogang Univ., Summer 2025~)
@@ -88,6 +87,7 @@ permalink: /members/
 <summary><h3 style="display: inline-block; cursor: pointer; margin-top: 0; margin-bottom: 0;">Former Undergraduate Researchers</h3></summary>
 
 - [Soheun Yi](https://soheunyi.github.io) (2022--23, CMU Ph.D.)
+- Serjin Kim (SNU, Summer 2025--Summer 2026, → MIT Master of Finance)
 - Jiwon Bae (2025, Columbia master)
 - Seungju Lee (SNU, Winter 2026)
 - Geo Moon (SNU, Winter 2026)
