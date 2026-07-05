@@ -663,6 +663,7 @@ footer{
   overflow-wrap:anywhere;
 }
 @media (max-width:960px){
+  .topbar{position:static}
   .toolbar{grid-template-columns:1fr}
   .toolbar .segmented{justify-self:start}
   .notable-toggle{justify-self:start}
@@ -1003,7 +1004,8 @@ window.__DATA__ = {"papers": [{"id": "65829", "session": 1, "time": "10:30-12:15
   }
 
   function updateStickyOffset(){
-    const height = Math.ceil(els.topbar.getBoundingClientRect().height + 16);
+    const sticky = window.getComputedStyle(els.topbar).position === "sticky";
+    const height = sticky ? Math.ceil(els.topbar.getBoundingClientRect().height + 16) : 16;
     els.root.style.setProperty("--sticky-offset", `${height}px`);
   }
 
