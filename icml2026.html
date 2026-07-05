@@ -121,6 +121,7 @@ h1{
 .theme-toggle,
 .clear-button,
 .notable-toggle,
+.filter-toggle,
 .segmented button,
 .chip{
   border:1px solid var(--line);
@@ -140,6 +141,7 @@ h1{
 .theme-toggle:hover,
 .clear-button:hover,
 .notable-toggle:hover,
+.filter-toggle:hover,
 .chip:hover{border-color:var(--accent);color:var(--accent-strong)}
 .segmented{
   display:inline-flex;
@@ -204,6 +206,23 @@ h1{
   background:var(--gold-soft);
   border-color:var(--gold);
   color:var(--gold);
+}
+.filter-toggle{
+  display:none;
+  min-height:42px;
+  align-items:center;
+  justify-content:center;
+  gap:6px;
+  border-radius:8px;
+  padding:8px 12px;
+  font-size:13px;
+  font-weight:800;
+  white-space:nowrap;
+}
+.filter-toggle.is-active{
+  background:var(--accent-soft);
+  border-color:var(--accent);
+  color:var(--accent);
 }
 .filter-panel{
   display:grid;
@@ -667,6 +686,9 @@ footer{
   .toolbar{grid-template-columns:1fr}
   .toolbar .segmented{justify-self:start}
   .notable-toggle{justify-self:start}
+  .filter-toggle{display:inline-flex;justify-self:start}
+  .filter-panel{display:none}
+  .filter-panel.is-open{display:grid}
   .overview-strip{grid-template-columns:repeat(4,minmax(0,1fr))}
   .filter-row{grid-template-columns:1fr;gap:6px}
   .filter-label{padding-top:0}
@@ -717,8 +739,9 @@ footer{
         <button type="button" data-group="category">주제별</button>
       </div>
       <button class="notable-toggle" id="notableOnly" type="button" aria-pressed="false">⭐ 유명 저자만</button>
+      <button class="filter-toggle" id="filterToggle" type="button" aria-expanded="false" aria-controls="filterPanel">필터 보기 ⌄</button>
     </div>
-    <div class="filter-panel">
+    <div class="filter-panel" id="filterPanel">
       <div class="filter-row">
         <div class="filter-label" id="categoryLabel">주제</div>
         <div class="chip-row" id="categoryChips" aria-labelledby="categoryLabel"></div>
@@ -779,6 +802,7 @@ window.__DATA__ = {"papers": [{"id": "65829", "session": 1, "time": "10:30-12:15
     categories:new Set(),
     sessions:new Set(),
     notableOnly:false,
+    filtersOpen:false,
     expandedCards:new Set(),
     expandedAuthors:new Set()
   };
@@ -796,6 +820,8 @@ window.__DATA__ = {"papers": [{"id": "65829", "session": 1, "time": "10:30-12:15
     searchInput:document.getElementById("searchInput"),
     searchLabel:document.getElementById("searchLabel"),
     notableOnly:document.getElementById("notableOnly"),
+    filterToggle:document.getElementById("filterToggle"),
+    filterPanel:document.getElementById("filterPanel"),
     categoryLabel:document.getElementById("categoryLabel"),
     sessionLabel:document.getElementById("sessionLabel"),
     categoryChips:document.getElementById("categoryChips"),
@@ -820,6 +846,8 @@ window.__DATA__ = {"papers": [{"id": "65829", "session": 1, "time": "10:30-12:15
       topics:"주제",
       sessions:"세션",
       notableOnly:"⭐ 유명 저자만",
+      filterShow:count => `필터 보기${count ? ` (${count})` : ""} ⌄`,
+      filterHide:count => `필터 접기${count ? ` (${count})` : ""} ⌃`,
       clear:"필터 초기화",
       result:(shown,total) => `${total}편 중 ${shown}편 표시`,
       notableStat:(papers,count) => `유명 인과 연구자 포함 ${papers}편 · 목록 ${count}명`,
@@ -855,6 +883,8 @@ window.__DATA__ = {"papers": [{"id": "65829", "session": 1, "time": "10:30-12:15
       topics:"Topics",
       sessions:"Sessions",
       notableOnly:"⭐ Notable authors only",
+      filterShow:count => `Show filters${count ? ` (${count})` : ""} ⌄`,
+      filterHide:count => `Hide filters${count ? ` (${count})` : ""} ⌃`,
       clear:"Reset filters",
       result:(shown,total) => `${shown} of ${total} papers shown`,
       notableStat:(papers,count) => `${papers} papers feature a notable causal researcher · ${count}-name list`,
@@ -1225,6 +1255,11 @@ window.__DATA__ = {"papers": [{"id": "65829", "session": 1, "time": "10:30-12:15
     els.notableOnly.textContent = t.notableOnly;
     els.notableOnly.classList.toggle("is-active", state.notableOnly);
     els.notableOnly.setAttribute("aria-pressed", String(state.notableOnly));
+    const filterCount = state.categories.size + state.sessions.size;
+    els.filterToggle.textContent = state.filtersOpen ? t.filterHide(filterCount) : t.filterShow(filterCount);
+    els.filterToggle.classList.toggle("is-active", filterCount > 0);
+    els.filterToggle.setAttribute("aria-expanded", String(state.filtersOpen));
+    els.filterPanel.classList.toggle("is-open", state.filtersOpen);
     els.clearFilters.textContent = t.clear;
     els.clearFilters.hidden = !activeFilters();
     els.emptyState.textContent = t.empty;
@@ -1398,6 +1433,11 @@ window.__DATA__ = {"papers": [{"id": "65829", "session": 1, "time": "10:30-12:15
   els.notableOnly.addEventListener("click", () => {
     state.notableOnly = !state.notableOnly;
     render();
+  });
+
+  els.filterToggle.addEventListener("click", () => {
+    state.filtersOpen = !state.filtersOpen;
+    renderChrome();
   });
 
   els.clearFilters.addEventListener("click", () => {
