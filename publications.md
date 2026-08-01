@@ -163,7 +163,7 @@ UAI 2026<br>
 
 
 <span class="pub-tag tag-tr">TR</span>
-<span class="pub-tag tag-dm">DM</span> On Transportability for Structural Causal Bandits [\[arXiv\]](http://arxiv.org/abs/2511.17953)<br>
+<span class="pub-tag tag-dm">DM</span> On Transportability for Structural Causal Bandits [\[paper\]](/assets/2026-UAI-scb-transportability-paper.pdf)<br>
 Min Woo Park, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
@@ -173,7 +173,7 @@ Yoonseok Yeom, Jonghwan Kim, Taehui Yun, Juhyun Lyu, Jung-Hee Kim, Sangmin Lee, 
 UAI 2026<br>
 
 
-<span class="pub-tag tag-cml">CML</span> On Causal Representation Learning with Internal Auxiliaries [\[arXiv\]](https://arxiv.org/abs/2509.19058)<br>
+<span class="pub-tag tag-cml">CML</span> On Causal Representation Learning with Internal Auxiliaries [\[paper\]](/assets/2026-UAI-crl-internal-auxiliaries-paper.pdf)<br>
 Kwonho Kim, Heejeong Nam, Inwoo Hwang, **Sanghack Lee**\*<br>
 UAI 2026 <span style="font-size:16px;color:gray;">(previously, Scaling Up Intervention Models workshop at ICML 2025, Causal Abstractions and Representations workshop at UAI 2025)</span><br>
 
