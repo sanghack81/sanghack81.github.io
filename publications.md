@@ -163,7 +163,7 @@ UAI 2026<br>
 
 
 <span class="pub-tag tag-tr">TR</span>
-<span class="pub-tag tag-dm">DM</span> On Transportability for Structural Causal Bandits [\[paper\]](/assets/2026-UAI-scb-transportability-paper.pdf), [\[arXiv\]](http://arxiv.org/abs/2511.17953)<br>
+<span class="pub-tag tag-dm">DM</span> On Transportability for Structural Causal Bandits [\[arXiv\]](http://arxiv.org/abs/2511.17953)<br>
 Min Woo Park, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
@@ -173,7 +173,7 @@ Yoonseok Yeom, Jonghwan Kim, Taehui Yun, Juhyun Lyu, Jung-Hee Kim, Sangmin Lee, 
 UAI 2026<br>
 
 
-<span class="pub-tag tag-cml">CML</span> On Causal Representation Learning with Internal Auxiliaries [\[paper\]](/assets/2026-UAI-crl-internal-auxiliaries-paper.pdf), [\[arXiv\]](https://arxiv.org/abs/2509.19058)<br>
+<span class="pub-tag tag-cml">CML</span> On Causal Representation Learning with Internal Auxiliaries [\[arXiv\]](https://arxiv.org/abs/2509.19058)<br>
 Kwonho Kim, Heejeong Nam, Inwoo Hwang, **Sanghack Lee**\*<br>
 UAI 2026 <span style="font-size:16px;color:gray;">(previously, Scaling Up Intervention Models workshop at ICML 2025, Causal Abstractions and Representations workshop at UAI 2025)</span><br>
 
@@ -183,12 +183,12 @@ Min Woo Park, Taehui Yun, YoungIn Jang, Yoonseok Yeom, Jonghwan Kim, Jiyeon Kang
 UAI 2026<br>
 
 
-<span class="pub-tag tag-dm">DM</span> Counterfactual Structural Causal Bandits [\[OpenReview\]](https://openreview.net/forum?id=gjvTNxVd2f)<br>
+<span class="pub-tag tag-dm">DM</span> Counterfactual Structural Causal Bandits [\[OpenReview\]](https://openreview.net/forum?id=gjvTNxVd2f), [\[poster\]](/assets/2026-ICLR-counterfactual-scb-poster.pdf)<br>
 Min Woo Park, **Sanghack Lee**\*<br>
 ICLR 2026<br>
 
 
-<span class="pub-tag tag-cml">CML</span> Mitigating Length Bias in RLHF through a Causal Lens [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/38806)<br>
+<span class="pub-tag tag-cml">CML</span> Mitigating Length Bias in RLHF through a Causal Lens [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/38806), [\[poster\]](/assets/2026-AAAI-length-bias-poster.pdf)<br>
 Hyeonji Kim, Sujeong Oh, **Sanghack Lee**\*<br>
 AAAI 2026<br>
 
@@ -215,13 +215,13 @@ ICML 2026 Workshop on Epistemic Intelligence in Machine Learning (EIML)<br>
 #### 2025
 
 <span class="pub-tag tag-dm">DM</span>
-Structural Causal Bandits under Markov Equivalence [\[paper\]](https://causalai.net/r122.pdf)<br>
+Structural Causal Bandits under Markov Equivalence [\[paper\]](https://causalai.net/r122.pdf), [\[poster\]](/assets/2025-NeurIPS-scb-mec-poster.pdf)<br>
  Min Woo Park, Andy Arditi, Elias Bareinboim\*, **Sanghack Lee**\*<br>
 NeurIPS 2025<br>
 
 
 <span class="pub-tag tag-dm">DM</span>
-Non-Stationary Structural Causal Bandits [\[paper\]](https://openreview.net/pdf?id=F4LhOqhxkk)<br>
+Non-Stationary Structural Causal Bandits [\[paper\]](https://openreview.net/pdf?id=F4LhOqhxkk), [\[poster\]](/assets/2025-NeurIPS-nonstationary-scb-poster.pdf)<br>
 Yeahoon Kwon,  Yesong Choe, Soungmin Park, Neil Dhir\*, **Sanghack Lee**\*<br>
 NeurIPS 2025<br>
 
@@ -255,7 +255,7 @@ Transactions on Machine Learning 2024<br>
 
 
 
-<span class="pub-tag tag-id">ID</span> Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference [\[paper\]](https://openreview.net/forum?id=6gIcnPvw2x&referrer=%5Bthe%20profile%20of%20Yonghan%20Jung%5D(%2Fprofile%3Fid%3D~Yonghan_Jung1)) <br> 
+<span class="pub-tag tag-id">ID</span> Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference [\[paper\]](https://openreview.net/forum?id=6gIcnPvw2x&referrer=%5Bthe%20profile%20of%20Yonghan%20Jung%5D(%2Fprofile%3Fid%3D~Yonghan_Jung1)), [\[poster\]](/assets/2024-NeurIPS-sequential-adjustment-poster.pdf)<br> 
 Yonghan Jung, Min Woo Park, **Sanghack Lee**\*<br> 
 NeurIPS 2024<br> 
 
@@ -280,7 +280,7 @@ UAI 2024, <font color="#e41a1c">Oral</font><br>
 Jonghwan Kim, Inwoo Hwang, **Sanghack Lee**\*<br>
 UAI 2024<br>
 
-<span class="pub-tag tag-cd">CD</span> Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models [\[paper\]](https://proceedings.mlr.press/v238/yi24a/yi24a.pdf)<br>
+<span class="pub-tag tag-cd">CD</span> Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models [\[paper\]](https://proceedings.mlr.press/v238/yi24a/yi24a.pdf), [\[poster\]](/assets/2024-AISTATS-frp-poster.pdf)<br>
 Soheun Yi, **Sanghack Lee**\*<br>
 AISTATS 2024<br>
 
