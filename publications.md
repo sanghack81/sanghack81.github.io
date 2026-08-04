@@ -194,15 +194,10 @@ AAAI 2026<br>
 
 
 <span class="pub-tag tag-ws">ws</span>
-<span class="pub-tag tag-cml">CML</span> Causal Foundation Models Perform Better without Post-treatment Variables [\[poster\]](/assets/2026-ICML-FMSD-causal-foundation-models-poster.pdf)<br>
+<span class="pub-tag tag-cml">CML</span> Causal Foundation Models Perform Better without Post-treatment Variables (FMSD) [\[poster\]](/assets/2026-ICML-FMSD-causal-foundation-models-poster.pdf)<br>
+A Structural View of Query Misspecification in Causal Foundation Models (SPIGM) [\[poster\]](/assets/2026-ICML-SPIGM-query-misspecification-poster.pdf)<br>
 Junha Ham, Deokgyu Kim, Doeun Kim, Serjin Kim, **Sanghack Lee**\*<br>
-ICML 2026 Workshop on Foundation Models for Structured Data (FMSD)<br>
-
-
-<span class="pub-tag tag-ws">ws</span>
-<span class="pub-tag tag-cml">CML</span> A Structural View of Query Misspecification in Causal Foundation Models [\[poster\]](/assets/2026-ICML-SPIGM-query-misspecification-poster.pdf)<br>
-Junha Ham, Deokgyu Kim, Doeun Kim, Serjin Kim, **Sanghack Lee**\*<br>
-ICML 2026 Workshop on Structured Probabilistic Inference &amp; Generative Modeling (SPIGM)<br>
+ICML 2026 Workshops<br>
 
 
 <span class="pub-tag tag-ws">ws</span>
