@@ -194,19 +194,19 @@ AAAI 2026<br>
 
 
 <span class="pub-tag tag-ws">ws</span>
-<span class="pub-tag tag-cml">CML</span> Causal Foundation Models Perform Better without Post-treatment Variables<br>
+<span class="pub-tag tag-cml">CML</span> Causal Foundation Models Perform Better without Post-treatment Variables [\[poster\]](/assets/2026-ICML-FMSD-causal-foundation-models-poster.pdf)<br>
 Junha Ham, Deokgyu Kim, Doeun Kim, Serjin Kim, **Sanghack Lee**\*<br>
 ICML 2026 Workshop on Foundation Models for Structured Data (FMSD)<br>
 
 
 <span class="pub-tag tag-ws">ws</span>
-<span class="pub-tag tag-cml">CML</span> A Structural View of Query Misspecification in Causal Foundation Models<br>
+<span class="pub-tag tag-cml">CML</span> A Structural View of Query Misspecification in Causal Foundation Models [\[poster\]](/assets/2026-ICML-SPIGM-query-misspecification-poster.pdf)<br>
 Junha Ham, Deokgyu Kim, Doeun Kim, Serjin Kim, **Sanghack Lee**\*<br>
 ICML 2026 Workshop on Structured Probabilistic Inference &amp; Generative Modeling (SPIGM)<br>
 
 
 <span class="pub-tag tag-ws">ws</span>
-<span class="pub-tag tag-ml">ML</span> A Tale of Two Uncertainties: Global–Local Attribution for Conformal Prediction<br>
+<span class="pub-tag tag-ml">ML</span> A Tale of Two Uncertainties: Global–Local Attribution for Conformal Prediction [\[poster\]](/assets/2026-ICML-EIML-two-uncertainties-poster.pdf)<br>
 Sangyeon Cho, Minyoung Cho, Jungsoo Kim, Sujeong Oh, **Sanghack Lee**\*<br>
 ICML 2026 Workshop on Epistemic Intelligence in Machine Learning (EIML)<br>
 
