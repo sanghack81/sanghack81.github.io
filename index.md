@@ -78,12 +78,18 @@ Program Committee/Reviewed for
 - 2026 AAAI, AISTATS, ICML <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, UAI, CLeaR, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair, Workshop Proposal Reviewer_)</span>
 - 2025 AAAI, KDD <span style="font-size:16px;color:SteelBlue;">(_outstanding reviewer_)</span>, ICLR, AISTATS, CLeaR, ICML <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Top Area Chair_)</span>
 - 2024 NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, CLeaR, ICML, UAI, JMLR (2x), ECAI, ARR (June), CI4TS at UAI
+
+<details markdown="1">
+<summary style="cursor: pointer; color: #828282;">more…</summary>
+
 - 2023 UAI, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, Journal of Causal Inference (JCI), CI4TS at UAI
 - 2022 ICLR  <span style="font-size:16px;color:SteelBlue;">(_highlighted reviewer_)</span>, AAAI, AISTATS, CLeaR, ICML, UAI <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, JCI, NeurIPS
 - 2021 ICLR, AAAI, AISTATS, UAI, ICML, NeurIPS, JAIR, Why now? workshop at NeurIPS
 - 2020 NeurIPS, UAI, ICML <span style="font-size:16px;color:SteelBlue;">(_top reviewer_)</span>, AAAI, AISTATS, IEEE TPAMI, Journal of Artificial Intelligence (AIJ), JCI, CDML Workshop at NeurIPS
 - 2019 NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Best Reviewer Award_)</span>, WHY conference,
  JMLR, 2017 Causality Workshop at UAI, 2016 ACM CHI, 2014 ACM TIST
+
+</details>
 
 
 <!--
