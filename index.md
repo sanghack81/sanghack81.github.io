@@ -74,6 +74,7 @@ Please email me your resume and transcript if you are interested in solving prob
 
 Program Committee/Reviewed for 
 
+- 2027 AAAI <span style="font-size:16px;color:SteelBlue;">(_Senior Program Committee_)</span>, ICLR <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>
 - 2026 AAAI, AISTATS, ICML <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, UAI, CLeaR, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair, Workshop Proposal Reviewer_)</span>
 - 2025 AAAI, KDD <span style="font-size:16px;color:SteelBlue;">(_outstanding reviewer_)</span>, ICLR, AISTATS, CLeaR, ICML <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Top Area Chair_)</span>
 - 2024 NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, CLeaR, ICML, UAI, JMLR (2x), ECAI, ARR (June), CI4TS at UAI
