@@ -60,7 +60,7 @@ permalink: /members/
 - Sujeong Oh (master 2026, <em>HEIMDEX</em>)
 - Daehui Park (master 2026)
 - Eunseo Lee (master 2026, <em>Mirae Asset Securities</em>)
-- Younsuk Yeom (master 2026, <em>LG CNS</em>)
+- [Yoonseok Yeom](https://yoonseok11.github.io/portfolio/) (master 2026, <em>LG CNS</em>)
 - Sumin Cho (master 2026, <em>SK Hynix</em>)
 - [Inwoo Hwang](https://iwhwang.github.io) (Ph.D. 2025, <em>Columbia University Post doc</em>)
 - Hyunwoo Park (master 2025)
