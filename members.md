@@ -58,7 +58,7 @@ permalink: /members/
 
 - Min Young Cho (master 2026, <em>LG Energy Solution</em>)
 - Sujeong Oh (master 2026, <em>HEIMDEX</em>)
-- Daehui Park (master 2026)
+- Daehui Park (master 2026, <em>CJ ENM</em>)
 - Eunseo Lee (master 2026, <em>Mirae Asset Securities</em>)
 - [Yoonseok Yeom](https://yoonseok11.github.io/portfolio/) (master 2026, <em>LG CNS</em>)
 - Sumin Cho (master 2026, <em>SK Hynix</em>)
@@ -94,4 +94,3 @@ permalink: /members/
 - Minchul Shin (SNU, Winter 2026--Spring 2026)
 
 </details>
-
