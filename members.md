@@ -29,18 +29,17 @@ permalink: /members/
 - [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
 - [Yeo Dong Youn](https://yeodongyoun1995.github.io), <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
 - Byeonghui Lim, <span style="font-size:16px;color:gray;">causal decision making</span>
-- Jonghwan Kim (→ NYU Ph.D. program), <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
 - [Jung Soo Kim](https://mephistonovel.github.io), <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
 - [Taehui Yun](https://tei-yun.github.io/), <span style="font-size:16px;color:gray;">causal deep generative model, causal inference with time-series</span>
 - [Bogeun Kim](https://bogeun.pages.dev), <span style="font-size:16px;color:gray;">domain generalization with causality</span>
-- [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span> (Fall 2026~)
+- [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
 
 ### Master students
 - Youngin Jang
 - Hyunwoo Kim
 - GyeongChan Han
 - [Juyong Sung](https://www.linkedin.com/in/juyong-sung-9a60b0226/) <span style="font-size:16px;color:gray;">(on internship)</span>
-- Woongi Yoon (Fall 2026~)
+- Woongi Yoon
 - <span style="color:gray;">Kangsan Kim</span> <span style="font-size:16px;color:gray;">(on leave)</span>
 
 ### Undergraduate Researchers
@@ -56,6 +55,7 @@ permalink: /members/
 
 ### Alumni
 
+- Jonghwan Kim (→ NYU Ph.D. program), <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
 - Min Young Cho (master 2026, <em>LG Energy Solution</em>)
 - Sujeong Oh (master 2026, <em>HEIMDEX</em>)
 - Daehui Park (master 2026, <em>CJ ENM</em>)
