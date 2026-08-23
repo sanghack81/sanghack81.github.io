@@ -146,39 +146,39 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 <div style="margin-top: 1.25em;"></div>
 #### 2026
 
-<span class="pub-tag tag-cd">CD</span> Don't Test What You Can Deduce: Causal Discovery with Logical Inference [\[paper\]](/assets/2026-UAI-dfpc-paper.pdf)<br>
+<span class="pub-tag tag-cd">CD</span> Don't Test What You Can Deduce: Causal Discovery with Logical Inference [\[paper\]](/assets/2026-UAI-dfpc-paper.pdf), [\[poster\]](/assets/2026-UAI-dfpc-poster.pdf)<br>
 Jonghwan Kim, **Sanghack Lee**\*<br>
 UAI 2026, <font color="#e41a1c">Oral</font><br>
 
 
-<span class="pub-tag tag-id">ID</span> Canonical Domain Reduction for Partial Counterfactual Identification [\[paper\]](/assets/2026-UAI-canonical-domain-reduction-paper.pdf)<br>
+<span class="pub-tag tag-id">ID</span> Canonical Domain Reduction for Partial Counterfactual Identification [\[paper\]](/assets/2026-UAI-canonical-domain-reduction-paper.pdf), [\[poster\]](/assets/2026-UAI-canonical-domain-reduction-poster.pdf)<br>
 Yesong Choe, Yeahoon Kwon\*, Min Woo Park\*, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
 
 <span class="pub-tag tag-id">ID</span>
-<span class="pub-tag tag-dm">DM</span> Beyond Bounds: Quantifying the Probability of Counterfactual Fairness [\[paper\]](/assets/2026-UAI-counterfactual-fairness-paper.pdf)<br>
+<span class="pub-tag tag-dm">DM</span> Beyond Bounds: Quantifying the Probability of Counterfactual Fairness [\[paper\]](/assets/2026-UAI-counterfactual-fairness-paper.pdf), [\[poster\]](/assets/2026-UAI-counterfactual-fairness-poster.pdf)<br>
 Teahan Kim, Minyoung Cho, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
 
 <span class="pub-tag tag-tr">TR</span>
-<span class="pub-tag tag-dm">DM</span> On Transportability for Structural Causal Bandits [\[paper\]](/assets/2026-UAI-scb-transportability-paper.pdf)<br>
+<span class="pub-tag tag-dm">DM</span> On Transportability for Structural Causal Bandits [\[paper\]](/assets/2026-UAI-scb-transportability-paper.pdf), [\[poster\]](/assets/2026-UAI-scb-transportability-poster.pdf)<br>
 Min Woo Park, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
 
-<span class="pub-tag tag-cml">CML</span> Estimating Interventional Outcomes over Time with Causal Normalizing Flow [\[paper\]](/assets/2026-UAI-tscnf-paper.pdf)<br>
+<span class="pub-tag tag-cml">CML</span> Estimating Interventional Outcomes over Time with Causal Normalizing Flow [\[paper\]](/assets/2026-UAI-tscnf-paper.pdf), [\[poster\]](/assets/2026-UAI-tscnf-poster.pdf)<br>
 Yoonseok Yeom, Jonghwan Kim, Taehui Yun, Juhyun Lyu, Jung-Hee Kim, Sangmin Lee, Jinseok Yang, Hyemin Jung, Woohyung Lim, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
 
-<span class="pub-tag tag-cml">CML</span> On Causal Representation Learning with Internal Auxiliaries [\[paper\]](/assets/2026-UAI-crl-internal-auxiliaries-paper.pdf)<br>
+<span class="pub-tag tag-cml">CML</span> On Causal Representation Learning with Internal Auxiliaries [\[paper\]](/assets/2026-UAI-crl-internal-auxiliaries-paper.pdf), [\[poster\]](/assets/2026-UAI-crl-internal-auxiliaries-poster.pdf)<br>
 Kwonho Kim, Heejeong Nam, Inwoo Hwang, **Sanghack Lee**\*<br>
 UAI 2026 <span style="font-size:16px;color:gray;">(previously, Scaling Up Intervention Models workshop at ICML 2025, Causal Abstractions and Representations workshop at UAI 2025)</span><br>
 
 
-<span class="pub-tag tag-cd">CD</span> Breaking Bad: Component-Wise Parent Deletion for Score-Based Causal Discovery [\[paper\]](/assets/2026-UAI-breaking-bad-paper.pdf)<br>
+<span class="pub-tag tag-cd">CD</span> Breaking Bad: Component-Wise Parent Deletion for Score-Based Causal Discovery [\[paper\]](/assets/2026-UAI-breaking-bad-paper.pdf), [\[poster\]](/assets/2026-UAI-breaking-bad-poster.pdf)<br>
 Min Woo Park, Taehui Yun, YoungIn Jang, Yoonseok Yeom, Jonghwan Kim, Jiyeon Kang, Songseong Kim, Hyemin Jung, Sangmin Lee, Jongseong Jang, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
