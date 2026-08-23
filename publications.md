@@ -158,7 +158,7 @@ UAI 2026<br>
 
 <span class="pub-tag tag-id">ID</span>
 <span class="pub-tag tag-dm">DM</span> Beyond Bounds: Quantifying the Probability of Counterfactual Fairness [\[paper\]](/assets/2026-UAI-counterfactual-fairness-paper.pdf), [\[poster\]](/assets/2026-UAI-counterfactual-fairness-poster.pdf)<br>
-Teahan Kim, Minyoung Cho, **Sanghack Lee**\*<br>
+Taehan Kim, Minyoung Cho, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
 
@@ -169,7 +169,7 @@ UAI 2026<br>
 
 
 <span class="pub-tag tag-cml">CML</span> Estimating Interventional Outcomes over Time with Causal Normalizing Flow [\[paper\]](/assets/2026-UAI-tscnf-paper.pdf), [\[poster\]](/assets/2026-UAI-tscnf-poster.pdf)<br>
-Yoonseok Yeom, Jonghwan Kim, Taehui Yun, Juhyun Lyu, Jung-Hee Kim, Sangmin Lee, Jinseok Yang, Hyemin Jung, Woohyung Lim, **Sanghack Lee**\*<br>
+Yoonseok Yeom\*, Jonghwan Kim\*, Taehui Yun, Juhyun Lyu, Jung-Hee Kim, Sangmin Lee, Jinseok Yang, Hyemin Jung, Woohyung Lim\*, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
 
@@ -179,7 +179,7 @@ UAI 2026 <span style="font-size:16px;color:gray;">(previously, Scaling Up Interv
 
 
 <span class="pub-tag tag-cd">CD</span> Breaking Bad: Component-Wise Parent Deletion for Score-Based Causal Discovery [\[paper\]](/assets/2026-UAI-breaking-bad-paper.pdf), [\[poster\]](/assets/2026-UAI-breaking-bad-poster.pdf)<br>
-Min Woo Park, Taehui Yun, YoungIn Jang, Yoonseok Yeom, Jonghwan Kim, Jiyeon Kang, Songseong Kim, Hyemin Jung, Sangmin Lee, Jongseong Jang, **Sanghack Lee**\*<br>
+Min Woo Park\*, Taehui Yun\*, YoungIn Jang, Yoonseok Yeom, Jonghwan Kim, Jiyeon Kang, Songseong Kim, Hyemin Jung, Sangmin Lee, Jongseong Jang\*, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
 
