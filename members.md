@@ -31,10 +31,10 @@ permalink: /members/
 - Byeonghui Lim, <span style="font-size:16px;color:gray;">causal decision making</span>
 - [Jung Soo Kim](https://mephistonovel.github.io), <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
 - [Taehui Yun](https://tei-yun.github.io/), <span style="font-size:16px;color:gray;">causal deep generative model, causal inference with time-series</span>
-- [Bogeun Kim](https://bogeun.pages.dev), <span style="font-size:16px;color:gray;">domain generalization with causality</span>
 - [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
 
 ### Master students
+- [Bogeun Kim](https://bogeun.pages.dev), <span style="font-size:16px;color:gray;">domain generalization with causality</span>
 - Youngin Jang
 - Hyunwoo Kim
 - GyeongChan Han
