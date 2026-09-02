@@ -39,7 +39,7 @@ permalink: /members/
 - [Bogeun Kim](https://bogeun.pages.dev), <span style="font-size:16px;color:gray;">domain generalization with causality</span>
 - Youngin Jang
 - Hyunwoo Kim
-- GyeongChan Han
+- Gyeongchan Han
 - [Juyong Sung](https://www.linkedin.com/in/juyong-sung-9a60b0226/) <span style="font-size:16px;color:gray;">(on leave — internship)</span>
 - Woonggi Yoon
 - <span style="color:gray;">Kangsan Kim</span> <span style="font-size:16px;color:gray;">(on leave)</span>

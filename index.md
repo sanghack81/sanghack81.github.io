@@ -106,7 +106,7 @@ Program Committee/Reviewed for
 - Jung Soo Kim, <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
 
 ### integrated Master/Ph.D. program 
-- GyeongChan Han
+- Gyeongchan Han
 - Taehui Yun, <span style="font-size:16px;color:gray;">Causal Deep Generative Model, Causal Inference with Time-series</span>
 - Bogeun Kim
 - Kangsan Kim
