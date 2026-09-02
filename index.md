@@ -140,7 +140,7 @@ Program Committee/Reviewed for
 - Soungmin Park (master 2025, <em>LG CNS</em>)
 - Jin A Choi (master 2025)
 - Kwon Ho Kim (master 2025, <em>LG Uplus</em>)
-- Kyung A Song (master 2024, <em>DS Trade</em>)
+- Kyung A Song (master 2024, <em>Yeogi (GC Company)</em>)
 - Dahhee Yim (master 2024, <em>Doosan Enerbility</em>)
 - Jeong Ha Moon (master 2024, <em>Coupang</em>)
 - Jeongsup Park (master 2024, <em>AB180</em>)

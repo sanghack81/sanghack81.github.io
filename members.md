@@ -73,7 +73,7 @@ permalink: /members/
 - Heejin Choi (master 2025, <em>SK Hynix</em>)
 - Soungmin Park (master 2025, <em>LG CNS</em>)
 - Kwon Ho Kim (master 2025, <em>LG Uplus</em>)
-- Kyung A Song (master 2024, <em>DS Trade</em>)
+- Kyung A Song (master 2024, <em>Yeogi (GC Company)</em>)
 - Dahhee Yim (master 2024, <em>Doosan Enerbility</em>)
 - Jeong Ha Moon (master 2024, <em>Coupang</em>)
 - Jeongsup Park (master 2024, <em>gowid</em>)
