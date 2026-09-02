@@ -8,6 +8,8 @@ permalink: /members/
 
 ## <img src="/assets/logo_2023.png" height="28" style="vertical-align: baseline"/> Causality Lab
 
+<p style="font-size:14px;color:#666;margin-top:-6px;margin-bottom:20px;"><span style="color:#7c3aed;">✦</span> NRF Graduate Research Grant</p>
+
 <!--
 ### Research Topics
 - Non-stationary Temporal Causal Discovery
@@ -24,9 +26,9 @@ permalink: /members/
 
 ### Ph.D. students 
 <!-- - [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">Causality & Trustworthy AI (L2–3)</span> -->
-- [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:14px;color:#8a6500;">✦ NRF Graduate Research Grant ’25</span>, <span style="font-size:16px;color:gray;">efficient causal inference</span>
+- [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:14px;color:#7c3aed;">✦ ’25</span>, <span style="font-size:16px;color:gray;">efficient causal inference</span>
 - [Yeahoon Kwon](https://yeahoon-k.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
-- [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:14px;color:#8a6500;">✦ NRF Graduate Research Grant ’26</span>, <span style="font-size:16px;color:gray;">causal decision making</span>
+- [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:14px;color:#7c3aed;">✦ ’26</span>, <span style="font-size:16px;color:gray;">causal decision making</span>
 - [Yeo Dong Youn](https://yeodongyoun1995.github.io), <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
 - Byeonghui Lim, <span style="font-size:16px;color:gray;">causal decision making</span>
 - [Jung Soo Kim](https://mephistonovel.github.io), <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
@@ -38,7 +40,7 @@ permalink: /members/
 - Youngin Jang
 - Hyunwoo Kim
 - GyeongChan Han
-- [Juyong Sung](https://www.linkedin.com/in/juyong-sung-9a60b0226/) <span style="font-size:16px;color:gray;">(on internship)</span>
+- [Juyong Sung](https://www.linkedin.com/in/juyong-sung-9a60b0226/) <span style="font-size:16px;color:gray;">(on leave — internship)</span>
 - Woongi Yoon
 - <span style="color:gray;">Kangsan Kim</span> <span style="font-size:16px;color:gray;">(on leave)</span>
 
@@ -51,7 +53,7 @@ permalink: /members/
 - Soobin Kim (U Toronto, Summer 2026~)
 - Jiho Kwak (SNU, Summer 2026~)
 - Jusang Yu (SNU, Summer 2026~)
-- Seojin Kim (SNU Statistics, Summer 2026~)
+- Seojin Kim (SNU, Summer 2026~)
 
 ### Alumni
 
@@ -67,7 +69,7 @@ permalink: /members/
 - Jaeho Jeong (master 2025, <em>NICE Information Service</em>)
 - Oh Yoon Kwon (master 2025, <em>LG CNS</em>)
 - Jihae Chung (master 2025, <em>KAI</em>)
-- Hyeonji Kim <span style="font-size:14px;color:#8a6500;">✦ NRF Graduate Research Grant ’24</span> (master 2025, <em>LG CNS</em>)
+- Hyeonji Kim <span style="font-size:14px;color:#7c3aed;">✦ ’24</span> (master 2025, <em>LG CNS</em>)
 - Jin A Choi (master 2025)
 - Taehan Kim (master 2025, <em>National Police Agency</em>)
 - Heejin Choi (master 2025, <em>SK Hynix</em>)
