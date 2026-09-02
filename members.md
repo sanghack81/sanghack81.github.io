@@ -24,9 +24,9 @@ permalink: /members/
 
 ### Ph.D. students 
 <!-- - [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">Causality & Trustworthy AI (L2–3)</span> -->
-- [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
+- [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:14px;color:#8a6500;">✦ NRF Graduate Research Grant ’25</span>, <span style="font-size:16px;color:gray;">efficient causal inference</span>
 - [Yeahoon Kwon](https://yeahoon-k.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
-- [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
+- [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:14px;color:#8a6500;">✦ NRF Graduate Research Grant ’26</span>, <span style="font-size:16px;color:gray;">causal decision making</span>
 - [Yeo Dong Youn](https://yeodongyoun1995.github.io), <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
 - Byeonghui Lim, <span style="font-size:16px;color:gray;">causal decision making</span>
 - [Jung Soo Kim](https://mephistonovel.github.io), <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
@@ -67,7 +67,7 @@ permalink: /members/
 - Jaeho Jeong (master 2025, <em>NICE Information Service</em>)
 - Oh Yoon Kwon (master 2025, <em>LG CNS</em>)
 - Jihae Chung (master 2025, <em>KAI</em>)
-- Hyeonji Kim (master 2025, <em>LG CNS</em>)
+- Hyeonji Kim <span style="font-size:14px;color:#8a6500;">✦ NRF Graduate Research Grant ’24</span> (master 2025, <em>LG CNS</em>)
 - Jin A Choi (master 2025)
 - Taehan Kim (master 2025, <em>National Police Agency</em>)
 - Heejin Choi (master 2025, <em>SK Hynix</em>)

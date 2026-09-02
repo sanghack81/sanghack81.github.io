@@ -95,9 +95,9 @@ Program Committee/Reviewed for
 <!--
 ### Ph.D. program 
 - [Yeha Kim](https://yeha-777.github.io), <span style="font-size:16px;color:gray;">Causality & Trustworthy AI (L2–3)</span>
-- [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:16px;color:gray;">efficient causal inference</span>
+- [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:14px;color:#8a6500;">✦ NRF Graduate Research Grant ’25</span>, <span style="font-size:16px;color:gray;">efficient causal inference</span>
 - [Yeahoon Kwon](https://deepstroy.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
-- [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:16px;color:gray;">causal decision making</span>
+- [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:14px;color:#8a6500;">✦ NRF Graduate Research Grant ’26</span>, <span style="font-size:16px;color:gray;">causal decision making</span>
 - [Yeo Dong Youn](https://yeodongyoun1995.github.io), <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
 - Byeonghui Lim, <span style="font-size:16px;color:gray;">causal decision making</span>
 - Jonghwan Kim, <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
@@ -134,7 +134,7 @@ Program Committee/Reviewed for
 - Hyunwoo Park (master 2025, recently graduated)
 - Oh Yoon Kwon (master 2025, recently graduated)
 - Jihae Chung (master 2025, <em>KAI</em>)
-- Hyeonji Kim (master 2025, <em>LG CNS</em>)
+- Hyeonji Kim <span style="font-size:14px;color:#8a6500;">✦ NRF Graduate Research Grant ’24</span> (master 2025, <em>LG CNS</em>)
 - Taehan Kim (master 2025, <em>National Police Agency</em>)
 - Heejin Choi (master 2025, <em>SK Hynix</em>)
 - Soungmin Park (master 2025, <em>LG CNS</em>)
