@@ -41,7 +41,7 @@ permalink: /members/
 - Hyunwoo Kim
 - GyeongChan Han
 - [Juyong Sung](https://www.linkedin.com/in/juyong-sung-9a60b0226/) <span style="font-size:16px;color:gray;">(on leave — internship)</span>
-- Woongi Yoon
+- Woonggi Yoon
 - <span style="color:gray;">Kangsan Kim</span> <span style="font-size:16px;color:gray;">(on leave)</span>
 
 ### Undergraduate Researchers
