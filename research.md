@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-<div markdown="1" style="max-width:48rem;">
+<div class="research-overview" markdown="1">
 
 ## Research
 
