@@ -6,30 +6,31 @@ permalink: /join/
 
 ## Joining <img src="/assets/logo_2023.png" height="24" style="vertical-align: baseline"/> Causality Lab
 
-We are always looking for motivated students who are passionate about causal reasoning and its applications. Below you will find information on how to join our lab as an **intern** or as a **graduate student**.
+You do not need prior experience in causal inference to join us. If you enjoy probability, statistics, graphs, optimization, or machine learning—and want to understand not just what data predicts, but why it does so and what an intervention would change—you may find our research interesting.
+
+We welcome students from mathematics, statistics, computer science, economics, and related fields. What matters most is curiosity, solid fundamentals, and a willingness to learn.
 
 <p style="margin-bottom:8mm;"></p>
 
 
-### Research Internship (1 semester or longer)
+### Research Internship (one semester or longer)
 
-<p style="color: gray;">Internship experience is not a prerequisite for admission to our graduate program, but successful interns may be given priority consideration.</p>
+Our internships are project-based. Each intern joins an ongoing research project and works closely with a graduate student, with opportunities to:
 
-We recruit undergraduate research interns who can commit for **at least one semester**. Interns work closely with graduate students on ongoing research projects, gaining hands-on experience in causal inference, causal discovery, and causal decision making.
-
-**What you will do as an intern:**
-- Participate in a research project led by a graduate student (matched based on your interests).
+- Learn the foundations of causal inference, causal discovery, or causal decision-making.
 - Attend our weekly lab meetings and reading groups.
-- Present your progress and receive feedback regularly.
-- Strong contributions can lead to **co-authorship** on publications.
+- Develop ideas, run experiments, and present progress regularly.
+- Contribute to a publication when the work leads to a substantial result.
+
+Research takes time to learn and contribute to meaningfully, so we ask interns to commit for **at least one full semester**. Internship experience is not required for admission to our graduate program, although successful interns may receive priority consideration.
+
+**Who should apply:**
+
+We look for self-motivated students with solid foundations in probability and statistics, proficiency in Python, and clear communication skills. Prior research experience is helpful but not required.
 
 **How to apply:**
-<!-- Please fill out [📄 this Google Form 📄](YOUR_GOOGLE_FORM_LINK_HERE) and email Prof. Sanghack Lee at [sanghack.lee@gmail.com](mailto:sanghack.lee@gmail.com) to notify your submission. -->
-Please email Prof. Sanghack Lee with your **CV** and **transcript**. We look for self-motivation, solid foundations in probability and statistics, programming proficiency in Python, and clear communication skills. Research experience is helpful but not required for interns.
 
-**Timeline:**
-- Applications are accepted on a **rolling basis**, but we recommend applying well before the semester you wish to join.
-- Typical start times: **mid June** or **mid December**.
+Please email Prof. Sanghack Lee with your **CV** and **transcript**. We review applications throughout the year, primarily for internships beginning in **mid-June** or **mid-December**. Please apply well before your intended start date.
 
 
 <p style="margin-bottom:12mm;"></p>
@@ -37,17 +38,13 @@ Please email Prof. Sanghack Lee with your **CV** and **transcript**. We look for
 
 ### Graduate Program (M.S. / M.S.–Ph.D. / Ph.D.)
 
-Our lab is part of the [Graduate School of Data Science (GSDS)](https://gsds.snu.ac.kr) at Seoul National University. To join as a graduate student, you must go through the official GSDS admissions process and be matched with our lab.
+We are recruiting graduate students through Seoul National University's **Graduate School of AI (GSAI), Department of Artificial Intelligence**, starting with the **fall 2026 application round for spring 2027 entry**.
 
-**How it works:**
+Our lab is currently based in the Graduate School of Data Science (GSDS) and will move to GSAI in spring 2027.
 
-- **M.S. & M.S.–Ph.D.**: Pass the GSDS 2-stage admission (application screening + interview), then advisor matching with Prof. Lee.
-- **Ph.D.**: Contact Prof. Lee and submit an advisor application, then pass GSDS admission.
+If you are interested, please email Prof. Lee with your **CV**, **transcript**, and a **brief statement of research interests**. We expect strong mathematical foundations and programming skills; prior research experience is required for Ph.D. applicants.
 
-<!-- If you are interested in joining our lab as a graduate student, please submit [📄 this Google Form 📄](YOUR_GOOGLE_FORM_LINK_HERE) and send an email to [sanghack.lee@gmail.com](mailto:sanghack.lee@gmail.com). -->
-If you are interested, please email Prof. Lee with your **CV**, **transcript**, and a **brief statement of research interests**. We expect strong mathematical foundations and programming skills. Research experience is strongly required for Ph.D. applicants.
-
-For official admissions information, please visit the [GSDS admissions page](https://gsds.snu.ac.kr/academics/acadmic-admission/).
+For degree-specific requirements, application documents, and deadlines, please see the [GSAI admissions guide](https://snuai.snu.ac.kr/en/%EC%9E%85%ED%95%99/).
 
 
 <p style="margin-bottom:12mm;"></p>
@@ -55,34 +52,31 @@ For official admissions information, please visit the [GSDS admissions page](htt
 
 ### Frequently Asked Questions
 
-
-
+<details style="margin-bottom:1.2em;">
+<summary>Do I need prior knowledge of causal inference to apply?</summary>
+<div style="margin-top:4mm; margin-left:1.5em;">
+No. We encourage applicants who are new to causality but have strong foundations in mathematics, statistics, or machine learning. Before applying, we recommend reading about our recent work and identifying a question or topic that interests you.
+</div>
+</details>
 
 <details style="margin-bottom:1.2em;">
-<summary>Can I intern here if I plan to go abroad for graduate school (not join your lab)?</summary>
+<summary>Are there specific attendance or work-hour requirements?</summary>
 <div style="margin-top:4mm; margin-left:1.5em;">
-We prioritize students who intend to pursue their graduate studies in our lab. To focus our limited lab resources on future members, we generally do <strong>not</strong> accept interns who plan to attend another institution. If your plans change during the internship, please note that a recommendation letter for external applications may not be provided.
+We operate under a principle of <strong>responsible autonomy</strong>. There are no strict clock-in or clock-out rules. We trust members to manage their time while participating reliably in their project and the lab's academic activities.
 </div>
 </details>
 
 <details style="margin-bottom:1.2em;">
 <summary>Is financial compensation provided for interns?</summary>
 <div style="margin-top:4mm; margin-left:1.5em;">
-We typically do not provide financial compensation to interns. In special cases, partial support may be arranged depending on the project and funding availability.
+Internships are typically unpaid. In some cases, partial support may be available depending on the project and funding.
 </div>
 </details>
 
 <details style="margin-bottom:1.2em;">
-<summary>Do I need prior knowledge of causal inference to apply?</summary>
+<summary>Can I intern here if I plan to attend graduate school elsewhere?</summary>
 <div style="margin-top:4mm; margin-left:1.5em;">
-No prior expertise in causal inference is required. However, we appreciate candidates who have <strong>read at least one of our papers</strong> or have basic familiarity with statistics and machine learning. A willingness to learn is the most important quality we look for.
-</div>
-</details>
-
-<details style="margin-bottom:1.2em;">
-<summary>Are there any specific attendance or work-hour requirements?</summary>
-<div style="margin-top:4mm; margin-left:1.5em;">
-We operate under a principle of <strong>"responsible autonomy."</strong> There are no strict clock-in/clock-out rules. What matters is that you are genuinely committed to your research and academic growth. We trust our members to manage their own time effectively.
+Our internship is primarily intended for students considering graduate study in our lab. Because our mentoring capacity is limited, we generally cannot offer positions to students who already plan to attend another institution. If your plans later change, please understand that we may not be able to provide a recommendation for applications elsewhere.
 </div>
 </details>
 
@@ -90,10 +84,9 @@ We operate under a principle of <strong>"responsible autonomy."</strong> There a
 <summary>When should I reach out?</summary>
 <div style="margin-top:4mm; margin-left:1.5em;">
 <ul>
-<li><strong>For internships:</strong> We recommend applying at least <strong>1–2 months before</strong> the semester you want to start (e.g., by April for a summer start).</li>
-<li><strong>For graduate admissions:</strong> Please contact Prof. Lee before the official GSDS application deadline. We recommend reaching out at least <strong>one semester in advance</strong>.</li>
+<li><strong>For internships:</strong> Apply at least <strong>1–2 months before</strong> your preferred start date (for example, by April for a summer start).</li>
+<li><strong>For graduate admission:</strong> Contact Prof. Lee before the official GSAI application deadline, preferably at least <strong>one semester in advance</strong>.</li>
 </ul>
-Please note that we may not be able to respond to inquiries outside of the active recruitment periods.
 </div>
 </details>
 
@@ -101,7 +94,6 @@ Please note that we may not be able to respond to inquiries outside of the activ
 <p style="margin-bottom:8mm;"></p>
 
 
-
 <p style="font-size:14px; color:gray;">
-Last updated: March 2026
+Last updated: September 2026
 </p>
