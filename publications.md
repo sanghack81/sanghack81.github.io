@@ -146,7 +146,7 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 <div style="margin-top: 1.25em;"></div>
 #### 2026
 
-<span class="pub-tag tag-cd">CD</span> Don't Test What You Can Deduce: Causal Discovery with Logical Inference [\[paper\]](/assets/2026-UAI-dfpc-paper.pdf), [\[poster\]](/assets/2026-UAI-dfpc-poster.pdf)<br>
+<span class="pub-tag tag-cd">CD</span> Don't Test What You Can Deduce: Causal Discovery with Logical Inference [\[paper (revised)\]](/assets/2026-UAI-dfpc-paper-2026-09-14.pdf), [\[code\]](https://github.com/snu-causality-lab/DF-PC), [\[poster\]](/assets/2026-UAI-dfpc-poster.pdf)<br>
 Jonghwan Kim, **Sanghack Lee**\*<br>
 UAI 2026, <font color="#e41a1c">Oral</font><br>
 

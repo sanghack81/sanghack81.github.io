@@ -29,7 +29,7 @@ We study when causal effects and counterfactuals can be uniquely determined from
 We develop statistical tests and algorithms for learning causal structure, including settings with feedback loops and relationships among multiple entities. The challenges are both statistical and computational: determining which structures the data can distinguish, and searching large spaces of possible graphs. Our approaches include constraint-based learning, score-based search, and logical reasoning. For example, our deduction-based methods use relationships already established by simpler tests to avoid some harder tests.
 
 - [Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models](https://proceedings.mlr.press/v238/yi24a.html) · AISTATS 2024
-- [Don't Test What You Can Deduce: Causal Discovery with Logical Inference](/assets/2026-UAI-dfpc-paper.pdf) · UAI 2026, Oral
+- [Don't Test What You Can Deduce: Causal Discovery with Logical Inference](/assets/2026-UAI-dfpc-paper-2026-09-14.pdf) (revised version) · UAI 2026, Oral · [code](https://github.com/snu-causality-lab/DF-PC)
 - [Breaking Bad: Component-Wise Parent Deletion for Score-Based Causal Discovery](/assets/2026-UAI-breaking-bad-paper.pdf) · UAI 2026
 
 ### Causal decision-making
