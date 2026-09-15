@@ -146,6 +146,11 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 <div style="margin-top: 1.25em;"></div>
 #### 2026
 
+<span class="pub-tag tag-id">ID</span> Event-Time Regression Discontinuity for Biomedical Data: LATT Estimation and Covariate Distribution Tests<br>
+Yesong Choe\*, Yeahoon Kwon\*, Minjung Kho, Seunggeun Lee, **Sanghack Lee**\*<br>
+American Journal of Epidemiology 2026 <span style="font-size:16px;color:gray;">(accepted)</span><br>
+
+
 <span class="pub-tag tag-cd">CD</span> Don't Test What You Can Deduce: Causal Discovery with Logical Inference [\[paper (revised)\]](/assets/2026-UAI-dfpc-paper-2026-09-14.pdf), [\[code\]](https://github.com/snu-causality-lab/DF-PC), [\[poster\]](/assets/2026-UAI-dfpc-poster.pdf)<br>
 Jonghwan Kim, **Sanghack Lee**\*<br>
 UAI 2026, <font color="#e41a1c">Oral</font><br>
