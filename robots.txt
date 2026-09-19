@@ -1,0 +1,3 @@
+# Keep unofficial corrected copies out of Google's crawl (including Scholar).
+User-agent: Googlebot
+Disallow: /ai-corrected/
