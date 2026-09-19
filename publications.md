@@ -286,7 +286,7 @@ UAI 2024, <font color="#e41a1c">Oral</font><br>
 Jonghwan Kim, Inwoo Hwang, **Sanghack Lee**\*<br>
 UAI 2024<br>
 
-<span class="pub-tag tag-cd">CD</span> Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models \[[paper](https://proceedings.mlr.press/v238/yi24a/yi24a.pdf), [poster](/assets/2024-AISTATS-frp-poster.pdf)\]<br>
+<span class="pub-tag tag-cd">CD</span> Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models \[[paper](https://proceedings.mlr.press/v238/yi24a/yi24a.pdf), [poster](/assets/2024-AISTATS-frp-poster.pdf), <a href="/ai-corrected/FRP_AI_corrected_2026-09-19.pdf" title="Unofficial AI-corrected version · 2026-09-19 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-09-19; author review pending" style="font-size: 0.85em">✦</a>\]<br>
 Soheun Yi, **Sanghack Lee**\*<br>
 AISTATS 2024<br>
 
