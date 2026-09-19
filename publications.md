@@ -157,49 +157,49 @@ Yesong Choe\*, Yeahoon Kwon\*, Minjung Kho, Seunggeun Lee, **Sanghack Lee**\*<br
 American Journal of Epidemiology 2026 <span style="font-size:16px;color:gray;">(accepted)</span><br>
 
 
-<span class="pub-tag tag-cd">CD</span> Don't Test What You Can Deduce: Causal Discovery with Logical Inference [\[paper (revised)\]](/assets/2026-UAI-dfpc-paper-2026-09-14.pdf), [\[code\]](https://github.com/snu-causality-lab/DF-PC), [\[poster\]](/assets/2026-UAI-dfpc-poster.pdf)<br>
+<span class="pub-tag tag-cd">CD</span> Don't Test What You Can Deduce: Causal Discovery with Logical Inference \[[paper (revised)](/assets/2026-UAI-dfpc-paper-2026-09-14.pdf), [code](https://github.com/snu-causality-lab/DF-PC), [poster](/assets/2026-UAI-dfpc-poster.pdf)\]<br>
 Jonghwan Kim, **Sanghack Lee**\*<br>
 UAI 2026, <font color="#e41a1c">Oral</font><br>
 
 
-<span class="pub-tag tag-id">ID</span> Canonical Domain Reduction for Partial Counterfactual Identification [\[paper\]](/assets/2026-UAI-canonical-domain-reduction-paper.pdf), [\[poster\]](/assets/2026-UAI-canonical-domain-reduction-poster.pdf)<br>
+<span class="pub-tag tag-id">ID</span> Canonical Domain Reduction for Partial Counterfactual Identification \[[paper](/assets/2026-UAI-canonical-domain-reduction-paper.pdf), [poster](/assets/2026-UAI-canonical-domain-reduction-poster.pdf)\]<br>
 Yesong Choe, Yeahoon Kwon\*, Min Woo Park\*, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
 
 <span class="pub-tag tag-id">ID</span>
-<span class="pub-tag tag-dm">DM</span> Beyond Bounds: Quantifying the Probability of Counterfactual Fairness [\[paper\]](/assets/2026-UAI-counterfactual-fairness-paper.pdf), [\[poster\]](/assets/2026-UAI-counterfactual-fairness-poster.pdf)<br>
+<span class="pub-tag tag-dm">DM</span> Beyond Bounds: Quantifying the Probability of Counterfactual Fairness \[[paper](/assets/2026-UAI-counterfactual-fairness-paper.pdf), [poster](/assets/2026-UAI-counterfactual-fairness-poster.pdf)\]<br>
 Taehan Kim, Minyoung Cho, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
 
 <span class="pub-tag tag-tr">TR</span>
-<span class="pub-tag tag-dm">DM</span> On Transportability for Structural Causal Bandits [\[paper\]](/assets/2026-UAI-scb-transportability-paper.pdf), [\[poster\]](/assets/2026-UAI-scb-transportability-poster.pdf)<br>
+<span class="pub-tag tag-dm">DM</span> On Transportability for Structural Causal Bandits \[[paper](/assets/2026-UAI-scb-transportability-paper.pdf), [poster](/assets/2026-UAI-scb-transportability-poster.pdf)\]<br>
 Min Woo Park, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
 
-<span class="pub-tag tag-cml">CML</span> Estimating Interventional Outcomes over Time with Causal Normalizing Flow [\[paper\]](/assets/2026-UAI-tscnf-paper.pdf), [\[poster\]](/assets/2026-UAI-tscnf-poster.pdf)<br>
+<span class="pub-tag tag-cml">CML</span> Estimating Interventional Outcomes over Time with Causal Normalizing Flow \[[paper](/assets/2026-UAI-tscnf-paper.pdf), [poster](/assets/2026-UAI-tscnf-poster.pdf)\]<br>
 Yoonseok Yeom\*, Jonghwan Kim\*, Taehui Yun, Juhyun Lyu, Jung-Hee Kim, Sangmin Lee, Jinseok Yang, Hyemin Jung, Woohyung Lim\*, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
 
-<span class="pub-tag tag-cml">CML</span> On Causal Representation Learning with Internal Auxiliaries [\[paper\]](/assets/2026-UAI-crl-internal-auxiliaries-paper.pdf), [\[poster\]](/assets/2026-UAI-crl-internal-auxiliaries-poster.pdf)<br>
+<span class="pub-tag tag-cml">CML</span> On Causal Representation Learning with Internal Auxiliaries \[[paper](/assets/2026-UAI-crl-internal-auxiliaries-paper.pdf), [poster](/assets/2026-UAI-crl-internal-auxiliaries-poster.pdf)\]<br>
 Kwonho Kim, Heejeong Nam, Inwoo Hwang, **Sanghack Lee**\*<br>
 UAI 2026 <span style="font-size:16px;color:gray;">(previously, Scaling Up Intervention Models workshop at ICML 2025, Causal Abstractions and Representations workshop at UAI 2025)</span><br>
 
 
-<span class="pub-tag tag-cd">CD</span> Breaking Bad: Component-Wise Parent Deletion for Score-Based Causal Discovery [\[paper\]](/assets/2026-UAI-breaking-bad-paper.pdf), [\[poster\]](/assets/2026-UAI-breaking-bad-poster.pdf)<br>
+<span class="pub-tag tag-cd">CD</span> Breaking Bad: Component-Wise Parent Deletion for Score-Based Causal Discovery \[[paper](/assets/2026-UAI-breaking-bad-paper.pdf), [poster](/assets/2026-UAI-breaking-bad-poster.pdf)\]<br>
 Min Woo Park\*, Taehui Yun\*, YoungIn Jang, Yoonseok Yeom, Jonghwan Kim, Jiyeon Kang, Songseong Kim, Hyemin Jung, Sangmin Lee, Jongseong Jang\*, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
 
-<span class="pub-tag tag-dm">DM</span> Counterfactual Structural Causal Bandits [\[OpenReview\]](https://openreview.net/forum?id=gjvTNxVd2f), [\[poster\]](/assets/2026-ICLR-counterfactual-scb-poster.pdf)<br>
+<span class="pub-tag tag-dm">DM</span> Counterfactual Structural Causal Bandits \[[OpenReview](https://openreview.net/forum?id=gjvTNxVd2f), [poster](/assets/2026-ICLR-counterfactual-scb-poster.pdf)\]<br>
 Min Woo Park, **Sanghack Lee**\*<br>
 ICLR 2026<br>
 
 
-<span class="pub-tag tag-cml">CML</span> Mitigating Length Bias in RLHF through a Causal Lens [\[paper\]](https://ojs.aaai.org/index.php/AAAI/article/view/38806), [\[poster\]](/assets/2026-AAAI-length-bias-poster.pdf)<br>
+<span class="pub-tag tag-cml">CML</span> Mitigating Length Bias in RLHF through a Causal Lens \[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38806), [poster](/assets/2026-AAAI-length-bias-poster.pdf)\]<br>
 Hyeonji Kim, Sujeong Oh, **Sanghack Lee**\*<br>
 AAAI 2026<br>
 
@@ -221,13 +221,13 @@ ICML 2026 Workshop on Epistemic Intelligence in Machine Learning (EIML)<br>
 #### 2025
 
 <span class="pub-tag tag-dm">DM</span>
-Structural Causal Bandits under Markov Equivalence [\[paper\]](https://causalai.net/r122.pdf), [\[poster\]](/assets/2025-NeurIPS-scb-mec-poster.pdf)<br>
+Structural Causal Bandits under Markov Equivalence \[[paper](https://causalai.net/r122.pdf), [poster](/assets/2025-NeurIPS-scb-mec-poster.pdf)\]<br>
  Min Woo Park, Andy Arditi, Elias Bareinboim\*, **Sanghack Lee**\*<br>
 NeurIPS 2025<br>
 
 
 <span class="pub-tag tag-dm">DM</span>
-Non-Stationary Structural Causal Bandits [\[paper\]](https://openreview.net/pdf?id=F4LhOqhxkk), [\[poster\]](/assets/2025-NeurIPS-nonstationary-scb-poster.pdf)<br>
+Non-Stationary Structural Causal Bandits \[[paper](https://openreview.net/pdf?id=F4LhOqhxkk), [poster](/assets/2025-NeurIPS-nonstationary-scb-poster.pdf)\]<br>
 Yeahoon Kwon,  Yesong Choe, Soungmin Park, Neil Dhir\*, **Sanghack Lee**\*<br>
 NeurIPS 2025<br>
 
@@ -235,7 +235,7 @@ NeurIPS 2025<br>
 
 
 
-<span class="pub-tag tag-cml">CML</span> On Predicting Post-Click Conversion Rate via Counterfactual Inference [\[paper\]](https://www.computer.org/csdl/proceedings-article/icdm/2025/959900a011/2eowjjXUamQ) [\[arXiv\]](https://arxiv.org/abs/2510.04816) <br>
+<span class="pub-tag tag-cml">CML</span> On Predicting Post-Click Conversion Rate via Counterfactual Inference \[[paper](https://www.computer.org/csdl/proceedings-article/icdm/2025/959900a011/2eowjjXUamQ), [arXiv](https://arxiv.org/abs/2510.04816)\] <br>
 Junhyung Ahn, **Sanghack Lee**\*<br>
 ICDM 2025 (<font color="#e41a1c">Best Paper Award Finalist</font>)<br>
 
@@ -261,17 +261,17 @@ Transactions on Machine Learning 2024<br>
 
 
 
-<span class="pub-tag tag-id">ID</span> Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference [\[paper\]](https://openreview.net/forum?id=6gIcnPvw2x&referrer=%5Bthe%20profile%20of%20Yonghan%20Jung%5D(%2Fprofile%3Fid%3D~Yonghan_Jung1)), [\[poster\]](/assets/2024-NeurIPS-sequential-adjustment-poster.pdf)<br> 
+<span class="pub-tag tag-id">ID</span> Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference \[[paper](https://openreview.net/forum?id=6gIcnPvw2x&referrer=%5Bthe%20profile%20of%20Yonghan%20Jung%5D(%2Fprofile%3Fid%3D~Yonghan_Jung1)), [poster](/assets/2024-NeurIPS-sequential-adjustment-poster.pdf)\]<br> 
 Yonghan Jung, Min Woo Park, **Sanghack Lee**\*<br> 
 NeurIPS 2024<br> 
 
 <span class="pub-tag tag-cd">CD</span>
 <span class="pub-tag tag-dm">DM</span>
-<span class="pub-tag tag-cml">CML</span> Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning [\[paper\]](https://openreview.net/pdf?id=mrd4e8ZJjm), [\[poster\]](assets/2024-ICML-CRL-poster.pdf) <br>
+<span class="pub-tag tag-cml">CML</span> Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning \[[paper](https://openreview.net/pdf?id=mrd4e8ZJjm), [poster](assets/2024-ICML-CRL-poster.pdf)\] <br>
 Inwoo Hwang, Yunhyeok Kwak, Suhyung Choi, Byoung-Tak Zhang\*, **Sanghack Lee**\*<br>
 ICML 2024 <span style="font-size:16px;color:gray;">(previously, GenPlan workshop at NeurIPS 2023, SCIS workshop at ICML 2023)</span><br>
 
-<span class="pub-tag tag-id">ID</span> On Positivity Condition for Causal Inference [\[paper\]](https://openreview.net/pdf?id=6D0nyemiWk), [\[poster\]](assets/2024-ICML-positivity-poster.pdf)<br>
+<span class="pub-tag tag-id">ID</span> On Positivity Condition for Causal Inference \[[paper](https://openreview.net/pdf?id=6D0nyemiWk), [poster](assets/2024-ICML-positivity-poster.pdf)\]<br>
 Inwoo Hwang\*, Yesong Choe\*, Yeahoon Kwon,  **Sanghack Lee**\*<br>
 ICML 2024 <span style="font-size:16px;color:gray;">(+ Causality workshop at UAI 2024)</span><br>
 
@@ -282,11 +282,11 @@ Efficient Monte Carlo Tree Search via On-the-Fly State-Conditioned Action Abstra
 Yunhyeok Kwak\*, Inwoo Hwang\*, Dooyoung Kim, **Sanghack Lee**\*, Byoung-Tak Zhang\*<br>
 UAI 2024, <font color="#e41a1c">Oral</font><br>
 
-<span class="pub-tag tag-cd">CD</span> Causal Discovery with Deductive Reasoning: One Less Problem [\[paper\]](https://openreview.net/pdf?id=HmhAFOD1Bz), [\[poster\]](assets/2024-UAI-deduce-dep-poster.pdf)<br>
+<span class="pub-tag tag-cd">CD</span> Causal Discovery with Deductive Reasoning: One Less Problem \[[paper](https://openreview.net/pdf?id=HmhAFOD1Bz), [poster](assets/2024-UAI-deduce-dep-poster.pdf)\]<br>
 Jonghwan Kim, Inwoo Hwang, **Sanghack Lee**\*<br>
 UAI 2024<br>
 
-<span class="pub-tag tag-cd">CD</span> Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models [\[paper\]](https://proceedings.mlr.press/v238/yi24a/yi24a.pdf), [\[poster\]](/assets/2024-AISTATS-frp-poster.pdf)<br>
+<span class="pub-tag tag-cd">CD</span> Filter, Rank, and Prune: Learning Linear Cyclic Gaussian Graphical Models \[[paper](https://proceedings.mlr.press/v238/yi24a/yi24a.pdf), [poster](/assets/2024-AISTATS-frp-poster.pdf)\]<br>
 Soheun Yi, **Sanghack Lee**\*<br>
 AISTATS 2024<br>
 
@@ -352,7 +352,7 @@ NeurIPS 2021, <font color="#e41a1c">Oral</font><br>
 <div style="margin-top: 1.25em;"></div>
 ### before 2020
 
-<span class="pub-tag tag-dm">DM</span> Characterizing Optimal Mixed Policies: Where to Intervene and What to Observe [\[paper\]](/assets/r63-reprint.pdf), [\[slides\]](/assets/2020-neurips-presentation.pdf), [\[poster\]](/assets/2020-neurips-sanghack-poster.pdf)<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2020<br> 
+<span class="pub-tag tag-dm">DM</span> Characterizing Optimal Mixed Policies: Where to Intervene and What to Observe \[[paper](/assets/r63-reprint.pdf), [slides](/assets/2020-neurips-presentation.pdf), [poster](/assets/2020-neurips-sanghack-poster.pdf)\]<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2020<br> 
 
 
 <span class="pub-tag tag-id">ID</span> Causal Effect Identifiability under Partial-Observability [\[paper\]](https://causalai.net/r58.pdf) <br> **Sanghack Lee**, and Elias Bareinboim<br> ICML 2020<br> 
@@ -360,10 +360,10 @@ NeurIPS 2021, <font color="#e41a1c">Oral</font><br>
 
 <span class="pub-tag tag-tr">TR</span> General Transportability --- Synthesizing Experiments from Heterogeneous Domains [\[paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/6582/6438)<br> **Sanghack Lee**, Juan D. Correa, and Elias Bareinboim<br> AAAI 2020<br> 
 
-<span class="pub-tag tag-id">ID</span> Identifiability from a Combination of Observations and Experiments [\[paper\]](https://aaai.org/ojs/index.php/AAAI/article/view/7119/6973), [\[slides\]](/assets/AAAI2020-GID-key.pdf)<br> **Sanghack Lee**, Juan D. Correa, and Elias Bareinboim<br> AAAI 2020 <br> 
+<span class="pub-tag tag-id">ID</span> Identifiability from a Combination of Observations and Experiments \[[paper](https://aaai.org/ojs/index.php/AAAI/article/view/7119/6973), [slides](/assets/AAAI2020-GID-key.pdf)\]<br> **Sanghack Lee**, Juan D. Correa, and Elias Bareinboim<br> AAAI 2020 <br> 
 
 
-<span class="pub-tag tag-id">ID</span> General Identifiability with Arbitrary Surrogate Experiments [\[paper\]](https://causalai.net/r46.pdf) [\[errata\]](https://causalai.net/r46e.pdf) <br> **Sanghack Lee**, Juan D. Correa, and Elias Bareinboim<br> UAI 2019, <font color="#e41a1c">Best Paper Award</font> <br> 
+<span class="pub-tag tag-id">ID</span> General Identifiability with Arbitrary Surrogate Experiments \[[paper](https://causalai.net/r46.pdf), [errata](https://causalai.net/r46e.pdf)\] <br> **Sanghack Lee**, Juan D. Correa, and Elias Bareinboim<br> UAI 2019, <font color="#e41a1c">Best Paper Award</font> <br> 
 
 <span class="pub-tag tag-cd">CD</span> <span class="pub-tag tag-rel">REL</span> Towards Robust Relational Causal Discovery [\[paper\]](http://auai.org/uai2019/proceedings/papers/127.pdf) <br> **Sanghack Lee** and Vasant Honavar <br> UAI 2019<br> 
 
@@ -371,21 +371,21 @@ NeurIPS 2021, <font color="#e41a1c">Oral</font><br>
 
 <span class="pub-tag tag-dm">DM</span> Fairness in Algorithmic Decision Making: An Excursion Through the Lens of Causality [\[paper\]](https://arxiv.org/pdf/1903.11719.pdf)<br> Aria Khademi, **Sanghack Lee**, David Foley, and Vasant Honavar<br> WWW 2019<br> 
 
-<span class="pub-tag tag-dm">DM</span> On Structural Causal Bandit with Non-manipulable Variables [\[paper\]](https://causalai.net/r40.pdf), [\[poster\]](/assets/AAAI2019_poster.pdf), [\[slides\]](/assets/AAAI2019_presentation.pdf)<br> **Sanghack Lee** and Elias Bareinboim <br> AAAI 2019, <font color="#e41a1c">Oral</font><br> 
+<span class="pub-tag tag-dm">DM</span> On Structural Causal Bandit with Non-manipulable Variables \[[paper](https://causalai.net/r40.pdf), [poster](/assets/AAAI2019_poster.pdf), [slides](/assets/AAAI2019_presentation.pdf)\]<br> **Sanghack Lee** and Elias Bareinboim <br> AAAI 2019, <font color="#e41a1c">Oral</font><br> 
 
 
 
-<span class="pub-tag tag-dm">DM</span>  Structural Causal Bandits: Where to Intervene? [\[paper\]](https://causalai.net/r36.pdf), [\[code\]](https://github.com/sanghack81/SCMMAB-NIPS2018), [\[poster\]](/assets/nips2018-poster.pdf)<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2018<br> 
+<span class="pub-tag tag-dm">DM</span>  Structural Causal Bandits: Where to Intervene? \[[paper](https://causalai.net/r36.pdf), [code](https://github.com/sanghack81/SCMMAB-NIPS2018), [poster](/assets/nips2018-poster.pdf)\]<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2018<br> 
 
 
-<span class="pub-tag tag-cd">CD</span> <span class="pub-tag tag-cit">CIT</span> <span class="pub-tag tag-rel">REL</span> A Kernel Conditional Independence Test for Relational Data [\[code\]](https://github.com/sanghack81/KRCIT), [\[paper\]](/assets/krcit.pdf)<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2017<br> 
+<span class="pub-tag tag-cd">CD</span> <span class="pub-tag tag-cit">CIT</span> <span class="pub-tag tag-rel">REL</span> A Kernel Conditional Independence Test for Relational Data \[[code](https://github.com/sanghack81/KRCIT), [paper](/assets/krcit.pdf)\]<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2017<br> 
 
 
-<span class="pub-tag tag-cit">CIT</span> Self-Discrepancy Conditional Independence Test [\[code\]](https://github.com/sanghack81/SDCIT), [\[paper\]](/assets/SDCIT-edited.pdf)<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2017<br> 
+<span class="pub-tag tag-cit">CIT</span> Self-Discrepancy Conditional Independence Test \[[code](https://github.com/sanghack81/SDCIT), [paper](/assets/SDCIT-edited.pdf)\]<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2017<br> 
 
-<span class="pub-tag tag-cd">CD</span> <span class="pub-tag tag-rel">REL</span> A Characterization of Markov Equivalence Classes for Relational Causal Model with Path Semantics [\[code\]](https://github.com/sanghack81/pyRCDs), [\[paper\]](/assets/UAI-2016-RpCD.pdf), [\[appendix\]](/assets/UAI-2016-RpCD-supp_fix_june_4.pdf)<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2016, <font color="#e41a1c">Oral</font><br> 
+<span class="pub-tag tag-cd">CD</span> <span class="pub-tag tag-rel">REL</span> A Characterization of Markov Equivalence Classes for Relational Causal Model with Path Semantics \[[code](https://github.com/sanghack81/pyRCDs), [paper](/assets/UAI-2016-RpCD.pdf), [appendix](/assets/UAI-2016-RpCD-supp_fix_june_4.pdf)\]<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2016, <font color="#e41a1c">Oral</font><br> 
 
-<span class="pub-tag tag-cd">CD</span> <span class="pub-tag tag-rel">REL</span> On Learning Causal Models from Relational Data [\[code\]](https://github.com/sanghack81/rcd-light) [\[paper\]](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11972/12089)<br> **Sanghack Lee** and Vasant Honavar<br> AAAI 2016, <font color="#e41a1c">Oral</font> <br> 
+<span class="pub-tag tag-cd">CD</span> <span class="pub-tag tag-rel">REL</span> On Learning Causal Models from Relational Data \[[code](https://github.com/sanghack81/rcd-light), [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11972/12089)\]<br> **Sanghack Lee** and Vasant Honavar<br> AAAI 2016, <font color="#e41a1c">Oral</font> <br> 
 
 
 <span class="pub-tag tag-social">social</span> "Teens are from Mars, Adults are from Venus": Analyzing and Predicting Age Groups with Behavioral Characteristics in Instagram [\[paper\]](http://dl.acm.org/citation.cfm?id=2908160)<br> Kyungsik Han, **Sanghack Lee**, Jin Yea Jang, Yong Jung, and Dongwon Lee<br> WebSci 2016<br> 
