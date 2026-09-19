@@ -371,11 +371,11 @@ NeurIPS 2021, <font color="#e41a1c">Oral</font><br>
 
 <span class="pub-tag tag-dm">DM</span> Fairness in Algorithmic Decision Making: An Excursion Through the Lens of Causality [\[paper\]](https://arxiv.org/pdf/1903.11719.pdf)<br> Aria Khademi, **Sanghack Lee**, David Foley, and Vasant Honavar<br> WWW 2019<br> 
 
-<span class="pub-tag tag-dm">DM</span> On Structural Causal Bandit with Non-manipulable Variables \[[paper](https://causalai.net/r40.pdf), [poster](/assets/AAAI2019_poster.pdf), [slides](/assets/AAAI2019_presentation.pdf)\]<br> **Sanghack Lee** and Elias Bareinboim <br> AAAI 2019, <font color="#e41a1c">Oral</font><br> 
+<span class="pub-tag tag-dm">DM</span> On Structural Causal Bandit with Non-manipulable Variables \[[paper](https://causalai.net/r40.pdf), [poster](/assets/AAAI2019_poster.pdf), [slides](/assets/AAAI2019_presentation.pdf), <a href="/ai-corrected/SCB2019_AI_corrected_2026-09-19.pdf" title="Unofficial AI-corrected version · 2026-09-19 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-09-19; author review pending" style="font-size: 0.85em">✦</a>\]<br> **Sanghack Lee** and Elias Bareinboim <br> AAAI 2019, <font color="#e41a1c">Oral</font><br>
 
 
 
-<span class="pub-tag tag-dm">DM</span>  Structural Causal Bandits: Where to Intervene? \[[paper](https://causalai.net/r36.pdf), [code](https://github.com/sanghack81/SCMMAB-NIPS2018), [poster](/assets/nips2018-poster.pdf)\]<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2018<br> 
+<span class="pub-tag tag-dm">DM</span>  Structural Causal Bandits: Where to Intervene? \[[paper](https://causalai.net/r36.pdf), [code](https://github.com/sanghack81/SCMMAB-NIPS2018), [poster](/assets/nips2018-poster.pdf), <a href="/ai-corrected/SCB2018_AI_corrected_2026-09-19.pdf" title="Unofficial AI-corrected version · 2026-09-19 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-09-19; author review pending" style="font-size: 0.85em">✦</a>\]<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2018<br>
 
 
 <span class="pub-tag tag-cd">CD</span> <span class="pub-tag tag-cit">CIT</span> <span class="pub-tag tag-rel">REL</span> A Kernel Conditional Independence Test for Relational Data \[[code](https://github.com/sanghack81/KRCIT), [paper](/assets/krcit.pdf)\]<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2017<br> 
