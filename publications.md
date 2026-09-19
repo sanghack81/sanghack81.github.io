@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+<p class="publication-corrections-note">
+  <strong>Science advances through correction.</strong>
+  I use AI-assisted review to revisit my published work and share proposed corrections as they become available.
+  Links marked ✦ lead to unofficial AI-corrected versions, with changes and their review status documented.
+</p>
+
 ## Research Overview
   
 My research explores the intersection of **causal inference** and **machine learning** to build robust, explainable, and fair AI systems. Our work is frequently published in top AI/ML venues such as NeurIPS, ICML, AAAI, UAI, and AISTATS.
