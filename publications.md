@@ -282,7 +282,7 @@ Efficient Monte Carlo Tree Search via On-the-Fly State-Conditioned Action Abstra
 Yunhyeok Kwak\*, Inwoo Hwang\*, Dooyoung Kim, **Sanghack Lee**\*, Byoung-Tak Zhang\*<br>
 UAI 2024, <font color="#e41a1c">Oral</font><br>
 
-<span class="pub-tag tag-cd">CD</span> Causal Discovery with Deductive Reasoning: One Less Problem \[[paper](https://openreview.net/pdf?id=HmhAFOD1Bz), [poster](assets/2024-UAI-deduce-dep-poster.pdf)\]<br>
+<span class="pub-tag tag-cd">CD</span> Causal Discovery with Deductive Reasoning: One Less Problem \[[paper](https://openreview.net/pdf?id=HmhAFOD1Bz), [poster](assets/2024-UAI-deduce-dep-poster.pdf), <a href="/ai-corrected/deduce_dep_AI_corrected_2026-09-20.pdf" title="Unofficial AI-corrected version · 2026-09-20 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-09-20; author review pending" style="font-size: 0.85em">✦</a>\]<br>
 Jonghwan Kim, Inwoo Hwang, **Sanghack Lee**\*<br>
 UAI 2024<br>
 
