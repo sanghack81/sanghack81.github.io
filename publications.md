@@ -352,7 +352,7 @@ NeurIPS 2021, <font color="#e41a1c">Oral</font><br>
 <div style="margin-top: 1.25em;"></div>
 ### before 2020
 
-<span class="pub-tag tag-dm">DM</span> Characterizing Optimal Mixed Policies: Where to Intervene and What to Observe \[[paper](/assets/r63-reprint.pdf), [slides](/assets/2020-neurips-presentation.pdf), [poster](/assets/2020-neurips-sanghack-poster.pdf)\]<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2020<br> 
+<span class="pub-tag tag-dm">DM</span> Characterizing Optimal Mixed Policies: Where to Intervene and What to Observe \[[paper](/assets/r63-reprint.pdf), [slides](/assets/2020-neurips-presentation.pdf), [poster](/assets/2020-neurips-sanghack-poster.pdf), <a href="/ai-corrected/POMPS2020_AI_corrected_2026-09-20.pdf" title="Unofficial AI-corrected version · 2026-09-20 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-09-20; author review pending" style="font-size: 0.85em">✦</a>\]<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2020<br>
 
 
 <span class="pub-tag tag-id">ID</span> Causal Effect Identifiability under Partial-Observability [\[paper\]](https://causalai.net/r58.pdf) <br> **Sanghack Lee**, and Elias Bareinboim<br> ICML 2020<br> 
