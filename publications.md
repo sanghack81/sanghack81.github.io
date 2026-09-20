@@ -271,7 +271,7 @@ NeurIPS 2024<br>
 Inwoo Hwang, Yunhyeok Kwak, Suhyung Choi, Byoung-Tak Zhang\*, **Sanghack Lee**\*<br>
 ICML 2024 <span style="font-size:16px;color:gray;">(previously, GenPlan workshop at NeurIPS 2023, SCIS workshop at ICML 2023)</span><br>
 
-<span class="pub-tag tag-id">ID</span> On Positivity Condition for Causal Inference \[[paper](https://openreview.net/pdf?id=6D0nyemiWk), [poster](assets/2024-ICML-positivity-poster.pdf)\]<br>
+<span class="pub-tag tag-id">ID</span> On Positivity Condition for Causal Inference \[[paper](https://openreview.net/pdf?id=6D0nyemiWk), [poster](assets/2024-ICML-positivity-poster.pdf), <a href="/ai-corrected/positivity_AI_corrected_2026-09-20.pdf" title="Unofficial AI-corrected version · 2026-09-20 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-09-20; author review pending" style="font-size: 0.85em">✦</a>\]<br>
 Inwoo Hwang\*, Yesong Choe\*, Yeahoon Kwon,  **Sanghack Lee**\*<br>
 ICML 2024 <span style="font-size:16px;color:gray;">(+ Causality workshop at UAI 2024)</span><br>
 
