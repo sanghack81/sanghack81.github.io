@@ -65,7 +65,7 @@ permalink: /members/
 - [Yoonseok Yeom](https://yoonseok11.github.io/portfolio/) (master 2026, <em>LG CNS</em>)
 - Sumin Cho (master 2026, <em>SK Hynix</em>)
 - [Inwoo Hwang](https://iwhwang.github.io) (Ph.D. 2025, <em>Columbia University Post doc</em>)
-- Hyunwoo Park (master 2025)
+- Hyunwoo Park (master 2025, <em>Kia</em>)
 - Jaeho Jeong (master 2025, <em>NICE Information Service</em>)
 - Oh Yoon Kwon (master 2025, <em>LG CNS</em>)
 - Jihae Chung (master 2025, <em>KAI</em>)
