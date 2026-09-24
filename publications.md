@@ -152,9 +152,9 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 <div style="margin-top: 1.25em;"></div>
 #### 2026
 
-<span class="pub-tag tag-ml">ML</span> Decomposing Conformal Uncertainty: Calibration- and Instance-Driven Feature Attribution [\[OpenReview\]](https://openreview.net/forum?id=lZavBaxJ68)<br>
+<span class="pub-tag tag-ml">ML</span> Decomposing Conformal Uncertainty: Calibration- and Instance-Driven Feature Attribution<br>
 Sangyeon Cho, Minyoung Cho, Jungsoo Kim, Sujeong Oh, **Sanghack Lee**\*<br>
-NeurIPS 2026 <span style="font-size:16px;color:gray;">(accepted)</span><br>
+NeurIPS 2026 <span style="font-size:16px;color:gray;">(to appear)</span><br>
 
 
 <span class="pub-tag tag-id">ID</span> Event-Time Regression Discontinuity for Biomedical Data: LATT Estimation and Covariate Distribution Tests<br>
@@ -199,7 +199,7 @@ Min Woo Park\*, Taehui Yun\*, YoungIn Jang, Yoonseok Yeom, Jonghwan Kim, Jiyeon 
 UAI 2026<br>
 
 
-<span class="pub-tag tag-dm">DM</span> Counterfactual Structural Causal Bandits \[[OpenReview](https://openreview.net/forum?id=gjvTNxVd2f), [poster](/assets/2026-ICLR-counterfactual-scb-poster.pdf)\]<br>
+<span class="pub-tag tag-dm">DM</span> Counterfactual Structural Causal Bandits \[[paper](https://proceedings.iclr.cc/paper_files/paper/2026/file/da80970c6ca6967f2a4de6f2e13c4bae-Paper-Conference.pdf), [poster](/assets/2026-ICLR-counterfactual-scb-poster.pdf)\]<br>
 Min Woo Park, **Sanghack Lee**\*<br>
 ICLR 2026<br>
 
