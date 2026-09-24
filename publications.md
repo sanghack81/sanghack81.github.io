@@ -152,6 +152,11 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 <div style="margin-top: 1.25em;"></div>
 #### 2026
 
+<span class="pub-tag tag-ml">ML</span> Decomposing Conformal Uncertainty: Calibration- and Instance-Driven Feature Attribution [\[OpenReview\]](https://openreview.net/forum?id=lZavBaxJ68)<br>
+Sangyeon Cho, Minyoung Cho, Jungsoo Kim, Sujeong Oh, **Sanghack Lee**\*<br>
+NeurIPS 2026 <span style="font-size:16px;color:gray;">(accepted)</span><br>
+
+
 <span class="pub-tag tag-id">ID</span> Event-Time Regression Discontinuity for Biomedical Data: LATT Estimation and Covariate Distribution Tests<br>
 Yesong Choe\*, Yeahoon Kwon\*, Minjung Kho, Seunggeun Lee, **Sanghack Lee**\*<br>
 American Journal of Epidemiology 2026 <span style="font-size:16px;color:gray;">(accepted)</span><br>
