@@ -184,7 +184,7 @@ Min Woo Park, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
 
-<span class="pub-tag tag-cml">CML</span> Estimating Interventional Outcomes over Time with Causal Normalizing Flow \[[paper](/assets/2026-UAI-tscnf-paper.pdf), [poster](/assets/2026-UAI-tscnf-poster.pdf)\]<br>
+<span class="pub-tag tag-cml">CML</span> Estimating Interventional Outcomes over Time with Causal Normalizing Flow \[[paper](/assets/2026-UAI-tscnf-paper.pdf), [poster](/assets/2026-UAI-tscnf-poster.pdf), <a href="/ai-corrected/TSCNF_AI_corrected_2026-10-15.pdf" title="Unofficial AI-corrected version · 2026-10-15 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-10-15; author review pending" style="font-size: 0.85em">✦</a>\]<br>
 Yoonseok Yeom\*, Jonghwan Kim\*, Taehui Yun, Juhyun Lyu, Jung-Hee Kim, Sangmin Lee, Jinseok Yang, Hyemin Jung, Woohyung Lim\*, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
