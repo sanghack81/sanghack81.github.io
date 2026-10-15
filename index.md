@@ -45,6 +45,8 @@ Please email me your resume and transcript if you are interested in solving prob
 
 
 ## News
+- (Oct 2026) Our project on reliable causal effect estimation from complex data has been selected for **Anthropic’s AI for Science program**. ✳︎
+- (Sep 2026) Our paper on uncertainty decomposition in conformal prediction has been accepted at **NeurIPS 2026**. Congratulations to Sangyeon, Minyoung, Jungsoo, and Sujeong!
 - (Sep 2026) Yesong and Yeahoon's paper on event-time regression discontinuity for biomedical data is accepted at the **American Journal of Epidemiology**! Joint work with Profs. Minjung Kho and Seunggeun Lee.
 - (Jun 2026) Seven papers accepted at **UAI 2026**, covering causal inference, discovery, decision-making, and representation learning. Wonderful effort by my students and collaborators — congratulations to all!
 - (Jan 2026) Min Woo's paper on Counterfactual Bandit is accepted at **ICLR** 2026!
