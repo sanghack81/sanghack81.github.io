@@ -45,7 +45,7 @@ Please email me your resume and transcript if you are interested in solving prob
 
 
 ## News
-- (Oct 2026) Our project on reliable causal effect estimation from complex data has been selected for **Anthropic’s AI for Science program**. ✳︎
+- (Oct 2026) Our project on reliable causal effect estimation from complex data has been selected for **Anthropic’s AI for Science program**. <img src="/assets/claude-logo.png" alt="Claude" width="14" height="14" style="display:inline-block;vertical-align:-2px;" />
 - (Sep 2026) Our paper on uncertainty decomposition in conformal prediction has been accepted at **NeurIPS 2026**. Congratulations to Sangyeon, Minyoung, Jungsoo, and Sujeong!
 - (Sep 2026) Yesong and Yeahoon's paper on event-time regression discontinuity for biomedical data is accepted at the **American Journal of Epidemiology**! Joint work with Profs. Minjung Kho and Seunggeun Lee.
 - (Jun 2026) Seven papers accepted at **UAI 2026**, covering causal inference, discovery, decision-making, and representation learning. Wonderful effort by my students and collaborators — congratulations to all!
@@ -77,8 +77,8 @@ Please email me your resume and transcript if you are interested in solving prob
 
 Program Committee/Reviewed for 
 
-- 2027 AAAI <span style="font-size:16px;color:SteelBlue;">(_Senior Program Committee_)</span>, ICLR <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>
-- 2026 AAAI, AISTATS, ICML <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, UAI, CLeaR, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair, Workshop Proposal Reviewer_)</span>
+- 2027 AAAI <span style="font-size:16px;color:SteelBlue;">(_Senior Program Committee_)</span>, AISTATS, ICLR <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>
+- 2026 AAAI, AISTATS, ICML <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, UAI, CLeaR, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Top Area Chair, Workshop Proposal Reviewer_)</span>
 - 2025 AAAI, KDD <span style="font-size:16px;color:SteelBlue;">(_outstanding reviewer_)</span>, ICLR, AISTATS, CLeaR, ICML <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Top Area Chair_)</span>
 - 2024 NeurIPS <span style="font-size:16px;color:SteelBlue;">(_Area Chair_)</span>, CLeaR, ICML, UAI, JMLR (2x), ECAI, ARR (June), CI4TS at UAI
 
