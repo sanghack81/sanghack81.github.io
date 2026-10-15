@@ -189,7 +189,7 @@ Yoonseok Yeom\*, Jonghwan Kim\*, Taehui Yun, Juhyun Lyu, Jung-Hee Kim, Sangmin L
 UAI 2026<br>
 
 
-<span class="pub-tag tag-cml">CML</span> On Causal Representation Learning with Internal Auxiliaries \[[paper](/assets/2026-UAI-crl-internal-auxiliaries-paper.pdf), [poster](/assets/2026-UAI-crl-internal-auxiliaries-poster.pdf)\]<br>
+<span class="pub-tag tag-cml">CML</span> On Causal Representation Learning with Internal Auxiliaries \[[paper](/assets/2026-UAI-crl-internal-auxiliaries-paper.pdf), [poster](/assets/2026-UAI-crl-internal-auxiliaries-poster.pdf), <a href="/ai-corrected/CRL_internal_auxiliaries_AI_corrected_2026-10-15.pdf" title="Unofficial AI-corrected version · 2026-10-15 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-10-15; author review pending" style="font-size: 0.85em">✦</a>\]<br>
 Kwonho Kim, Heejeong Nam, Inwoo Hwang, **Sanghack Lee**\*<br>
 UAI 2026 <span style="font-size:16px;color:gray;">(previously, Scaling Up Intervention Models workshop at ICML 2025, Causal Abstractions and Representations workshop at UAI 2025)</span><br>
 
