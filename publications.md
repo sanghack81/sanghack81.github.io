@@ -266,7 +266,7 @@ NeurIPS 2024<br>
 
 <span class="pub-tag tag-cd">CD</span>
 <span class="pub-tag tag-dm">DM</span>
-<span class="pub-tag tag-cml">CML</span> Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning \[[paper](https://openreview.net/pdf?id=mrd4e8ZJjm), [poster](assets/2024-ICML-CRL-poster.pdf), <a href="/ai-corrected/FGCDL_AI_corrected_2026-09-20.pdf" title="Unofficial AI-corrected version · 2026-09-20 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-09-20; author review pending" style="font-size: 0.85em">✦</a>\] <br>
+<span class="pub-tag tag-cml">CML</span> Fine-Grained Causal Dynamics Learning with Quantization for Improving Robustness in Reinforcement Learning \[[paper](https://openreview.net/pdf?id=mrd4e8ZJjm), [poster](assets/2024-ICML-CRL-poster.pdf), <a href="/ai-corrected/FGCDL_AI_corrected_2026-10-25.pdf" title="Unofficial AI-corrected version · 2026-10-25 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-10-25; author review pending" style="font-size: 0.85em">✦</a>\] <br>
 Inwoo Hwang, Yunhyeok Kwak, Suhyung Choi, Byoung-Tak Zhang\*, **Sanghack Lee**\*<br>
 ICML 2024 <span style="font-size:16px;color:gray;">(previously, GenPlan workshop at NeurIPS 2023, SCIS workshop at ICML 2023)</span><br>
 
@@ -315,7 +315,7 @@ The Second Workshop on Spurious Correlations, Invariance and Stability at ICML 2
 
 
 <span class="pub-tag tag-cd">CD</span>
-<span class="pub-tag tag-cml">CML</span> On Discovery of Local Independence over Continuous Variables via Neural Contextual Decomposition [\[paper\]](https://openreview.net/forum?id=-aFd28Uy9td)<br>
+<span class="pub-tag tag-cml">CML</span> On Discovery of Local Independence over Continuous Variables via Neural Contextual Decomposition \[[paper](https://openreview.net/forum?id=-aFd28Uy9td), <a href="/ai-corrected/NCD_AI_corrected_2026-10-25.pdf" title="Unofficial AI-corrected version · 2026-10-25 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-10-25; author review pending" style="font-size: 0.85em">✦</a>\]<br>
 Inwoo Hwang, Yunhyeok Kwak, Yeon-Ji Song, Byoung-Tak Zhang\*, **Sanghack Lee**\*<br> 
 CLeaR 2023 <br>
 
