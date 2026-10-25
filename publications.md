@@ -232,7 +232,7 @@ NeurIPS 2025<br>
 
 
 <span class="pub-tag tag-dm">DM</span>
-Non-Stationary Structural Causal Bandits \[[paper](https://openreview.net/pdf?id=F4LhOqhxkk), [poster](/assets/2025-NeurIPS-nonstationary-scb-poster.pdf)\]<br>
+Non-Stationary Structural Causal Bandits \[[paper](https://openreview.net/pdf?id=F4LhOqhxkk), [poster](/assets/2025-NeurIPS-nonstationary-scb-poster.pdf), <a href="/ai-corrected/NS_SCB_AI_corrected_2026-10-25.pdf" title="Unofficial AI-corrected version · 2026-10-25 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-10-25; author review pending" style="font-size: 0.85em">✦</a>\]<br>
 Yeahoon Kwon,  Yesong Choe, Soungmin Park, Neil Dhir\*, **Sanghack Lee**\*<br>
 NeurIPS 2025<br>
 
