@@ -154,12 +154,12 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 
 <span class="pub-tag tag-ml">ML</span> Decomposing Conformal Uncertainty: Calibration- and Instance-Driven Feature Attribution<br>
 Sangyeon Cho, Minyoung Cho, Jungsoo Kim, Sujeong Oh, **Sanghack Lee**\*<br>
-NeurIPS 2026 <span style="font-size:16px;color:gray;">(to appear)</span><br>
+NeurIPS 2026 <span style="font-size:16px;color:gray;">(to appear)</span> <span style="font-size:16px;color:gray;">(previously, EIML workshop at ICML 2026 [\[poster\]](/assets/2026-ICML-EIML-two-uncertainties-poster.pdf))</span><br>
 
 
 <span class="pub-tag tag-id">ID</span> Event-Time Regression Discontinuity for Biomedical Data: LATT Estimation and Covariate Distribution Tests<br>
 Yesong Choe\*, Yeahoon Kwon\*, Minjung Kho, Seunggeun Lee, **Sanghack Lee**\*<br>
-American Journal of Epidemiology 2026 <span style="font-size:16px;color:gray;">(accepted)</span><br>
+American Journal of Epidemiology 2026<br>
 
 
 <span class="pub-tag tag-cd">CD</span> Don't Test What You Can Deduce: Causal Discovery with Logical Inference \[[paper (revised)](/assets/2026-UAI-dfpc-paper-2026-09-14.pdf), [code](https://github.com/snu-causality-lab/DF-PC), [poster](/assets/2026-UAI-dfpc-poster.pdf)\]<br>
@@ -214,12 +214,6 @@ AAAI 2026<br>
 A Structural View of Query Misspecification in Causal Foundation Models (SPIGM) [\[poster\]](/assets/2026-ICML-SPIGM-query-misspecification-poster.pdf)<br>
 Junha Ham, Deokgyu Kim, Doeun Kim, Serjin Kim, **Sanghack Lee**\*<br>
 ICML 2026 Workshops<br>
-
-
-<span class="pub-tag tag-ws">ws</span>
-<span class="pub-tag tag-ml">ML</span> A Tale of Two Uncertainties: Global–Local Attribution for Conformal Prediction [\[poster\]](/assets/2026-ICML-EIML-two-uncertainties-poster.pdf)<br>
-Sangyeon Cho, Minyoung Cho, Jungsoo Kim, Sujeong Oh, **Sanghack Lee**\*<br>
-ICML 2026 Workshop on Epistemic Intelligence in Machine Learning (EIML)<br>
 
 
 <div style="margin-top: 1.25em;"></div>
@@ -278,7 +272,7 @@ ICML 2024 <span style="font-size:16px;color:gray;">(previously, GenPlan workshop
 
 <span class="pub-tag tag-id">ID</span> On Positivity Condition for Causal Inference \[[paper](https://openreview.net/pdf?id=6D0nyemiWk), [poster](assets/2024-ICML-positivity-poster.pdf), <a href="/ai-corrected/positivity_AI_corrected_2026-09-20.pdf" title="Unofficial AI-corrected version · 2026-09-20 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-09-20; author review pending" style="font-size: 0.85em">✦</a>\]<br>
 Inwoo Hwang\*, Yesong Choe\*, Yeahoon Kwon,  **Sanghack Lee**\*<br>
-ICML 2024 <span style="font-size:16px;color:gray;">(+ Causality workshop at UAI 2024)</span><br>
+ICML 2024 <span style="font-size:16px;color:gray;">(previously, Causality workshop at UAI 2024)</span><br>
 
 
 <span class="pub-tag tag-cd">CD</span>
