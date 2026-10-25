@@ -260,7 +260,7 @@ Transactions on Machine Learning 2024<br>
 
 
 
-<span class="pub-tag tag-id">ID</span> Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference \[[paper](https://openreview.net/forum?id=6gIcnPvw2x&referrer=%5Bthe%20profile%20of%20Yonghan%20Jung%5D(%2Fprofile%3Fid%3D~Yonghan_Jung1)), [poster](/assets/2024-NeurIPS-sequential-adjustment-poster.pdf)\]<br> 
+<span class="pub-tag tag-id">ID</span> Complete Graphical Criterion for Sequential Covariate Adjustment in Causal Inference \[[paper](https://openreview.net/forum?id=6gIcnPvw2x&referrer=%5Bthe%20profile%20of%20Yonghan%20Jung%5D(%2Fprofile%3Fid%3D~Yonghan_Jung1)), [poster](/assets/2024-NeurIPS-sequential-adjustment-poster.pdf), <a href="/ai-corrected/SAC_AI_corrected_2026-10-25.pdf" title="Unofficial AI-corrected version · 2026-10-25 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-10-25; author review pending" style="font-size: 0.85em">✦</a>\]<br> 
 Yonghan Jung, Min Woo Park, **Sanghack Lee**\*<br> 
 NeurIPS 2024<br> 
 
