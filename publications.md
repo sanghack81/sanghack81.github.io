@@ -345,7 +345,7 @@ Causal Representation Learning Workshop at NeurIPS 2023<br>
 <span class="pub-tag tag-id">ID</span> Nested Counterfactual Identification from Arbitrary Surrogate Experiments [\[paper\]](https://arxiv.org/abs/2107.03190)<br> Juan D. Correa, **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2021<br>
 
 
-<span class="pub-tag tag-id">ID</span> Causal Identification with Matrix Equations [\[paper\]](https://causalai.net/r70.pdf)<br> **Sanghack Lee** and Elias Bareinboim<br>
+<span class="pub-tag tag-id">ID</span> Causal Identification with Matrix Equations [\[paper, <a href="/ai-corrected/matrix_equations_AI_corrected_2026-10-25.pdf" title="Unofficial AI-corrected version · 2026-10-25 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-10-25; author review pending" style="font-size: 0.85em">✦</a>\]](https://causalai.net/r70.pdf)<br> **Sanghack Lee** and Elias Bareinboim<br>
 NeurIPS 2021, <font color="#e41a1c">Oral</font><br> 
 
 
