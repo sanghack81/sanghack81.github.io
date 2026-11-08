@@ -43,21 +43,20 @@ permalink: /members/
 - [Juyong Sung](https://www.linkedin.com/in/juyong-sung-9a60b0226/) <span style="font-size:16px;color:gray;">(on leave — internship)</span>
 - Woonggi Yoon
 - <span style="color:gray;">Kangsan Kim</span> <span style="font-size:16px;color:gray;">(on leave)</span>
+- DoEun Kim (Spring 2027~)
+- Sunghyun Yoo (Spring 2027~)
+- Daewon Kim (Spring 2027~)
 
 ### Undergraduate Researchers
 - Junha Ham (SNU, Summer 2025~)
 - Deokgyu Kim (SNU, Summer 2025~)
-- DoEun Kim (Sogang Univ., Summer 2025~)
-- Sunghyun Yoo (SNU, Winter 2026~)
-- Daewon Kim (Sogang Univ., Winter 2026~)
 - Soobin Kim (U Toronto, Summer 2026~)
-- Jiho Kwak (SNU, Summer 2026~)
 - Jusang Yu (SNU, Summer 2026~)
 - Seojin Kim (SNU, Summer 2026~)
 
 ### Alumni
 
-- Jonghwan Kim (→ NYU Ph.D. program), <span style="font-size:16px;color:gray;">robust and efficient causal discovery</span>
+- Jonghwan Kim (master 2024, NYU Ph.D. program)
 - Min Young Cho (master 2026, <em>LG Energy Solution</em>)
 - Sujeong Oh (master 2026, <em>HEIMDEX</em>)
 - Daehui Park (master 2026, <em>CJ ENM</em>)
@@ -79,7 +78,7 @@ permalink: /members/
 - Dahhee Yim (master 2024, <em>Doosan Enerbility</em>)
 - Jeong Ha Moon (master 2024, <em>Coupang</em>)
 - Jeongsup Park (master 2024, <em>gowid</em>)
-- [Dong Kyu Cho](https://sites.google.com/view/dongkyu-cho/home) (master 2023, &rarr; NYU Ph.D. )
+- [Dong Kyu Cho](https://sites.google.com/view/dongkyu-cho/home) (master 2023, NYU Ph.D. program)
 - Chaeyoung Chung (master 2023, <em>undisclosed</em>)
 - Jewon Kang (master 2023, <em>KDB</em>)
 
@@ -90,6 +89,7 @@ permalink: /members/
 
 - [Soheun Yi](https://soheunyi.github.io) (2022--23, CMU Ph.D.)
 - Serjin Kim (SNU, Summer 2025--Summer 2026, → MIT Master of Finance)
+- Jiho Kwak (SNU, Summer 2026)
 - Jiwon Bae (2025, Columbia master)
 - Seungju Lee (SNU, Winter 2026)
 - Geo Moon (SNU, Winter 2026)
