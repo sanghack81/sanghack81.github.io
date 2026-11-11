@@ -132,6 +132,10 @@ document.addEventListener("DOMContentLoaded", function() {
 
 ### Preprints
 
+<span class="pub-tag tag-tr">TR</span>
+<span class="pub-tag tag-dm">DM</span> Generalizing Causal Decision-Making: Markov Equivalence, Transportability and Counterfactuals [\[arXiv\]](https://arxiv.org/abs/2611.14066)<br>
+Min Woo Park, **Sanghack Lee**<br>
+
 <span class="pub-tag tag-dm">DM</span>
  An Introduction to Causal Reinforcement Learning [\[preprint\]](https://causalai.net/r65.pdf)<br>
 Elias Bareinboim, Junzhe Zhang, **Sanghack Lee**<br>
