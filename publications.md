@@ -378,7 +378,7 @@ NeurIPS 2021, <font color="#e41a1c">Oral</font><br>
 
 
 
-<span class="pub-tag tag-dm">DM</span>  Structural Causal Bandits: Where to Intervene? \[[paper](https://causalai.net/r36.pdf), [code](https://github.com/sanghack81/SCMMAB-NIPS2018), [poster](/assets/nips2018-poster.pdf), <a href="/ai-corrected/SCB2018_AI_corrected_2026-09-19.pdf" title="Unofficial AI-corrected version · 2026-09-19 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-09-19; author review pending" style="font-size: 0.85em">✦</a>\]<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2018<br>
+<span class="pub-tag tag-dm">DM</span>  Structural Causal Bandits: Where to Intervene? \[[paper](https://causalai.net/r36.pdf), [code](https://github.com/sanghack81/SCMMAB-NIPS2018), [poster](/assets/nips2018-poster.pdf), <a href="/ai-corrected/SCB2018_AI_corrected_2026-11-23.pdf" title="Unofficial AI-corrected version · 2026-11-23 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-11-23; author review pending" style="font-size: 0.85em">✦</a>\]<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2018<br>
 
 
 <span class="pub-tag tag-cd">CD</span> <span class="pub-tag tag-cit">CIT</span> <span class="pub-tag tag-rel">REL</span> A Kernel Conditional Independence Test for Relational Data \[[code](https://github.com/sanghack81/KRCIT), [paper](/assets/krcit.pdf)\]<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2017<br> 
