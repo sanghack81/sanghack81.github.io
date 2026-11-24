@@ -8,6 +8,7 @@ permalink: /publications/
   <strong>Science advances through correction.</strong>
   I use AI-assisted review to revisit my published work and share proposed corrections as they become available.
   Links marked ✦ lead to unofficial AI-corrected versions, with changes and their review status documented.
+  The Lean wordmark links to formalizations of selected results and examples.
 </p>
 
 ## Research Overview
@@ -378,7 +379,7 @@ NeurIPS 2021, <font color="#e41a1c">Oral</font><br>
 
 
 
-<span class="pub-tag tag-dm">DM</span>  Structural Causal Bandits: Where to Intervene? \[[paper](https://causalai.net/r36.pdf), [code](https://github.com/sanghack81/SCMMAB-NIPS2018), [poster](/assets/nips2018-poster.pdf), <a href="/ai-corrected/SCB2018_AI_corrected_2026-11-23.pdf" title="Unofficial AI-corrected version · 2026-11-23 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-11-23; author review pending" style="font-size: 0.85em">✦</a>\]<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2018<br>
+<span class="pub-tag tag-dm">DM</span>  Structural Causal Bandits: Where to Intervene? \[[paper](https://causalai.net/r36.pdf), [code](https://github.com/sanghack81/SCMMAB-NIPS2018), [poster](/assets/nips2018-poster.pdf), <a href="/ai-corrected/SCB2018_AI_corrected_2026-11-23.pdf" title="Unofficial AI-corrected version · 2026-11-23 · Author review pending" aria-label="Unofficial AI-corrected version, 2026-11-23; author review pending" style="font-size: 0.85em">✦</a>, <a href="https://github.com/sanghack81/SCMMAB-NIPS2018/blob/49b6c9f285135afafe533913c07c25f8e4db54bc/lean/README.md" aria-label="Lean proofs for selected results from Structural Causal Bandits: Where to Intervene?" title="Lean proofs and verification scope"><img src="/assets/lean-logo-official.svg" alt="" height="16" style="vertical-align: baseline" /></a>\]<br> **Sanghack Lee** and Elias Bareinboim<br> NeurIPS 2018<br>
 
 
 <span class="pub-tag tag-cd">CD</span> <span class="pub-tag tag-cit">CIT</span> <span class="pub-tag tag-rel">REL</span> A Kernel Conditional Independence Test for Relational Data \[[code](https://github.com/sanghack81/KRCIT), [paper](/assets/krcit.pdf)\]<br> **Sanghack Lee** and Vasant Honavar<br> UAI 2017<br> 
