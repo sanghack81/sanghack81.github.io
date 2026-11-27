@@ -158,7 +158,7 @@ Chanhui Lee, Juhyeon Kim, Yongjun Jeong, Juhyun Lyu, Junghee Kim, Sangmin Lee, S
 <div style="margin-top: 1.25em;"></div>
 #### 2026
 
-<span class="pub-tag tag-ml">ML</span> Decomposing Conformal Uncertainty: Calibration- and Instance-Driven Feature Attribution<br>
+<span class="pub-tag tag-ml">ML</span> Decomposing Conformal Uncertainty: Calibration- and Instance-Driven Feature Attribution \[<a href="https://github.com/snu-causality-lab/open-causal-science/blob/b7a68c2528397e69b8c7d40ab5a42609b28f908f/docs/papers/cho-et-al-2026-conformal-shapley.md#two-game-decomposition" aria-label="Lean proofs for selected Conformal Uncertainty results" title="Lean proofs of Theorem 1 and finite attribution identities"><img src="/assets/lean-logo-official.svg" alt="" height="12" style="vertical-align: baseline" /></a>\]<br>
 Sangyeon Cho, Minyoung Cho, Jungsoo Kim, Sujeong Oh, **Sanghack Lee**\*<br>
 NeurIPS 2026 <span style="font-size:16px;color:gray;">(to appear)</span> <span style="font-size:16px;color:gray;">(previously, EIML workshop at ICML 2026 [\[poster\]](/assets/2026-ICML-EIML-two-uncertainties-poster.pdf))</span><br>
 
@@ -173,7 +173,7 @@ Jonghwan Kim, **Sanghack Lee**\*<br>
 UAI 2026, <font color="#e41a1c">Oral</font><br>
 
 
-<span class="pub-tag tag-id">ID</span> Canonical Domain Reduction for Partial Counterfactual Identification \[[paper](/assets/2026-UAI-canonical-domain-reduction-paper.pdf), [poster](/assets/2026-UAI-canonical-domain-reduction-poster.pdf)\]<br>
+<span class="pub-tag tag-id">ID</span> Canonical Domain Reduction for Partial Counterfactual Identification \[[paper](/assets/2026-UAI-canonical-domain-reduction-paper.pdf), [poster](/assets/2026-UAI-canonical-domain-reduction-poster.pdf), <a href="https://github.com/snu-causality-lab/open-causal-science/blob/b7a68c2528397e69b8c7d40ab5a42609b28f908f/docs/papers/choe-kwon-park-lee-2026-canonical-domain-reduction.md#proposition-31--constraint-aware-reduction-preserves-sharp-bounds" aria-label="Lean proof of Proposition 3.1 for Canonical Domain Reduction" title="Lean proof of Proposition 3.1 on sharp bounds"><img src="/assets/lean-logo-official.svg" alt="" height="12" style="vertical-align: baseline" /></a>\]<br>
 Yesong Choe, Yeahoon Kwon\*, Min Woo Park\*, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
@@ -185,7 +185,7 @@ UAI 2026<br>
 
 
 <span class="pub-tag tag-tr">TR</span>
-<span class="pub-tag tag-dm">DM</span> On Transportability for Structural Causal Bandits \[[paper](/assets/2026-UAI-scb-transportability-paper.pdf), [poster](/assets/2026-UAI-scb-transportability-poster.pdf)\]<br>
+<span class="pub-tag tag-dm">DM</span> On Transportability for Structural Causal Bandits \[[paper](/assets/2026-UAI-scb-transportability-paper.pdf), [poster](/assets/2026-UAI-scb-transportability-poster.pdf), <a href="https://github.com/snu-causality-lab/open-causal-science/blob/b7a68c2528397e69b8c7d40ab5a42609b28f908f/docs/papers/park-lee-2026-scb-transportability.md#partial-transportability-bounds" aria-label="Lean proofs for selected results in On Transportability for Structural Causal Bandits" title="Lean proofs of partial transport bounds and projected POMIS minimality"><img src="/assets/lean-logo-official.svg" alt="" height="12" style="vertical-align: baseline" /></a>\]<br>
 Min Woo Park, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
@@ -200,7 +200,7 @@ Kwonho Kim, Heejeong Nam, Inwoo Hwang, **Sanghack Lee**\*<br>
 UAI 2026 <span style="font-size:16px;color:gray;">(previously, Scaling Up Intervention Models workshop at ICML 2025, Causal Abstractions and Representations workshop at UAI 2025)</span><br>
 
 
-<span class="pub-tag tag-cd">CD</span> Breaking Bad: Component-Wise Parent Deletion for Score-Based Causal Discovery \[[paper](/assets/2026-UAI-breaking-bad-paper.pdf), [poster](/assets/2026-UAI-breaking-bad-poster.pdf)\]<br>
+<span class="pub-tag tag-cd">CD</span> Breaking Bad: Component-Wise Parent Deletion for Score-Based Causal Discovery \[[paper](/assets/2026-UAI-breaking-bad-paper.pdf), [poster](/assets/2026-UAI-breaking-bad-poster.pdf), <a href="https://github.com/snu-causality-lab/open-causal-science/blob/b7a68c2528397e69b8c7d40ab5a42609b28f908f/docs/papers/park-et-al-2026-component-parent-deletion.md#theorem-2--component-wise-parent-deletion" aria-label="Lean proof of Theorem 2 for Breaking Bad" title="Lean proof of component-wise parent deletion validity"><img src="/assets/lean-logo-official.svg" alt="" height="12" style="vertical-align: baseline" /></a>\]<br>
 Min Woo Park\*, Taehui Yun\*, YoungIn Jang, Yoonseok Yeom, Jonghwan Kim, Jiyeon Kang, Songseong Kim, Hyemin Jung, Sangmin Lee, Jongseong Jang\*, **Sanghack Lee**\*<br>
 UAI 2026<br>
 
