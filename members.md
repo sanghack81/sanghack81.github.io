@@ -29,30 +29,29 @@ permalink: /members/
 - [Yesong Choe](https://lovelyesong.github.io), <span style="font-size:14px;color:#7c3aed;">✦ ’25</span>, <span style="font-size:16px;color:gray;">efficient causal inference</span>
 - [Yeahoon Kwon](https://yeahoon-k.github.io), <span style="font-size:16px;color:gray;">causal imitation learning</span>
 - [Min Woo Park](https://minwoopark96.github.io), <span style="font-size:14px;color:#7c3aed;">✦ ’26</span>, <span style="font-size:16px;color:gray;">causal decision making</span>
-- [Yeo Dong Youn](https://yeodongyoun1995.github.io), <span style="font-size:16px;color:gray;">causal NLP, causal ML</span>
-- Byeonghui Lim, <span style="font-size:16px;color:gray;">causal decision making</span>
-- [Jung Soo Kim](https://mephistonovel.github.io), <span style="font-size:16px;color:gray;">representation learning for instrumental variables</span>
+- [Yeo Dong Youn](https://yeodongyoun1995.github.io), <span style="font-size:16px;color:gray;">robust counterfactual inference and evidence acquisition for causal identification</span>
+- Byeonghui Lim, <span style="font-size:16px;color:gray;">practical causal discovery</span>
+- [Jung Soo Kim](https://mephistonovel.github.io), <span style="font-size:16px;color:gray;">representation learning and variable selection for causal effect estimation</span>
 - [Taehui Yun](https://tei-yun.github.io/), <span style="font-size:16px;color:gray;">causal deep generative model, causal inference with time-series</span>
-- [Sangyeon Cho](https://www.linkedin.com/in/sangyeon-cho-5570682a3/),  <span style="font-size:16px;color:gray;">causal data science for economic analysis</span>
+- [Sangyeon Cho](https://csymhph.github.io/), <span style="font-size:16px;color:gray;">uncertainty quantification and sensitivity analysis for causal inference</span>
 
 ### Master students
-- [Bogeun Kim](https://bogeun.pages.dev), <span style="font-size:16px;color:gray;">domain generalization with causality</span>
-- Youngin Jang
-- Hyunwoo Kim
-- Gyeongchan Han
+- [Bogeun Kim](https://bogeun.pages.dev), <span style="font-size:16px;color:gray;">adaptive experiments</span>
+- Youngin Jang, <span style="font-size:16px;color:gray;">scalable causal discovery</span>
+- Hyunwoo Kim, <span style="font-size:16px;color:gray;">robust causal effect estimation (off-policy evaluation and sensitivity analysis)</span>
+- Gyeongchan Han, <span style="font-size:16px;color:gray;">adaptive experiments</span>
 - [Juyong Sung](https://www.linkedin.com/in/juyong-sung-9a60b0226/) <span style="font-size:16px;color:gray;">(on leave — internship)</span>
-- Woonggi Yoon
-- <span style="color:gray;">Kangsan Kim</span> <span style="font-size:16px;color:gray;">(on leave)</span>
-- DoEun Kim (Spring 2027~)
-- Sunghyun Yoo (Spring 2027~)
+- Woonggi Yoon, <span style="font-size:16px;color:gray;">causal decision making</span>
+- DoEun Kim (Spring 2027~), <span style="font-size:16px;color:gray;">causal foundation models</span>
+- Sunghyun Yoo (Spring 2027~), <span style="font-size:16px;color:gray;">causal effect estimation under incomplete information</span>
 - Daewon Kim (Spring 2027~)
 
 ### Undergraduate Researchers
-- Junha Ham (SNU, Summer 2025~)
-- Deokgyu Kim (SNU, Summer 2025~)
-- Soobin Kim (U Toronto, Summer 2026~)
-- Jusang Yu (SNU, Summer 2026~)
-- Seojin Kim (SNU, Summer 2026~)
+- Junha Ham (SNU, Summer 2025~), <span style="font-size:16px;color:gray;">causal foundation models</span>
+- Deokgyu Kim (SNU, Summer 2025~), <span style="font-size:16px;color:gray;">causal foundation models</span>
+- Soobin Kim (U Toronto, Summer 2026~), <span style="font-size:16px;color:gray;">practical causal discovery</span>
+- Jusang Yu (SNU, Summer 2026~), <span style="font-size:16px;color:gray;">practical causal discovery</span>
+- Seojin Kim (SNU, Summer 2026~), <span style="font-size:16px;color:gray;">practical causal discovery</span>
 
 ### Alumni
 

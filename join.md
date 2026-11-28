@@ -4,47 +4,53 @@ title: Join
 permalink: /join/
 ---
 
-## Joining <img src="/assets/logo_2023.png" height="24" style="vertical-align: baseline"/> Causality Lab
+## Joining <img src="/assets/logo_2023.png" alt="" height="24" style="vertical-align: baseline"/> Causality Lab
 
-You do not need prior experience in causal inference to join us. If you enjoy probability, statistics, graphs, optimization, or machine learning—and want to understand not just what data predicts, but why it does so and what an intervention would change—you may find our research interesting.
+We welcome students who are new to causal inference. If you enjoy probability, statistics, graphs, optimization, or machine learning and are curious about why outcomes occur and how interventions might change them, we would like to hear from you.
 
-We welcome students from mathematics, statistics, computer science, economics, and related fields. What matters most is curiosity, solid fundamentals, and a willingness to learn.
+Students from sociology, economics, mathematics, statistics, computer science, and other fields are encouraged to apply.
+
+We value **sound judgment and a collaborative approach**. We look for careful reading, clear writing, relevant domain knowledge, and logical reasoning. We expect students to question answers that seem obvious and consider what the evidence supports and where it falls short, including when they use AI tools.
+
+In team research, we expect students to treat one another with respect, listen to different perspectives, and share progress and difficulties with their teammates promptly.
 
 <p style="margin-bottom:8mm;"></p>
 
 
 ### Research Internship (one semester or longer)
 
-Our internships are project-based. Each intern joins an ongoing research project and works closely with a graduate student, with opportunities to:
+Interns work with a graduate student on an ongoing research project.
 
 - Learn the foundations of causal inference, causal discovery, or causal decision-making.
-- Attend our weekly lab meetings and reading groups.
-- Develop ideas, run experiments, and present progress regularly.
-- Contribute to a publication when the work leads to a substantial result.
+- Attend weekly lab meetings and reading groups.
+- Develop ideas, run experiments, and present your progress regularly.
+- Contribute to a paper when the work leads to a substantial result.
 
-Research takes time to learn and contribute to meaningfully, so we ask interns to commit for **at least one full semester**. Internship experience is not required for admission to our graduate program, although successful interns may receive priority consideration.
+Before applying, explore [our lab members and their research interests](/members/). Our [workshop poster on causal foundation models](/assets/2026-ICML-SPIGM-query-misspecification-poster.pdf) is one example of work with contributions from undergraduate researchers.
 
-**Who should apply:**
+To give you time to learn and contribute, we ask for a commitment of **at least one semester**. You can apply to our graduate programs without an internship. We may give priority consideration to students who have done strong work as interns.
 
-We look for self-motivated students with solid foundations in probability and statistics, proficiency in Python, and clear communication skills. Prior research experience is helpful but not required.
+Students who are new to research are welcome to apply.
 
-**How to apply:**
+**How to apply**
 
-Please email Prof. Sanghack Lee with your **CV** and **transcript**. We review applications throughout the year, primarily for internships beginning in **mid-June** or **mid-December**. Please apply well before your intended start date.
+Email Prof. Sanghack Lee ([{{ site.email }}](mailto:{{ site.email }})) with your **CV** and **transcript**. We review applications year-round, and internships usually begin in **mid-June** or **mid-December**. Apply **at least one to two months before** your preferred start date. For a summer internship, we recommend applying by April.
 
 
 <p style="margin-bottom:12mm;"></p>
 
 
-### Graduate Program (M.S. / M.S.–Ph.D. / Ph.D.)
+### Graduate Study (M.S. / Integrated M.S.–Ph.D. / Ph.D.)
 
-We are recruiting graduate students through Seoul National University's **Graduate School of AI (GSAI), Department of Artificial Intelligence**, starting with the **fall 2026 application round for spring 2027 entry**.
+Beginning with **spring 2027 entry**, we recruit graduate students through the **Department of Artificial Intelligence** at Seoul National University’s **Graduate School of AI**.
 
-Our lab is currently based in the Graduate School of Data Science (GSDS) and will move to GSAI in spring 2027.
+The lab is currently based in the Graduate School of Data Science and is scheduled to move to the Graduate School of AI in spring 2027.
 
-If you are interested, please email Prof. Lee with your **CV**, **transcript**, and a **brief statement of research interests**. We expect strong mathematical foundations and programming skills; prior research experience is required for Ph.D. applicants.
+You can apply to the M.S. and integrated M.S.–Ph.D. programs without prior research experience. Ph.D. applicants need research experience. We look closely at your own role and contributions in that work.
 
-For degree-specific requirements, application documents, and deadlines, please see the [GSAI admissions guide](https://snuai.snu.ac.kr/en/%EC%9E%85%ED%95%99/).
+Email Prof. Sanghack Lee ([{{ site.email }}](mailto:{{ site.email }})) with your **CV**, **transcript**, and a **brief description of your research interests**. Please get in touch before the official application deadline, ideally **at least one semester in advance**.
+
+See the [Graduate School of AI admissions guide](https://snuai.snu.ac.kr/en/%EC%9E%85%ED%95%99/) for eligibility, required documents, and deadlines for each degree program.
 
 
 <p style="margin-bottom:12mm;"></p>
@@ -53,40 +59,31 @@ For degree-specific requirements, application documents, and deadlines, please s
 ### Frequently Asked Questions
 
 <details style="margin-bottom:1.2em;">
-<summary>Do I need prior knowledge of causal inference to apply?</summary>
+<summary>Can I apply if I am new to causal inference?</summary>
 <div style="margin-top:4mm; margin-left:1.5em;">
-No. We encourage applicants who are new to causality but have strong foundations in mathematics, statistics, or machine learning. Before applying, we recommend reading about our recent work and identifying a question or topic that interests you.
+Yes. Take a look at our <a href="/research/">research topics</a> and identify a question you would like to explore.
 </div>
 </details>
 
 <details style="margin-bottom:1.2em;">
-<summary>Are there specific attendance or work-hour requirements?</summary>
+<summary>How do lab members manage their schedules?</summary>
 <div style="margin-top:4mm; margin-left:1.5em;">
-We operate under a principle of <strong>responsible autonomy</strong>. There are no strict clock-in or clock-out rules. We trust members to manage their time while participating reliably in their project and the lab's academic activities.
+We practice <strong>responsible autonomy</strong>. Lab members set their own schedules and are expected to participate reliably in their projects and the lab’s academic activities.
 </div>
 </details>
 
 <details style="margin-bottom:1.2em;">
-<summary>Is financial compensation provided for interns?</summary>
+<summary>Are internships paid?</summary>
 <div style="margin-top:4mm; margin-left:1.5em;">
-Internships are typically unpaid. In some cases, partial support may be available depending on the project and funding.
+Internships are generally unpaid. Partial support may be available depending on the project and its funding.
 </div>
 </details>
 
 <details style="margin-bottom:1.2em;">
 <summary>Can I intern here if I plan to attend graduate school elsewhere?</summary>
 <div style="margin-top:4mm; margin-left:1.5em;">
-Our internship is primarily intended for students considering graduate study in our lab. Because our mentoring capacity is limited, we generally cannot offer positions to students who already plan to attend another institution. If your plans later change, please understand that we may not be able to provide a recommendation for applications elsewhere.
-</div>
-</details>
-
-<details style="margin-bottom:1.2em;">
-<summary>When should I reach out?</summary>
-<div style="margin-top:4mm; margin-left:1.5em;">
-<ul>
-<li><strong>For internships:</strong> Apply at least <strong>1–2 months before</strong> your preferred start date (for example, by April for a summer start).</li>
-<li><strong>For graduate admission:</strong> Contact Prof. Lee before the official GSAI application deadline, preferably at least <strong>one semester in advance</strong>.</li>
-</ul>
+Our internships are primarily for students considering graduate study in the Causality Lab. With limited mentoring capacity, we can rarely accommodate students who plan to attend another institution. We consider exceptions for students who have taken a course with Prof. Lee.
+<p>If your plans change after you join, we may have limited ability to provide a letter of recommendation for applications elsewhere.</p>
 </div>
 </details>
 
@@ -95,5 +92,5 @@ Our internship is primarily intended for students considering graduate study in 
 
 
 <p style="font-size:14px; color:gray;">
-Last updated: September 2026
+Last updated November 2026
 </p>
